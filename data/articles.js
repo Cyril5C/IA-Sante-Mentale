@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-11",
+      "summary": "La journée est marquée par la multiplication des initiatives visant à mieux encadrer les usages de l'IA en santé mentale : OpenAI déploie une fonction d'alerte de proches en cas de détresse détectée dans ChatGPT, tandis que la National Academy of Medicine et NAMI travaillent à des référentiels d'évaluation indépendants des chatbots. Plusieurs études soulignent en parallèle les limites de ces outils, qu'il s'agisse de leur caractère perçu comme « jugeant » lors de dépistages ou de l'écart persistant entre leur adoption massive et leur validation clinique encore très partielle. En France, la recherche académique se structure également, avec une journée d'étude annoncée à la Sorbonne sur l'IA et l'analyse multimodale en santé mentale.",
+      "items": [
+        {
+          "title": "Helping people when they need it most",
+          "url": "https://openai.com/index/helping-people-when-they-need-it-most/",
+          "source": "OpenAI",
+          "summary": "OpenAI annonce une nouvelle fonctionnalité « Trusted Contact » permettant aux utilisateurs adultes de ChatGPT de désigner un proche qui pourra être averti si l'IA détecte des signes de crise psychologique. L'entreprise renforce aussi la détection des risques sur l'ensemble d'une conversation grâce à un modèle de sécurité dédié, dans le cadre d'un effort plus large pour mieux gérer les échanges sensibles liés à la santé mentale."
+        },
+        {
+          "title": "Verdict on Chatbots in Mental Health Screenings? Too Judgmental",
+          "url": "https://news.utdallas.edu/health-medicine/study-chatbots-in-mental-health-study-2026/",
+          "source": "UT Dallas News Center",
+          "summary": "Une étude publiée dans MIS Quarterly montre que les utilisateurs perçoivent les chatbots IA comme plus « jugeants » que des professionnels humains lors d'entretiens de dépistage en santé mentale, alors même que les échanges étaient strictement identiques. Ce sentiment de jugement pourrait dissuader les personnes en difficulté de se confier ou de suivre les recommandations, un frein potentiel important pour le déploiement de ces outils en prévention."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine",
+          "summary": "La National Academy of Medicine publie une synthèse sur les bénéfices et les risques des chatbots IA en santé mentale, rappelant que ces outils n'ont pas été conçus pour soigner mais sont massivement utilisés à cette fin. Le rapport met en avant le travail engagé avec NAMI pour créer des référentiels d'évaluation indépendants des réponses des IA aux questions de santé mentale, destinés à guider patients et professionnels."
+        },
+        {
+          "title": "AI chatbots are becoming mental health tools before they are ready",
+          "url": "https://fortune.com/2026/05/12/chatbots-are-becoming-mental-health-tools-before-they-are-ready/",
+          "source": "Fortune",
+          "summary": "Fortune dresse un état des lieux de l'écart grandissant entre l'adoption massive des chatbots IA pour le soutien psychologique et le manque de validation clinique de ces outils. L'article pointe le rôle des entreprises technologiques qui, faute de cadre réglementaire clair, occupent de fait une fonction de premier recours en santé mentale pour des millions d'utilisateurs."
+        },
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC",
+          "summary": "Revenant sur l'étude RAND/JAMA Pediatrics sur l'usage des chatbots IA par les jeunes, l'AJMC met en avant des disparités selon le genre, l'âge et l'origine : les filles, les jeunes adultes et les jeunes Noirs américains sont surreprésentés parmi les utilisateurs réguliers. Ces écarts interrogent sur l'accès inégal aux soins traditionnels et le rôle de l'IA comme palliatif face à ces inégalités."
+        },
+        {
+          "title": "Journée d'étude : IA et analyse multimodale pour la santé mentale (15 juin 2026)",
+          "url": "https://obtic.sorbonne-universite.fr/actualite/journee-ia-sante-mentale-15-juin-2026/",
+          "source": "ObTIC - Sorbonne Université",
+          "summary": "La Sorbonne Université organise le 15 juin 2026 une journée d'étude consacrée à l'usage de l'IA et de l'analyse multimodale (voix, texte, expressions faciales, silences) pour l'évaluation et le suivi des troubles psychiatriques et neurologiques. L'événement réunira des chercheurs présentant leurs travaux sur l'identification de marqueurs cliniques à partir de données d'entretiens, illustrant la dynamique de la recherche académique française sur ce sujet."
+        }
+      ]
+    },
+    {
       "date": "2026-06-10",
       "summary": "Une nouvelle étude de référence menée par RAND montre une explosion de l'usage des chatbots IA par les jeunes Américains pour des conseils en santé mentale, avec une majorité qui le cache à leur entourage. En parallèle, plusieurs sondages internationaux confirment une adoption massive et rapide de l'IA pour le bien-être psychologique, tandis que les voix d'alerte se multiplient sur l'absence de cadre réglementaire et les risques pour les profils vulnérables. En France, des initiatives cliniques associant IA et professionnels de santé continuent de se développer pour réduire les délais de prise en charge en psychiatrie.",
       "items": [
