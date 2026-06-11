@@ -20,10 +20,24 @@ Chaque matin, il faut :
 2. Faire une recherche web (WebSearch) sur l'actualité récente (dernières 24-48h)
    autour de "IA et santé mentale" : nouveaux outils/chatbots thérapeutiques,
    études scientifiques, régulation, controverses, usages cliniques, santé
-   mentale des ados et IA, etc. Chercher en français ET en anglais.
+   mentale des ados et IA, etc.
+   - Effectuer **plusieurs requêtes distinctes**, à la fois en français et en
+     anglais, pour couvrir la presse française ET la presse internationale.
+     Exemples de requêtes : "IA santé mentale actualité", "intelligence
+     artificielle psychiatrie France", "AI mental health news", "AI chatbot
+     therapy regulation".
+   - Viser explicitement des résultats issus de médias français (ex : Le
+     Monde, Le Figaro, Libération, France Info, Les Echos, Le Quotidien du
+     Médecin, La Croix, etc.) ET de médias internationaux (ex : NYT, NBC,
+     The Guardian, BBC, NPR, TechCrunch, STAT News, Reuters, Stanford HAI,
+     etc.). Ne pas se limiter à une seule zone géographique : chercher un
+     équilibre entre actualité française et internationale dans la sélection
+     finale.
 3. Sélectionner 4 à 8 articles pertinents et de qualité (sources fiables :
    presse généraliste, presse spécialisée tech/santé, revues scientifiques,
-   communiqués officiels). Éviter les doublons et le contenu publicitaire.
+   communiqués officiels), en veillant à inclure si possible au moins un
+   ou deux articles issus de la presse française. Éviter les doublons et le
+   contenu publicitaire.
 4. Pour chaque article, rédiger un résumé court (2-3 phrases, en français)
    expliquant l'info et son intérêt pour la veille.
 5. Rédiger un résumé global de la journée (2-4 phrases) qui synthétise les
@@ -51,5 +65,7 @@ Chaque matin, il faut :
 8. Si aucun article pertinent n'est trouvé, ajouter quand même une entrée du
    jour avec `items: []` et un `summary` indiquant qu'il n'y a rien de notable.
 
-Ne pas faire de commit git (le projet n'est pas un dépôt git). Ne pas modifier
-les autres fichiers du projet sauf si une correction de bug évidente est nécessaire.
+Une fois `data/articles.js` mis à jour, commit les changements (message du
+type "Veille du AAAA-MM-JJ") et push sur la branche `main`. Ne pas modifier
+les autres fichiers du projet sauf si une correction de bug évidente est
+nécessaire.
