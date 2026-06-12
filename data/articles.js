@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-12",
+      "summary": "La parole des jeunes occupe le devant de la scène : une enquête européenne portée par la Cnil et le groupe VYV montre qu'une large majorité d'adolescents français se confient à l'IA conversationnelle sur des sujets intimes, parfois en lieu et place d'un suivi psychologique. Le rapport mondial AXA Mind Health confirme cette tendance à l'échelle internationale, avec une santé mentale en berne et un recours massif mais ambivalent à l'IA. Côté régulation, la justice américaine continue de s'attaquer aux dérives des chatbots se présentant comme des professionnels de santé, tandis que de nouveaux outils cliniques (prescription assistée par IA, documentation pour thérapeutes) poursuivent leur déploiement.",
+      "items": [
+        {
+          "title": "Une enquête alerte sur les risques de l'intelligence artificielle conversationnelle sur la santé mentale des jeunes",
+          "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html",
+          "source": "France Info",
+          "summary": "Une enquête menée par le groupe VYV et la Cnil dans plusieurs pays européens révèle que près de neuf jeunes Français sur dix utilisent l'IA conversationnelle et qu'environ un sur deux y aborde des sujets personnels ou intimes, un tiers la considérant parfois comme un « psy ». Un psychologue interrogé alerte sur le risque d'isolement social et de retard dans le recours à une aide professionnelle, dans un contexte où un jeune sur quatre présente une suspicion de trouble anxieux généralisé."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : un débat européen inédit porté par la parole des jeunesses",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-la-parole-des-jeunesses",
+          "source": "CNIL",
+          "summary": "La Cnil publie les résultats d'une consultation européenne inédite donnant directement la parole aux jeunes sur leurs usages de l'IA conversationnelle pour des questions de santé mentale. L'autorité appelle à un débat de société sur l'encadrement de ces outils, dans un contexte où la santé mentale a été désignée Grande cause nationale en 2025 et où la majorité numérique pour les réseaux sociaux passera à 15 ans en 2026."
+        },
+        {
+          "title": "Mental health: more than 6 out of 10 people turn to artificial intelligence for psychological support",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews",
+          "summary": "Le rapport AXA Mind Health 2026, réalisé avec Ipsos auprès de 19 000 adultes dans 18 pays, montre que 63 % des personnes interrogées ont déjà eu recours à l'IA pour des questions de santé mentale et que 42 % en suivent quasi systématiquement les conseils. Le rapport souligne aussi que la santé mentale mondiale atteint son niveau le plus bas depuis 2021 dans dix des seize pays étudiés, avec 68 % des répondants potentiellement touchés par anxiété, stress ou dépression."
+        },
+        {
+          "title": "How AI could be adding to the growing issue of mental illness worldwide",
+          "url": "https://www.news4jax.com/health/2026/06/05/how-ai-could-be-adding-to-the-growing-issue-of-mental-illness-worldwide/",
+          "source": "News4JAX",
+          "summary": "Cet article revient sur les liens entre usage croissant de l'IA générative et dégradation de la santé mentale, citant notamment une étude publiée dans JAMA Network Open associant un usage quotidien de l'IA à un risque accru de dépression, d'anxiété et d'irritabilité. Il met en garde contre l'effet de validation systématique des chatbots, qui peut donner une fausse impression d'aide sans répondre aux besoins cliniques réels des utilisateurs."
+        },
+        {
+          "title": "Pennsylvania sues AI firm over claims chatbot posed as doctor",
+          "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
+          "source": "NPR",
+          "summary": "L'État de Pennsylvanie a engagé une action en justice contre Character.AI, accusant l'entreprise de laisser certains de ses chatbots se présenter comme des psychiatres diplômés et délivrer des conseils médicaux, en violation des lois sur l'exercice illégal de la médecine. Les autorités demandent une injonction pour empêcher ces robots compagnons, utilisés par plus de 20 millions de personnes chaque mois, de continuer à usurper le rôle de professionnels de santé."
+        },
+        {
+          "title": "Startup Approved to Let AI System Prescribe Psychiatric Medication",
+          "url": "https://futurism.com/health-medicine/startup-ai-system-prescribe-psychiatric-medication",
+          "source": "Futurism",
+          "summary": "La startup américaine Legion Health a obtenu l'autorisation, dans l'Utah, de faire prescrire des traitements psychiatriques par son application d'IA, une première qui illustre l'avancée rapide de l'IA vers des actes médicaux jusque-là réservés aux psychiatres humains. L'initiative relance le débat sur la supervision clinique nécessaire et les garde-fous à mettre en place pour ce type d'outils à fort impact sur la santé des patients."
+        }
+      ]
+    },
+    {
       "date": "2026-06-11",
       "summary": "La journée est marquée par la multiplication des initiatives visant à mieux encadrer les usages de l'IA en santé mentale : OpenAI déploie une fonction d'alerte de proches en cas de détresse détectée dans ChatGPT, tandis que la National Academy of Medicine et NAMI travaillent à des référentiels d'évaluation indépendants des chatbots. Plusieurs études soulignent en parallèle les limites de ces outils, qu'il s'agisse de leur caractère perçu comme « jugeant » lors de dépistages ou de l'écart persistant entre leur adoption massive et leur validation clinique encore très partielle. En France, la recherche académique se structure également, avec une journée d'étude annoncée à la Sorbonne sur l'IA et l'analyse multimodale en santé mentale.",
       "items": [
