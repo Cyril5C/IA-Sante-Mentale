@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-13",
+      "summary": "La journée est dominée par une étude RAND/JAMA Pediatrics, très reprise dans la presse internationale, qui montre que près d'un jeune Américain sur cinq se tourne désormais vers les chatbots IA pour des conseils en santé mentale, en forte hausse sur un an et sans en parler à leur entourage. Côté régulation, le Congrès américain avance avec un projet de loi bipartisan visant à encadrer les IA « compagnons » pour les mineurs, tandis qu'en France la recherche académique se structure (journée d'étude à la Sorbonne) et que des outils cliniques d'aide à la décision en psychiatrie, comme à Montpellier, poursuivent leur déploiement hospitalier. Sur le marché, les plateformes de téléthérapie lancent leurs propres chatbots IA pour mieux encadrer la détection des situations de crise.",
+      "items": [
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News",
+          "summary": "Une étude de la RAND Corporation publiée dans JAMA Pediatrics et largement reprise le 11 juin montre que 19,2 % des Américains de 12 à 21 ans ont utilisé un chatbot IA pour des conseils en santé mentale, contre 13,1 % un an plus tôt, soit une hausse de plus de 40 % représentant environ 8,2 millions de jeunes. Près des deux tiers d'entre eux n'en ont parlé à personne, ce qui interroge sur le manque de dialogue avec les familles et les professionnels de santé."
+        },
+        {
+          "title": "Millions of young people ask AI chatbots for mental health help. A doctor explains the pros and cons",
+          "url": "https://www.cnn.com/2026/06/11/health/mental-health-adolescents-chatbot-ai-wellness",
+          "source": "CNN",
+          "summary": "S'appuyant sur la même étude RAND, CNN propose une analyse médicale des avantages (disponibilité permanente, gratuité, absence perçue de jugement) et des risques (conseils non vérifiés, absence de détection de crise, dépendance émotionnelle) de l'IA conversationnelle pour les jeunes en détresse. L'article appelle parents et soignants à ouvrir le dialogue sur ces usages souvent passés sous silence."
+        },
+        {
+          "title": "Reps. Foushee, Moore Introduce Bipartisan Bill Protecting Children from AI Companion Chatbots",
+          "url": "https://foushee.house.gov/media/press-releases/reps-foushee-moore-introduce-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+          "source": "U.S. House of Representatives",
+          "summary": "Les représentants américains Valerie Foushee (démocrate) et Blake Moore (républicain) ont présenté le GUARD Act, une proposition de loi bipartisane qui interdirait l'accès des mineurs aux chatbots IA « compagnons », imposerait la mention explicite de leur caractère non humain et créerait des sanctions pénales en cas de contenus sexuels générés pour des mineurs. Une proposition similaire portée par les sénateurs Hawley et Blumenthal s'inscrit dans un mouvement de plus de 240 textes sur l'IA et la santé mentale en discussion dans les États américains."
+        },
+        {
+          "title": "Journée d'étude : IA et analyse multimodale en santé mentale",
+          "url": "https://obtic.sorbonne-universite.fr/actualite/journee-ia-sante-mentale-15-juin-2026/",
+          "source": "ObTIC - Sorbonne Université",
+          "summary": "L'unité de recherche ObTIC de Sorbonne Université organise le 15 juin 2026 une journée d'étude consacrée à l'IA et à l'analyse multimodale en santé mentale, réunissant chercheurs et cliniciens autour de la reconnaissance des émotions, la prédiction du risque suicidaire et l'analyse de la parole pathologique. Cet événement illustre la structuration croissante de la recherche académique française sur ces technologies."
+        },
+        {
+          "title": "Mental health brands add AI companions to compete with general-purpose chatbots",
+          "url": "https://www.emarketer.com/content/mental-health-brands-add-ai-companions-compete-with-general-purpose-chatbots",
+          "source": "eMarketer",
+          "summary": "La plateforme de téléthérapie Talkspace a lancé « Tee », un chatbot IA dédié au soutien émotionnel face au stress, aux difficultés relationnelles ou à l'anxiété, qui se distingue des IA généralistes par une intervention humaine automatique en cas de détection de signaux de crise. Cette annonce illustre la course des acteurs spécialisés de la santé mentale à proposer leurs propres compagnons IA, plus encadrés, pour concurrencer les usages spontanés de ChatGPT ou Character.AI."
+        },
+        {
+          "title": "Montpellier : ThIA Santé Mentale accélère la prise en charge en psychiatrie grâce à l'intelligence artificielle",
+          "url": "https://echo-des-tribunes.com/herault-tribune/articles/montpellier-thia-sante-mentale-accelere-la-prise-en-charge-en-psychiatrie-grace-a-lintelligence-artificielle",
+          "source": "Hérault Tribune",
+          "summary": "À Montpellier, le dispositif ThIA Santé Mentale, fondé en 2022 par le psychiatre Yann Quintilla, utilise des algorithmes d'IA pour aider à détecter les signes de rechute chez des patients suivis en psychiatrie, avec un suivi déjà appliqué à environ 30 000 patients. Cette initiative illustre le déploiement concret d'outils d'aide à la décision en psychiatrie dans les établissements hospitaliers français, en complément du travail des soignants."
+        }
+      ]
+    },
+    {
       "date": "2026-06-12",
       "summary": "La parole des jeunes occupe le devant de la scène : une enquête européenne portée par la Cnil et le groupe VYV montre qu'une large majorité d'adolescents français se confient à l'IA conversationnelle sur des sujets intimes, parfois en lieu et place d'un suivi psychologique. Le rapport mondial AXA Mind Health confirme cette tendance à l'échelle internationale, avec une santé mentale en berne et un recours massif mais ambivalent à l'IA. Côté régulation, la justice américaine continue de s'attaquer aux dérives des chatbots se présentant comme des professionnels de santé, tandis que de nouveaux outils cliniques (prescription assistée par IA, documentation pour thérapeutes) poursuivent leur déploiement.",
       "items": [
