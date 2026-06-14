@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-14",
+      "summary": "La journée est marquée par une actualité davantage scientifique : une étude allemande (TU Dresden) montre que les grands modèles de langage peuvent simuler des émotions humaines à des fins de recherche en santé mentale, tandis qu'une étude danoise documente, pour la première fois de façon systématique, des cas de patients psychiatriques dont l'état s'est aggravé après usage de chatbots IA. Une autre étude, centrée sur le vécu de personnes souffrant de dépression, précise les attentes des utilisateurs envers ces outils (informations concrètes, validation émotionnelle encadrée, personnalisation sans exposition de données sensibles), tandis qu'une synthèse de la National Academy of Medicine fait le point sur les bénéfices, les risques et les garde-fous nécessaires. Côté industrie, Google continue de renforcer les fonctionnalités de gestion de crise de son assistant Gemini.",
+      "items": [
+        {
+          "title": "Santé mentale : l'IA face aux émotions humaines",
+          "url": "https://diabete-obesite-hypertension.fr/ia-reproduit-emotions/",
+          "source": "Diabète Obésité Hypertension",
+          "summary": "Une équipe de l'université technique de Dresde, en Allemagne, a testé la capacité de grands modèles de langage à imiter sept émotions humaines (peur, anxiété, colère, dégoût, tristesse, inquiétude, stress) à partir de prompts standardisés. Les résultats montrent que ces modèles peuvent reproduire certains schémas affectifs et cognitifs humains dans des conditions contrôlées, ouvrant la voie à des protocoles de recherche en psychothérapie numérique impossibles à mener directement sur des patients."
+        },
+        {
+          "title": "Potentially Harmful Consequences of AI Chatbot Use Among Patients With Mental Illness: Early Data From a Large Psychiatric Service System",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12967755/",
+          "source": "Acta Psychiatrica Scandinavica",
+          "summary": "Une étude menée par les services psychiatriques de la région Centre du Danemark, à partir des dossiers médicaux mentionnant l'usage de chatbots IA, identifie 38 patients pour lesquels cet usage a eu des conséquences potentiellement néfastes, le plus souvent une aggravation ou une consolidation de délires. Les auteurs appellent les professionnels de santé mentale à interroger systématiquement leurs patients sur leur usage de ces outils et à envisager, pour certains profils vulnérables, d'en limiter le recours."
+        },
+        {
+          "title": "AI Chatbots for Mental Health Self-Management: Lived Experience-Centered Qualitative Study",
+          "url": "https://mental.jmir.org/2026/1/e78288",
+          "source": "JMIR Mental Health",
+          "summary": "Des chercheurs des universités d'Indiana et de l'Illinois ont conçu « Zenny », un chatbot basé sur GPT-4o simulant des situations d'auto-gestion de la dépression, et ont recueilli le retour de 17 personnes ayant elles-mêmes vécu une dépression. L'étude identifie trois attentes prioritaires - informations concrètes, validation émotionnelle avec des limites claires, et personnalisation sans divulgation de données sensibles - et propose des pistes de conception pour que ces outils restent des compléments, et non des substituts, à un accompagnement humain."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine",
+          "summary": "La National Academy of Medicine publie une synthèse de sa série « Health in the Headlines » consacrée aux chatbots IA en santé mentale, réunissant cliniciens, chercheurs et experts en politique de santé. Le document dresse un état des lieux des bénéfices observés (accès permanent, dialogue non stigmatisant), des préjudices documentés (incitation à des comportements à risque, renforcement de pensées négatives) et formule des recommandations de garde-fous : limitation de la durée des échanges, interdiction de se présenter comme un professionnel agréé, orientation immédiate vers des services de crise."
+        },
+        {
+          "title": "Google adds crisis hotline feature to Gemini AI chatbot",
+          "url": "https://qz.com/google-gemini-crisis-hotline-mental-health-funding-040726",
+          "source": "Quartz",
+          "summary": "Google déploie sur son chatbot Gemini une interface « one-touch » qui met en avant les ressources d'une ligne d'écoute en cas de signal de crise suicidaire ou d'automutilation, ainsi qu'un module « Help is available » conçu avec des experts cliniques pour les échanges abordant la santé mentale sans urgence immédiate. L'entreprise annonce par ailleurs un engagement de 30 millions de dollars sur trois ans pour renforcer les capacités des lignes d'écoute dans le monde, une initiative qui intervient dans un contexte de plaintes judiciaires visant l'IA après des suicides."
+        }
+      ]
+    },
+    {
       "date": "2026-06-13",
       "summary": "La journée est dominée par une étude RAND/JAMA Pediatrics, très reprise dans la presse internationale, qui montre que près d'un jeune Américain sur cinq se tourne désormais vers les chatbots IA pour des conseils en santé mentale, en forte hausse sur un an et sans en parler à leur entourage. Côté régulation, le Congrès américain avance avec un projet de loi bipartisan visant à encadrer les IA « compagnons » pour les mineurs, tandis qu'en France la recherche académique se structure (journée d'étude à la Sorbonne) et que des outils cliniques d'aide à la décision en psychiatrie, comme à Montpellier, poursuivent leur déploiement hospitalier. Sur le marché, les plateformes de téléthérapie lancent leurs propres chatbots IA pour mieux encadrer la détection des situations de crise.",
       "items": [
