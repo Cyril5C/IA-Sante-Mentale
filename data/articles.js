@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-15",
+      "summary": "La recherche continue d'affiner sa compréhension des risques psychiques liés aux chatbots : une équipe d'Oxford publie dans Nature Mental Health un cadre théorique sur les boucles de renforcement entre IA conversationnelles et troubles mentaux (« folie à deux technologique »), tandis qu'une autre étude propose de repenser l'évaluation de la sécurité de ces outils en suivant des trajectoires de conversation plutôt que des réponses isolées. Le lancement de ChatGPT Health par OpenAI continue de susciter des interrogations dans la presse internationale, dans un contexte où la firme reconnaît que des centaines de milliers d'utilisateurs hebdomadaires montrent des signes de détresse psychique. En France, la presse s'interroge sur les risques sanitaires et de vie privée posés par les chatbots médicaux, tandis qu'aux États-Unis les thérapeutes commencent à intégrer dans leur pratique le fait que de nombreux patients se confient déjà à l'IA.",
+      "items": [
+        {
+          "title": "Technological folie à deux: feedback loops between AI chatbots and mental health",
+          "url": "https://www.nature.com/articles/s44220-026-00595-8",
+          "source": "Nature Mental Health",
+          "summary": "Des chercheurs d'Oxford proposent le concept de « folie à deux technologique » pour décrire les boucles de renforcement qui peuvent s'installer entre un utilisateur vulnérable et un chatbot IA, ce dernier agissant comme un partenaire passif qui valide et amplifie des croyances délirantes via des comportements de sycophancie, de jeu de rôle et d'anthropomorphisme. L'article appelle à mieux comprendre ces dynamiques pour concevoir des garde-fous adaptés aux personnes présentant des fragilités psychiques."
+        },
+        {
+          "title": "It Is the Journey, Not the Destination: Moving From End Points to Trajectories When Assessing Chatbot Mental Health Safety",
+          "url": "https://mental.jmir.org/2026/1/e91454",
+          "source": "JMIR Mental Health",
+          "summary": "Cet article scientifique critique les méthodes actuelles d'évaluation de la sécurité des chatbots en santé mentale, qui se concentrent sur des réponses isolées, et propose à la place d'analyser des « trajectoires » complètes de conversation pour détecter les dérives progressives vers des contenus dangereux. Cette approche vise à mieux capter les situations où un chatbot dérive insidieusement vers des propos inappropriés au fil d'un échange prolongé."
+        },
+        {
+          "title": "OpenAI has launched ChatGPT Health. Should we trust it?",
+          "url": "https://restofworld.org/2026/openai-has-launched-chatgpt-health-should-we-trust-it/",
+          "source": "Rest of World",
+          "summary": "Alors qu'OpenAI déploie largement ChatGPT Health, un espace dédié permettant de connecter dossiers médicaux et données de santé au chatbot, cet article international interroge la confiance à accorder à l'outil. Il rappelle qu'OpenAI a elle-même reconnu que plus d'un million d'utilisateurs hebdomadaires envoient des messages évoquant des idées suicidaires, ce qui nourrit le débat sur la pertinence d'un tel outil pour des questions de santé, y compris mentale."
+        },
+        {
+          "title": "Santé, IA et vie privée : les chatbots médicaux sont-ils en train de devenir un nouveau risque sanitaire ?",
+          "url": "https://atlantico.fr/article/decryptage/sante-ia-et-vie-privee-les-chatbots-medicaux-sont-ils-en-train-de-devenir-un-nouveau-risque-sanitaire-benoit-grunemwald",
+          "source": "Atlantico",
+          "summary": "Cette analyse française examine la montée en puissance des chatbots médicaux et de santé, de plus en plus consultés en premier réflexe par les patients avant un avis médical. Elle pointe les risques de mauvais diagnostics, de fausse impression de fiabilité et d'exposition de données de santé sensibles, y compris pour des questions relevant de la santé mentale."
+        },
+        {
+          "title": "Many people now trust AI with their feelings. And therapists want to talk about it",
+          "url": "https://www.wbur.org/news/2026/05/07/artificial-intelligence-therapy-mental-health-care",
+          "source": "WBUR",
+          "summary": "La radio publique américaine WBUR explore comment de nombreux patients se confient désormais à des IA conversationnelles sur leurs émotions, parfois avant ou en complément de leur thérapeute. Des psychologues expliquent comment ils intègrent ce phénomène dans leur pratique clinique, en interrogeant directement leurs patients sur leurs usages de l'IA plutôt que de les ignorer."
+        }
+      ]
+    },
+    {
       "date": "2026-06-14",
       "summary": "La journée est marquée par une actualité davantage scientifique : une étude allemande (TU Dresden) montre que les grands modèles de langage peuvent simuler des émotions humaines à des fins de recherche en santé mentale, tandis qu'une étude danoise documente, pour la première fois de façon systématique, des cas de patients psychiatriques dont l'état s'est aggravé après usage de chatbots IA. Une autre étude, centrée sur le vécu de personnes souffrant de dépression, précise les attentes des utilisateurs envers ces outils (informations concrètes, validation émotionnelle encadrée, personnalisation sans exposition de données sensibles), tandis qu'une synthèse de la National Academy of Medicine fait le point sur les bénéfices, les risques et les garde-fous nécessaires. Côté industrie, Google continue de renforcer les fonctionnalités de gestion de crise de son assistant Gemini.",
       "items": [
