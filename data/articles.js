@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-16",
+      "summary": "La journée est dominée par des données massives sur l'adoption de l'IA comme soutien psychologique, qui convergent vers un même constat : une majorité de la population — en particulier les jeunes — se tourne vers les chatbots pour des questions de santé mentale, mais la satisfaction reste mitigée et les risques insuffisamment encadrés. Le rapport AXA-IPSOS (63 % d'utilisateurs dans 18 pays) et l'étude RAND (près d'un Américain de 12-21 ans sur cinq) illustrent l'ampleur du phénomène à l'international, pendant que la CNIL confirme la même tendance en France avec 86 % des jeunes usagers de l'IA et 48 % évoquant des sujets personnels ou intimes. En réponse, la pression réglementaire s'accélère aux États-Unis (plus de 70 projets de loi dans 36 États), et la recherche académique française s'organise, comme en témoigne la journée d'étude tenue à la Sorbonne le 15 juin 2026.",
+      "items": [
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News",
+          "summary": "Une enquête RAND relayée par NBC News révèle que 19,2 % des jeunes Américains de 12 à 21 ans (soit environ 8,2 millions de personnes) ont eu recours à un chatbot IA pour obtenir des conseils de santé mentale en 2025, contre 13,1 % en 2024. Si 91,7 % des utilisateurs jugent les conseils utiles, les experts s'inquiètent du recours à ces outils par des jeunes en situation de crise pour lesquels ils n'ont pas été conçus, notamment en raison des disparités raciales observées dans les modes d'usage."
+        },
+        {
+          "title": "More than 60% people use AI for mental health support — but many are unhappy with it, survey finds",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews",
+          "summary": "Le rapport AXA-IPSOS 2026, conduit auprès de 19 000 adultes dans 18 pays, révèle que 63 % des personnes interrogées ont déjà utilisé l'IA pour des questions de santé mentale, mais que 45 % se disent insatisfaites des conseils reçus et que 28 % signalent que cela a entraîné des comportements néfastes. Dans dix des pays couverts, le score global de santé mentale est au plus bas depuis 2021, et 46 % des personnes se trouvent en situation de languissement ou de détresse psychique."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "L'enquête Ipsos BVA menée pour le Groupe VYV et la CNIL auprès de 3 800 jeunes de 11 à 25 ans dans quatre pays européens montre que 86 % des jeunes Français utilisent l'IA et que 48 % l'emploient pour aborder des sujets personnels ou intimes. Un tiers d'entre eux considèrent l'IA comme un « psy » dans certains cas — proportion montant à 46 % chez ceux souffrant d'anxiété —, dans un contexte où 65 % des 11-25 ans français présentent déjà des signes d'anxiété."
+        },
+        {
+          "title": "Journée d'étude : IA et analyse multimodale en santé mentale (15 juin 2026)",
+          "url": "https://obtic.sorbonne-universite.fr/actualite/journee-ia-sante-mentale-15-juin-2026/",
+          "source": "ObTIC / Sorbonne Université",
+          "summary": "La Sorbonne a accueilli le 15 juin 2026 une journée d'étude consacrée aux usages de l'IA et de l'analyse multimodale en santé mentale, abordant notamment la reconnaissance automatique des émotions, la prédiction du risque suicidaire et l'analyse des productions orales pathologiques. Cet événement académique illustre la montée en puissance de la recherche francophone sur ces thématiques à l'heure où les débats sociétaux sur les chatbots thérapeutiques s'intensifient."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PMC",
+          "summary": "Cette revue législative publiée dans une revue à comité de lecture recense plus de 70 projets de loi introduits dans 36 États américains au premier trimestre 2026 pour réguler les chatbots IA dans le champ de la santé mentale. Si la majorité de ces textes exige une divulgation de la nature artificielle de l'outil, seuls 11 États prévoient un cadre de supervision clinique, révélant un angle mort réglementaire majeur autour des dimensions médicales de ces usages."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une synthèse faisant autorité sur les chatbots IA en santé mentale, distinguant les bénéfices avérés (accessibilité, réduction de la stigmatisation, soutien entre les séances thérapeutiques) des risques documentés (aggravation de délires, dépendance émotionnelle, biais algorithmiques). Le rapport formule des recommandations concrètes pour standardiser l'évaluation de ces outils et renforcer la supervision clinique, alimentant directement le débat américain sur leur régulation."
+        }
+      ]
+    },
+    {
       "date": "2026-06-15",
       "summary": "La recherche continue d'affiner sa compréhension des risques psychiques liés aux chatbots : une équipe d'Oxford publie dans Nature Mental Health un cadre théorique sur les boucles de renforcement entre IA conversationnelles et troubles mentaux (« folie à deux technologique »), tandis qu'une autre étude propose de repenser l'évaluation de la sécurité de ces outils en suivant des trajectoires de conversation plutôt que des réponses isolées. Le lancement de ChatGPT Health par OpenAI continue de susciter des interrogations dans la presse internationale, dans un contexte où la firme reconnaît que des centaines de milliers d'utilisateurs hebdomadaires montrent des signes de détresse psychique. En France, la presse s'interroge sur les risques sanitaires et de vie privée posés par les chatbots médicaux, tandis qu'aux États-Unis les thérapeutes commencent à intégrer dans leur pratique le fait que de nombreux patients se confient déjà à l'IA.",
       "items": [
