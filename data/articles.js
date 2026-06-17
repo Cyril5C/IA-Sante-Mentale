@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-17",
+      "summary": "La journée du 17 juin met en lumière deux dimensions émergentes de l'IA appliquée à la santé mentale : les risques de confidentialité au sein même des consultations cliniques (l'affaire Kaiser/Abridge) et la construction d'une vision à long terme de la psychiatrie augmentée par l'IA. Côté français, une étude académique projette les transformations de la psychiatrie de l'enfant et de l'adolescent à horizon 2050, tandis qu'une revue de presse francophone sur six ans retrace les grandes étapes du débat, et que le gouvernement accélère sa réponse réglementaire. En filigrane, la question de l'usage secret des chatbots par les adolescents — 63 % d'entre eux cachent ces échanges aux adultes — continue d'alimenter les débats sur la supervision clinique de ces outils.",
+      "items": [
+        {
+          "title": "Kaiser mental health staff raise concerns about AI recording tool",
+          "url": "https://calmatters.org/health/mental-health/2026/06/kaiser-mental-health-artificial-intelligence/",
+          "source": "CalMatters",
+          "summary": "Des professionnels de santé mentale chez Kaiser Permanente (Californie) sonnent l'alarme sur l'outil d'écoute ambiante Abridge, déployé depuis 2024 pour transcrire automatiquement les séances médicales. Le consentement des patients est obtenu sans que leur soit expliqué où sont stockées les données ni qui y a accès — une opacité que thérapeutes et syndicats jugent inacceptable dans le cadre de consultations psychiatriques où la confidentialité est particulièrement sensible."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "PMC / NCBI",
+          "summary": "Une étude qualitative publiée dans PubMed Central utilise elle-même l'IA pour explorer les scénarios d'évolution de la psychiatrie de l'enfant et de l'adolescent en France jusqu'en 2050. Les experts interrogés anticipent une intégration croissante de l'IA dans le diagnostic et le suivi des patients, tout en soulignant les risques de déshumanisation des soins et la nécessité de préserver la relation thérapeutique au cœur de la pratique clinique."
+        },
+        {
+          "title": "1 in 5 teens turn to AI chatbots for mental health advice, but a majority of them keep it secret",
+          "url": "https://medicalxpress.com/news/2026-06-teens-ai-chatbots-mental-health.html",
+          "source": "Medical Xpress",
+          "summary": "Une analyse approfondie de l'étude RAND met en lumière un angle peu commenté : parmi les jeunes qui consultent des chatbots pour leur santé mentale, 63,3 % le gardent secret de leurs parents, cliniciens ou autres adultes. Cette discrétion, motivée par la stigmatisation et le désir d'intimité, complique la détection précoce des situations de crise et renforce les inquiétudes des spécialistes sur l'usage non supervisé de ces outils."
+        },
+        {
+          "title": "Revue de presse : IA et santé mentale dans les médias francophones (2020-début 2026)",
+          "url": "https://www.ifemdr.fr/revue-de-presse-ia-et-sante-mentale-dans-les-medias-francophones-2020-debut-2026/",
+          "source": "IFEMDR",
+          "summary": "L'Institut français d'EMDR publie une revue exhaustive de six ans de couverture médiatique francophone sur l'IA et la santé mentale, identifiant trois vagues distinctes : la découverte des chatbots cliniques pendant la pandémie, l'irruption de ChatGPT comme « nouveau psy », puis les alertes sur la dépendance émotionnelle et les suicides d'adolescents. Ce travail de mémoire médiatique offre une ressource précieuse pour contextualiser les débats actuels sur la régulation et la supervision clinique des IA conversationnelles."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Caducée.net, référence de la presse médicale française, dresse un bilan de la santé mentale en milieu professionnel en 2026 : le burn-out reste une priorité de santé publique, tandis que l'IA divise le monde du travail entre ceux qui y voient un allègement des tâches et ceux qui craignent une déshumanisation ou une surveillance accrue. L'article souligne que le recours aux chatbots à des fins de soutien psychologique se répand chez les salariés, sans encadrement médical spécifique."
+        },
+        {
+          "title": "Régulation du numérique : la France prépare un nouveau virage pour protéger les jeunes",
+          "url": "https://www.blogdigital.fr/regulation-du-numerique-la-france-prepare-un-nouveau-virage-pour-proteger-les-jeunes/",
+          "source": "BlogDigital.fr",
+          "summary": "Face aux risques croissants des IA conversationnelles pour la santé mentale des mineurs, la France s'apprête à renforcer son cadre législatif numérique. Deux psychiatres mandatés par le gouvernement étudient les effets des chatbots sur les adolescents — dépendance, anxiété, troubles comportementaux —, dans la continuité des alertes lancées après plusieurs suicides liés à des chatbots survenus en 2024-2025."
+        }
+      ]
+    },
+    {
       "date": "2026-06-16",
       "summary": "La journée est dominée par des données massives sur l'adoption de l'IA comme soutien psychologique, qui convergent vers un même constat : une majorité de la population — en particulier les jeunes — se tourne vers les chatbots pour des questions de santé mentale, mais la satisfaction reste mitigée et les risques insuffisamment encadrés. Le rapport AXA-IPSOS (63 % d'utilisateurs dans 18 pays) et l'étude RAND (près d'un Américain de 12-21 ans sur cinq) illustrent l'ampleur du phénomène à l'international, pendant que la CNIL confirme la même tendance en France avec 86 % des jeunes usagers de l'IA et 48 % évoquant des sujets personnels ou intimes. En réponse, la pression réglementaire s'accélère aux États-Unis (plus de 70 projets de loi dans 36 États), et la recherche académique française s'organise, comme en témoigne la journée d'étude tenue à la Sorbonne le 15 juin 2026.",
       "items": [
