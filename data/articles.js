@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-18",
+      "summary": "La veille du 18 juin est dominée par les évaluations cliniques et institutionnelles des chatbots en santé mentale. La National Academy of Medicine publie un bilan de référence sur ce qui fonctionne et ce qui nuit dans l'usage des IA conversationnelles à visée thérapeutique, tandis qu'une méta-analyse confirme leur efficacité partielle sur la détresse des adolescents. Les cliniciens témoignent d'un enthousiasme nuancé : utiles pour l'accès aux soins, les chatbots suscitent des inquiétudes sur l'alliance thérapeutique et la gestion des crises. En France, la CNIL publie les résultats alarmants d'une enquête européenne (86 % des jeunes utilisent ces outils, près d'un sur deux pour des sujets intimes), et Cerveaux & Robots documente le premier cas de psychose associée à l'usage intensif d'un chatbot.",
+      "items": [
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une analyse de référence sur l'état de l'art des chatbots en santé mentale : bénéfices documentés (accessibilité, continuité des soins, réduction de la stigmatisation) mais aussi risques sérieux (absence de gestion des crises suicidaires, dépendance émotionnelle, biais algorithmiques). Le rapport plaide pour un cadre réglementaire fédéral unifié aux États-Unis et une intégration encadrée dans les parcours de soins existants."
+        },
+        {
+          "title": "Millions of young people ask AI chatbots for mental health help. A doctor explains the pros and cons",
+          "url": "https://www.cnn.com/2026/06/11/health/mental-health-adolescents-chatbot-ai-wellness",
+          "source": "CNN",
+          "summary": "Un médecin spécialiste décrypte pour CNN l'essor des chatbots comme premier recours en santé mentale chez les jeunes Américains (19,2 % des 12-21 ans selon l'étude RAND). Il met en avant disponibilité 24h/24 et absence de jugement, tout en alertant sur l'incapacité de ces outils à détecter les crises suicidaires et leur tendance à valider les biais cognitifs de l'utilisateur plutôt qu'à les challenger."
+        },
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC",
+          "summary": "Une analyse approfondie de l'étude RAND-JAMA Pediatrics révèle des disparités importantes dans l'usage des chatbots : les filles et les 18-21 ans sont surreprésentés, tout comme ceux ayant déjà consulté un professionnel de santé. Ce profil suggère que les chatbots renforcent un parcours de soins existant chez certains, mais risquent de se substituer totalement à l'accompagnement professionnel chez d'autres."
+        },
+        {
+          "title": "Practitioner Perspectives on the Uses of Generative AI Chatbots in Mental Health Care: Mixed Methods Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12440320/",
+          "source": "JMIR Mental Health / PMC",
+          "summary": "Cette étude mixte internationale interroge des cliniciens en santé mentale sur leur rapport aux chatbots génératifs : si la majorité reconnaît leur utilité pour la documentation, la psychoéducation et l'accès aux soins dans les déserts médicaux, beaucoup craignent une érosion de l'alliance thérapeutique et l'absence de protocoles clairs pour gérer les crises déclenchées lors d'échanges avec une IA. L'article appelle à co-construire des guidelines avec les cliniciens plutôt qu'à leur imposer ces outils."
+        },
+        {
+          "title": "IA et psychiatrie : risques émergents liés aux chatbots en libre-service",
+          "url": "https://cerveauxetrobots.fr/ia-chatbot-risques-psychiatrie-psychose/",
+          "source": "Cerveaux et Robots",
+          "summary": "Le site français de veille scientifique Cerveaux & Robots détaille le premier cas documenté de psychose associée à l'usage intensif d'un chatbot (UCSF, novembre 2025) et recense plusieurs cas de décompensation psychiatrique liés à des interactions prolongées avec des IA conversationnelles. L'article souligne que ces outils, conçus pour être agréables et engageants, peuvent renforcer des pensées délirantes plutôt que les corriger."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "La CNIL publie les résultats de l'enquête Ipsos BVA sur les usages des IA conversationnelles par les jeunes en Europe : en France, 86 % des 15-25 ans utilisent ces outils et près d'un sur deux y évoque des sujets personnels ou intimes. Le régulateur alerte sur les risques liés à la collecte de données sensibles et appelle les fournisseurs à renforcer la confidentialité et l'orientation vers des professionnels en cas de détresse."
+        }
+      ]
+    },
+    {
       "date": "2026-06-17",
       "summary": "La journée du 17 juin met en lumière deux dimensions émergentes de l'IA appliquée à la santé mentale : les risques de confidentialité au sein même des consultations cliniques (l'affaire Kaiser/Abridge) et la construction d'une vision à long terme de la psychiatrie augmentée par l'IA. Côté français, une étude académique projette les transformations de la psychiatrie de l'enfant et de l'adolescent à horizon 2050, tandis qu'une revue de presse francophone sur six ans retrace les grandes étapes du débat, et que le gouvernement accélère sa réponse réglementaire. En filigrane, la question de l'usage secret des chatbots par les adolescents — 63 % d'entre eux cachent ces échanges aux adultes — continue d'alimenter les débats sur la supervision clinique de ces outils.",
       "items": [
