@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-19",
+      "summary": "La veille du 19 juin est dominée par l'accélération du front judiciaire et réglementaire autour de l'IA et la santé mentale. La Floride devient le premier État américain à poursuivre OpenAI en justice, invoquant le suicide d'un adolescent de 16 ans après des échanges avec ChatGPT et le rôle présumé du modèle dans une fusillade universitaire. Une analyse publiée dans PMC décortique la loi pionnière de l'Illinois, qui interdit l'IA comme thérapeute autonome, tandis qu'une revue de 793 projets de loi dans les 50 États cartographie la fragmentation du paysage législatif américain. En parallèle, le rapport AXA/Ipsos (19 000 adultes, 18 pays) confirme qu'une majorité se tourne vers l'IA pour un soutien psychologique tout en s'en déclarant insatisfaite, et Common Sense Media tire la sonnette d'alarme sur les risques systémiques des compagnons IA pour les adolescents. La recherche française reste active : la Sorbonne a réuni chercheurs et cliniciens autour de l'analyse multimodale en santé mentale.",
+      "items": [
+        {
+          "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+          "url": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+          "source": "NPR",
+          "summary": "La Floride est devenue le premier État américain à poursuivre OpenAI en justice pour « manquements à la sécurité », citant notamment le rôle présumé de ChatGPT dans le suicide d'un adolescent de 16 ans (Adam Raine) et dans une fusillade à l'Université d'État de Floride. La plainte réclame la responsabilité personnelle du PDG Sam Altman et vise des milliards de dollars de dommages. Ce précédent judiciaire pourrait faire jurisprudence sur la responsabilité légale des fabricants d'IA dans les cas de préjudices psychologiques graves, notamment chez les mineurs."
+        },
+        {
+          "title": "More than 60% of people use AI for mental health support — but many are unhappy with it",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews / AXA Mind Health Report 2026",
+          "summary": "Le rapport AXA Mind Health 2026, basé sur une enquête Ipsos auprès de 19 000 adultes dans 18 pays, révèle que plus de 60 % des personnes se tournent vers l'IA pour un soutien psychologique, mais 45 % s'en déclarent insatisfaites. Près de la moitié des répondants (46 %) déclarent « lutter ou végéter » psychologiquement, et les 18-24 ans sont les plus touchés avec 43 % présentant des symptômes de dépression, anxiété ou stress à un niveau sévère. L'enquête illustre le paradoxe d'une adoption massive de l'IA comme soutien mental sur fond de dégradation généralisée de la santé psychologique mondiale."
+        },
+        {
+          "title": "Artificial Intelligence in Mental Health Services Under Illinois Public Act 104-0054: Legal Boundaries and a Framework for Establishing Safe, Effective AI Tools",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12677879/",
+          "source": "PMC / JMIR Mental Health",
+          "summary": "Une analyse académique publiée dans PMC passe au crible la loi WOPR de l'Illinois (Public Act 104-0054), première loi américaine à interdire explicitement l'IA comme thérapeute autonome. Les auteurs délimitent précisément ce que la loi autorise (aide administrative, psychoéducation, aide à la décision sous supervision humaine) et ce qu'elle interdit (analyse autonome des émotions, communication thérapeutique directe, élaboration de plans de traitement sans validation clinique). L'article propose un cadre pratique pour les développeurs d'outils IA souhaitant opérer légalement dans cet État."
+        },
+        {
+          "title": "Nearly 3 in 4 Teens Have Used AI Companions, New National Survey Finds",
+          "url": "https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds",
+          "source": "Common Sense Media",
+          "summary": "Un sondage national américain de Common Sense Media révèle que 72 % des adolescents ont utilisé des « compagnons IA » et que 52 % en sont des utilisateurs réguliers : un tiers a même préféré confier à une IA quelque chose de sérieux plutôt qu'à un humain. Les tests réalisés sur les principaux chatbots grand public en situation d'anxiété, de dépression, de troubles alimentaires ou de psychose ont révélé des « défaillances systématiques ». L'organisation recommande qu'aucun mineur n'utilise ces produits et appelle les législateurs à réglementer d'urgence ces outils."
+        },
+        {
+          "title": "Journée d'étude : IA et analyse multimodale en santé mentale",
+          "url": "https://obtic.sorbonne-universite.fr/actualite/journee-ia-sante-mentale-15-juin-2026/",
+          "source": "Sorbonne Université / ObTIC",
+          "summary": "Le 15 juin 2026, dans le cadre de l'Année de l'IA déclarée par la Sorbonne, une journée d'étude a réuni chercheurs, cliniciens et experts en traitement automatique du langage pour dresser un panorama des recherches françaises sur l'IA et l'analyse multimodale en santé mentale. Au programme : reconnaissance des émotions à partir de la voix, prédiction du risque suicidaire via le texte, analyse des silences en entretien clinique et annotation des expressions faciales. Une manifestation qui illustre la vitalité de la recherche académique francophone sur ces outils et leur ancrage dans des pratiques cliniques concrètes."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PMC",
+          "summary": "Une revue exhaustive parue dans JMIR Mental Health analyse 793 projets de loi introduits dans les 50 États américains entre janvier 2022 et mai 2025 sur l'IA en santé mentale, dont 143 ont été jugés significatifs. Elle révèle une hétérogénéité réglementaire préoccupante : certains États proscrivent tout usage clinique autonome de l'IA, d'autres misent uniquement sur la transparence, et la majorité n'ont encore rien légiféré. Cette cartographie souligne l'urgence d'un cadre fédéral pour harmoniser les protections des patients face à la prolifération rapide des outils d'IA conversationnels à visée thérapeutique."
+        }
+      ]
+    },
+    {
       "date": "2026-06-18",
       "summary": "La veille du 18 juin est dominée par les évaluations cliniques et institutionnelles des chatbots en santé mentale. La National Academy of Medicine publie un bilan de référence sur ce qui fonctionne et ce qui nuit dans l'usage des IA conversationnelles à visée thérapeutique, tandis qu'une méta-analyse confirme leur efficacité partielle sur la détresse des adolescents. Les cliniciens témoignent d'un enthousiasme nuancé : utiles pour l'accès aux soins, les chatbots suscitent des inquiétudes sur l'alliance thérapeutique et la gestion des crises. En France, la CNIL publie les résultats alarmants d'une enquête européenne (86 % des jeunes utilisent ces outils, près d'un sur deux pour des sujets intimes), et Cerveaux & Robots documente le premier cas de psychose associée à l'usage intensif d'un chatbot.",
       "items": [
