@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-20",
+      "summary": "La veille du 20 juin 2026 est marquée par une double dynamique : la confirmation de la place croissante des chatbots IA dans la santé mentale des jeunes et la mise en lumière de leurs limites cliniques et sociales. Une enquête de l'APA auprès de 1 200 psychologues révèle que 77 % d'entre eux ont des patients utilisant l'IA, et 35 % signalent des cas où elle fait office de thérapeute supplémentaire. Une étude nationale publiée dans JAMA Pediatrics confirme que près d'un jeune Américain sur cinq recourt désormais aux chatbots pour sa santé mentale, avec des inégalités selon le genre et la race. En contrepoint scientifique, une méta-analyse de 31 essais randomisés livre des résultats mitigés sur l'efficacité de ces outils, et une étude de l'Université du Texas à Dallas pointe le paradoxe du « chatbot jugeur » qui inhibe la prise en charge. La presse française relaie quant à elle une étude préoccupante sur les adolescents préférant les relations virtuelles aux liens réels.",
+      "items": [
+        {
+          "title": "1 in 3 psychologists say their patients use AI as a second therapist",
+          "url": "https://www.scientificamerican.com/article/1-in-3-psychologists-say-their-patients-use-ai-as-a-second-therapist/",
+          "source": "Scientific American",
+          "summary": "L'APA a sondé plus de 1 200 psychologues américains : 77 % ont eu des patients utilisant l'IA pour leur santé mentale, et 35 % rapportent que leurs patients s'en servent comme d'un thérapeute supplémentaire. Si certains usages restent bénins (soutien émotionnel, rappels comportementaux), les praticiens expriment de vives inquiétudes sur la dépendance, la désinformation et les risques d'automutilation. 94 % estiment que les chatbots ne peuvent pas traiter les troubles mentaux avec la nuance nécessaire à une prise en charge sérieuse."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND / JAMA Pediatrics",
+          "summary": "Une étude nationale américaine publiée dans JAMA Pediatrics révèle que 19,2 % des jeunes de 12 à 21 ans ont recours à des chatbots IA (ChatGPT, Gemini, Character.AI) pour un soutien en santé mentale, soit une hausse de plus de 40 % en un an. Les filles et les jeunes femmes sont deux fois plus susceptibles d'y avoir recours, et les jeunes Noirs sont plus enclins à une utilisation mensuelle. Ces données soulignent l'intégration rapide de ces outils dans l'écosystème de soin informel des jeunes, dans un contexte de crise persistante de la santé mentale juvénile aux États-Unis."
+        },
+        {
+          "title": "Millions of young people ask AI chatbots for mental health help. A doctor explains the pros and cons",
+          "url": "https://www.cnn.com/2026/06/11/health/mental-health-adolescents-chatbot-ai-wellness",
+          "source": "CNN Health",
+          "summary": "La Dre Leana Wen, médecin-conseil de CNN, analyse le recours massif des jeunes aux chatbots IA pour leur santé mentale. Elle reconnaît leur utilité pour un accès rapide à l'information et un premier soutien émotionnel, mais insiste sur leurs limites : incapacité à remplacer un thérapeute, risques d'informations erronées et de retard de prise en charge. Elle conseille aux parents d'aborder le sujet avec leurs enfants et de rappeler que les chatbots sont des outils complémentaires, non des professionnels de santé."
+        },
+        {
+          "title": "Verdict on Chatbots in Mental Health Screenings? Too Judgmental",
+          "url": "https://news.utdallas.edu/health-medicine/study-chatbots-in-mental-health-study-2026/",
+          "source": "University of Texas at Dallas / MIS Quarterly",
+          "summary": "Une étude menée à l'Université du Texas à Dallas et publiée dans MIS Quarterly révèle un paradoxe surprenant : les utilisateurs perçoivent les chatbots de dépistage en santé mentale comme plus jugeants que des humains. Conçus pour offrir un espace sans stigmatisation, ces outils souffrent d'un manque perçu de compréhension sociale et émotionnelle, ce qui inhibe la divulgation et l'adhérence aux recommandations. Cette conclusion invite à repenser la conception des interfaces conversationnelles à visée clinique."
+        },
+        {
+          "title": "The Effectiveness of AI Chatbots in Alleviating Mental Distress Among Adolescents: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/",
+          "source": "JMIR / PMC",
+          "summary": "Une méta-analyse portant sur 31 essais contrôlés randomisés (29 637 participants) évalue l'efficacité des chatbots IA dans la réduction de la détresse psychologique chez les jeunes. Les résultats sont contrastés : les chatbots basés sur la récupération d'informations montrent des effets fiables, tandis que les systèmes génératifs donnent des résultats prometteurs mais non encore concluants. Les auteurs appellent à l'élaboration de protocoles de sécurité et de cadres d'évaluation spécifiques aux systèmes génératifs avant tout déploiement à grande échelle."
+        },
+        {
+          "title": "Les adolescents préfèrent avoir des petites amies virtuelles que des relations réelles, révèle une étude qui pointe des conséquences graves",
+          "url": "https://www.cnews.fr/monde/2026-06-05/les-adolescents-preferent-avoir-des-petites-amies-virtuelles-que-des-relations",
+          "source": "CNews",
+          "summary": "Une étude relayée par CNews révèle que certains adolescents préfèrent désormais entretenir des relations affectives avec des compagnes IA virtuelles plutôt que de nouer des liens réels, avec des conséquences préoccupantes pour leur développement social et émotionnel. Ce phénomène illustre l'extension des usages des compagnons IA bien au-delà du soutien ponctuel, vers des formes de substitution relationnelle qui inquiètent les professionnels de santé mentale et alimentent le débat sur la régulation de ces outils pour les mineurs."
+        }
+      ]
+    },
+    {
       "date": "2026-06-19",
       "summary": "La veille du 19 juin est dominée par l'accélération du front judiciaire et réglementaire autour de l'IA et la santé mentale. La Floride devient le premier État américain à poursuivre OpenAI en justice, invoquant le suicide d'un adolescent de 16 ans après des échanges avec ChatGPT et le rôle présumé du modèle dans une fusillade universitaire. Une analyse publiée dans PMC décortique la loi pionnière de l'Illinois, qui interdit l'IA comme thérapeute autonome, tandis qu'une revue de 793 projets de loi dans les 50 États cartographie la fragmentation du paysage législatif américain. En parallèle, le rapport AXA/Ipsos (19 000 adultes, 18 pays) confirme qu'une majorité se tourne vers l'IA pour un soutien psychologique tout en s'en déclarant insatisfaite, et Common Sense Media tire la sonnette d'alarme sur les risques systémiques des compagnons IA pour les adolescents. La recherche française reste active : la Sorbonne a réuni chercheurs et cliniciens autour de l'analyse multimodale en santé mentale.",
       "items": [
