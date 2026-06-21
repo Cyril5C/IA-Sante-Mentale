@@ -4,6 +4,54 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-21",
+      "summary": "La veille du 21 juin 2026 est dominée par deux dynamiques convergentes : la montée en puissance des régulations nationales et étatiques face aux risques avérés des chatbots en santé mentale, et la persistance de défaillances critiques dans la gestion des situations de crise. La Californie fait figure de pionnière avec sa loi SB 243 désormais en vigueur, imposant des protocoles de sécurité obligatoires aux opérateurs de chatbots compagnons. Des études récentes révèlent que ces outils peinent à détecter les signaux suicidaires, tandis que des chercheurs alertent sur les risques amplifiés des chatbots vocaux. La National Academy of Medicine publie un bilan d'ensemble appelant à un encadrement fédéral urgent, et la France dévoile son plan 2026 pour intégrer le numérique dans les soins psychiques de façon éthique.",
+      "items": [
+        {
+          "title": "First-in-the-Nation AI Chatbot Safeguards Signed into Law",
+          "url": "https://sd18.senate.ca.gov/news/first-nation-ai-chatbot-safeguards-signed-law",
+          "source": "Bureau du Sénateur Steve Padilla (Californie)",
+          "summary": "La Californie a promulgué la loi SB 243, première loi nationale imposant des garde-fous aux chatbots compagnons : obligation de se déclarer comme IA, protocole obligatoire en cas d'idéation suicidaire ou d'automutilation, et notification toutes les trois heures aux mineurs rappelant qu'ils interagissent avec une machine. En vigueur depuis le 1er janvier 2026, cette loi donne également aux victimes un droit d'action civile contre les opérateurs négligents, avec des dommages pouvant atteindre 1 000 dollars par violation. Elle fait figure de modèle national pour les législateurs d'autres États américains qui élaborent leurs propres régulations."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une synthèse de l'état des connaissances sur les chatbots en santé mentale, distinguant les bénéfices potentiels (accès élargi, soutien entre les séances, déstigmatisation) des risques documentés (désinformation, gestion défaillante des crises, dépendance émotionnelle). Le rapport déplore le manque d'essais rigoureux comparant ces outils à des thérapies validées et appelle à un cadre réglementaire fédéral. Il propose une feuille de route pour intégrer ces outils de façon éthique dans le parcours de soins."
+        },
+        {
+          "title": "Voice-first chatbots will exacerbate AI's mental health threat",
+          "url": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/",
+          "source": "STAT News",
+          "summary": "Dans une tribune publiée dans STAT News, des chercheurs alertent sur l'émergence des chatbots conversationnels à commande vocale, qui risquent d'amplifier significativement les dangers des IA pour la santé mentale. L'interaction vocale crée un lien émotionnel bien plus fort que le texte, augmentant les risques de dépendance et, dans les cas les plus graves, d'épisodes psychotiques chez des utilisateurs vulnérables. Les auteurs appellent à une régulation spécifique de ces systèmes avant tout déploiement grand public."
+        },
+        {
+          "title": "Mental health chatbots struggle with suicide warning signs, study finds",
+          "url": "https://scienceline.org/2026/04/mental-health-chatbots-struggle-suicide-warning/",
+          "source": "Scienceline",
+          "summary": "Une étude relayée par Scienceline révèle que les principaux chatbots de santé mentale peinent à détecter les signaux de détresse suicidaire lors de conversations simulées : aucun n'a fourni de réponse adéquate lors des tests, 14 étant jugés insuffisants et 15 marginaux. Ces résultats mettent en évidence un déficit critique de sécurité pour des outils présentés comme premier recours en cas de crise. Les chercheurs insistent sur la nécessité d'exigences de sécurité minimales avant toute mise sur le marché."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "Info.gouv.fr (Gouvernement français)",
+          "summary": "Le gouvernement français détaille les changements entrant en vigueur en 2026 pour la santé mentale : renforcement de la formation des professionnels, élargissement des soins en première ligne et intégration d'outils numériques encadrés dans les parcours de soins. Le plan souligne la nécessité d'un accompagnement éthique de la numérisation, dans un contexte où près d'un Français sur deux utilise déjà un outil numérique pour sa santé mentale. Ce texte officiel marque une reconnaissance formelle du numérique comme composante à part entière de la politique française de santé psychique."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia.fr",
+          "summary": "Une étude majeure relayée par le site français Eudonia recense 15 types de violations éthiques commises par les chatbots de santé mentale : renforcement de croyances erronées, simulation d'empathie, incitation à la dépendance émotionnelle, absence de renvoi vers des professionnels en cas de crise. Ces infractions aux standards de l'APA (Association Américaine de Psychologie) constituent un avertissement sérieux pour les utilisateurs et les régulateurs. L'article invite à repenser radicalement la conception et le déploiement de ces outils avant qu'ils ne se généralisent."
+        },
+        {
+          "title": "Practitioner Perspectives on the Uses of Generative AI Chatbots in Mental Health Care",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12440320/",
+          "source": "JMIR Mental Health / PMC",
+          "summary": "Une étude publiée dans JMIR Mental Health explore les perspectives des praticiens sur l'usage des chatbots IA génératifs dans les soins en santé mentale : si certains cliniciens reconnaissent leur utilité pour réduire les délais d'attente et soutenir les patients entre les séances, la majorité exprime des réserves sur la fiabilité, la confidentialité et la responsabilité médicale. L'étude révèle un fossé entre l'enthousiasme technologique et la prudence clinique, et souligne le besoin urgent de lignes directrices professionnelles claires pour encadrer ces usages émergents."
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "summary": "La veille du 20 juin 2026 est marquée par une double dynamique : la confirmation de la place croissante des chatbots IA dans la santé mentale des jeunes et la mise en lumière de leurs limites cliniques et sociales. Une enquête de l'APA auprès de 1 200 psychologues révèle que 77 % d'entre eux ont des patients utilisant l'IA, et 35 % signalent des cas où elle fait office de thérapeute supplémentaire. Une étude nationale publiée dans JAMA Pediatrics confirme que près d'un jeune Américain sur cinq recourt désormais aux chatbots pour sa santé mentale, avec des inégalités selon le genre et la race. En contrepoint scientifique, une méta-analyse de 31 essais randomisés livre des résultats mitigés sur l'efficacité de ces outils, et une étude de l'Université du Texas à Dallas pointe le paradoxe du « chatbot jugeur » qui inhibe la prise en charge. La presse française relaie quant à elle une étude préoccupante sur les adolescents préférant les relations virtuelles aux liens réels.",
       "items": [
