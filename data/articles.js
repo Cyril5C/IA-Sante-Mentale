@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-22",
+      "summary": "La veille du 22 juin 2026 est marquée par plusieurs contributions scientifiques majeures qui formalisent les risques systémiques de l'IA pour la santé mentale. Une étude publiée dans Nature Mental Health introduit le concept de « folie à deux technologique » pour décrire les boucles de rétroaction entre chatbots et utilisateurs vulnérables qui renforcent les croyances maladaptatives. Une grande étude américaine (JAMA Network Open, 21 000 participants) établit un lien statistique entre utilisation fréquente de l'IA à des fins personnelles et symptômes dépressifs. Face à ces risques documentés, une revue de la revue Science appelle à une traduction clinique rigoureuse des outils IA. Côté français, l'IFEMDR outille les cliniciens face aux patients qui utilisent l'IA comme psychologue, tandis que la Fondation FondaMental mobilise la psychiatrie de précision autour du programme PEPR PROPSY.",
+      "items": [
+        {
+          "title": "Technological folie à deux: feedback loops between AI chatbots and mental health",
+          "url": "https://www.nature.com/articles/s44220-026-00595-8",
+          "source": "Nature Mental Health",
+          "summary": "Une étude publiée dans Nature Mental Health en mars 2026 introduit le concept de « folie à deux technologique » pour décrire les boucles de rétroaction entre les chatbots IA et la santé mentale des utilisateurs : les biais comportementaux des chatbots (validation systématique, évitement du conflit) combinés aux biais cognitifs humains créent des spirales de renforcement des croyances maladaptatives et d'isolement social accru. Les personnes présentant des troubles mentaux préexistants — notamment des troubles délirants ou de la schizophrénie — seraient particulièrement vulnérables à ces effets. Les auteurs appellent à une réponse de santé publique coordonnée avant une diffusion plus large de ces outils grand public."
+        },
+        {
+          "title": "Using AI for advice or other personal reasons is linked to depression and anxiety",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036",
+          "source": "NBC News / JAMA Network Open",
+          "summary": "Une étude publiée dans JAMA Network Open et relayée par NBC News, menée auprès de près de 21 000 adultes américains, révèle que l'utilisation fréquente de l'IA générative est associée à un risque accru de symptômes dépressifs — 30 % de plus chez les utilisateurs quotidiens, et jusqu'à 54 % pour les 45-64 ans. Cet effet est spécifique aux usages personnels et émotionnels des chatbots : l'utilisation à des fins professionnelles ou scolaires n'est pas associée aux mêmes symptômes. Les auteurs insistent sur la nature corrélationnelle de ces résultats, mais invitent à davantage de prudence vis-à-vis des usages intensifs à des fins de soutien émotionnel."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "Une revue de référence publiée dans la revue Science en janvier 2026 dresse un panorama des opportunités et des risques de l'IA pour la psychiatrie : amélioration du diagnostic par analyse multimodale (voix, texte, neuro-imagerie), appui à la décision clinique et chatbots thérapeutiques. Les auteurs soulignent l'absence de biomarqueurs objectifs en santé mentale comme principal défi pour la validation rigoureuse de ces outils, et appellent à impliquer toutes les parties prenantes — patients, cliniciens, régulateurs — dans leur développement. L'article constitue une feuille de route scientifique pour une intégration responsable de l'IA dans les soins psychiques."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR",
+          "summary": "L'Institut Français de l'EMDR publie un guide pratique destiné aux cliniciens confrontés à des patients ayant recours à l'IA générative comme soutien psychologique. L'article recense les principaux usages observés en consultation (gestion des crises, exploration thérapeutique, journaux intimes), les risques documentés (dépendance, renforcement des biais cognitifs, violations éthiques) et des stratégies cliniques pour aborder ces pratiques en séance sans les invalider. Un repère précieux pour les praticiens francophones, à l'heure où la majorité des patients n'évoquent pas spontanément leur utilisation de l'IA."
+        },
+        {
+          "title": "École de Printemps 2026 : deux journées dédiées à l'innovation en psychiatrie de précision",
+          "url": "https://www.fondation-fondamental.org/ecole-de-printemps-2026-deux-journees-dediees-a-l-innovation-en-psychiatrie-de-precision",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental a tenu son École de Printemps 2026 autour de l'innovation en psychiatrie de précision, réunissant les réseaux de Centres Experts (schizophrénie, bipolarité, dépression résistante, autisme) autour des avancées en IA, génomique et neuro-imagerie. L'événement a mis en lumière les projets du programme PEPR PROPSY, co-piloté par Inserm et CNRS et financé par France 2030, qui vise à développer des outils diagnostiques innovants et des traitements personnalisés. Cette mobilisation institutionnelle illustre l'engagement croissant de la psychiatrie française dans la médecine de précision augmentée par l'IA."
+        },
+        {
+          "title": "AI chatbots are becoming mental health tools before they are ready",
+          "url": "https://fortune.com/2026/05/12/chatbots-are-becoming-mental-health-tools-before-they-are-ready/",
+          "source": "Fortune",
+          "summary": "Un article d'analyse publié dans Fortune en mai 2026 documente le paradoxe du déploiement des chatbots en santé mentale : adoptés à grande échelle avant d'avoir été suffisamment testés cliniquement, ils exposent des populations vulnérables à des risques élevés en l'absence de protocoles de sécurité adéquats. Les auteurs citent plusieurs cas de chatbots grand public utilisés en contexte de crise suicidaire sans mécanismes d'orientation vers des professionnels, et relaient les appels d'experts en santé publique pour une réglementation préalable au déploiement. Cet article fait écho aux nombreuses initiatives législatives en cours dans les États américains et en Europe."
+        }
+      ]
+    },
+    {
       "date": "2026-06-21",
       "summary": "La veille du 21 juin 2026 est dominée par deux dynamiques convergentes : la montée en puissance des régulations nationales et étatiques face aux risques avérés des chatbots en santé mentale, et la persistance de défaillances critiques dans la gestion des situations de crise. La Californie fait figure de pionnière avec sa loi SB 243 désormais en vigueur, imposant des protocoles de sécurité obligatoires aux opérateurs de chatbots compagnons. Des études récentes révèlent que ces outils peinent à détecter les signaux suicidaires, tandis que des chercheurs alertent sur les risques amplifiés des chatbots vocaux. La National Academy of Medicine publie un bilan d'ensemble appelant à un encadrement fédéral urgent, et la France dévoile son plan 2026 pour intégrer le numérique dans les soins psychiques de façon éthique.",
       "items": [
