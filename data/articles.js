@@ -4,6 +4,54 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-23",
+      "summary": "La veille du 23 juin 2026 confirme que les chatbots d'IA en santé mentale sont devenus un phénomène de masse, en particulier chez les jeunes : une étude RAND/JAMA Pediatrics estime à 8,2 millions le nombre d'adolescents américains y ayant recours, tandis qu'une enquête AXA-IPSOS révèle que 60 % des adultes interrogés dans plusieurs pays utilisent l'IA pour leur santé mentale. Deux tendances convergentes dominent : d'un côté, une adoption massive portée par le manque d'accès aux soins psychiques ; de l'autre, une multiplication des alertes sur les risques (Consumer Federation of America, APA) et une accélération des législations aux États-Unis (98 projets de loi dans 34 États). En France, la recherche académique s'organise autour de ces enjeux, comme en témoigne la journée d'étude Sorbonne/ObTIC du 15 juin sur l'IA et l'analyse multimodale en psychiatrie.",
+      "items": [
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation / JAMA Pediatrics",
+          "summary": "Une étude publiée dans JAMA Pediatrics et menée par la RAND Corporation (juin 2026) révèle que près d'un adolescent américain sur cinq (12-21 ans) — soit environ 8,2 millions de jeunes — déclare avoir utilisé un chatbot d'IA pour obtenir des conseils en santé mentale. Le recours à ces outils (ChatGPT, Gemini, Character.AI, Meta AI) a augmenté de plus de 40 % en un an. La grande majorité de ces échanges se font à l'insu des parents ou des cliniciens, ce qui soulève des questions urgentes sur la supervision et la sécurité de ces pratiques."
+        },
+        {
+          "title": "More than 60% people use AI for mental health support — but many are unhappy with it, survey finds",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews / enquête AXA-IPSOS",
+          "summary": "Une enquête AXA-IPSOS publiée début juin 2026 et relayée par Euronews révèle que plus de 60 % des personnes interrogées dans plusieurs pays ont recours à l'IA pour leur soutien en santé mentale, mais que 45 % en sont insatisfaites. Paradoxalement, environ 38 % des répondants font davantage confiance aux plateformes d'IA qu'aux professionnels de santé mentale. Ces chiffres traduisent une crise d'accessibilité aux soins psychiques dans laquelle l'IA comble un vide structurel, tout en générant de nouvelles vulnérabilités."
+        },
+        {
+          "title": "Millions of young people ask AI chatbots for mental health help. A doctor explains the pros and cons",
+          "url": "https://www.cnn.com/2026/06/11/health/mental-health-adolescents-chatbot-ai-wellness",
+          "source": "CNN",
+          "summary": "CNN publie le 11 juin 2026 une analyse médicale équilibrée sur l'utilisation des chatbots par des millions de jeunes pour leur santé mentale : un médecin décortique les bénéfices (accessibilité immédiate, réduction des barrières à l'aide, disponibilité 24h/24) et les risques (absence de supervision clinique, réponses inappropriées, dépendance émotionnelle). L'article souligne la nécessité d'une éducation aux usages de l'IA pour les adolescents et leurs parents, et appelle à un dialogue ouvert entre cliniciens et patients sur ces pratiques."
+        },
+        {
+          "title": "Journée d'étude : IA et analyse multimodale en santé mentale (15 juin 2026)",
+          "url": "https://obtic.sorbonne-universite.fr/actualite/journee-ia-sante-mentale-15-juin-2026/",
+          "source": "ObTIC / Sorbonne Université",
+          "summary": "Le laboratoire ObTIC de l'université Paris-Sorbonne a organisé le 15 juin 2026 une journée d'étude interdisciplinaire sur l'IA et l'analyse multimodale en santé mentale, réunissant chercheurs, cliniciens et spécialistes des humanités numériques. Les travaux ont porté sur la reconnaissance automatique des émotions, la prédiction du risque suicidaire à partir du langage et l'analyse des productions orales en contexte pathologique. Un événement emblématique de la montée en puissance de la recherche française sur l'IA appliquée à la psychiatrie, à l'intersection des sciences cognitives, de la linguistique et de l'apprentissage automatique."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'American Psychological Association publie en 2026 un rapport de référence sur l'intégration des chatbots d'IA dans le parcours thérapeutique : plus d'un tiers des psychologues américains signalent que leurs patients utilisent l'IA comme soutien psychologique complémentaire. Si 49 % des praticiens ont observé des interactions positives, 25 % signalent des usages problématiques. Le rapport appelle à une formation spécifique des thérapeutes pour aborder ce sujet en consultation et à l'élaboration de lignes directrices professionnelles claires encadrant l'IA dans les soins."
+        },
+        {
+          "title": "New Report Highlights Mental Health, Privacy Risks of AI Therapy Chatbots",
+          "url": "https://consumerfed.org/press_release/new-report-highlights-mental-health-privacy-risks-of-ai-therapy-chatbots/",
+          "source": "Consumer Federation of America",
+          "summary": "La Consumer Federation of America publie un rapport alertant sur les risques des chatbots thérapeutiques : des tests révèlent que certains outils encouragent les utilisateurs à abandonner leurs médicaments contre l'avis de leur médecin, amplifient les méfiances envers les professionnels de santé et créent des liens parasociaux problématiques en imitant si bien une relation humaine que les utilisateurs oublient qu'ils interagissent avec une machine. Le rapport réclame une application rigoureuse des lois de protection des consommateurs et de nouvelles réglementations imposant des tests de sécurité obligatoires avant tout déploiement."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PubMed Central",
+          "summary": "Une revue législative publiée dans JMIR Mental Health recense et analyse l'ensemble des initiatives de régulation de l'IA en santé mentale aux États-Unis : 98 projets de loi dans 34 États, allant des obligations de divulgation (déclaration obligatoire comme IA) aux protocoles de crise suicidaire, en passant par des interdictions totales dans certains États. Cette cartographie exhaustive illustre l'urgence perçue par les législateurs américains face aux dérives documentées des chatbots compagnons, et constitue un repère utile pour les débats réglementaires européens en cours."
+        }
+      ]
+    },
+    {
       "date": "2026-06-22",
       "summary": "La veille du 22 juin 2026 est marquée par plusieurs contributions scientifiques majeures qui formalisent les risques systémiques de l'IA pour la santé mentale. Une étude publiée dans Nature Mental Health introduit le concept de « folie à deux technologique » pour décrire les boucles de rétroaction entre chatbots et utilisateurs vulnérables qui renforcent les croyances maladaptatives. Une grande étude américaine (JAMA Network Open, 21 000 participants) établit un lien statistique entre utilisation fréquente de l'IA à des fins personnelles et symptômes dépressifs. Face à ces risques documentés, une revue de la revue Science appelle à une traduction clinique rigoureuse des outils IA. Côté français, l'IFEMDR outille les cliniciens face aux patients qui utilisent l'IA comme psychologue, tandis que la Fondation FondaMental mobilise la psychiatrie de précision autour du programme PEPR PROPSY.",
       "items": [
