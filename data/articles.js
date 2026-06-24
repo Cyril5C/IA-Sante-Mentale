@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-24",
+      "summary": "La veille du 24 juin 2026 illustre la maturité croissante du débat autour de l'IA et de la santé mentale : évaluations institutionnelles rigoureuses, données de population significatives et accélération législative convergent. La Pew Charitable Trusts livre une synthèse équilibrée sur les opportunités et défis de l'IA dans les soins psychiques, publiée le 22 juin, tandis qu'un sondage de la Kaiser Family Foundation révèle qu'un adulte américain sur trois consulte désormais des chatbots pour s'informer sur sa santé — dont 16 % pour leur santé mentale — avec de vives inquiétudes sur la vie privée. En France, une étude signée par des chercheurs de l'Inserm utilise l'IA elle-même pour explorer l'avenir de la pédopsychiatrie française à l'horizon 2050. Du côté des patients, une étude qualitative du JMIR donne la parole à des personnes vivant avec la dépression sur ce qu'elles attendent d'un chatbot. Législativement, l'État de New York avance deux projets de loi majeurs : l'interdiction des chatbots dangereux pour les mineurs et la création d'une responsabilité civile des opérateurs. En contrepoint, des thérapeutes témoignent de leur rapport ambigu à une IA que leurs patients plébiscitent sans les en informer.",
+      "items": [
+        {
+          "title": "AI in Mental Healthcare Presents Both Opportunities and Challenges",
+          "url": "https://www.pew.org/en/research-and-analysis/articles/2026/06/22/ai-in-mental-healthcare-presents-both-opportunities-and-challenges",
+          "source": "The Pew Charitable Trusts",
+          "summary": "Dans une analyse publiée le 22 juin 2026, la Pew Charitable Trusts dresse un état des lieux de l'IA dans les soins de santé mentale : outils de documentation clinique pour réduire le burn-out des soignants, chatbots grand public, applications de soutien entre les séances. Si ces technologies peuvent élargir l'accès aux soins pour des millions de patients non pris en charge, les auteurs soulignent que leur adoption dépasse largement la réglementation existante, laissant incertaines la sécurité, l'efficacité et la protection des données. L'article signale qu'environ 1,2 million d'utilisateurs exprimeraient chaque semaine des pensées suicidaires sur une seule plateforme d'IA, sans garantie de garde-fous cliniques certifiés."
+        },
+        {
+          "title": "Poll: 1 in 3 Adults Are Turning to AI Chatbots for Health Information, Equaling the Share Who Use Social Media for Health",
+          "url": "https://www.kff.org/health-information-trust/poll-1-in-3-adults-are-turning-to-ai-chatbots-for-health-information-equaling-the-share-who-use-social-media-for-health/",
+          "source": "Kaiser Family Foundation (KFF)",
+          "summary": "Un sondage KFF mené auprès de 1 343 adultes américains (février-mars 2026) révèle qu'un tiers d'entre eux ont eu recours à des chatbots IA pour obtenir des informations sur leur santé au cours de l'année écoulée, dont 16 % pour leur santé mentale ou leur bien-être émotionnel. Principal motif : la rapidité (65 %). Malgré cet engouement, 77 % des adultes expriment des inquiétudes sur la confidentialité de leurs données médicales partagées avec une IA, et 58 % de ceux qui ont consulté un chatbot pour leur santé mentale n'ont pas ensuite contacté un professionnel de santé."
+        },
+        {
+          "title": "The Future of Child and Adolescent Psychiatry in France (2026–2050): An AI-Assisted Qualitative Action Research Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "European Child & Adolescent Psychiatry / PubMed Central",
+          "summary": "Des chercheurs français (Bruno Falissard, Pauline Espi, Alexandra Rouquette) publient dans European Child & Adolescent Psychiatry une étude de prospective inédite sur l'avenir de la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050, en recourant eux-mêmes à l'IA comme outil de recherche qualitative. L'étude cartographie plusieurs scénarios selon les trajectoires de numérisation du système de soins, la démographie des professionnels et les politiques publiques. Un travail emblématique qui illustre comment l'IA transforme non seulement la pratique clinique, mais aussi les méthodologies de la recherche en psychiatrie française."
+        },
+        {
+          "title": "AI Chatbots for Mental Health Self-Management: Lived Experience–Centered Qualitative Study",
+          "url": "https://mental.jmir.org/2026/1/e78288",
+          "source": "JMIR Mental Health",
+          "summary": "Une étude qualitative publiée dans JMIR Mental Health donne la parole à des personnes vivant avec la dépression pour évaluer les chatbots IA de soutien psychologique. Trois priorités entrelacées émergent : accéder à des informations actionnables, recevoir une validation émotionnelle assortie de limites clairement posées, et bénéficier d'une personnalisation sans devoir divulguer de données sensibles. Ces résultats invitent les développeurs à concevoir des outils complémentaires aux professionnels — et non substitutifs — en ancrant la conception dans l'expérience réelle des personnes concernées."
+        },
+        {
+          "title": "AI Chatbot Ban for Minors Passes Internet & Technology Committee in New York",
+          "url": "https://www.nysenate.gov/newsroom/press-releases/2026/kristen-gonzalez/ai-chatbot-ban-minors-passes-internet-technology",
+          "source": "New York State Senate",
+          "summary": "Le Sénat de l'État de New York a fait avancer deux projets de loi majeurs : S9051, qui interdirait aux chatbots proposant des fonctionnalités dangereuses de cibler les mineurs, et S7263, qui engagerait la responsabilité civile des opérateurs de chatbots se substituant à des professionnels de santé mentale agréés. Ces textes s'inscrivent dans une dynamique législative nationale — New York avait déjà adopté fin 2025 une loi imposant des protocoles de sécurité aux IA compagnes — et pourraient faire jurisprudence pour d'autres États et influencer la réflexion réglementaire européenne."
+        },
+        {
+          "title": "Many People Now Trust AI With Their Feelings. And Therapists Want to Talk About It",
+          "url": "https://www.wbur.org/news/2026/05/07/artificial-intelligence-therapy-mental-health-care",
+          "source": "WBUR (NPR Boston)",
+          "summary": "Un reportage de WBUR recueille les témoignages de thérapeutes confrontés à une réalité nouvelle : leurs patients font confiance à l'IA pour leurs émotions, souvent sans en parler en séance. Si certains cliniciens reconnaissent les bénéfices (accessibilité immédiate, levée du tabou), beaucoup s'inquiètent de l'érosion de l'alliance thérapeutique et de la difficulté à aborder ces usages avec des patients qui les taisent. Le reportage illustre le fossé grandissant entre des pratiques numériques déjà massives et une profession qui cherche encore comment y répondre."
+        }
+      ]
+    },
+    {
       "date": "2026-06-23",
       "summary": "La veille du 23 juin 2026 confirme que les chatbots d'IA en santé mentale sont devenus un phénomène de masse, en particulier chez les jeunes : une étude RAND/JAMA Pediatrics estime à 8,2 millions le nombre d'adolescents américains y ayant recours, tandis qu'une enquête AXA-IPSOS révèle que 60 % des adultes interrogés dans plusieurs pays utilisent l'IA pour leur santé mentale. Deux tendances convergentes dominent : d'un côté, une adoption massive portée par le manque d'accès aux soins psychiques ; de l'autre, une multiplication des alertes sur les risques (Consumer Federation of America, APA) et une accélération des législations aux États-Unis (98 projets de loi dans 34 États). En France, la recherche académique s'organise autour de ces enjeux, comme en témoigne la journée d'étude Sorbonne/ObTIC du 15 juin sur l'IA et l'analyse multimodale en psychiatrie.",
       "items": [
