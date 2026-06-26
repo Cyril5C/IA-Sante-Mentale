@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-26",
+      "summary": "La journée du 26 juin est marquée par la publication de données d'ampleur inédite confirmant la massification de l'usage de l'IA pour la santé mentale : 1 jeune Américain sur 5 y a déjà eu recours, et plus de 60 % des adultes interrogés dans 18 pays l'ont utilisée pour un soutien émotionnel — même si près d'un sur deux en ressort insatisfait. L'enquête 2026 de l'APA auprès de 1 200 psychologues révèle une réalité de terrain contrastée : bénéfices observés en termes d'accessibilité, mais aussi cas préoccupants de dépendance et de délires. En parallèle, la vague législative américaine s'accélère — 36 États ont déposé des textes en 2026 encadrant les chatbots thérapeutiques — tandis que la Pew Charitable Trusts appelle à un cadre fédéral cohérent, et que les médias francophones (Euronews, Radio-Canada) commencent à mesurer l'ampleur du phénomène pour leurs publics.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'Association américaine de psychologie publie les résultats de son enquête 2026 auprès de plus de 1 200 psychologues licenciés : 77 % ont eu des patients ayant utilisé une IA pour un soutien émotionnel, et 36 % signalent des cas de dépendance au chatbot. Si 47 % des psychologues estiment que l'IA rendra les professionnels plus efficaces, 15 % ont observé des distorsions cognitives ou des délires liés à ces usages — un tableau nuancé à l'heure où l'IA s'intègre de fait dans le parcours thérapeutique."
+        },
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News",
+          "summary": "Selon une étude nationale américaine, 19,2 % des jeunes (environ 8,2 millions d'adolescents et de jeunes adultes) ont déjà consulté un chatbot d'IA pour des conseils en santé mentale, contre 13,1 % en 2024. NBC News rapporte que cette progression rapide inquiète les experts, qui soulignent que ces outils ne sont pas conçus pour gérer les crises psychiques graves et que la formation des professionnels à ces nouveaux usages reste insuffisante."
+        },
+        {
+          "title": "AI in Mental Healthcare Presents Both Opportunities and Challenges",
+          "url": "https://www.pew.org/en/research-and-analysis/articles/2026/06/22/ai-in-mental-healthcare-presents-both-opportunities-and-challenges",
+          "source": "The Pew Charitable Trusts",
+          "summary": "La Pew Charitable Trusts publie le 22 juin une analyse sur l'IA dans les soins de santé mentale, soulignant à la fois les opportunités — amélioration de l'accès, réduction des délais d'attente, aide à la documentation clinique (plus de 60 outils sur le marché) — et les défis : manque de validation, risques de dépendance, absence de cadre réglementaire fédéral unifié. L'organisation appelle à une régulation cohérente avant tout déploiement généralisé."
+        },
+        {
+          "title": "More than 60% people use AI for mental health support — but many are unhappy with it",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews Health",
+          "summary": "Une vaste enquête AXA menée auprès de 19 000 adultes dans 18 pays révèle que plus de 60 % des personnes ont eu recours à l'IA pour un soutien en santé mentale, mais que 45 % en sont insatisfaites. Euronews met en perspective ces chiffres avec la crise mondiale d'accès aux soins psychologiques : malgré le scepticisme des utilisateurs, la demande pour ces solutions alternatives reste forte, en particulier parmi les jeunes générations."
+        },
+        {
+          "title": "L'IA en santé mentale, entre risques et innovation",
+          "url": "https://ici.radio-canada.ca/nouvelle/2230633/ia-intelligence-artificielle-chatbot-sante-mentale",
+          "source": "Radio-Canada",
+          "summary": "Radio-Canada propose un tour d'horizon francophone sur l'essor des chatbots d'IA en santé mentale, en donnant la parole à des chercheurs et cliniciens québécois. L'article soulève la tension entre l'accessibilité inédite que ces outils offrent — notamment pour les personnes en milieu rural ou en liste d'attente — et les risques documentés de dérive émotionnelle, de dépendance et d'absence de filtres cliniques, avec des implications directes pour le système de santé francophone."
+        },
+        {
+          "title": "6 states regulating AI in mental health",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/3-states-regulating-ai-and-mental-health/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health fait le point sur la vague législative américaine autour des chatbots d'IA en santé mentale : en 2026, 36 États ont introduit plus de 70 projets de loi, et des États comme l'Illinois, le Nevada et le Tennessee ont adopté des mesures allant jusqu'à l'interdiction totale des IA se présentant comme des professionnels de santé mentale. Ces avancées, souvent déclenchées par des drames impliquant des adolescents, dessinent un paysage réglementaire en rapide évolution."
+        }
+      ]
+    },
+    {
       "date": "2026-06-25",
       "summary": "La veille du 25 juin 2026 est marquée par l'émergence documentée d'un risque clinique jusqu'ici mal évalué : la psychose induite ou aggravée par les chatbots d'IA. Des publications récentes, relayées en France par Futura Sciences, Psychomédia et The Conversation, décrivent des cas avérés de délires, d'aggravation de troubles bipolaires et d'encouragement involontaire à l'automutilation chez des utilisateurs intensifs. Ce risque vient s'ajouter aux inégalités d'accès révélées par l'AJMC — les adolescentes et les jeunes Noirs sur-représentés parmi les utilisateurs — dans un contexte où 40 % des jeunes Américains ne reçoivent aucun suivi psychologique. La National Academy of Medicine publie une synthèse de référence sur ce qui fonctionne, ce qui nuit et les priorités réglementaires, tandis qu'une revue académique Wiley rappelle que les chatbots ne sauraient remplacer la relation thérapeutique humaine.",
       "items": [
