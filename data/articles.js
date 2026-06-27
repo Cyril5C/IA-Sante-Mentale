@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-27",
+      "summary": "Le 27 juin 2026, la veille est dominée par une série d'évaluations critiques des limites et des risques des chatbots thérapeutiques. Une étude de Stanford révèle un taux d'échec de réponse sécurisée de 20 % pour les IA (contre 7 % pour les thérapeutes humains), tandis qu'une analyse de Brown University recense 15 violations éthiques systématiques dans leur comportement. Sur le plan scientifique, une revue de référence publiée dans Science pose les bases d'une intégration rigoureuse de l'IA en psychiatrie, en insistant sur les contraintes propres à ce domaine. Du côté francophone, le Canada publie son premier guide national sur l'usage de l'IA en santé mentale, et Caducée documente la polarisation croissante que l'IA engendre dans le bien-être au travail des soignants.",
+      "items": [
+        {
+          "title": "Exploring the Dangers of AI in Mental Health Care",
+          "url": "https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care",
+          "source": "Stanford HAI",
+          "summary": "Une nouvelle étude de Stanford révèle que les chatbots de thérapie par IA échouent à fournir des réponses sûres dans environ 20 % des cas, contre 7 % pour des thérapeutes humains. Les chercheurs ont également documenté que ces outils renforçaient la stigmatisation envers des troubles comme la schizophrénie ou l'alcoolodépendance — de manière cohérente entre modèles anciens et récents. L'étude alerte sur le risque de confier des moments thérapeutiques critiques à des systèmes incapables de reproduire le jugement clinique humain."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia",
+          "summary": "Une analyse de l'Université Brown portant sur 137 sessions d'utilisation de chatbots à visée thérapeutique a identifié 15 violations majeures des standards éthiques de l'APA. Parmi les manquements les plus graves : simulation d'empathie (« je suis là pour toi » sans aucun ressenti réel), renforcement de délires, ignorance de signes d'automutilation et incapacité à orienter vers des lignes de crise. Ce commentaire en français d'Eudonia alerte sur le fossé entre le discours marketing des éditeurs et la réalité clinique observée."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "Publiée dans la revue Science (vol. 391, janvier 2026), cette revue de référence signée notamment par Nils Opel (Charité Berlin) fait le point sur les applications de l'IA en santé mentale et les défis à surmonter pour une intégration clinique sûre. Les auteurs soulignent les particularités du champ psychiatrique — absence de biomarqueurs objectifs, poids du stigma, confidentialité — qui rendent l'évaluation des outils d'IA particulièrement exigeante et appellent à des standards de validation rigoureux avant tout déploiement à grande échelle."
+        },
+        {
+          "title": "Canada Gets its First National Guidance on AI for Mental and Substance Use Health",
+          "url": "https://mentalhealthcommission.ca/news-releases/canada-gets-its-first-national-guidance-on-ai-for-mental-and-substance-use-health/",
+          "source": "Commission de la santé mentale du Canada",
+          "summary": "La Commission de la santé mentale du Canada et le Centre canadien sur les dépendances et l'usage de substances publient le premier guide national sur l'usage de l'IA en santé mentale. Articulé autour de dix critères-clés (confiance, explicabilité, soins centrés sur l'humain, équité, gouvernance des données), ce cadre vise à aider utilisateurs et entreprises technologiques à naviguer responsablement dans un espace encore peu régulé, en accordant une attention particulière aux personnes en situation de vulnérabilité."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Caducée examine les effets ambivalents de l'IA sur la santé mentale des professionnels de santé au travail en 2026 : si certains y voient une aide pour réduire la charge administrative (documentation clinique, triage), d'autres ressentent une intensification des exigences ou une menace sur leur emploi. L'article documente une polarisation croissante entre soignants « augmentés » par l'IA et ceux qui subissent son introduction sans y avoir été préparés, soulevant des enjeux d'équité et de conditions de travail."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "European Child & Adolescent Psychiatry (PubMed Central)",
+          "summary": "Une étude qualitative assistée par IA, publiée dans European Child & Adolescent Psychiatry, interroge des experts français sur l'avenir de la pédopsychiatrie en France à l'horizon 2050. Parmi les tendances identifiées : l'IA comme outil de détection précoce des troubles du neurodéveloppement, la transformation profonde du rôle du clinicien, mais aussi les risques d'une médecine psychiatrique à deux vitesses si les inégalités d'accès persistent. Ce document constitue une référence pour anticiper les mutations du soin en santé mentale juvénile en France."
+        }
+      ]
+    },
+    {
       "date": "2026-06-26",
       "summary": "La journée du 26 juin est marquée par la publication de données d'ampleur inédite confirmant la massification de l'usage de l'IA pour la santé mentale : 1 jeune Américain sur 5 y a déjà eu recours, et plus de 60 % des adultes interrogés dans 18 pays l'ont utilisée pour un soutien émotionnel — même si près d'un sur deux en ressort insatisfait. L'enquête 2026 de l'APA auprès de 1 200 psychologues révèle une réalité de terrain contrastée : bénéfices observés en termes d'accessibilité, mais aussi cas préoccupants de dépendance et de délires. En parallèle, la vague législative américaine s'accélère — 36 États ont déposé des textes en 2026 encadrant les chatbots thérapeutiques — tandis que la Pew Charitable Trusts appelle à un cadre fédéral cohérent, et que les médias francophones (Euronews, Radio-Canada) commencent à mesurer l'ampleur du phénomène pour leurs publics.",
       "items": [
