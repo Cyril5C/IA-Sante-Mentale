@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-28",
+      "summary": "La veille du 28 juin 2026 est marquée par deux lignes de force complémentaires : un renforcement spectaculaire de l'arsenal législatif américain encadrant les chatbots de santé mentale — avec une revue exhaustive de 793 projets de loi dans les 50 États publiée dans JMIR Mental Health, des initiatives spécifiques en Californie et une analyse juridique de la loi pionnière de l'Illinois — et de nouvelles données empiriques sur les risques psychologiques de l'IA, notamment l'association documentée dans JAMA Network Open entre usage quotidien de l'IA générative et symptômes dépressifs chez 21 000 adultes américains. La presse francophone (Medscape France, Pulse.sn) relaie et contextualise ces enjeux pour ses publics, confirmant la portée mondiale d'un débat qui ne se limite plus aux États-Unis.",
+      "items": [
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PubMed Central",
+          "summary": "Des chercheurs de la Division de psychiatrie numérique du Beth Israel Deaconess Medical Center (Harvard) publient dans JMIR Mental Health la première revue académique exhaustive de toute la législation américaine encadrant l'IA en santé mentale. Sur 793 projets de loi passés en revue (janvier 2022 – mai 2025 dans les 50 États), 143 ont un impact direct sur les outils d'IA en psychiatrie. L'étude documente une fragmentation réglementaire préoccupante : entre interdictions totales (Illinois, Nevada) et simples obligations de transparence, et formule des recommandations pour un cadre fédéral cohérent qui reste absent."
+        },
+        {
+          "title": "Artificial Intelligence in Mental Health Services Under Illinois Public Act 104-0054: Legal Boundaries and a Framework for Establishing Safe, Effective AI Tools",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12677879/",
+          "source": "PMC / Journal of Law and the Biosciences",
+          "summary": "Une analyse juridique publiée sur PubMed Central décortique la loi pionnière de l'Illinois (Public Act 104-0054), qui interdit l'usage de l'IA comme substitut à un professionnel de santé mentale agréé — la mesure la plus restrictive adoptée par un État américain à ce jour. Les auteurs examinent les frontières légales de cette loi, ses implications pour les développeurs et les prestataires de soins, et proposent un cadre pour concevoir des outils d'IA sûrs et efficaces dans ce contexte réglementaire strict. Ce travail s'inscrit dans la réflexion croissante sur la responsabilité juridique des plateformes d'IA thérapeutique."
+        },
+        {
+          "title": "Senator Padilla Introduces Protections from Dangerous AI Therapy Products",
+          "url": "https://sd18.senate.ca.gov/news/senator-padilla-introduces-protections-dangerous-ai-therapy-products",
+          "source": "Sénat de Californie (18e district)",
+          "summary": "Le sénateur californien Steve Padilla dépose un projet de loi visant à protéger les usagers contre les produits d'IA thérapeutique dangereux, en réponse aux suicides d'adolescents survenus après des interactions avec des chatbots se faisant passer pour des thérapeutes. Ce texte s'inscrit dans une vague législative sans précédent en 2026 — 98 projets de loi dans 34 États — et traduit la volonté de la Californie de jouer un rôle moteur dans la régulation des IA grand public à vocation thérapeutique, au-delà des seules obligations de divulgation déjà adoptées par New York."
+        },
+        {
+          "title": "Using AI for advice or other personal reasons is linked to depression and anxiety",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-personal-support-linked-depression-anxiety-study-rcna255036",
+          "source": "NBC News (étude : JAMA Network Open)",
+          "summary": "NBC News relaie une étude publiée dans JAMA Network Open portant sur près de 21 000 adultes américains : les utilisateurs quotidiens de l'IA générative présentent un risque de dépression modérée à sévère environ 30 % plus élevé, et ce chiffre monte à 54 % chez les 45-64 ans. Les chercheurs précisent que le lien est une association et non une causalité prouvée — les personnes en détresse pouvant se tourner vers l'IA pour chercher du réconfort — mais recommandent la prudence, surtout pour les usages à visée d'accompagnement émotionnel sans supervision clinique."
+        },
+        {
+          "title": "Peut-on confier sa santé mentale à une IA ? Une étude soulève des doutes",
+          "url": "https://www.pulse.sn/article/peut-on-confier-sa-sante-mentale-a-une-ia-une-etude-souleve-des-doutes-2026062511232721066",
+          "source": "Pulse.sn (presse francophone, Sénégal)",
+          "summary": "Le média sénégalais Pulse.sn publie le 25 juin une analyse en français des doutes croissants sur la capacité des chatbots d'IA à prendre en charge la santé mentale. Reprenant les données de plusieurs études récentes — dont celle de JAMA Network Open sur le lien avec la dépression et les études stanford sur les réponses sécurisées inadaptées — l'article illustre que le questionnement sur les limites de l'IA en santé mentale est désormais mondial et touche aussi les publics francophones d'Afrique, de plus en plus exposés à ces outils sans filet réglementaire local."
+        },
+        {
+          "title": "Dans l'Actu : progrès mesurables et défis réglementaires pour l'IA en santé",
+          "url": "https://francais.medscape.com/viewarticle/lactu-progr%C3%A8s-mesurables-et-d%C3%A9fis-2026a100058z",
+          "source": "Medscape (édition française)",
+          "summary": "Medscape France dresse un bilan des avancées concrètes de l'IA en santé et des défis réglementaires qui persistent : malgré des résultats probants en radiologie, oncologie et détection précoce de pathologies, la psychiatrie reste un domaine où les risques demeurent insuffisamment évalués avant déploiement. L'article souligne le calendrier serré de l'AI Act européen — dont les dispositions santé entreront pleinement en vigueur en août 2026 — et les zones grises qui subsistent pour les outils de soutien psychologique non certifiés comme dispositifs médicaux, dans un contexte de forte pression commerciale."
+        }
+      ]
+    },
+    {
       "date": "2026-06-27",
       "summary": "Le 27 juin 2026, la veille est dominée par une série d'évaluations critiques des limites et des risques des chatbots thérapeutiques. Une étude de Stanford révèle un taux d'échec de réponse sécurisée de 20 % pour les IA (contre 7 % pour les thérapeutes humains), tandis qu'une analyse de Brown University recense 15 violations éthiques systématiques dans leur comportement. Sur le plan scientifique, une revue de référence publiée dans Science pose les bases d'une intégration rigoureuse de l'IA en psychiatrie, en insistant sur les contraintes propres à ce domaine. Du côté francophone, le Canada publie son premier guide national sur l'usage de l'IA en santé mentale, et Caducée documente la polarisation croissante que l'IA engendre dans le bien-être au travail des soignants.",
       "items": [
