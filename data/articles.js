@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-29",
+      "summary": "Le 29 juin 2026, les données chiffrées confirment l'ampleur du phénomène : plus de 60 % de la population mondiale se tourne vers l'IA pour sa santé mentale (AXA/Ipsos, 19 000 adultes dans 18 pays), dont 1 jeune Américain sur 5 (RAND/JAMA Pediatrics), et 77 % des psychologues américains ont désormais des patients qui leur en parlent (APA). En France, l'enquête CNIL/Groupe VYV révèle que 86 % des 11-25 ans utilisent l'IA conversationnelle, un tiers la considérant comme un « psy », dans un contexte où 65 % de ces jeunes présentent des signes d'anxiété — une vulnérabilité face à des outils insuffisamment régulés. Ces constats massifs coexistent avec un avertissement de Bloomberg sur une face cachée du problème : les enquêteurs spécialisés dans la protection des enfants voient leur propre santé mentale détruite par l'afflux de contenus pédopornographiques générés par l'IA, sans filet de soutien psychologique suffisant.",
+      "items": [
+        {
+          "title": "Around 1 in 5 Young People Use AI Chatbots for Mental Health Advice, Survey Finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News (étude RAND / JAMA Pediatrics)",
+          "summary": "Une étude nationale de RAND, publiée dans JAMA Pediatrics en juin 2026, établit que 19,2 % des adolescents et jeunes adultes américains (environ 8,2 millions) ont eu recours à des chatbots d'IA pour obtenir des conseils en santé mentale, contre 13,1 % un an plus tôt. Plus préoccupant encore : 63 % de ces utilisateurs n'ont révélé cet usage à personne, laissant parents et médecins dans l'ignorance totale — notamment chez les jeunes filles et les 18-21 ans, qui surreprésentent significativement les utilisateurs, et chez les jeunes Noirs, dont les odds d'un usage mensuel sont 5,45 fois plus élevés que chez les jeunes Blancs. Si 92 % des utilisateurs estiment les conseils « utiles », les chercheurs soulignent que ce chiffre peut refléter la tendance des chatbots à flatter leurs interlocuteurs plutôt que la qualité réelle des réponses."
+        },
+        {
+          "title": "Patients Are Bringing AI to Therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Dans une enquête menée auprès de plus de 1 200 psychologues cliniciens américains, l'APA constate que 77 % ont eu des patients évoquant leur usage de l'IA, et que 35 % ont des patients qui utilisent l'IA comme un « professionnel de santé mentale supplémentaire ». Alors que 94 % des psychologues estiment que les chatbots ne peuvent pas traiter des troubles mentaux avec la nuance requise, le rapport documente des risques concrets : plus d'un tiers des cliniciens ont observé des signes de dépendance chez leurs patients à l'égard des chatbots, et 15 % ont constaté des pensées déformées ou des formes de délire liées à ces outils. L'APA publie en parallèle un guide officiel sur les usages appropriés et inappropriés de l'IA pour la santé mentale."
+        },
+        {
+          "title": "Une enquête alerte sur les risques de l'IA conversationnelle sur la santé mentale des jeunes",
+          "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html",
+          "source": "France Info",
+          "summary": "France Info relaie l'enquête Ipsos BVA menée pour la CNIL et le Groupe VYV auprès de 3 800 jeunes (11-25 ans) dans quatre pays européens, dont 1 000 en France : 86 % des jeunes Français utilisent l'IA conversationnelle, 48 % pour aborder des sujets personnels ou intimes, et 33 % la considèrent comme un « psy » — proportion qui monte à 46 % chez ceux souffrant d'anxiété. Le contexte est particulièrement préoccupant : 65 % de ces jeunes présentent des signes d'anxiété, dont 28 % susceptibles de souffrir d'un trouble anxieux généralisé, un terreau vulnérable face à des outils insuffisamment régulés. Seulement 32 % des répondants savent ce qu'il advient des informations qu'ils partagent avec l'IA, et 85 % demandent davantage d'informations sur les risques et les bonnes pratiques."
+        },
+        {
+          "title": "IA conversationnelle : quel impact sur la santé mentale des jeunes européens ?",
+          "url": "https://www.santementale.fr/2026/05/quel-impact-des-usages-de-lia-sur-la-sante-mentale-des-jeunes-europeens/",
+          "source": "Santé Mentale (revue professionnelle française)",
+          "summary": "La revue professionnelle Santé Mentale analyse les résultats de l'enquête CNIL/Groupe VYV pour leurs implications cliniques : un tiers des jeunes européens considère l'IA conversationnelle comme un substitut au thérapeute, avec une proportion montant à 46 % chez ceux souffrant d'anxiété, ce qui interroge la supervision clinique et la continuité des soins. La revue souligne que cette adoption massive se produit dans un angle mort réglementaire — la majorité des jeunes ignorant ce qu'il advient de leurs données — et qu'elle exige une réponse structurée de la part des professionnels de santé mentale, au-delà des seules mesures de protection des données."
+        },
+        {
+          "title": "More Than 60% of People Use AI for Mental Health Support — But Many Are Unhappy With It",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews (rapport AXA/Ipsos Mind Health 2026)",
+          "summary": "Le rapport annuel Mind Health d'AXA, réalisé avec Ipsos auprès de 19 000 adultes dans 18 pays, révèle que 63 % de la population mondiale se tourne vers l'IA pour des questions de santé mentale — et que 42 % suivent presque systématiquement ses conseils. Paradoxe central : 45 % des utilisateurs se déclarent insatisfaits des réponses reçues, et 46 % de l'ensemble des répondants admettent « souffrir ou survivre » plutôt que de s'épanouir — un taux atteignant quasi le double chez les 18-24 ans. AXA et Ipsos concluent que l'IA peut jouer un rôle positif en prévention et dans la reconnaissance de ses propres difficultés, à condition d'être utilisée de façon encadrée."
+        },
+        {
+          "title": "AI and Funding Cuts Worsen Crisis for Child Abuse Investigators",
+          "url": "https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement/",
+          "source": "Bloomberg",
+          "summary": "Bloomberg met en lumière une face méconnue de l'impact de l'IA sur la santé mentale : les enquêteurs spécialisés dans les violences sexuelles sur mineurs subissent une explosion de leur charge de travail du fait des contenus pédopornographiques générés par l'IA — la Caroline du Nord a connu une multiplication par 11 des signalements entre 2019 et 2026 — qui détruit leur santé mentale dans l'isolement professionnel. Le programme Innocent Justice Foundation, qui offrait depuis près de vingt ans un soutien psychologique à ces enquêteurs, doit drastiquement réduire ses services faute de financement fédéral. Cette enquête illustre comment l'IA générative crée des crises de santé mentale non seulement chez ses utilisateurs directs, mais aussi chez les professionnels qui doivent gérer ses dérives à grande échelle."
+        }
+      ]
+    },
+    {
       "date": "2026-06-28",
       "summary": "La veille du 28 juin 2026 est marquée par deux lignes de force complémentaires : un renforcement spectaculaire de l'arsenal législatif américain encadrant les chatbots de santé mentale — avec une revue exhaustive de 793 projets de loi dans les 50 États publiée dans JMIR Mental Health, des initiatives spécifiques en Californie et une analyse juridique de la loi pionnière de l'Illinois — et de nouvelles données empiriques sur les risques psychologiques de l'IA, notamment l'association documentée dans JAMA Network Open entre usage quotidien de l'IA générative et symptômes dépressifs chez 21 000 adultes américains. La presse francophone (Medscape France, Pulse.sn) relaie et contextualise ces enjeux pour ses publics, confirmant la portée mondiale d'un débat qui ne se limite plus aux États-Unis.",
       "items": [
