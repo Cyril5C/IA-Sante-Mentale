@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-06-30",
+      "summary": "La veille du 30 juin 2026 est dominée par la consolidation réglementaire et scientifique du sujet : le Rhode Island devient le sixième État américain à encadrer spécifiquement les chatbots de santé mentale, tandis qu'en France la CNIL et la HAS finalisent leur guide de bonnes pratiques destiné aux établissements de soins. Sur le plan scientifique, une méta-analyse de référence (npj Digital Medicine) confirme une efficacité modeste mais réelle des chatbots sur la dépression et l'anxiété, quand une étude qualitative (JMIR Mental Health) précise les attentes des patients en matière de conception éthique. En toile de fond, une étude de Drexel University documente pour la première fois les mécanismes d'addiction comportementale aux chatbots compagnons chez les adolescents, et l'OMS appelle à traiter l'usage généralisé de l'IA générative comme un enjeu de santé publique à part entière.",
+      "items": [
+        {
+          "title": "Rhode Island enacts three new AI laws, including a therapy chatbot ban",
+          "url": "https://www.transparencycoalition.ai/news/rhode-island-enacts-four-new-ai-laws-including-a-therapy-chatbot-ban",
+          "source": "Transparency Coalition (suivi législatif IA)",
+          "summary": "Le gouverneur du Rhode Island Dan McKee a signé le 22 juin 2026 trois lois encadrant l'IA en santé mentale : la première impose aux opérateurs de chatbots des protocoles de détection des idées suicidaires et d'orientation vers des services de crise, sous peine d'amendes pouvant atteindre 15 000 dollars par jour reversées à la prévention du suicide ; la deuxième interdit aux IA non encadrées médicalement de simuler un attachement émotionnel ou de se présenter comme compagnons thérapeutiques pour mineurs ; la troisième encadre l'usage de l'IA dans la documentation clinique. L'État rejoint ainsi l'Illinois, le Nevada, la Californie, l'État de Washington et New York dans la vague réglementaire américaine de 2026."
+        },
+        {
+          "title": "IA et santé : la HAS et la CNIL lancent une consultation publique sur un projet de guide",
+          "url": "https://www.cnil.fr/fr/ia-et-sante-la-has-et-la-cnil-lancent-une-consultation-publique-sur-un-projet-de-guide",
+          "source": "CNIL / Haute Autorité de Santé",
+          "summary": "La CNIL et la HAS ont co-élaboré un guide de bonnes pratiques « Accompagner le bon usage des systèmes d'intelligence artificielle en contexte de soins », qui couvre notamment les usages en santé mentale, soumis à consultation publique jusqu'au 16 avril 2026 et désormais en cours de finalisation. Structuré en dix fiches couvrant tout le cycle de vie d'un système d'IA — de l'acquisition à la désactivation — et classant les recommandations en quatre niveaux d'exigence, ce texte s'adresse à l'ensemble des établissements et professionnels de santé et fait écho aux inquiétudes exprimées par les jeunes patients qui utilisent des chatbots comme confidents."
+        },
+        {
+          "title": "Towards responsible AI for mental health and well-being: experts chart a way forward",
+          "url": "https://www.who.int/news/item/20-03-2026-towards-responsible-ai-for-mental-health-and-well-being--experts-chart-a-way-forward",
+          "source": "Organisation mondiale de la santé (OMS)",
+          "summary": "Réunis fin janvier 2026 à l'initiative du Delft Digital Ethics Centre, plus de 30 experts internationaux en IA, santé mentale et éthique ont formulé pour l'OMS des recommandations appelant à traiter l'usage généralisé de l'IA générative comme un enjeu de santé publique à part entière, bien au-delà des seuls outils explicitement conçus pour la santé mentale. Le texte réclame des cadres de sécurité structurés avec détection des situations de crise et orientation vers une aide humaine, une validation clinique rigoureuse des outils, ainsi qu'une approche fondée sur les droits garantissant confidentialité et consentement éclairé — l'IA devant compléter, et non remplacer, le soin humain."
+        },
+        {
+          "title": "AI Chatbots for Mental Health Self-Management: Lived Experience–Centered Qualitative Study",
+          "url": "https://mental.jmir.org/2026/1/e78288",
+          "source": "JMIR Mental Health",
+          "summary": "Des chercheurs d'Indiana University Indianapolis et de l'University of Illinois Urbana-Champaign ont interrogé 17 personnes ayant vécu une dépression sur leur expérience d'un chatbot expérimental basé sur GPT-4o, conçu pour simuler des situations d'auto-gestion de la dépression. Les participants attendent des informations concrètement actionnables, une validation émotionnelle aux limites clairement posées, et une personnalisation qui n'exige pas de divulguer des données sensibles à risque — des pistes de conception destinées à faire de ces outils des compléments, et non des substituts, au soutien humain."
+        },
+        {
+          "title": "Teens Are Becoming Concerned About Their Attachment to AI Chatbots",
+          "url": "https://drexel.edu/news/archive/2026/April/teen-AI-chatbot-addiction",
+          "source": "Drexel University",
+          "summary": "En analysant 318 publications Reddit d'adolescents de 13 à 17 ans évoquant leur dépendance à Character.AI, des chercheurs de Drexel ont retrouvé les six composantes classiques de l'addiction comportementale (saillance, modification de l'humeur, tolérance, sevrage, conflit, rechute), un quart des messages faisant état d'un usage initial à visée de soutien émotionnel ou psychologique. L'équipe propose un cadre de conception, CARE (besoins globaux, conscience de l'attachement, empathie respectueuse, facilité de sortie), pour inciter les concepteurs de chatbots compagnons à limiter les dépendances plutôt qu'à maximiser l'engagement."
+        },
+        {
+          "title": "Systematic review and meta-analysis of chatbots in the management of depressive and anxiety symptoms",
+          "url": "https://www.nature.com/articles/s41746-026-02566-w",
+          "source": "npj Digital Medicine",
+          "summary": "Cette méta-analyse portant sur 39 essais randomisés (plus de 7 400 participants pour la dépression, 7 600 pour l'anxiété) conclut que les chatbots produisent une réduction statistiquement significative, bien que modeste, des symptômes dépressifs et anxieux par rapport à des groupes contrôles, avec des effets plus marqués chez les personnes présentant des symptômes cliniques ou subcliniques. Cette synthèse apporte une base scientifique plus solide au débat sur l'efficacité réelle des chatbots de santé mentale, jusqu'ici dominé par des études isolées et des retours d'expérience contrastés."
+        }
+      ]
+    },
+    {
       "date": "2026-06-29",
       "summary": "Le 29 juin 2026, les données chiffrées confirment l'ampleur du phénomène : plus de 60 % de la population mondiale se tourne vers l'IA pour sa santé mentale (AXA/Ipsos, 19 000 adultes dans 18 pays), dont 1 jeune Américain sur 5 (RAND/JAMA Pediatrics), et 77 % des psychologues américains ont désormais des patients qui leur en parlent (APA). En France, l'enquête CNIL/Groupe VYV révèle que 86 % des 11-25 ans utilisent l'IA conversationnelle, un tiers la considérant comme un « psy », dans un contexte où 65 % de ces jeunes présentent des signes d'anxiété — une vulnérabilité face à des outils insuffisamment régulés. Ces constats massifs coexistent avec un avertissement de Bloomberg sur une face cachée du problème : les enquêteurs spécialisés dans la protection des enfants voient leur propre santé mentale détruite par l'afflux de contenus pédopornographiques générés par l'IA, sans filet de soutien psychologique suffisant.",
       "items": [
