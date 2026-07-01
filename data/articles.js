@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-01",
+      "summary": "La veille du 1er juillet 2026 s'articule autour d'une double dynamique : la recherche scientifique documente avec une précision croissante le potentiel et les limites de l'IA en santé mentale, tandis que les institutions cherchent à structurer une réponse collective. La revue Science publie une analyse de référence cartographiant les opportunités et défis de l'IA en psychiatrie, alors que Stanford met en lumière les risques concrets des chatbots thérapeutiques — stigmatisation de certains troubles, réponses dangereuses en situation de crise. Une étude publiée dans Scientific Reports révèle l'incapacité de 29 chatbots évalués à gérer efficacement les idéations suicidaires, confirmant l'urgence réglementaire que documente l'APA avec 77 % des psychologues américains confrontés au phénomène. En France, le gouvernement pose les premiers jalons d'une politique numérique de santé mentale pour 2026, et la psychiatrie infanto-juvénile française engage une réflexion prospective à horizon 2050 qui intègre l'IA sans en faire une réponse à la crise capacitaire structurelle.",
+      "items": [
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "Une revue publiée dans Science cartographie les applications de l'IA en santé mentale — du triage et de l'évaluation aux outils de personnalisation des traitements — en insistant sur les défis propres à ce domaine : absence de biomarqueurs objectifs, dépendance aux évaluations comportementales, enjeux de stigmatisation et de confidentialité. Les auteurs appellent à une intégration prudente et supervisée de l'IA, qui complète sans remplacer le professionnel de santé humain, et identifient comme priorités l'évaluation clinique rigoureuse, la gouvernance des données et l'équité d'accès."
+        },
+        {
+          "title": "Exploring the Dangers of AI in Mental Health Care",
+          "url": "https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care",
+          "source": "Stanford HAI",
+          "summary": "Une étude du Stanford Human-Centered AI Institute a évalué cinq chatbots populaires dédiés au soutien thérapeutique en les confrontant aux standards de qualité exigés des thérapeutes humains. Les chercheurs ont constaté une tendance à la stigmatisation de certains troubles (alcoolodépendance, schizophrénie) et des réponses potentiellement dangereuses dans des situations de crise, concluant que les modèles d'IA actuels ne sont pas en mesure de remplacer un professionnel de santé mentale qualifié, et que la thérapie comporte des moments de sécurité critiques qui requièrent un jugement humain."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un rapport de l'Association Américaine de Psychologie révèle que 77 % des psychologues américains ont désormais des patients qui évoquent l'utilisation de chatbots IA en parallèle de leur thérapie — et 89 % de ces professionnels craignent que ces outils n'encouragent involontairement l'automutilation. Plus d'un tiers des psychologues observent un niveau de dépendance préoccupant chez leurs patients envers les chatbots, et 15 % signalent des cas de pensées déformées ou de délires associés à ces usages, faisant de ce rapport un signal d'alarme clinique majeur."
+        },
+        {
+          "title": "Performance of mental health chatbot agents in detecting and managing suicidal ideation",
+          "url": "https://www.nature.com/articles/s41598-025-17242-4",
+          "source": "Scientific Reports (Nature)",
+          "summary": "Une étude publiée dans Scientific Reports a évalué la capacité de 29 agents chatbots à détecter et gérer des idéations suicidaires dans des scénarios simulés. La majorité des chatbots a tenté de mettre en place des « garde-fous » mais de manière inefficace : ils ont échoué simultanément à fournir les ressources d'urgence appropriées et risquaient de provoquer une réponse émotionnelle négative chez l'utilisateur en crise — un constat qui interroge directement la validité du déploiement de ces outils auprès de populations vulnérables sans supervision clinique."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "Gouvernement français (info.gouv.fr)",
+          "summary": "Le gouvernement français détaille les mesures concrètes entrant en vigueur en 2026 dans le cadre de sa politique de santé mentale : renforcement de la formation des professionnels, nouvelles modalités de soins et intégration du numérique dans les parcours de prise en charge psychiatrique. Ce texte institutionnel s'inscrit dans le Programme pluriannuel santé mentale et psychiatrie 2025-2030 de la HAS et affiche une ambition de coordination nationale entre soins classiques et outils numériques, dans un contexte de demande de soins psychiatriques qui dépasse structurellement l'offre disponible."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://link.springer.com/article/10.1007/s00787-025-02748-z",
+          "source": "European Child & Adolescent Psychiatry (Springer)",
+          "summary": "Une étude pionnière de la Société Française de Psychiatrie de l'Enfant et de l'Adolescent (SFPEADA), publiée dans European Child & Adolescent Psychiatry, a utilisé une méthodologie qualitative assistée par IA pour interroger soignants, syndicats et associations et dessiner l'avenir de la psychiatrie infanto-juvénile en France jusqu'en 2050. Cinq grandes thématiques émergent — rapport entre psychiatrie et société, intégration des connaissances, organisation des soins, les soignants eux-mêmes, organisation du système — signalant que l'IA sera un outil transversal de cette transformation, mais que la crise capacitaire (manque de lits et de praticiens) restera le défi central de la décennie."
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "summary": "La veille du 30 juin 2026 est dominée par la consolidation réglementaire et scientifique du sujet : le Rhode Island devient le sixième État américain à encadrer spécifiquement les chatbots de santé mentale, tandis qu'en France la CNIL et la HAS finalisent leur guide de bonnes pratiques destiné aux établissements de soins. Sur le plan scientifique, une méta-analyse de référence (npj Digital Medicine) confirme une efficacité modeste mais réelle des chatbots sur la dépression et l'anxiété, quand une étude qualitative (JMIR Mental Health) précise les attentes des patients en matière de conception éthique. En toile de fond, une étude de Drexel University documente pour la première fois les mécanismes d'addiction comportementale aux chatbots compagnons chez les adolescents, et l'OMS appelle à traiter l'usage généralisé de l'IA générative comme un enjeu de santé publique à part entière.",
       "items": [
