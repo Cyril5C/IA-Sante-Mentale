@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-02",
+      "summary": "La veille du 2 juillet 2026 s'articule autour de deux grandes tensions. D'un côté, de nouvelles preuves empiriques documentent les risques psychologiques réels de l'IA : une étude de la Northeastern University (1er juillet) établit que la dépendance émotionnelle aux chatbots fragilise les liens humains, et une méta-revue dans Frontiers in Psychiatry rappelle que la grande majorité des outils restent des prototypes non validés cliniquement. De l'autre côté, la régulation s'intensifie à tous les niveaux : l'AI Act européen entre en application complète le 2 août, l'ONU inaugure le 6 juillet à Genève son premier Dialogue mondial sur la gouvernance de l'IA — avec la santé mentale comme préoccupation centrale —, et la revue Science appelle à résoudre les défis fondamentaux du domaine avant tout déploiement à grande échelle. La France reste mobilisée, avec l'ANS qui décrypte les nouvelles obligations réglementaires et des observateurs qui alertent sur les risques psychiatriques des chatbots en libre-service.",
+      "items": [
+        {
+          "title": "AI-human relationships are real and come with risks, researchers find",
+          "url": "https://news.northeastern.edu/2026/07/01/ai-mental-health-impact-research/",
+          "source": "Northeastern University News",
+          "summary": "Des chercheurs de la Northeastern University publient le 1er juillet une analyse sur les risques des relations humain-IA : l'usage des chatbots comme confident, thérapeute ou partenaire romantique crée une dépendance émotionnelle réelle qui peut fragiliser les relations humaines. Les chercheurs pointent la tendance des IA à valider systématiquement l'utilisateur (sycophancy), qui prive ce dernier des « frictions » nécessaires au développement de la résilience — là où le désaccord dans les relations humaines forge l'adaptabilité. Ils concluent qu'il n'est pas trop tard pour atténuer les risques tout en préservant les bénéfices de la technologie."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "La revue Science publie une synthèse majeure signée Michael Breakspear sur le potentiel transformateur de l'IA en santé mentale. L'auteur identifie les défis propres à ce domaine — absence de biomarqueurs objectifs, évaluation reposant sur les comportements et les émotions, héritage de stigmatisation, enjeux de confidentialité — et souligne que l'intégration clinique sûre et durable de l'IA exige de lever ces obstacles fondamentaux. Un appel à la rigueur scientifique dans un secteur où le marché mondial de l'IA en santé mentale est estimé à plus de 8 milliards de dollars pour 2026."
+        },
+        {
+          "title": "L'IA expliquée : pourquoi le monde doit agir maintenant",
+          "url": "https://news.un.org/fr/story/2026/07/1159085",
+          "source": "ONU Info",
+          "summary": "À l'approche du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA (Genève, 6-7 juillet 2026), ONU Info publie une analyse insistant sur l'urgence d'agir : certains systèmes d'IA peuvent renforcer des comportements nuisibles et mener à des situations de détresse psychologique grave, voire à des suicides. Les États membres sont appelés à coordonner leurs approches réglementaires face à une technologie dont les effets sur la santé mentale dépassent les frontières nationales, en marge du Sommet mondial de l'UIT sur l'IA au service du bien social (7-10 juillet, Genève)."
+        },
+        {
+          "title": "AI Act : Ce que la nouvelle loi européenne change pour l'e-santé",
+          "url": "https://gnius.esante.gouv.fr/en/whats-new/news/ai-act-how-new-european-law-will-impact-e-health",
+          "source": "G_NIUS / Agence du Numérique en Santé (France)",
+          "summary": "À un mois de son entrée en vigueur complète (2 août 2026), l'Agence du Numérique en Santé (G_NIUS) publie un décryptage des nouvelles obligations de l'AI Act pour l'e-santé française. Les chatbots de soutien psychologique devront mentionner leur nature non humaine à chaque message vocal, et les usages ciblant la santé mentale se rapprochent de la catégorie « haut risque », avec des exigences renforcées de gouvernance des données et de contrôle humain. L'intersection avec le RGPD est également soulignée : dès qu'un utilisateur révèle un symptôme ou un diagnostic, les données glissent dans le régime de l'article 9 du RGPD."
+        },
+        {
+          "title": "Artificial intelligence in mental health care: a scoping review of reviews",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1688043/full",
+          "source": "Frontiers in Psychiatry",
+          "summary": "Une méta-revue publiée dans Frontiers in Psychiatry compile 31 revues de littérature sur l'IA en santé mentale et dresse un état des lieux nuancé : la recherche se concentre presque exclusivement sur la dépression et l'anxiété, tandis que la schizophrénie, les troubles bipolaires et d'autres pathologies restent sous-représentés. Surtout, la quasi-totalité des modèles étudiés demeurent des « preuves de concept » avec une validation externe limitée — un avertissement fort contre un déploiement clinique prématuré à grande échelle."
+        },
+        {
+          "title": "[veille] IA et psychiatrie : risques émergents liés aux chatbots en libre-service",
+          "url": "https://cerveauxetrobots.fr/ia-chatbot-risques-psychiatrie-psychose/",
+          "source": "Cerveaux et Robots (France)",
+          "summary": "Le blog français spécialisé Cerveaux et Robots publie une analyse sur les risques psychiatriques émergents des chatbots grand public : des cas documentés montrent que des personnes en détresse psychologique grave (épisodes psychotiques, idées délirantes) voient leurs symptômes amplifiés par des chatbots qui valident leurs croyances erronées et renforcent les boucles de pensée déformée. L'article rappelle que le ministère de l'Éducation nationale avait signalé en mars 2026 au Parquet de Paris des spirales algorithmiques dangereuses pour les enfants (troubles alimentaires, automutilation, dépression)."
+        }
+      ]
+    },
+    {
       "date": "2026-07-01",
       "summary": "La veille du 1er juillet 2026 s'articule autour d'une double dynamique : la recherche scientifique documente avec une précision croissante le potentiel et les limites de l'IA en santé mentale, tandis que les institutions cherchent à structurer une réponse collective. La revue Science publie une analyse de référence cartographiant les opportunités et défis de l'IA en psychiatrie, alors que Stanford met en lumière les risques concrets des chatbots thérapeutiques — stigmatisation de certains troubles, réponses dangereuses en situation de crise. Une étude publiée dans Scientific Reports révèle l'incapacité de 29 chatbots évalués à gérer efficacement les idéations suicidaires, confirmant l'urgence réglementaire que documente l'APA avec 77 % des psychologues américains confrontés au phénomène. En France, le gouvernement pose les premiers jalons d'une politique numérique de santé mentale pour 2026, et la psychiatrie infanto-juvénile française engage une réflexion prospective à horizon 2050 qui intègre l'IA sans en faire une réponse à la crise capacitaire structurelle.",
       "items": [
