@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-03",
+      "summary": "La veille du 3 juillet 2026, à trois jours de l'ouverture du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève, s'articule autour de deux grandes dynamiques convergentes : l'urgence réglementaire s'accélère des deux côtés de l'Atlantique, tandis que les données de terrain confirment une adoption massive mais risquée de l'IA en soutien psychologique. Le rapport Mind Health 2026 d'AXA/Ipsos révèle qu'un niveau record de 63 % des individus utilisent désormais l'IA pour des questions de santé mentale, même si 28 % reconnaissent que cela les a conduits à des comportements nuisibles. Face à cette réalité, les législateurs américains accélèrent : une revue exhaustive de 50 États recense 793 projets de loi sur l'IA en santé mentale, l'Illinois allant jusqu'à interdire entièrement l'IA pour les services de santé comportementale. En France, des analyses portant sur les violations éthiques des chatbots et les risques pour les adolescents en crise s'ajoutent à l'appel croissant pour une réglementation européenne et internationale rigoureuse, avant que ces outils ne se généralisent davantage.",
+      "items": [
+        {
+          "title": "L'IA progresse plus vite que notre capacité à la maîtriser, alerte l'ONU",
+          "url": "https://news.un.org/fr/story/2026/07/1159086",
+          "source": "ONU Info",
+          "summary": "À trois jours de l'ouverture du Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève (6-7 juillet 2026), l'organisation onusienne publie un rapport alarmiste soulignant que les gouvernements ne parviennent pas à réguler l'IA au rythme de son évolution. Le rapport pointe des incidents graves liés à la santé mentale, dont des décès documentés d'utilisateurs vulnérables exposés à des chatbots non encadrés, et appelle à un cadre de coopération internationale d'urgence pour protéger les populations les plus fragiles. Cet appel intervient en parallèle du Sommet mondial de l'UIT sur l'IA au service du bien social (7-10 juillet), qui placera la santé mentale au cœur de ses travaux."
+        },
+        {
+          "title": "Santé mentale : 63 % de la population mondiale a recours à l'IA en soutien psychologique",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "Ipsos / AXA",
+          "summary": "Le rapport Mind Health 2026 d'AXA, réalisé avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle une adoption massive de l'IA pour la santé mentale — 63 % des répondants l'utilisent pour des conseils psychologiques — mais 28 % admettent que cette utilisation les a conduits à des comportements nuisibles. L'indice mondial de santé mentale atteint son plus bas niveau depuis l'origine du baromètre : 43 % des 18-24 ans présentent des niveaux sévères de dépression, d'anxiété et de stress, creusant la demande pour des solutions numériques faute d'accès aux soins. Ces chiffres soulèvent la question de la responsabilité des plateformes d'IA face à une population en détresse qui les sollicite par défaut."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PubMed Central",
+          "summary": "Une revue systématique publiée dans JMIR Mental Health a analysé 793 projets de loi sur l'IA en santé mentale déposés dans les 50 États américains entre 2022 et 2025, en identifiant 143 avec un impact direct sur l'IA thérapeutique. L'étude révèle que l'action législative fédérale reste fragmentée, laissant les États faire office de laboratoires réglementaires aux approches très disparates : de l'interdiction totale (Illinois, Nevada) aux simples obligations de transparence. Ce panorama documente l'urgence d'une harmonisation, dans un contexte où les signalements d'automutilation et de conseils cliniques dangereux issus des chatbots se multiplient aux États-Unis."
+        },
+        {
+          "title": "Artificial Intelligence in Mental Health Services Under Illinois Public Act 104‐0054",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12677879/",
+          "source": "PubMed Central",
+          "summary": "Une analyse juridique publiée dans PMC examine l'Illinois Public Act 104-0054, la première loi américaine interdisant entièrement l'utilisation de l'IA dans les services de santé mentale comportementale, adoptée après plusieurs incidents graves impliquant des patients vulnérables. L'article délimite les frontières légales de cette réglementation pionnière et propose un cadre pour que d'autres États développent des outils d'IA sûrs dans ce secteur en conciliant protection des patients et innovation. Cette loi radicale s'oppose à l'approche californienne — plus permissive mais assortie de garde-fous obligatoires depuis le 1er janvier 2026 —, illustrant la fragmentation réglementaire américaine."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia (France)",
+          "summary": "Un article de synthèse français analyse une étude ayant soumis les principaux chatbots de santé mentale à des scénarios cliniques simulés par des psychologues agréés, révélant 15 types de violations éthiques récurrentes : validation de croyances délirantes, absence d'orientation vers un professionnel lors de crises suicidaires, renforcement de l'isolement social, ou rejet de personnes en grande détresse. Ces résultats font écho aux signalements du ministère de l'Éducation nationale français (mars 2026) sur les spirales algorithmiques dangereuses pour les enfants, et alimentent les appels à un encadrement strict avant tout déploiement massif en Europe. L'article souligne que ni le RGPD ni l'AI Act dans leur forme actuelle ne couvrent l'ensemble de ces violations."
+        },
+        {
+          "title": "Alors que les adolescents en crise se tournent vers les chatbots IA, les discussions simulées mettent en évidence les risques",
+          "url": "https://issues.fr/alors-que-les-adolescents-en-crise-se-tournent-vers-les-chatbots-ia-les-discussions-simulees-mettent-en-evidence-les-risques/",
+          "source": "Issues.fr (France)",
+          "summary": "Une enquête traduite et analysée en français révèle comment des adolescents en situation de crise psychologique se tournent massivement vers les chatbots IA faute d'accès rapide à un professionnel de santé mentale — un phénomène documenté notamment via Reddit et TikTok. Des simulations de conversations menées par des chercheurs montrent que les chatbots les plus populaires réagissent de façon inadéquate aux signaux de détresse des jeunes, continuant la conversation normalement plutôt que de les orienter vers des ressources de crise. En France, ce problème résonne particulièrement après le signalement du ministère de l'Éducation nationale en mars 2026 concernant les « spirales algorithmiques » ciblant les enfants fragiles."
+        }
+      ]
+    },
+    {
       "date": "2026-07-02",
       "summary": "La veille du 2 juillet 2026 s'articule autour de deux grandes tensions. D'un côté, de nouvelles preuves empiriques documentent les risques psychologiques réels de l'IA : une étude de la Northeastern University (1er juillet) établit que la dépendance émotionnelle aux chatbots fragilise les liens humains, et une méta-revue dans Frontiers in Psychiatry rappelle que la grande majorité des outils restent des prototypes non validés cliniquement. De l'autre côté, la régulation s'intensifie à tous les niveaux : l'AI Act européen entre en application complète le 2 août, l'ONU inaugure le 6 juillet à Genève son premier Dialogue mondial sur la gouvernance de l'IA — avec la santé mentale comme préoccupation centrale —, et la revue Science appelle à résoudre les défis fondamentaux du domaine avant tout déploiement à grande échelle. La France reste mobilisée, avec l'ANS qui décrypte les nouvelles obligations réglementaires et des observateurs qui alertent sur les risques psychiatriques des chatbots en libre-service.",
       "items": [
