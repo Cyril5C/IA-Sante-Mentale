@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-04",
+      "summary": "À la veille du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA (6-7 juillet à Genève), les données convergent de toutes parts sur l'ampleur d'un phénomène hors de tout encadrement médical : le JAMA documente que les chatbots IA sont devenus l'un des premiers dispensateurs de soutien psychologique aux États-Unis, la RAND confirme que 19 % des 12-21 ans américains y recourent — soit 8,2 millions de jeunes —, et l'APA, après avoir sondé 1 200 psychologues, publie un avis de santé formel déconseillant l'IA pour la psychothérapie, le diagnostic ou la gestion de crise. En France et en Europe, une étude Ipsos révèle que 86 % des jeunes Français utilisent l'IA conversationnelle et qu'un sur deux l'utilise pour des sujets intimes, soulignant l'urgence d'un cadre réglementaire. À deux jours de l'ouverture du dialogue de Genève, l'ONU appelle à encadrer l'IA pour éviter des « dommages catastrophiques ».",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy — and psychologists are alarmed",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un rapport majeur de l'APA, basé sur une enquête auprès de 1 200 psychologues agréés américains, révèle que 77 % des praticiens ont eu des patients utilisant l'IA, dont 39 % pour s'autodiagnostiquer. Plus préoccupant : 36 % ont observé chez leurs patients un niveau de dépendance au chatbot, et 15 % ont constaté des pensées distordues ou des délires liés à l'IA. En réponse, l'APA publie un avis de santé formel déconseillant explicitement l'usage de l'IA générative pour la psychothérapie, le diagnostic ou le soutien en situation de crise."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation",
+          "summary": "Une étude de la RAND Corporation, publiée en juin 2026, révèle que 19,2 % des Américains âgés de 12 à 21 ans — environ 8,2 millions de jeunes — ont consulté des chatbots IA (ChatGPT, Gemini, Character.AI) pour des conseils de santé mentale, contre 13,1 % un an plus tôt. Fait alarmant : 63,3 % d'entre eux n'en ont parlé à personne, ni à leurs parents ni à un adulte référent, rendant ce recours invisible pour les soignants. Si 91,7 % jugent les conseils utiles, les chercheurs avertissent que ce taux élevé reflète le biais de validation inhérent aux IA plutôt qu'une réelle efficacité thérapeutique."
+        },
+        {
+          "title": "Millions Turn to AI Chatbots for Mental Health Support",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2843812",
+          "source": "JAMA (Journal of the American Medical Association)",
+          "summary": "Un article du JAMA souligne que les chatbots IA sont devenus l'un des premiers dispensateurs de soutien psychologique aux États-Unis, en partie parce que des millions d'Américains n'ont pas accès à un professionnel de santé mentale. L'article documente la montée en puissance de ce phénomène et appelle à un encadrement strict, en signalant que ces outils sont déployés à très grande échelle sans avoir fait l'objet de la validation clinique nécessaire à leur sécurité. Le JAMA rejoint ainsi l'APA pour demander aux pouvoirs publics d'agir sans tarder."
+        },
+        {
+          "title": "Dialogue à Genève : encadrer l'IA pour éviter des « dommages catastrophiques »",
+          "url": "https://www.ungeneva.org/fr/news-media/news/2026/07/120302/dialogue-geneve-encadrer-lia-pour-eviter-des-dommages",
+          "source": "ONU Genève",
+          "summary": "À la veille de l'ouverture du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA (6-7 juillet à Genève), l'ONU publie un bilan des risques justifiant l'urgence d'un cadre réglementaire international. Parmi les effets délétères identifiés figurent les conséquences psychologiques des IA conversationnelles sur les populations vulnérables — détresse psychologique, comportements suicidaires — et la diffusion de contenus algorithmiques renforçant des comportements nuisibles chez les jeunes. Le dialogue, qui réunit les 193 États membres, devra poser les bases d'une coopération internationale pour prévenir ces « dommages catastrophiques »."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe",
+          "url": "https://www.ipsos.com/fr-fr/lia-conversationnelle-et-la-sante-mentale-des-jeunes-en-europe",
+          "source": "Ipsos France",
+          "summary": "Une étude Ipsos France dédiée aux jeunes Européens révèle que 86 % des jeunes Français utilisent des outils d'IA conversationnelle — un taux parmi les plus élevés du continent —, et que près d'un sur deux (48 %) l'emploie pour parler de sujets personnels ou intimes. Ces données illustrent la banalisation rapide de l'IA comme confident de substitution pour une génération fragilisée par la crise de la santé mentale, et renforcent l'appel au Groupe VYV et à la CNIL pour accélérer l'initiative européenne AI*me destinée à encadrer ces usages sensibles."
+        },
+        {
+          "title": "AI Chatbots for Mental Health Self-Management: Lived Experience–Centered Qualitative Study",
+          "url": "https://mental.jmir.org/2026/1/e78288",
+          "source": "JMIR Mental Health",
+          "summary": "Une étude qualitative publiée dans JMIR Mental Health a recueilli les témoignages de 17 personnes ayant une expérience vécue de la dépression et ayant interagi avec un chatbot IA (Zenny, basé sur GPT-4o) pour la gestion de leurs symptômes. Si certains participants apprécient la disponibilité permanente et l'absence de jugement, la majorité pointe des limites majeures : incapacité à détecter les nuances émotionnelles complexes, risque de renforcement de l'isolement, et manque de suivi longitudinal. L'étude recommande de co-concevoir ces outils avec les personnes concernées et de les réserver à un usage adjuvant, jamais substitutif à un suivi clinique."
+        }
+      ]
+    },
+    {
       "date": "2026-07-03",
       "summary": "La veille du 3 juillet 2026, à trois jours de l'ouverture du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève, s'articule autour de deux grandes dynamiques convergentes : l'urgence réglementaire s'accélère des deux côtés de l'Atlantique, tandis que les données de terrain confirment une adoption massive mais risquée de l'IA en soutien psychologique. Le rapport Mind Health 2026 d'AXA/Ipsos révèle qu'un niveau record de 63 % des individus utilisent désormais l'IA pour des questions de santé mentale, même si 28 % reconnaissent que cela les a conduits à des comportements nuisibles. Face à cette réalité, les législateurs américains accélèrent : une revue exhaustive de 50 États recense 793 projets de loi sur l'IA en santé mentale, l'Illinois allant jusqu'à interdire entièrement l'IA pour les services de santé comportementale. En France, des analyses portant sur les violations éthiques des chatbots et les risques pour les adolescents en crise s'ajoutent à l'appel croissant pour une réglementation européenne et internationale rigoureuse, avant que ces outils ne se généralisent davantage.",
       "items": [
