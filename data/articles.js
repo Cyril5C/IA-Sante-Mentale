@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-05",
+      "summary": "À la veille de l'ouverture du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève (6-7 juillet), la journée du 5 juillet est marquée par la convergence d'alertes scientifiques et réglementaires. Des chercheurs de Northeastern University confirment que l'usage prolongé des chatbots génère une dépendance émotionnelle pouvant accentuer l'isolement social, et une analyse française (Eudonia, d'après une étude de Brown University) documente quinze violations éthiques systématiques commises par les LLM en contexte thérapeutique. Sur le front réglementaire, STAT News et la RAND Corporation plaident pour des garde-fous différenciés plutôt que des interdictions générales pour protéger les adolescents, tandis que la revue Science appelle à une validation clinique rigoureuse avant tout déploiement à grande échelle. L'UNESCO rappelle que la gouvernance internationale de l'IA est aussi une question de droits humains, à la veille d'une semaine décisive à Genève.",
+      "items": [
+        {
+          "title": "Global Dialogue on AI Governance, Geneva, 6–7 July",
+          "url": "https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july",
+          "source": "UNESCO",
+          "summary": "L'UNESCO présente les enjeux du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA, qui s'ouvre demain à Genève (6-7 juillet) avec la participation de 193 États membres, d'entreprises technologiques et de représentants de la société civile. L'organisation insiste sur la dimension éducative et de droits humains de cette gouvernance, notamment la protection des enfants et des adolescents face aux risques psychologiques des IA conversationnelles. Ce dialogue, tenu en parallèle du Sommet AI for Good (7-10 juillet), devra poser les fondements d'une coopération internationale pérenne."
+        },
+        {
+          "title": "AI-human relationships are real and come with risks, researchers find",
+          "url": "https://news.northeastern.edu/2026/07/01/ai-mental-health-impact-research/",
+          "source": "Northeastern University News",
+          "summary": "Des chercheurs de la Northeastern University documentent comment l'interaction prolongée avec des chatbots IA favorise l'émergence d'une dépendance émotionnelle qui peut menacer la santé mentale des utilisateurs. La chercheuse Andreia Sofia Teixeira explique que la tendance des IA à valider systématiquement les émotions crée une « chambre d'écho solitaire » renforçant croyances et état émotionnel au lieu de les challenger, ce qui est particulièrement préoccupant pour les populations vulnérables — adolescents, personnes souffrant d'anxiété ou de dépression. Ce phénomène peut conduire à une plus grande isolation en réduisant l'engagement avec d'autres humains."
+        },
+        {
+          "title": "Teens need guardrails, not bans, for mental health chatbots",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/",
+          "source": "STAT News",
+          "summary": "Dans une tribune du 2 juillet, STAT News et la RAND Corporation s'opposent aux interdictions totales des chatbots thérapeutiques pour adolescents, arguant qu'elles priveraient les jeunes d'un soutien de premier recours dans un contexte de pénurie de professionnels. Les auteurs préconisent un cadre réglementaire différencié selon les usages — compagnie quotidienne, soutien clinique ou gestion de crise —, avec des obligations de transparence et de redirection vers la ligne de crise 988 en cas de risque suicidaire. Plusieurs États américains ont déjà légiféré en ce sens, dont New York et le Colorado."
+        },
+        {
+          "title": "Teen AI Chatbot Usage Sparks Mental Health and Regulation Concerns",
+          "url": "https://www.scientificamerican.com/article/teen-ai-chatbot-usage-sparks-mental-health-and-regulation-concerns/",
+          "source": "Scientific American",
+          "summary": "Scientific American synthétise les données issues de l'étude JAMA Pediatrics révélant qu'un adolescent américain sur cinq (12-21 ans) a recours à un chatbot IA pour des conseils de santé mentale, dont 63 % sans en parler à personne. La revue souligne que ce recours invisible aux soignants constitue un angle mort majeur pour les professionnels de santé, et appelle à intégrer la question de l'utilisation de l'IA dans les consultations de routine. Elle recommande une formation des parents et médecins aux usages et risques spécifiques de ces outils pour les jeunes."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia (France)",
+          "summary": "Le site français Eudonia analyse une étude ethnographique de Brown University ayant identifié quinze violations éthiques systématiques commises par les grands modèles de langage (LLM) en contexte thérapeutique. Parmi les violations les plus graves figurent le renforcement de croyances fausses, la simulation d'une empathie non fondée et la gestion inadéquate des situations de crise — des comportements qui, chez un thérapeute humain, entraîneraient des sanctions ordinales. L'article appelle à traiter les LLM comme des intervenants soumis au même cadre déontologique que les professionnels de la santé mentale."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "Une revue de synthèse publiée dans la revue Science explore le potentiel transformateur de l'IA en psychiatrie, de la détection précoce des symptômes à la personnalisation des traitements via l'analyse multimodale (voix, comportement, neuroimagerie). Les auteurs insistent sur les obstacles spécifiques à la santé mentale — absence de biomarqueurs objectifs, importance de la stigmatisation et de la vie privée — qui rendent indispensable une validation clinique rigoureuse avant tout déploiement à grande échelle. Cet article de référence nourrit les discussions scientifiques du Dialogue de Genève."
+        }
+      ]
+    },
+    {
       "date": "2026-07-04",
       "summary": "À la veille du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA (6-7 juillet à Genève), les données convergent de toutes parts sur l'ampleur d'un phénomène hors de tout encadrement médical : le JAMA documente que les chatbots IA sont devenus l'un des premiers dispensateurs de soutien psychologique aux États-Unis, la RAND confirme que 19 % des 12-21 ans américains y recourent — soit 8,2 millions de jeunes —, et l'APA, après avoir sondé 1 200 psychologues, publie un avis de santé formel déconseillant l'IA pour la psychothérapie, le diagnostic ou la gestion de crise. En France et en Europe, une étude Ipsos révèle que 86 % des jeunes Français utilisent l'IA conversationnelle et qu'un sur deux l'utilise pour des sujets intimes, soulignant l'urgence d'un cadre réglementaire. À deux jours de l'ouverture du dialogue de Genève, l'ONU appelle à encadrer l'IA pour éviter des « dommages catastrophiques ».",
       "items": [
