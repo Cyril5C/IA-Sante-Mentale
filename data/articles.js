@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-07",
+      "summary": "Au lendemain du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève, la journée du 7 juillet met en lumière la double réalité d'une adoption massive qui devance la régulation : un rapport de l'APA révèle que 77 % des psychologues américains ont déjà des patients utilisant l'IA comme soutien psychologique, tandis qu'une enquête internationale montre que la moitié des psychothérapeutes eux-mêmes recourent à des outils grand public non conçus pour la clinique. Sur le plan réglementaire, le Tennessee franchit une première aux États-Unis avec une loi effective depuis le 1er juillet interdisant les IA se présentant comme des professionnels de santé mentale. En France, la CNIL et le Groupe VYV publient les résultats de leur enquête européenne sur les jeunes (3 800 adolescents en 4 pays) : 86 % des jeunes Français utilisent l'IA conversationnelle, 33 % la considèrent comme « un psy », et 56 % croient à tort qu'elle garantit la confidentialité de leurs échanges.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un rapport 2026 de l'APA révèle que 77 % des psychologues américains ont eu des patients utilisant l'IA pour un soutien psychologique. 36 % ont observé des cas de dépendance au chatbot chez leurs patients, 39 % rapportent que des patients se sont auto-diagnostiqués via l'IA malgré l'absence de validation clinique, et 15 % ont constaté des pensées déformées ou des délires liés à un chatbot. Le rapport pointe un angle mort croissant entre adoption massive et supervision professionnelle."
+        },
+        {
+          "title": "Half of psychotherapists use chatbots not built for therapy",
+          "url": "https://www.icthealth.org/news/half-of-psychotherapists-use-chatbots-not-built-for-therapy",
+          "source": "ICT&health",
+          "summary": "Une enquête internationale menée dans 30 pays révèle que plus de la moitié des psychothérapeutes utilisent des outils généralistes comme ChatGPT dans leur pratique clinique, alors que ces outils n'ont été ni conçus ni validés à des fins thérapeutiques. L'adoption par les praticiens eux-mêmes dépasse largement le cadre réglementaire et les formations disponibles, créant des risques pour les patients et les professionnels. Les auteurs appellent à des standards de formation et de certification spécifiques au secteur de la santé mentale."
+        },
+        {
+          "title": "6 states regulating AI in mental health — Tennessee first to ban AI posing as therapist",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/3-states-regulating-ai-and-mental-health/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Le Tennessee est devenu le premier État américain à promulguer une loi — effective depuis le 1er juillet 2026 — interdisant le développement ou le déploiement de systèmes d'IA se présentant comme des professionnels de santé mentale qualifiés. Plus largement, 36 États ont introduit plus de 70 projets de loi sur les chatbots IA depuis le début 2026, avec des exigences croissantes de transparence, de consentement éclairé et de supervision clinique. Ce patchwork législatif illustre l'urgence d'une harmonisation fédérale réclamée par les professionnels de santé."
+        },
+        {
+          "title": "Artificial Intelligence for Mental Health: ICAIMH 2026 Proceedings",
+          "url": "https://link.springer.com/book/10.1007/978-3-032-30396-7",
+          "source": "Springer Nature Link",
+          "summary": "Les actes de la 4e Conférence internationale sur l'IA en santé mentale (ICAIMH 2026, Merida, Mexique, 1-3 juillet 2026) viennent d'être publiés par Springer Nature. Cette édition réunit des recherches de pointe sur la détection automatisée des troubles psychiatriques, les interfaces conversationnelles thérapeutiques et les enjeux éthiques de l'IA en clinique. La publication de ces actes marque la structuration d'un domaine scientifique désormais reconnu à l'échelle internationale."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL (France)",
+          "summary": "La CNIL et le Groupe VYV publient les résultats de leur enquête européenne (Ipsos BVA, 3 800 jeunes de 11-25 ans en France, Allemagne, Suède et Irlande) sur l'IA conversationnelle et la santé mentale. En France, 86 % des jeunes utilisent l'IA conversationnelle, 33 % la considèrent comme « un psy » dans certains cas — proportion montant à 46 % chez les jeunes anxieux —, et 56 % croient à tort que l'IA garantit la confidentialité de leurs échanges. En réponse, la CNIL et le Groupe VYV lancent l'initiative européenne AI*me pour mieux encadrer ces usages auprès des mineurs."
+        },
+        {
+          "title": "Quel impact des usages de l'IA sur la santé mentale des jeunes européens ?",
+          "url": "https://www.santementale.fr/2026/05/quel-impact-des-usages-de-lia-sur-la-sante-mentale-des-jeunes-europeens/",
+          "source": "Revue Santé Mentale (France)",
+          "summary": "La revue professionnelle Santé Mentale analyse les résultats de l'étude CNIL/VYV/Ipsos sous l'angle clinique, soulignant que si l'IA joue un rôle de « confident numérique » pour des jeunes n'osant pas parler à leurs proches — 58 % des adolescents anxieux trouvent plus facile de se confier à l'IA qu'à leurs parents —, elle présente un risque de désengagement du soin humain. La revue rappelle que les cliniciens doivent désormais intégrer la question de l'usage de l'IA dans l'anamnèse de leurs patients adolescents, au même titre que les réseaux sociaux."
+        }
+      ]
+    },
+    {
       "date": "2026-07-06",
       "summary": "La journée du 6 juillet est placée sous le signe de l'ouverture du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève (6-7 juillet). Un rapport de 40 scientifiques mandatés par l'ONU pointe des incidents graves de santé mentale, dont des décès documentés, liés à des chatbots « flagorneurs » ; le rapport AXA Mind Health 2026 (19 000 personnes dans 18 pays) confirme parallèlement que 6 personnes sur 10 utilisent déjà l'IA pour leur santé psychologique, dont 42 % en suivent les conseils quasi systématiquement. Sur le front réglementaire américain, une revue académique des 50 États documente une accélération sans précédent (98 projets de loi dans 34 États), tandis qu'une méta-analyse sur les adolescents confirme une efficacité partielle des chatbots, mais appelle à des essais cliniques rigoureux avant tout déploiement généralisé.",
       "items": [
