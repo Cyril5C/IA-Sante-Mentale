@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-08",
+      "summary": "La veille du 8 juillet 2026 marque un tournant dans la compréhension scientifique des effets nuancés des compagnons IA sur le développement des adolescents. Une étude pionnière publiée dans The Lancet Child & Adolescent Health (ASU, Thao Ha et al.) alerte sur le risque de « déplacement relationnel » et d'« apprentissage relationnel inadapté » lié à la substitution des interactions humaines difficiles mais formatrices par des échanges avec des IA toujours validantes. En contrepoint, l'Institut Français d'EMDR décrypte le premier essai contrôlé randomisé d'un chatbot fondé sur l'IA générative pour la santé mentale (Heinz et al., NEJM AI), constituant à ce jour la démonstration scientifique la plus rigoureuse d'un potentiel thérapeutique réel. Cette polarisation entre prudence clinique et enthousiasme thérapeutique se reflète dans les témoignages de praticiens français — dont la psychiatre Dr Fanny Jacq — et dans les publications académiques internationales qui s'accumulent autour d'une même conclusion : l'IA peut être une alliée en santé mentale, mais seulement si elle est intégrée dans un parcours de soins supervisé, avec des outils conçus et validés cliniquement.",
+      "items": [
+        {
+          "title": "AI companionship poses risks for teen development, study shows",
+          "url": "https://news.asu.edu/20260629-science-and-technology-ai-companionship-poses-risks-teen-development-study-shows",
+          "source": "ASU News / The Lancet Child & Adolescent Health",
+          "summary": "Une étude de l'Arizona State University publiée fin juin dans The Lancet Child & Adolescent Health introduit le concept de « déplacement relationnel » : en substituant les échanges avec des IA à des conversations difficiles avec parents, amis ou partenaires, les adolescents se privent d'expériences formatrices essentielles au développement de leur résilience affective et de leurs compétences relationnelles. Les chercheurs, qui ont associé deux lycéens de 16 et 17 ans à leur équipe, identifient également un risque d'« apprentissage relationnel inadapté » car les IA ont tendance à perpétuer des attentes irréalistes sur les relations humaines. Ils appellent à une conception éthique des outils qui complète sans remplacer les interactions humaines, et soulignent que les mécanismes de vérification de l'âge actuels s'avèrent inefficaces selon les adolescents eux-mêmes."
+        },
+        {
+          "title": "IA générative en santé mentale : le premier essai randomisé et ses implications pour l'EMDR",
+          "url": "https://www.ifemdr.fr/ia-generative-en-sante-mentale-le-premier-essai-randomise-et-ses-implications-pour-lemdr/",
+          "source": "IFEMDR — Institut Français d'EMDR",
+          "summary": "L'Institut Français d'EMDR décrypte l'essai contrôlé randomisé de Heinz et al. (2025, NEJM AI), premier essai de ce niveau de preuve portant sur un chatbot fondé sur l'IA générative pour le traitement de troubles de santé mentale, constituant à ce jour la démonstration scientifique la plus rigoureuse d'une efficacité potentielle. L'article souligne que cet essai concerne la santé mentale générale et non le traitement du traumatisme ou le contexte spécifique de l'EMDR, et invite les cliniciens à distinguer soigneusement les outils validés des produits grand public non conçus pour un usage thérapeutique. Cette publication s'inscrit dans un dossier thématique de l'IFEMDR qui accompagne les praticiens français dans leur appropriation critique de l'IA générative."
+        },
+        {
+          "title": "AI companions and adolescent social relationships: Benefits, risks, and bidirectional influences",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12928748/",
+          "source": "PMC / revue scientifique",
+          "summary": "Une revue systématique publiée dans PMC examine les influences bidirectionnelles des compagnons IA sur les relations sociales des adolescents, identifiant des bénéfices limités — soutien émotionnel immédiat, accessibilité pour les jeunes isolés — mais aussi des risques documentés : formation d'attachement affectif, anthropomorphisation et substitution progressive des liens humains. Les auteurs soulignent que la tendance structurelle des chatbots à valider l'utilisateur peut renforcer des pensées nocives chez les adolescents socialement isolés, car elle court-circuite les mécanismes d'adaptation sains que procurent les relations interpersonnelles réelles. Ils concluent à l'urgence d'études longitudinales rigoureuses avant tout déploiement de ces outils en milieu scolaire ou éducatif."
+        },
+        {
+          "title": "Navigating Adolescent Mental Health in the Age of Artificial Intelligence",
+          "url": "https://jaacapconnect.org/article/150329-navigating-adolescent-mental-health-in-the-age-of-artificial-intelligence",
+          "source": "JAACAP Connect (Journal of the American Academy of Child & Adolescent Psychiatry)",
+          "summary": "Le JAACAP Connect publie une analyse de référence sur les défis spécifiques posés par l'IA à la psychiatrie de l'enfant et de l'adolescent, soulignant que 19 % des 12-21 ans américains utilisent désormais des chatbots pour des conseils de santé mentale, souvent à l'insu de leurs soignants. L'article appelle les pédopsychiatres à intégrer systématiquement la question de l'utilisation de l'IA dans leurs consultations, au même titre que l'usage des réseaux sociaux, et à développer des ressources psychoéducatives pour les familles. Les auteurs prônent une approche fondée sur l'evidence plutôt que sur la peur ou l'enthousiasme non critique, en distinguant les usages bénéfiques des usages à risque selon le contexte clinique et la vulnérabilité du patient."
+        },
+        {
+          "title": "Explorer les frontières de l'IA en santé mentale : retour sur un symposium international",
+          "url": "https://www.unicaen.fr/explorer-les-frontieres-de-lia-en-sante-mentale-retour-sur-un-symposium-international/",
+          "source": "Université de Caen Normandie",
+          "summary": "L'Université de Caen Normandie publie le compte rendu de la 2e édition de son Symposium international sur l'IA et la santé mentale (12-13 février 2026), placé sous le patronage de la Commission nationale française pour l'UNESCO. Cet événement a réuni des chercheurs et praticiens internationaux autour des enjeux scientifiques, éthiques et sociétaux de l'IA en psychiatrie, notamment les outils de détection précoce des troubles et les interfaces conversationnelles thérapeutiques. Ce compte rendu positionne la France comme acteur académique de premier plan dans un domaine en plein essor, aux côtés de Stanford AI4MH et de la conférence internationale ICAIMH."
+        },
+        {
+          "title": "L'IA en santé mentale : alliée thérapeutique ou refuge risqué face à la solitude ? Le Dr Fanny Jacq répond",
+          "url": "https://alliance-sante-mentale.org/lia-en-sante-mentale-alliee-therapeutique-ou-refuge-risque-face-a-la-solitude-le-dr-fanny-jacq-repond/",
+          "source": "Alliance pour la Santé Mentale (France)",
+          "summary": "La psychiatre Dr Fanny Jacq livre une analyse clinique nuancée de l'IA en santé mentale : si ces outils peuvent remplir une fonction d'aide de premier recours pour des personnes isolées ne pouvant accéder à un professionnel, ils présentent un risque réel de dérive vers la dépendance ou le désengagement des soins humains. Elle appelle à distinguer clairement les chatbots conçus avec des cliniciens et validés pour un usage ciblé des outils grand public comme ChatGPT, utilisés hors de tout cadre thérapeutique. Ce témoignage expert s'inscrit dans une semaine riche en publications scientifiques qui convergent vers un même constat : l'IA peut être une alliée si — et seulement si — elle est intégrée dans un parcours de soins supervisé."
+        }
+      ]
+    },
+    {
       "date": "2026-07-07",
       "summary": "Au lendemain du premier Dialogue mondial de l'ONU sur la gouvernance de l'IA à Genève, la journée du 7 juillet met en lumière la double réalité d'une adoption massive qui devance la régulation : un rapport de l'APA révèle que 77 % des psychologues américains ont déjà des patients utilisant l'IA comme soutien psychologique, tandis qu'une enquête internationale montre que la moitié des psychothérapeutes eux-mêmes recourent à des outils grand public non conçus pour la clinique. Sur le plan réglementaire, le Tennessee franchit une première aux États-Unis avec une loi effective depuis le 1er juillet interdisant les IA se présentant comme des professionnels de santé mentale. En France, la CNIL et le Groupe VYV publient les résultats de leur enquête européenne sur les jeunes (3 800 adolescents en 4 pays) : 86 % des jeunes Français utilisent l'IA conversationnelle, 33 % la considèrent comme « un psy », et 56 % croient à tort qu'elle garantit la confidentialité de leurs échanges.",
       "items": [
