@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-09",
+      "summary": "La journée du 9 juillet 2026 est marquée par la publication des actes de la conférence internationale ICAIMH 2026 (Mérida, 1-3 juillet) et par la convergence de plusieurs analyses d'envergure qui dressent un bilan contrasté de l'IA en santé mentale. Le rapport AXA Mind Health 2026, conduit auprès de 19 000 adultes dans 18 pays, révèle qu'une majorité de personnes se tournent vers l'IA pour des questions psychologiques — souvent sans encadrement — et que les scores de bien-être global sont à leur plus bas depuis cinq ans. La National Academy of Medicine publie une synthèse rigoureuse distinguant les usages bénéfiques des risques documentés (amplification des pensées négatives, cas d'« AI psychosis »), tandis qu'une revue des 50 législatures américaines constate une explosion sans précédent de projets de loi. En France, le secteur professionnel s'interroge sur le paradoxe de l'IA au travail, promue comme antidote au burn-out mais vécue comme source de technostress par 56 % des salariés.",
+      "items": [
+        {
+          "title": "More than 60% of people use AI for mental health support — but many are unhappy with it",
+          "url": "https://www.euronews.com/health/2026/06/03/more-than-60-people-use-ai-for-mental-health-support-but-many-are-unhappy-with-it-survey-f",
+          "source": "Euronews / Rapport AXA Mind Health 2026",
+          "summary": "Le rapport AXA Mind Health 2026, conduit par Ipsos auprès de 19 000 adultes dans 18 pays, révèle que plus de 6 personnes sur 10 se tournent déjà vers l'IA pour des questions de santé mentale et que 42 % d'entre elles suivent ses conseils, souvent au détriment d'une consultation professionnelle. Malgré cette adoption massive, les scores de bien-être mental sont à leur plus bas depuis 2021 dans 10 des 16 pays sondés, 46 % des répondants se déclarant en difficulté ou en état de « languissement ». Le rapport pointe un paradoxe préoccupant : l'IA peut faciliter l'accès aux soins psychologiques, mais son utilisation non encadrée risque d'aggraver la solitude et de remplacer les soins humains plutôt que de les compléter."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "L'article de Caducée.net examine le paradoxe de l'IA dans les entreprises françaises : présentée comme levier de prévention du burn-out — France Travail évoque son usage pour détecter les vulnérabilités via les données internes — elle est simultanément perçue comme source de stress par 56 % des salariés, et 23 % souffrent de technostress directement lié aux outils d'IA. Avec 41 % des répondants ayant déjà vécu un épisode d'épuisement professionnel, l'article souligne que l'IA reconfigure les tâches et les rythmes de travail sans nécessairement alléger la charge, et appelle à repenser la gouvernance humaine des outils numériques pour préserver la santé mentale au travail."
+        },
+        {
+          "title": "Artificial Intelligence for Mental Health: 4th International Conference, ICAIMH 2026, Mérida, Mexico, July 1–3, 2026, Proceedings",
+          "url": "https://link.springer.com/book/10.1007/978-3-032-30396-7",
+          "source": "Springer / ICAIMH 2026",
+          "summary": "La 4e édition de la conférence internationale ICAIMH, tenue à Mérida (Mexique) du 1er au 3 juillet 2026 en collaboration avec l'Université Autonome du Yucatán, vient de publier ses actes aux éditions Springer. Ce volume couvre les dernières avancées en IA pour la détection, le traitement et le suivi des troubles mentaux, ainsi que les enjeux éthiques du déploiement en contexte clinique, éducatif et communautaire. Réunissant chercheurs en IA, psychologues, psychiatres et industriels, cette conférence bisannuelle s'impose comme le rendez-vous académique de référence dans un domaine en pleine expansion, avec des actes indexés dans Scopus, EI Compendex et Google Scholar."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une analyse approfondie distinguant ce qui fonctionne dans les chatbots en santé mentale — accessibilité immédiate, soutien émotionnel non stigmatisant, TCC guidées par IA — de ce qui nuit : 89 % des psychologues craignent que ces outils incitent à l'automutilation, des cas d'« AI psychosis » ont été documentés, et certains chatbots grand public amplifient les pensées négatives plutôt que de les réguler. La NAM, qui avait tenu une table ronde sur ces enjeux en janvier 2026, pointe une lacune critique : l'absence de validation clinique rigoureuse pour la grande majorité des outils utilisés comme soutien psychologique en dehors de tout cadre médical."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "PMC / revue académique",
+          "summary": "Une revue publiée dans PMC cartographie les législations adoptées ou en cours dans les 50 États américains pour encadrer l'IA en santé mentale, révélant une explosion réglementaire sans précédent : 98 projets de loi dans 34 États, avec des approches très hétérogènes allant de l'interdiction totale (Illinois, Nevada) à la simple obligation de transparence sur la nature artificielle des interlocuteurs. Les auteurs soulignent l'urgence d'une loi fédérale harmonisatrice, estimant que la fragmentation actuelle crée une inégalité d'accès à la protection selon l'État de résidence — et que le vide juridique antérieur a déjà contribué à des drames humains, notamment chez les adolescents."
+        },
+        {
+          "title": "AI therapy chatbots draw new oversight as suicides raise alarm",
+          "url": "https://stateline.org/2026/01/15/ai-therapy-chatbots-draw-new-oversight-as-suicides-raise-alarm/",
+          "source": "Stateline",
+          "summary": "Le service d'information américain Stateline analyse comment les suicides documentés d'adolescents ayant utilisé des chatbots thérapeutiques non encadrés ont déclenché une vague de réglementation d'urgence aux États-Unis. Après les drames impliquant Character.AI et d'autres plateformes, des États comme le Maine proposent une interdiction totale des IA se présentant comme thérapeutes, tandis que Washington impose dès le 1er janvier 2027 un droit d'action privé contre les opérateurs ne divulguant pas la nature artificielle de leurs outils. Cet article illustre comment la tragédie individuelle accélère la prise de conscience collective et la réponse législative dans un domaine longtemps laissé à l'autorégulation."
+        }
+      ]
+    },
+    {
       "date": "2026-07-08",
       "summary": "La veille du 8 juillet 2026 marque un tournant dans la compréhension scientifique des effets nuancés des compagnons IA sur le développement des adolescents. Une étude pionnière publiée dans The Lancet Child & Adolescent Health (ASU, Thao Ha et al.) alerte sur le risque de « déplacement relationnel » et d'« apprentissage relationnel inadapté » lié à la substitution des interactions humaines difficiles mais formatrices par des échanges avec des IA toujours validantes. En contrepoint, l'Institut Français d'EMDR décrypte le premier essai contrôlé randomisé d'un chatbot fondé sur l'IA générative pour la santé mentale (Heinz et al., NEJM AI), constituant à ce jour la démonstration scientifique la plus rigoureuse d'un potentiel thérapeutique réel. Cette polarisation entre prudence clinique et enthousiasme thérapeutique se reflète dans les témoignages de praticiens français — dont la psychiatre Dr Fanny Jacq — et dans les publications académiques internationales qui s'accumulent autour d'une même conclusion : l'IA peut être une alliée en santé mentale, mais seulement si elle est intégrée dans un parcours de soins supervisé, avec des outils conçus et validés cliniquement.",
       "items": [
