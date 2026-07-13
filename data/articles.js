@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-13",
+      "summary": "La veille du 13 juillet 2026 est marquée par un double signal d'alarme sur la santé mentale des adolescents face à l'IA : des études RAND/JAMA Pediatrics et Ipsos révèlent que près d'un jeune sur cinq consulte secrètement des chatbots pour ses difficultés psychologiques, sans en informer parents ni soignants, tandis que des incidents graves (tentatives de suicide) ont été reliés à ces usages. Face à cette urgence, la réglementation s'accélère : la Californie est le premier État au monde à promulguer une loi interdisant à l'IA de pratiquer la psychothérapie (SB 903), et l'AI Act européen rendra obligatoire la mention « non-humain » sur les chatbots dès le 2 août 2026. Du côté des soignants, le consensus émerge que l'IA doit rester un outil sous supervision clinique ; en France, la Fondation FondaMental et le programme PEPR PROPSY annoncent PsyTech 2026, grand événement national sur l'IA et la psychiatrie de précision prévu en novembre à Lille.",
+      "items": [
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/",
+          "source": "STAT News / RAND",
+          "summary": "Un commentaire publié dans STAT News par des chercheurs de RAND appelle à une réglementation urgente des chatbots utilisés par les adolescents à des fins de santé mentale. S'appuyant sur une étude parue dans JAMA Pediatrics montrant que près d'un jeune américain sur cinq (19,2 %) consulte désormais ces outils — contre un sur huit l'année précédente — les auteurs demandent que la législation distingue clairement accompagnement, soins cliniques et gestion des crises, et que des garde-fous soient imposés aux plateformes."
+        },
+        {
+          "title": "First-in-the-Nation AI Chatbot Safeguards Signed into Law",
+          "url": "https://sd18.senate.ca.gov/news/first-nation-ai-chatbot-safeguards-signed-law",
+          "source": "Bureau du Sénateur Steve Padilla (Californie)",
+          "summary": "La Californie est devenue le premier État américain à inscrire dans la loi des protections spécifiques contre les produits de thérapie par IA, avec la promulgation du SB 903 porté par le sénateur Steve Padilla. Ce texte interdit à toute entité de fournir de la psychothérapie sans qu'un professionnel agréé en soit responsable et oblige les praticiens utilisant l'IA à obtenir le consentement écrit des patients — une première mondiale aux enjeux considérables pour l'ensemble des plateformes de santé mentale numérique."
+        },
+        {
+          "title": "Santé mentale : les jeunes se tournent de plus en plus vers l'IA en secret",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/55287-Sante-mentale-jeunes-tournent-plus-l-IA-en-secret",
+          "source": "Pourquoi Docteur",
+          "summary": "Pourquoi Docteur alerte sur un phénomène croissant en France et en Europe : de nombreux adolescents consultent des chatbots IA pour leurs problèmes de santé mentale sans en parler à leur entourage ni à un professionnel de santé. En France, 66 % des 11-12 ans utilisent déjà l'IA et ce taux monte à 94 % chez les 17-18 ans — ce comportement discret crée un angle mort majeur pour les familles et les soignants, notamment en situation de crise."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe",
+          "url": "https://www.ipsos.com/fr-fr/lia-conversationnelle-et-la-sante-mentale-des-jeunes-en-europe",
+          "source": "Ipsos",
+          "summary": "Une enquête Ipsos sur les usages de l'IA conversationnelle par les jeunes en Europe révèle que près de 9 jeunes sur 10 utilisent ces outils en France, et que près d'un sur deux y aborde des sujets personnels incluant leur santé mentale. L'étude pointe les risques d'une relation asymétrique avec des systèmes conçus pour acquiescer, soulignant que des tentatives de suicide d'adolescents ont été liées à des confidences faites à des chatbots dans les mois précédents, et qu'en vertu de l'AI Act, une mention explicite « nature non-humaine » sera requise sur chaque message à compter du 2 août 2026."
+        },
+        {
+          "title": "AI in Mental Health: Why Clinicians Need to Be in the Room",
+          "url": "https://medcitynews.com/2026/07/ai-in-mental-health-why-clinicians-need-to-be-in-the-room/",
+          "source": "MedCity News",
+          "summary": "Un article de MedCity News publié en juillet 2026 défend que si l'IA peut réduire la charge administrative des cliniciens et améliorer l'accès aux soins, son déploiement en santé mentale doit impérativement maintenir le jugement clinique humain au centre des décisions thérapeutiques. Le concept de « computational humility » — systèmes qui affichent leurs limites et incertitudes plutôt que de les masquer — est proposé comme cadre de conception responsable pour éviter l'érosion de la confiance patient-soignant."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental et le programme PEPR PROPSY (Inserm/CNRS, dans le cadre de France 2030) annoncent PsyTech 2026, grand rassemblement institutionnel et scientifique sur l'IA et l'innovation digitale en psychiatrie, prévu le 20 novembre 2026 à Lille. Placé sous le Haut Patronage du Président de la République, l'événement réunira chercheurs, cliniciens et industriels pour accélérer le développement responsable d'innovations en psychiatrie de précision — signal fort de l'engagement de la France sur ce sujet."
+        }
+      ]
+    },
+    {
       "date": "2026-07-12",
       "summary": "La veille du 12 juillet 2026 est marquée par une convergence de données confirmant à la fois l'adoption massive de l'IA dans le domaine de la santé mentale et l'accumulation de preuves sur ses risques. L'APA et AXA publient des rapports révélant que 63 à 77 % des personnes utilisent déjà l'IA pour leurs questions de santé mentale, tandis que les psychologues signalent des phénomènes de dépendance et de renforcement de comportements néfastes. Une étude publiée dans Nature Mental Health formalise le concept de « folie à deux technologique » — boucles de rétroaction entre chatbots et utilisateurs vulnérables — pendant qu'aux États-Unis le Maine et le Nebraska adoptent des lois ciblant spécifiquement les chatbots thérapeutiques, et que la HAS publie ses repères pour les patients français.",
       "items": [
