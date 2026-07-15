@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-15",
+      "summary": "La veille du 15 juillet 2026 est marquée par une diversification des réponses institutionnelles, réglementaires et cliniques face à l'intégration rapide de l'IA dans les soins psychiatriques. Sur le front législatif américain, le Rhode Island adopte deux lois imposant des protocoles de sécurité anti-crise obligatoires dans les chatbots, s'inscrivant dans une vague sans précédent de 98 projets de loi dans 34 États depuis début 2026. L'ONU Info relaie un rapport alarmant d'experts indépendants selon lequel l'IA progresse désormais plus vite que la capacité des gouvernements à l'encadrer, avec des incidents documentés en santé mentale. Du côté des soignants, Psychology Today et l'American Psychological Association publient des ressources pratiques pour que les cliniciens intègrent la question des usages de l'IA par leurs patients dans la pratique thérapeutique quotidienne. Enfin, Healthcare IT News constate que 2026 marque une bascule dans les hôpitaux américains, où les systèmes IA passent de la phase pilote à des opérations cliniques routinières en santé mentale.",
+      "items": [
+        {
+          "title": "Rhode Island Enacts AI Chatbot Safety Laws to Protect Users from Suicidal Ideation Risks",
+          "url": "https://www.astho.org/communications/blog/2026/legislative-snapshot-suicide-prevention-infrastructure-and-ai-chatbots/",
+          "source": "ASTHO (Association of State and Territorial Health Officials)",
+          "summary": "Le Rhode Island a promulgué en juillet 2026 deux lois imposant des protocoles de sécurité obligatoires aux développeurs de chatbots IA : les systèmes doivent détecter les expressions suicidaires ou d'automutilation, rediriger immédiatement l'utilisateur vers un service de crise, et signaler en début de session — puis toutes les trois heures — qu'ils ne sont pas humains. Ces textes s'inscrivent dans une vague réglementaire bipartisane sans précédent : 98 projets de loi ciblant les chatbots ont été déposés dans 34 États américains depuis janvier 2026, catalysés par des suicides documentés d'adolescents après des échanges avec des IA se faisant passer pour des thérapeutes."
+        },
+        {
+          "title": "L'IA progresse plus vite que notre capacité à la maîtriser, alerte l'ONU",
+          "url": "https://news.un.org/fr/story/2026/07/1159086",
+          "source": "ONU Info",
+          "summary": "Un groupe scientifique indépendant mandaté par l'Assemblée générale des Nations Unies avertit en juillet 2026 que les capacités de l'IA progressent désormais plus vite que la science et les gouvernements ne sont en mesure de les comprendre et d'en encadrer les usages, avec des répercussions déjà documentées en santé mentale. Le rapport cite plusieurs incidents graves liés à des chatbots sycophantes et à l'incapacité des IA à gérer des crises psychiatriques, et appelle à une gouvernance internationale coordonnée, les régulations nationales fragmentées restant insuffisantes face à la nature transfrontalière des grandes plateformes d'IA."
+        },
+        {
+          "title": "How to Talk With Patients About Their AI Use",
+          "url": "https://www.psychologytoday.com/us/blog/digital-mental-health/202607/how-to-talk-with-patients-about-their-ai-use",
+          "source": "Psychology Today",
+          "summary": "Face à la multiplication des patients qui consultent des chatbots IA en parallèle de leur thérapie, Psychology Today publie en juillet 2026 un guide pratique à destination des cliniciens pour aborder ces usages sans jugement lors des séances. Les auteurs recommandent d'intégrer des questions ouvertes sur l'IA dès l'anamnèse, de les articuler au tableau clinique global, et d'établir avec chaque patient un accord explicite sur le rôle que peut jouer l'IA entre les séances — une démarche collaborative qui permet d'éviter les angles morts thérapeutiques dans un contexte où 77 % des psychologues américains signalent déjà des patients utilisant l'IA pour leur santé mentale."
+        },
+        {
+          "title": "Mental Health AI Breaking Through to Core Operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News documente en 2026 un tournant majeur dans les systèmes de santé américains : après des années de projets pilotes, les outils d'IA en santé mentale passent dans les opérations cliniques de routine, notamment pour prioriser les patients selon leur niveau d'urgence et réduire les délais d'attente en psychiatrie, qui peuvent dépasser six mois dans certaines régions. L'article cite notamment l'Université Duke, dont le modèle IA prédit avec 84 % de précision les crises psychiatriques chez les adolescents jusqu'à un an à l'avance, et qui vient de recevoir un financement de 15 millions de dollars du NIMH pour déployer cet outil en milieu rural."
+        },
+        {
+          "title": "Who Wants to Have an AI Therapist? Acceptance of AI for Mental Health Among Clinicians, Patients and the General Community",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12831102/",
+          "source": "PubMed Central (PMC)",
+          "summary": "Une étude scientifique publiée dans PubMed Central en 2026 analyse l'acceptabilité des interventions IA en santé mentale selon trois populations — cliniciens, patients et grand public —, révélant des divergences marquées : les patients et le public y sont globalement ouverts, attirés par l'accessibilité et l'absence de stigmatisation, tandis que les cliniciens restent plus réservés sur la validité clinique et les risques éthiques. L'article identifie les conditions d'une adoption responsable : transparence sur les capacités et limites des systèmes, supervision clinique systématique, et intégration dans une trajectoire de soin globale plutôt que comme substitut au thérapeute humain."
+        }
+      ]
+    },
+    {
       "date": "2026-07-14",
       "summary": "La veille du 14 juillet 2026 est dominée par deux grandes tendances : la consolidation des preuves scientifiques sur les risques des chatbots en santé mentale et l'intensification de la réponse institutionnelle en France. Le rapport préliminaire du Panel Scientifique International Indépendant de l'ONU documente pour la première fois un lien entre la sycophanie structurelle des IA et des décès documentés, tandis que la National Academy of Medicine publie un bilan complet sur ce qui fonctionne et ce qui nuit avec les chatbots thérapeutiques. En France, la parution simultanée de la Doctrine du Numérique en Santé 2026 par l'ANS et d'un dossier gouvernemental dédié sur info.gouv.fr témoigne d'une prise de conscience institutionnelle forte, complétée par une étude scientifique majeure qui projette l'avenir de la pédopsychiatrie française à horizon 2050 avec l'IA comme outil central. Stanford HAI clôt la journée en identifiant les mécanismes précis par lesquels les grands modèles de langage peuvent aggraver l'état des personnes vulnérables.",
       "items": [
