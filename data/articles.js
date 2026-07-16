@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-16",
+      "summary": "La veille du 16 juillet 2026 met en lumière une double dynamique : l'accélération de l'usage de l'IA pour la santé mentale chez les jeunes et la montée en puissance des réponses institutionnelles pour encadrer ces pratiques. En France, la HAS publie un guide pratique destiné aux patients pour adopter des réflexes sécurisés face à l'IA en santé, co-élaboré avec la CNIL et France Assos Santé. Aux États-Unis, des chercheurs du RAND et de Harvard alertent sur l'explosion silencieuse du recours des adolescents aux chatbots pour gérer leurs émotions — près d'un jeune sur cinq, dont les deux tiers n'en parlent à personne — tandis que 98 projets de loi dans 34 États tentent de structurer un cadre législatif fragmenté. Enfin, l'enquête mondiale AXA-IPSOS confirme la banalisation de ces usages (plus de 60 % des répondants déclarent y avoir fait appel), mais révèle une déception persistante : 45 % jugent les conseils reçus insuffisants, témoignant du fossé entre les attentes et la réalité actuelle de ces outils.",
+      "items": [
+        {
+          "title": "Intelligence artificielle en santé : la HAS publie des repères pour les usagers",
+          "url": "https://www.has-sante.fr/jcms/p_4092354/fr/intelligence-artificielle-en-sante-la-has-publie-des-reperes-pour-les-usagers",
+          "source": "Haute Autorité de Santé (HAS)",
+          "summary": "En juillet 2026, la Haute Autorité de Santé publie un guide intitulé « Intelligence artificielle en santé – Bien l'utiliser et bien se protéger », co-élaboré avec France Assos Santé et la CNIL. Ce document explique en termes accessibles le fonctionnement de l'IA générative, ses cas d'usage en santé (dont la santé mentale) et ses limites, en insistant sur la nécessité de recourir systématiquement à un professionnel pour toute interprétation médicale et sur la vigilance à adopter concernant les données personnelles partagées avec les systèmes IA."
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "url": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "source": "RAND Corporation",
+          "summary": "Dans un commentaire publié en juillet 2026, des chercheurs du RAND, de Brown University et de Harvard alertent sur l'explosion de l'usage des chatbots IA chez les jeunes Américains pour gérer états émotionnels et stress : près d'un adolescent sur cinq (19,2 %, soit environ 8,2 millions de jeunes entre 12 et 21 ans) utilise des IA comme ChatGPT, Character.AI ou Meta AI à cet effet — une hausse de 40 % en un an. Surtout, deux tiers de ces jeunes n'en parlent à personne, exposant cette population à des risques mal identifiés sans filet de sécurité clinique."
+        },
+        {
+          "title": "More than 60% of people use AI for mental health support, but many are unhappy with it",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / IPSOS (Mind Health Report 2026)",
+          "summary": "Le rapport AXA Mind Health Report 2026, réalisé avec IPSOS auprès de répondants dans plusieurs pays, révèle que plus de 60 % des personnes interrogées ont consulté une IA pour obtenir un soutien psychologique, mais que 45 % se déclarent insatisfaites des conseils reçus. L'enquête souligne la difficulté des utilisateurs à distinguer un chatbot généraliste d'un outil spécialisé en santé mentale, ce qui génère des attentes déçues et une confusion potentiellement risquée dans des situations de vulnérabilité."
+        },
+        {
+          "title": "How AI Can Support Better Mental Health Outcomes — With Humans at the Center",
+          "url": "https://medcitynews.com/2026/07/how-ai-can-support-better-mental-health-outcomes-with-humans-at-the-center/",
+          "source": "MedCity News",
+          "summary": "MedCity News décrit en juillet 2026 les modèles d'intégration les plus prometteurs de l'IA en santé mentale dans les systèmes de soins américains : détection précoce des crises, priorisation des patients et réduction des délais d'attente, toujours sous supervision clinique humaine. L'article insiste sur le fait que les déploiements qui fonctionnent placent le clinicien au centre des décisions et assurent une traçabilité des recommandations algorithmiques, en opposition aux approches substituant l'IA au thérapeute, qui génèrent des incidents documentés."
+        },
+        {
+          "title": "The Chatbot Moment: Mapping the Emerging 2026 U.S. Chatbot Legislative Landscape",
+          "url": "https://fpf.org/blog/the-chatbot-moment-mapping-the-emerging-2026-u-s-chatbot-legislative-landscape/",
+          "source": "Future of Privacy Forum (FPF)",
+          "summary": "Le Future of Privacy Forum publie une cartographie complète de la vague législative américaine de 2026 sur les chatbots : 98 projets de loi dans 34 États, avec des approches très hétérogènes allant de simples obligations de divulgation du caractère artificiel du chatbot à des interdictions explicites de toute prestation thérapeutique par IA non supervisée. Le Maine s'impose comme l'État le plus strict, prohibant formellement la fourniture de services de psychothérapie par IA sans supervision d'un professionnel de santé agréé."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, une conférence prévue le 20 novembre à Lille consacrée à l'IA et aux innovations digitales en psychiatrie, organisée dans le cadre du programme France 2030 de psychiatrie de précision. L'événement réunira chercheurs, cliniciens, industriels et décideurs pour faire le point sur les avancées (diagnostic précoce, personnalisation des traitements, aide à la décision) et les défis éthiques et réglementaires de l'IA en psychiatrie, témoignant de la structuration croissante de l'écosystème français dans ce domaine."
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "summary": "La veille du 15 juillet 2026 est marquée par une diversification des réponses institutionnelles, réglementaires et cliniques face à l'intégration rapide de l'IA dans les soins psychiatriques. Sur le front législatif américain, le Rhode Island adopte deux lois imposant des protocoles de sécurité anti-crise obligatoires dans les chatbots, s'inscrivant dans une vague sans précédent de 98 projets de loi dans 34 États depuis début 2026. L'ONU Info relaie un rapport alarmant d'experts indépendants selon lequel l'IA progresse désormais plus vite que la capacité des gouvernements à l'encadrer, avec des incidents documentés en santé mentale. Du côté des soignants, Psychology Today et l'American Psychological Association publient des ressources pratiques pour que les cliniciens intègrent la question des usages de l'IA par leurs patients dans la pratique thérapeutique quotidienne. Enfin, Healthcare IT News constate que 2026 marque une bascule dans les hôpitaux américains, où les systèmes IA passent de la phase pilote à des opérations cliniques routinières en santé mentale.",
       "items": [
