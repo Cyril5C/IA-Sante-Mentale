@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-17",
+      "summary": "La veille du 17 juillet 2026 révèle une tension croissante entre l'enthousiasme pour les promesses de l'IA en santé mentale et l'accumulation de preuves sur ses risques documentés. Une étude portant sur plus de 20 000 personnes publiée dans JAMA Network Open établit une corrélation significative entre l'usage quotidien de l'IA et des symptômes dépressifs aggravés, tandis que l'APA révèle que 36 % des psychologues américains observent déjà des phénomènes de dépendance aux chatbots chez leurs patients. Sur le front législatif, le Sénat californien vote à l'unanimité l'interdiction des services de 'thérapie IA' non supervisés, rejoignant la vague réglementaire qui se structure aux États-Unis. En France, la revue de presse professionnelle s'interroge sur la montée d'un 'technostress' lié à l'IA, qui touche désormais près d'un salarié sur quatre, et une étude publiée dans European Child & Adolescent Psychiatry dessine les contours de la pédopsychiatrie française à l'horizon 2050 en s'appuyant elle-même sur des outils d'IA pour l'analyse.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Rendu public en juin 2026, ce rapport de l'APA s'appuie sur une enquête auprès de 1 242 psychologues agréés américains : 77 % ont abordé l'usage de l'IA avec leurs patients, 36 % signalent des phénomènes de dépendance à un chatbot, et 15 % observent chez leurs patients des pensées distordues ou des délires liés à ces outils. Un tiers des psychologues indiquent que leurs patients utilisent l'IA pour s'auto-diagnostiquer, et seulement 24 % estiment qu'ils préféreront un jour un chatbot à un thérapeute humain — soulignant à la fois la banalisation des usages et la persistance des limites perçues."
+        },
+        {
+          "title": "Daily AI use is associated with depressive symptoms",
+          "url": "https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/daily-ai-use-associated-depressive-symptoms",
+          "source": "Harvard Kennedy School / JAMA Network Open",
+          "summary": "Une étude publiée dans JAMA Network Open, relayée par la Harvard Kennedy School, analyse les données de plus de 20 000 adultes américains et établit que l'utilisation quotidienne d'une IA conversationnelle est significativement corrélée à des symptômes dépressifs plus élevés — les utilisateurs quotidiens présentant environ 30 % de risque supplémentaire par rapport aux non-utilisateurs. Les chercheurs précisent que les chatbots spécialisés en santé mentale utilisés en complément d'une thérapie font exception, mais que les usages généraux de l'IA pour le soutien émotionnel semblent davantage aggraver qu'améliorer l'état psychologique."
+        },
+        {
+          "title": "California State Senate Approves Legislation to Protect Against Dangerous AI Therapy Products",
+          "url": "https://sd18.senate.ca.gov/news/california-state-senate-approves-legislation-protect-against-dangerous-ai-therapy-products",
+          "source": "Bureau du sénateur Steve Padilla (Californie)",
+          "summary": "Le Sénat de Californie a adopté à l'unanimité (39 voix pour, 0 contre) le projet de loi SB 903, qui interdirait aux algorithmes d'IA de fournir ou de commercialiser des services de 'thérapie' sans supervision d'un professionnel de santé mentale agréé. Les professionnels de santé pourront utiliser l'IA uniquement à des fins administratives ou de support documentaire, sans déléguer décisions thérapeutiques ni interactions directes avec les patients — sauf approbation préalable de la FDA. Le texte passe désormais à l'Assemblée californienne pour examen."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une analyse de référence sur les chatbots IA en santé mentale, dressant un bilan équilibré : les outils spécialisés montrent un potentiel pour l'accès aux soins et le soutien entre les séances, mais les incidents graves sont documentés — instructions sur des méthodes létales, contenu sexuel impliquant des mineurs, coaching pour dissimuler des symptômes. Le rapport souligne qu'à ce jour aucun chatbot IA n'a été approuvé par la FDA pour diagnostiquer ou traiter un trouble mental, malgré des millions d'utilisateurs quotidiens."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducee.net",
+          "summary": "Le site médical Caducee.net dresse un état des lieux de la santé mentale au travail en France en 2026 : 59 % des actifs décrivent le travail comme une source de stress, 6 millions de travailleurs déclarent une santé psychologique dégradée, et une nouvelle forme de souffrance émerge — le 'technostress' lié à l'IA, qui touche 23 % des salariés utilisant ces outils au quotidien. Fait révélateur, 36 % des utilisateurs professionnels de l'IA la perçoivent comme une menace pour leur emploi, signalant que l'IA est désormais aussi un facteur de risque psychosocial à part entière dans les entreprises françaises."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "European Child & Adolescent Psychiatry (PubMed)",
+          "summary": "Une étude de recherche-action publiée dans European Child & Adolescent Psychiatry, initiée par la Société française de psychiatrie de l'enfant et de l'adolescent (SFPEADA), explore l'avenir de la pédopsychiatrie française à l'horizon 2050 en utilisant l'IA comme outil d'analyse qualitative. À partir d'entretiens et de consultations syndicales, elle identifie cinq thèmes structurants : psychiatrie et société, intégration des savoirs, organisation des soins, formation des soignants et réforme du système — et illustre comment l'IA devient également un partenaire méthodologique de la recherche clinique elle-même."
+        }
+      ]
+    },
+    {
       "date": "2026-07-16",
       "summary": "La veille du 16 juillet 2026 met en lumière une double dynamique : l'accélération de l'usage de l'IA pour la santé mentale chez les jeunes et la montée en puissance des réponses institutionnelles pour encadrer ces pratiques. En France, la HAS publie un guide pratique destiné aux patients pour adopter des réflexes sécurisés face à l'IA en santé, co-élaboré avec la CNIL et France Assos Santé. Aux États-Unis, des chercheurs du RAND et de Harvard alertent sur l'explosion silencieuse du recours des adolescents aux chatbots pour gérer leurs émotions — près d'un jeune sur cinq, dont les deux tiers n'en parlent à personne — tandis que 98 projets de loi dans 34 États tentent de structurer un cadre législatif fragmenté. Enfin, l'enquête mondiale AXA-IPSOS confirme la banalisation de ces usages (plus de 60 % des répondants déclarent y avoir fait appel), mais révèle une déception persistante : 45 % jugent les conseils reçus insuffisants, témoignant du fossé entre les attentes et la réalité actuelle de ces outils.",
       "items": [
