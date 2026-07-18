@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-18",
+      "summary": "La veille du 18 juillet 2026 est dominée par la question de la sécurité des jeunes face aux chatbots IA, avec France Info et STAT News qui documentent les limites dangereuses des outils grand public en situation de crise suicidaire. Meta franchit un cap en annonçant des alertes parentales automatiques en cas de risque suicidaire chez un mineur, illustrant la pression croissante sur les grandes plateformes. Sur le plan clinique, les analyses internationales confirment qu'en 2026, l'IA en santé mentale migre des projets pilotes vers l'infrastructure opérationnelle des établissements de soins, avec des modèles prédictifs atteignant 84 % de précision pour anticiper les crises. Une méta-analyse publiée dans PubMed Central conclut à des effets modérés des agents conversationnels IA sur l'anxiété et la dépression légères, mais alerte sur l'absence de données robustes concernant leur sécurité chez les adolescents.",
+      "items": [
+        {
+          "title": "Intelligence artificielle : face à ChatGPT et ses dangers pour les jeunes en cas d'idées suicidaires, les systèmes d'aide peuvent-ils faire le poids ?",
+          "url": "https://www.franceinfo.fr/sante/enfant-ado/intelligence-artificielle-face-a-chatgpt-et-ses-dangers-pour-les-jeunes-en-cas-d-idees-suicidaires-les-systemes-d-aide-peuvent-ils-faire-le-poids_7616129.html",
+          "source": "France Info",
+          "summary": "France Info enquête sur les risques posés par ChatGPT et les IA génératives lorsqu'ils sont utilisés par des adolescents en crise suicidaire. L'article pointe que plusieurs études ont montré qu'aucun chatbot commercial ne fournit une réponse adéquate à un utilisateur en situation de péril, et interroge la capacité des dispositifs d'aide traditionnels (numéros verts, associations) à rivaliser avec des outils disponibles 24h/24 — soulevant une question de santé publique urgente pour les professionnels français."
+        },
+        {
+          "title": "Meta AI : le chatbot pourra alerter les parents en cas de risque suicidaire chez un ado",
+          "url": "https://www.begeek.fr/meta-ai-le-chatbot-pourra-alerter-les-parents-en-cas-de-risque-suicidaire-chez-un-ado-437291",
+          "source": "BeGeek.fr",
+          "summary": "Meta annonce que son assistant IA sera capable de détecter les signaux de risque suicidaire dans ses conversations avec des mineurs et d'en alerter les parents ou les services d'urgence. Déployée sous pression réglementaire et après plusieurs suicides documentés d'adolescents, cette fonctionnalité marque une étape dans la responsabilisation des grandes plateformes numériques, mais soulève aussi des questions sur la fiabilité de la détection automatique et sur la vie privée des jeunes utilisateurs."
+        },
+        {
+          "title": "Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/",
+          "source": "STAT News",
+          "summary": "STAT News publie une tribune d'experts qui appelle à légiférer d'urgence sur l'usage des chatbots IA par les adolescents en souffrance psychologique. Face à la hausse de plus de 40 % du recours des jeunes aux IA pour leur santé mentale et à plusieurs cas de suicides liés à des interactions avec des chatbots, les auteurs défendent la nécessité de standards de sécurité stricts et d'une supervision humaine obligatoire avant toute mise sur le marché de ces outils auprès de mineurs."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News constate qu'en 2026, l'IA en santé mentale quitte définitivement la phase pilote pour s'intégrer aux flux de travail opérationnels des établissements de soins américains. Des modèles prédictifs déployés dans des hôpitaux ruraux du Minnesota et de Caroline du Nord sont désormais capables d'anticiper une détérioration de l'état mental d'un patient jusqu'à un an à l'avance avec 84 % de précision, permettant une intervention précoce et réduisant les hospitalisations en urgence."
+        },
+        {
+          "title": "How AI Can Support Better Mental Health Outcomes — With Humans at the Center",
+          "url": "https://medcitynews.com/2026/07/how-ai-can-support-better-mental-health-outcomes-with-humans-at-the-center/",
+          "source": "MedCity News",
+          "summary": "MedCity News plaide pour un modèle hybride où l'IA renforce la capacité des cliniciens sans se substituer à eux : l'IA gère l'administration, la surveillance continue et l'identification des risques, tandis que le thérapeute humain conserve la décision clinique et la relation d'alliance thérapeutique. L'article s'appuie sur des retours de terrain de systèmes de santé américains ayant déployé ces approches, et souligne que les résultats les plus probants émergent précisément là où la technologie reste au service du soignant."
+        },
+        {
+          "title": "Effectiveness of AI-Driven Conversational Agents in Improving Mental Health Among Young People: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12120367/",
+          "source": "PubMed Central / NCBI",
+          "summary": "Une revue systématique et méta-analyse publiée dans PubMed Central évalue l'efficacité des agents conversationnels IA sur la santé mentale des jeunes : les résultats montrent des effets modérés et significatifs sur la réduction de l'anxiété et de la dépression légères à court terme. Les auteurs insistent toutefois sur l'insuffisance des données concernant les effets à long terme et la sécurité pour les adolescents en crise, et recommandent de subordonner tout déploiement auprès de mineurs à des études cliniques rigoureuses."
+        }
+      ]
+    },
+    {
       "date": "2026-07-17",
       "summary": "La veille du 17 juillet 2026 révèle une tension croissante entre l'enthousiasme pour les promesses de l'IA en santé mentale et l'accumulation de preuves sur ses risques documentés. Une étude portant sur plus de 20 000 personnes publiée dans JAMA Network Open établit une corrélation significative entre l'usage quotidien de l'IA et des symptômes dépressifs aggravés, tandis que l'APA révèle que 36 % des psychologues américains observent déjà des phénomènes de dépendance aux chatbots chez leurs patients. Sur le front législatif, le Sénat californien vote à l'unanimité l'interdiction des services de 'thérapie IA' non supervisés, rejoignant la vague réglementaire qui se structure aux États-Unis. En France, la revue de presse professionnelle s'interroge sur la montée d'un 'technostress' lié à l'IA, qui touche désormais près d'un salarié sur quatre, et une étude publiée dans European Child & Adolescent Psychiatry dessine les contours de la pédopsychiatrie française à l'horizon 2050 en s'appuyant elle-même sur des outils d'IA pour l'analyse.",
       "items": [
