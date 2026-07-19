@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-19",
+      "summary": "La veille du 19 juillet 2026 est marquée par une montée en puissance des initiatives institutionnelles et scientifiques pour encadrer l'IA en santé mentale. En France, la Haute Autorité de Santé publie un premier guide grand public sur les bons usages de l'IA en santé — signal fort d'une institutionnalisation de la prudence. À l'international, l'enquête AXA Mind Health 2026 confirme qu'une majorité de la population mondiale utilise désormais l'IA pour sa santé mentale, mais que près de la moitié en reste insatisfaite. Sur le plan académique, une étude JAMA Pediatrics révèle qu'un adolescent américain sur cinq y recourt régulièrement, et une nouvelle méta-analyse pointe les limites des données actuelles sur la sécurité de ces outils pour les jeunes. Une revue législative couvrant les 50 États américains illustre l'intense activité réglementaire en cours, tandis que la France prépare PsyTech 2026, sa grande journée nationale de psychiatrie numérique.",
+      "items": [
+        {
+          "title": "Intelligence artificielle en santé : la HAS publie des repères pour les usagers",
+          "url": "https://www.has-sante.fr/jcms/p_4092354/fr/intelligence-artificielle-en-sante-la-has-publie-des-reperes-pour-les-usagers",
+          "source": "Haute Autorité de Santé (HAS)",
+          "summary": "La Haute Autorité de Santé publie en juillet 2026, en partenariat avec la CNIL et France Assos Santé, un guide pratique destiné au grand public pour utiliser l'IA en santé de façon éclairée et sécurisée. Le document rappelle que l'IA générative est un outil d'orientation et non un outil de diagnostic, et met en garde contre le partage de données personnelles de santé avec des applications grand public. Cette publication marque une étape importante dans l'institutionnalisation de l'encadrement de l'IA santé en France."
+        },
+        {
+          "title": "Chatbot Use and Disclosure for Mental Health Among US Youth",
+          "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2849307",
+          "source": "JAMA Pediatrics",
+          "summary": "Une étude publiée dans JAMA Pediatrics établit qu'un adolescent américain sur cinq (environ 8 millions d'individus entre 12 et 21 ans) consulte des chatbots IA — dont ChatGPT, Meta AI ou Character.AI — lorsqu'il traverse un moment difficile sur le plan émotionnel, plus de 65 % d'entre eux y ayant recours au moins une fois par mois. Les auteurs soulignent le risque de « déplacement relationnel » : en substituant l'IA aux échanges humains, les adolescents perdraient des occasions cruciales de développer les compétences sociales qui protègent contre la dépression et la solitude."
+        },
+        {
+          "title": "Mind Health Report 2026 : plus de 6 personnes sur 10 utilisent l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport annuel Mind Health 2026 d'AXA, fondé sur une enquête mondiale auprès de plus de 20 000 personnes dans 16 pays, révèle que 61 % des répondants ont utilisé l'IA pour obtenir un soutien en santé mentale, mais que 45 % d'entre eux se déclarent insatisfaits des conseils reçus. Ce paradoxe entre adoption croissante et insatisfaction persistante illustre la tension entre l'attrait de la disponibilité 24h/24 et les limites qualitatives des chatbots actuels, et souligne l'urgence d'améliorer la fiabilité de ces outils avant leur généralisation."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "JMIR Mental Health / PubMed Central",
+          "summary": "Une revue publiée dans JMIR Mental Health cartographie l'intégralité de la législation américaine sur l'IA en santé mentale à travers les 50 États, faisant émerger trois modèles réglementaires : l'interdiction totale (Illinois, Nevada), la divulgation obligatoire avec dispositif de sécurité (Utah, New York) et la détection de crise assortie de droits à poursuivre les opérateurs (Californie). L'analyse appelle à une harmonisation fédérale pour éviter que la fragmentation législative ne laisse des pans entiers de la population sans protection adéquate."
+        },
+        {
+          "title": "PsyTech 2026 : l'IA et les innovations digitales au service de la psychiatrie française",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental, avec le soutien de l'INSERM, du CNRS et du programme France 2030, annonce PsyTech 2026, une journée nationale dédiée à l'IA et aux innovations digitales en psychiatrie, prévue le 20 novembre à Lille sous le Haut Patronage du président de la République. L'événement réunira chercheurs, cliniciens, industriels et décideurs publics autour des enjeux de la psychiatrie de précision numérique, et constitue un signal fort de la volonté française de se positionner comme acteur de référence dans l'IA en santé mentale."
+        },
+        {
+          "title": "The Effectiveness of AI Chatbots in Alleviating Mental Distress Among Adolescents and Young Adults: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/",
+          "source": "PubMed Central / NCBI",
+          "summary": "Une nouvelle méta-analyse publiée dans PubMed Central synthétise les données disponibles sur l'efficacité des chatbots IA pour réduire la détresse psychologique chez les adolescents et jeunes adultes. Si des effets modérés sont observés sur l'anxiété et la dépression légères, les auteurs soulignent l'hétérogénéité des protocoles étudiés et l'absence de consensus sur les standards de sécurité, rendant toute généralisation prématurée en l'état des preuves disponibles et appelant à des essais randomisés contrôlés à plus grande échelle."
+        }
+      ]
+    },
+    {
       "date": "2026-07-18",
       "summary": "La veille du 18 juillet 2026 est dominée par la question de la sécurité des jeunes face aux chatbots IA, avec France Info et STAT News qui documentent les limites dangereuses des outils grand public en situation de crise suicidaire. Meta franchit un cap en annonçant des alertes parentales automatiques en cas de risque suicidaire chez un mineur, illustrant la pression croissante sur les grandes plateformes. Sur le plan clinique, les analyses internationales confirment qu'en 2026, l'IA en santé mentale migre des projets pilotes vers l'infrastructure opérationnelle des établissements de soins, avec des modèles prédictifs atteignant 84 % de précision pour anticiper les crises. Une méta-analyse publiée dans PubMed Central conclut à des effets modérés des agents conversationnels IA sur l'anxiété et la dépression légères, mais alerte sur l'absence de données robustes concernant leur sécurité chez les adolescents.",
       "items": [
