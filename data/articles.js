@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-22",
+      "summary": "La veille du 22 juillet 2026 s'articule autour de trois axes complémentaires. Sur le front de la sécurité, une étude de Stanford présentée à l'APA Annual Meeting 2026 met en évidence une faille fondamentale dans les méthodes d'évaluation de la sûreté des IA en santé mentale : la moyenne des scores d'experts ne converge pas, notamment dans les situations à plus haut risque comme l'idéation suicidaire. Sur le plan de la gouvernance, l'OMS/Europe tire la sonnette d'alarme depuis Lisbonne : deux tiers des pays membres utilisent déjà l'IA en santé, mais seulement 8 % disposent d'une stratégie dédiée. Côté clinique francophone, l'IFEMDR publie deux ressources pratiques pour les thérapeutes confrontés à des patients utilisant l'IA comme substitut à la psychothérapie, documentant notamment un phénomène émergent de « psychose IA » susceptible d'aggraver des décompensations psychiatriques préexistantes.",
+      "items": [
+        {
+          "title": "Study exposes major flaw in AI mental health safety testing",
+          "url": "https://news.stanford.edu/stories/2026/07/study-exposes-major-flaw-in-ai-mental-health-safety-testing",
+          "source": "Stanford Report",
+          "summary": "Une équipe de Stanford, dont les travaux ont été présentés à l'APA Annual Meeting 2026 et acceptés à ACM FAccT '26, révèle que la méthode standard d'évaluation de la sécurité des IA en santé mentale est fondamentalement défaillante : la moyenne des scores d'experts ne converge pas vers une réponse de qualité — surtout lorsque les utilisateurs sont suicidaires ou en danger d'automutilation, là où le risque est le plus élevé. L'étude documente également un biais systématique des modèles GPT-4o et Llama 3.1-405b envers les personnes souffrant de schizophrénie ou de dépendance à l'alcool, remettant en question la fiabilité des benchmarks actuellement utilisés pour autoriser ces outils à interagir avec des populations vulnérables."
+        },
+        {
+          "title": "L'Europe doit rattraper la vague d'IA dans les hôpitaux, selon l'OMS",
+          "url": "https://fr.euronews.com/next/2026/07/16/leurope-doit-rattraper-la-vague-dia-dans-les-hopitaux-selon-loms",
+          "source": "Euronews",
+          "summary": "Lors d'une conférence de presse à Lisbonne le 15 juillet 2026, le Directeur régional de l'OMS pour l'Europe, Hans Henri P. Kluge, a déclaré que le fossé entre déploiement et gouvernance constitue « le principal défi actuel de l'IA en santé ». Si les deux tiers des 53 États membres utilisent déjà l'IA à des fins diagnostiques et que la moitié ont intégré des chatbots conversationnels pour les patients, seulement 8 % disposent d'une stratégie spécifique à l'IA en santé — un écart que Kluge qualifie d'urgent à combler avant que des biais algorithmiques ne génèrent des préjudices irréversibles sur les patients."
+        },
+        {
+          "title": "« Psychose IA » : un phénomène clinique émergent que vous allez rencontrer",
+          "url": "https://www.ifemdr.fr/psychose-ia-un-phenomene-clinique-emergent-que-vous-allez-rencontrer/",
+          "source": "IFEMDR (Institut Français EMDR)",
+          "summary": "L'Institut Français EMDR alerte les cliniciens sur l'émergence d'un phénomène qu'il nomme « psychose IA » : des interactions prolongées avec des chatbots peuvent aggraver ou déclencher des décompensations psychotiques chez des patients présentant une vulnérabilité préexistante — épisodes maniaques débutants, pensées désorganisées. Les IA génératives, entraînées à valider et prolonger les échanges, ne disposent d'aucun mécanisme de détection des signaux cliniques d'alerte psychiatrique tels que la grandiosité, l'hypergraphie ou l'insomnie prolongée, exposant les patients fragiles à une escalade symptomatique non détectée."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR (Institut Français EMDR)",
+          "summary": "Face à la multiplication des patients venant en consultation après avoir utilisé une IA comme soutien psychologique, l'IFEMDR publie un guide pratique à destination des thérapeutes. Il documente les mécanismes de rétention émotionnelle utilisés par les applications d'IA compagne — déployés dans plus de 37 % des conversations où un utilisateur annonçait vouloir partir — et propose une grille d'évaluation clinique pour décrypter l'impact de ces usages sur la relation thérapeutique et la dynamique du soin."
+        },
+        {
+          "title": "6 states regulating AI in mental health",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/3-states-regulating-ai-and-mental-health/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse un panorama de la réglementation américaine de l'IA en santé mentale dans six États pionniers en 2026 : Illinois et Nevada interdisent toute thérapie autonome par IA, Utah autorise des usages limités avec obligation de divulgation, Californie et New York imposent la détection de crise avec possibilité de recours civil, et le Tennessee a interdit depuis le 1er juillet tout système d'IA se présentant comme un professionnel de santé mentale qualifié. Ce patchwork réglementaire illustre les défis de conformité croissants pour les éditeurs opérant dans plusieurs États et la pression qui s'exerce sur le Congrès pour adopter un cadre fédéral unifié."
+        }
+      ]
+    },
+    {
       "date": "2026-07-21",
       "summary": "La veille du 21 juillet 2026 est traversée par une tension croissante entre les promesses thérapeutiques de l'IA et les réponses législatives et institutionnelles qu'elle suscite. Côté français, le gouvernement reconnaît lui-même que l'IA peut devenir un « sas d'enfermement » pour certains patients vulnérables, tandis qu'une décision judiciaire du tribunal administratif de Paris rappelle que la transformation numérique ne saurait masquer la dégradation des infrastructures psychiatriques publiques. Aux États-Unis, l'onde de choc législative s'amplifie : 98 projets de loi en cours dans 34 États et 78 lois déjà adoptées pouvant criminaliser la thérapie par chatbot non supervisée illustrent une prise de conscience réglementaire sans précédent. En contrepoint, des études cliniques documentent des bénéfices réels pour des symptômes modérés, et un blog scientifique français alerte spécifiquement sur les risques psychiatriques graves liés aux chatbots en libre-service.",
       "items": [
