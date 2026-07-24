@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-24",
+      "summary": "La journée du 24 juillet 2026 est marquée par une double dynamique réglementaire et éthique autour de l'IA en santé mentale. Sur le plan législatif, la Californie fait figure de pionnière avec le vote du SB 903, loi interdisant aux algorithmes de se substituer aux thérapeutes agréés — une tendance que l'on retrouve dans plus de 70 projets de loi déposés dans 36 États américains. Meta déploie simultanément de nouveaux outils de surveillance parentale pour protéger les adolescents dont les conversations avec l'IA suggèrent un risque suicidaire, soulevant un débat entre protection et vie privée. En France, la parole officielle et institutionnelle s'aligne pour alerter : l'IA peut devenir un « sas d'enfermement » pour les personnes fragilisées, tandis que la revue Science appelle à encadrer rigoureusement le potentiel transformateur de l'IA en psychiatrie.",
+      "items": [
+        {
+          "title": "Mental Health Care Should Not Be AI's Testing Ground",
+          "url": "https://www.globenewswire.com/news-release/2026/07/23/3332511/0/en/Rafferty-Domnick-Cunningham-Yaffa-s-Nicole-Kruegel-Mental-Health-Care-Should-Not-Be-AI-s-Testing-Ground.html",
+          "source": "GlobeNewswire",
+          "summary": "À la suite d'une audition au Conseil des superviseurs de San Francisco sur le projet de Kaiser Permanente d'intégrer l'IA dans ses services de santé mentale, l'avocate Nicole Kruegel a publié le 23 juillet une mise en garde : les outils d'IA destinés à des patients en crise psychique doivent être soumis aux mêmes exigences de sécurité que les médicaments et dispositifs médicaux. Les thérapeutes et syndicats présents à l'audition ont alerté sur le risque de voir l'automatisation réduire l'accès aux professionnels de santé mentale agréés. Cette tribune témoigne d'un front croissant entre acteurs médicaux et juridiques face à l'expansion non encadrée de l'IA en psychiatrie."
+        },
+        {
+          "title": "Meta Will Now Tell Parents If Their Teen's AI Chat Turns Dark. Should It?",
+          "url": "https://www.forbes.com/sites/anishasircar/2026/07/21/meta-will-now-tell-parents-if-their-teens-ai-chat-turns-dark-should-it/",
+          "source": "Forbes",
+          "summary": "Depuis mi-juillet 2026, Meta envoie aux parents utilisant la supervision parentale d'Instagram des alertes en temps réel lorsque leur adolescent évoque le suicide ou l'automutilation dans ses échanges avec le chatbot Meta AI, chaque signalement passant d'abord par un examen humain. Forbes interroge le bien-fondé de ce dispositif inédit : s'il répond à une demande de protection après plusieurs affaires tragiques impliquant des chatbots, il soulève des questions éthiques majeures sur la vie privée des adolescents et sur le risque que la surveillance parentale les dissuade de parler de leur détresse. La fonctionnalité est disponible aux États-Unis, au Royaume-Uni, en Australie et au Canada, avec une extension mondiale prévue d'ici fin 2026."
+        },
+        {
+          "title": "California State Senate Approves Legislation to Protect Against Dangerous AI Therapy Products",
+          "url": "https://sd18.senate.ca.gov/news/california-state-senate-approves-legislation-protect-against-dangerous-ai-therapy-products",
+          "source": "California State Senate",
+          "summary": "Le Sénat de Californie a adopté le SB 903 (Wellness and Oversight for Psychological Resources Act), porté par le sénateur Steve Padilla, qui interdit aux chatbots de se présenter comme des thérapeutes ou de prendre des décisions cliniques indépendantes, et soumet tout recours à l'IA dans la psychothérapie à l'approbation de la FDA et à une supervision humaine obligatoire. Le texte prohibe la publicité de services thérapeutiques assurés par des chatbots et impose qu'ils soient conformes au HIPAA. Cette avancée législative majeure intervient dans un contexte où plus de 70 projets de loi sur la régulation des chatbots ont été introduits dans 36 États américains au premier trimestre 2026."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "La revue Science publie une synthèse sur la capacité de l'IA à transformer la recherche et le soin en santé mentale, passant en revue les avancées dans la détection précoce des troubles par analyse vocale, la personnalisation des traitements et l'assistance aux professionnels de santé. Les auteurs identifient les promesses mais aussi les obstacles : biais algorithmiques, risques de dépendance et impossibilité pour l'IA de maintenir une véritable alliance thérapeutique. L'article plaide pour un cadre éthique rigoureux assurant que les bénéfices cliniques de l'IA soient accessibles à tous, sans aggraver les inégalités de santé mentale existantes."
+        },
+        {
+          "title": "Santé mentale : « l'IA peut devenir un sas d'enfermement »",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-l-ia-peut-devenir-un-sas-d-enfermement",
+          "source": "info.gouv.fr",
+          "summary": "Le portail officiel du gouvernement français publie une analyse alarmante : pour des personnes déjà fragilisées psychologiquement, les chatbots d'IA risquent de devenir non pas une porte de sortie de la souffrance mais un « sas d'enfermement » — un espace artificiel maintenant l'utilisateur dans un cycle d'interactions sans le conduire vers un soin adapté. Des psychiatres français relèvent que la disponibilité permanente et l'empathie simulée des IA peuvent entretenir une relation de dépendance, retardant ou remplaçant une prise en charge professionnelle souvent indispensable. L'article appelle à un renforcement des garde-fous réglementaires et à une meilleure information du public sur les limites de l'IA en matière de santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-07-23",
       "summary": "La veille du 23 juillet 2026 révèle un paradoxe mondial en plein essor : la majorité des gens se tournent désormais vers l'IA pour leur santé mentale, mais une proportion croissante en ressort insatisfaite ou fragilisée. Le rapport AXA Mind Health 2026 chiffre ce phénomène à grande échelle — 63 % des personnes interrogées ont utilisé l'IA à des fins psychologiques, dont 28 % admettent avoir été orientées vers des comportements nuisibles. L'APA américaine documente de son côté les effets cliniques observés par les praticiens : dépendance aux chatbots, croyances délirantes induites par les IA, et liens affectifs problématiques. En contrepoint institutionnel, la HAS publie ses premiers repères officiels pour les usagers français et la Suisse confirme que Deprexis, première application de psychothérapie numérique scientifiquement validée, est désormais remboursée par l'assurance de base depuis le 1er juillet.",
       "items": [
