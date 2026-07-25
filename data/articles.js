@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-25",
+      "summary": "La journée du 25 juillet 2026 confirme que la question des jeunes et de l'IA en santé mentale est désormais une priorité politique et réglementaire à l'échelle mondiale. Aux États-Unis, un briefing au Congrès révèle que 80 % des lycéens utilisent l'IA et que près de 60 % s'y tournent dans les moments de détresse — tandis qu'une étude JAMA Pediatrics chiffre à 1 jeune sur 5 le recours aux chatbots pour des conseils psychologiques, le plus souvent à l'insu des adultes. La Chine a pris de l'avance sur la régulation en imposant depuis le 15 juillet des règles strictes aux chatbots compagnons, interdisant notamment leur accès aux mineurs. En miroir, OpenAI et Meta déploient de nouveaux systèmes d'alerte parentale, tandis qu'une enquête européenne révèle que pour un tiers des jeunes Européens, l'IA tient parfois lieu de psychologue.",
+      "items": [
+        {
+          "title": "Capitol Hill briefing spotlights AI's concerning, growing role in teen mental health",
+          "url": "https://wpde.com/news/nation-world/capitol-hill-briefing-spotlights-ais-concerning-growing-role-in-teen-mental-health-jed-foundation-youth-mental-health-technology-policy",
+          "source": "WPDE / The Jed Foundation",
+          "summary": "La Jed Foundation a présenté le 24 juillet 2026 devant le Congrès américain les résultats d'une enquête menée auprès de plus de 5 500 collégiens et lycéens : 4 élèves sur 5 utilisent une forme d'IA, et près de 3 sur 5 s'y tournent lorsqu'ils se sentent tristes, stressés ou solitaires. Plus de 10 % des élèves interrogés avouent utiliser l'IA pour trouver de la compagnie. Ce briefing à Capitol Hill illustre la montée en puissance du dossier IA-santé mentale des jeunes dans l'agenda politique américain."
+        },
+        {
+          "title": "China introduces rules to rein in AI companion bots amid emotional dependency concerns",
+          "url": "https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html",
+          "source": "Xinhua",
+          "summary": "La Chine a mis en vigueur le 15 juillet 2026 des mesures inédites réglementant les services d'IA à interaction anthropomorphique — chatbots compagnons, assistants émotionnels, personnages virtuels. Le texte, adopté conjointement par cinq ministères, interdit tout contenu incitant à l'automutilation ou au suicide, toute manipulation émotionnelle destinée à créer une dépendance, et l'offre de services de type « compagnon virtuel » aux mineurs. Cette législation place la Chine parmi les pays les plus avancés sur la régulation des risques psychologiques liés à l'IA."
+        },
+        {
+          "title": "Pour un jeune sur trois, le psy est une IA",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/54758-Pour-jeune-trois-psy-IA",
+          "source": "Pourquoi Docteur",
+          "summary": "Une enquête Ipsos BVA menée pour la CNIL et le Groupe VYV auprès de 3 800 jeunes Européens âgés de 11 à 25 ans révèle que 48 % d'entre eux ont déjà utilisé une IA conversationnelle pour parler de sujets intimes, et que 33 % considèrent l'IA comme un « psychologue » dans certains cas — proportion qui monte à 46 % chez les jeunes souffrant d'anxiété. Cette étude relayée par Pourquoi Docteur soulève des questions urgentes sur la confusion entre soutien émotionnel algorithmique et suivi thérapeutique professionnel."
+        },
+        {
+          "title": "OpenAI Expands ChatGPT Parental Controls With New Teen Safety Alerts",
+          "url": "https://colombiaone.com/2026/07/21/chatgpt-parental-controls-teen-safety-alerts/",
+          "source": "Colombia One",
+          "summary": "OpenAI annonce fin juillet 2026 une extension de ses contrôles parentaux sur ChatGPT : les parents seront désormais alertés par SMS, e-mail ou notification push lorsque le système détectera chez un adolescent des signes de crise suicidaire ou d'automutilation. Ce dispositif s'inscrit dans un mouvement plus large : Meta avait dévoilé quelques jours plus tôt un système analogue soumettant chaque signalement à une révision humaine. La pression réglementaire et les poursuites judiciaires liées à des suicides de jeunes semblent accélérer ces engagements de l'industrie technologique."
+        },
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News",
+          "summary": "Une étude publiée dans JAMA Pediatrics et conduite par le RAND Institute révèle qu'un adolescent et jeune adulte américain sur cinq (19,2 % des 12-21 ans) a recours aux chatbots d'IA pour obtenir des conseils en santé mentale, soit une hausse de 40 % en un an. Fait alarmant : 63 % de ces utilisateurs n'en parlent à personne — ni parents, ni thérapeutes —, rendant ces pratiques invisibles pour les professionnels de santé. L'American Medical Association a tiré la sonnette d'alarme sur l'urgence d'ouvrir le dialogue entre cliniciens, parents et jeunes sur ces nouveaux usages."
+        }
+      ]
+    },
+    {
       "date": "2026-07-24",
       "summary": "La journée du 24 juillet 2026 est marquée par une double dynamique réglementaire et éthique autour de l'IA en santé mentale. Sur le plan législatif, la Californie fait figure de pionnière avec le vote du SB 903, loi interdisant aux algorithmes de se substituer aux thérapeutes agréés — une tendance que l'on retrouve dans plus de 70 projets de loi déposés dans 36 États américains. Meta déploie simultanément de nouveaux outils de surveillance parentale pour protéger les adolescents dont les conversations avec l'IA suggèrent un risque suicidaire, soulevant un débat entre protection et vie privée. En France, la parole officielle et institutionnelle s'aligne pour alerter : l'IA peut devenir un « sas d'enfermement » pour les personnes fragilisées, tandis que la revue Science appelle à encadrer rigoureusement le potentiel transformateur de l'IA en psychiatrie.",
       "items": [
