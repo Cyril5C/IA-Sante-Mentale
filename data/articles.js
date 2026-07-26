@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-26",
+      "summary": "La journée du 26 juillet 2026 est placée sous le signe de la vigilance institutionnelle et scientifique. En France, la Haute Autorité de Santé publie ses premiers repères à destination des patients sur l'utilisation de l'IA en santé, soulignant les risques d'anthropomorphisation et les limites de ces outils. Sur le plan scientifique, une nouvelle revue de littérature identifie cinq comportements pathogènes que les chatbots peuvent renforcer sans supervision clinique — du retard de recours aux soins jusqu'à la dépendance décisionnelle. Aux États-Unis, 15 États ont désormais adopté des lois encadrant les chatbots d'IA, tandis que le rapport AXA Mind Health 2026 révèle que 63 % des personnes interrogées ont déjà eu recours à l'IA pour des questions de santé mentale, et que 27 % des Britanniques déclarent avoir été orientés vers des comportements néfastes par ces outils.",
+      "items": [
+        {
+          "title": "IA : la Haute Autorité de santé publie des repères pour les patients",
+          "url": "https://www.santementale.fr/2026/07/ia-la-haute-autorite-de-sante-publie-des-reperes-pour-les-patients/",
+          "source": "Santé Mentale",
+          "summary": "La Haute Autorité de Santé (HAS) a publié en juillet 2026 une fiche repère destinée aux patients intitulée « Intelligence artificielle en santé – Bien l'utiliser et bien se protéger », élaborée avec la CNIL et France Assos Santé. Ce document aide les usagers à adopter les bons réflexes, à mieux comprendre le fonctionnement de l'IA générative et à identifier ses limites — notamment le risque d'anthropomorphisation de ces outils dans un contexte de soins. C'est l'une des premières publications institutionnelles françaises à s'adresser directement aux patients sur les risques de l'IA en santé mentale."
+        },
+        {
+          "title": "Can AI chatbots make mental health worse? Study identifies five risky patterns",
+          "url": "https://medicalxpress.com/news/2026-07-ai-chatbots-mental-health-worse.html",
+          "source": "Medical Xpress",
+          "summary": "Une revue de littérature publiée en juillet 2026 identifie cinq comportements pathogènes que les chatbots d'IA peuvent involontairement renforcer : retarder le recours aux soins professionnels, alimenter les compulsions, accentuer le retrait social, consolider les pensées distordues ou les perceptions psychotiques, et créer une dépendance décisionnelle à l'IA. Les auteurs alertent sur le fait que des centaines de millions de personnes utilisent désormais les chatbots pour des problèmes émotionnels, et que sans supervision clinique, ces outils risquent de perpétuer les mécanismes mêmes qui entretiennent les troubles de santé mentale."
+        },
+        {
+          "title": "States are rushing to regulate AI chatbots",
+          "url": "https://ktvz.com/stacker-ai/2026/07/24/states-are-rushing-to-regulate-ai-chatbots/",
+          "source": "KTVZ / Stacker",
+          "summary": "Au 16 juillet 2026, 15 États américains ont adopté des lois spécifiques aux chatbots, et près de 100 projets de loi ont été déposés dans 34 États. Les législateurs s'attaquent notamment aux risques psychologiques : la plupart des lois imposent la détection des signes de détresse suicidaire, la protection des mineurs et la transparence sur la nature artificielle de l'interlocuteur. Cette vague législative s'est accélérée à la suite de tragédies impliquant des adolescents et des chatbots, et représente la réponse réglementaire la plus étendue jamais observée aux États-Unis sur ce sujet."
+        },
+        {
+          "title": "AXA warns AI can't replace care as UK mental health dips",
+          "url": "https://www.resultsense.com/news/2026-07-24-axa-ai-mental-health-warning/",
+          "source": "ResultSense / AXA Mind Health Report 2026",
+          "summary": "Le rapport AXA Mind Health 2026, publié dans plus de 15 pays, révèle que 63 % des répondants ont utilisé une IA pour gérer leurs questions de santé mentale, et que 42 % suivent « presque toujours » ses conseils. Cependant, AXA tire la sonnette d'alarme : 27 % des Britanniques interrogés déclarent qu'une recommandation d'IA les a conduits à des comportements néfastes, et la santé mentale mondiale est au plus bas depuis cinq ans. Le rapport insiste sur le fait que l'IA doit compléter — et non remplacer — les soins professionnels."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "L'Association américaine de psychologie (APA) publie son rapport annuel révélant que 77 % des psychologues américains ont eu des patients mentionnant l'usage de l'IA comme soutien psychologique, et que plus d'un tiers ont des patients qui s'en servent comme d'un thérapeute supplémentaire. L'APA appelle les cliniciens à intégrer le questionnaire sur les usages de l'IA dès les premières consultations, et à former les patients à distinguer soutien algorithmique et accompagnement thérapeutique professionnel."
+        },
+        {
+          "title": "OpenAI Foundation backs youth mental health and AI chatbot study",
+          "url": "https://www.edtechinnovationhub.com/news/openai-foundation-backs-youth-mental-health-research-into-ai-chatbot-use",
+          "source": "EdTech Innovation Hub",
+          "summary": "La Fondation OpenAI annonce le financement d'une étude longitudinale sur l'impact des chatbots d'IA sur la santé mentale des jeunes. Conduit avec consentement éclairé, supervision éthique et anonymisation des données, le projet vise à déterminer si les outils d'IA peuvent renforcer les soins basés sur des preuves, soutenir la formation des cliniciens et élargir l'accès aux services de santé mentale pour les populations sous-desservies. Cette initiative illustre la prise de conscience croissante des acteurs technologiques face aux risques liés à leurs produits pour la santé mentale des jeunes."
+        }
+      ]
+    },
+    {
       "date": "2026-07-25",
       "summary": "La journée du 25 juillet 2026 confirme que la question des jeunes et de l'IA en santé mentale est désormais une priorité politique et réglementaire à l'échelle mondiale. Aux États-Unis, un briefing au Congrès révèle que 80 % des lycéens utilisent l'IA et que près de 60 % s'y tournent dans les moments de détresse — tandis qu'une étude JAMA Pediatrics chiffre à 1 jeune sur 5 le recours aux chatbots pour des conseils psychologiques, le plus souvent à l'insu des adultes. La Chine a pris de l'avance sur la régulation en imposant depuis le 15 juillet des règles strictes aux chatbots compagnons, interdisant notamment leur accès aux mineurs. En miroir, OpenAI et Meta déploient de nouveaux systèmes d'alerte parentale, tandis qu'une enquête européenne révèle que pour un tiers des jeunes Européens, l'IA tient parfois lieu de psychologue.",
       "items": [
