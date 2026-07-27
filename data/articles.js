@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-27",
+      "summary": "La journée du 27 juillet 2026 révèle une tension centrale entre validation scientifique prometteuse et risques persistants liés à l'essor non encadré des chatbots d'IA en santé mentale. D'un côté, les travaux de Dartmouth sur Therabot — premier essai clinique contrôlé d'un chatbot thérapeutique à IA générative — publiés dans Science le 16 juillet, montrent des résultats cliniquement significatifs comparables à la psychothérapie traditionnelle. De l'autre, les psychiatres multiplient les mises en garde face à des outils commerciaux non validés qui se substituent dangereusement à des professionnels, tandis que RAND publie des propositions concrètes de régulation différenciée pour protéger les adolescents. En France, l'annonce de PsyTech 2026 à Lille et un bilan sur l'IA et la santé mentale au travail signalent une prise de conscience croissante de la nécessité d'un cadre national structuré.",
+      "items": [
+        {
+          "title": "Premier essai clinique d'un chatbot IA générative en thérapie : les résultats de Therabot publiés dans Science",
+          "url": "https://geiselmed.dartmouth.edu/news/2026/nicholas-jacobson-recognized-for-foundational-therabot-trial/",
+          "source": "Geisel School of Medicine / Dartmouth",
+          "summary": "L'essai clinique contrôlé conduit par Nicholas Jacobson (Dartmouth) sur Therabot — premier chatbot thérapeutique à IA entièrement générative — a enregistré une réduction moyenne de 51 % des symptômes dépressifs, 31 % des symptômes anxieux et 19 % des préoccupations liées aux troubles alimentaires sur 8 semaines chez 210 participants. Jacobson est nommé finaliste mondial du Prix Chen Institute/Science pour l'IA en recherche accélérée et publie ses travaux dans Science le 16 juillet 2026. Les participants ont décrit une alliance thérapeutique avec Therabot comparable à celle d'un thérapeute humain, ouvrant un débat sur le potentiel de l'IA générative à combler le déficit mondial d'accès aux soins en santé mentale."
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "url": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "source": "RAND Corporation",
+          "summary": "Dans un commentaire publié en juillet 2026, des chercheurs de RAND alertent sur le fait que des millions de jeunes se tournent vers les chatbots d'IA pour un soutien en santé mentale, et que les rares défaillances de ces outils peuvent avoir des conséquences dévastatrices. Ils proposent un cadre de régulation différencié distinguant trois catégories — compagnonnage, soins cliniques et gestion de crise — avec des exigences de sécurité proportionnelles aux risques. Ce cadre s'inscrit dans la continuité des données RAND/JAMA Pediatrics révélant qu'un adolescent sur cinq utilise ces outils, souvent à l'insu de ses parents et de ses soignants."
+        },
+        {
+          "title": "Millions Are Turning to AI Chatbots for Mental Health Support. Psychiatrists Warn It Is Not Safe Yet",
+          "url": "https://www.medicaldaily.com/ai-chatbots-mental-health-therapy-safety-risks-psychiatrists-2026-476335",
+          "source": "Medical Daily",
+          "summary": "Medical Daily s'appuie sur une revue publiée dans Psychiatric Times pour recenser les incidents documentés liés à l'usage des chatbots en santé mentale : cas d'automutilation encouragée, renforcement de pensées délirantes, représentation frauduleuse en tant qu'infirmières ou thérapeutes agréés, et quelques cas de « psychose induite par l'IA ». Alors que les délais d'attente pour accéder à un professionnel atteignent 3 à 6 mois aux États-Unis, des outils non validés cliniquement se retrouvent en première ligne de soutien psychologique — une situation que les psychiatres jugent dangereuse en l'absence de standards de sécurité clairs."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Caducée.net analyse comment l'intégration de l'IA dans les organisations reconfigure profondément les conditions de travail et crée une nouvelle forme de polarisation : les outils sont massivement adoptés, mais la supervision humaine et l'accompagnement psychologique peinent à suivre. Avec 56 % des travailleurs français déclarant l'IA comme source de fatigue et 41 % ayant connu un épuisement professionnel, l'article souligne que l'IA peut devenir un facteur de risque psychosocial lorsqu'elle reconfigure les tâches et les temps de récupération sans qu'une prévention primaire adaptée soit mise en place."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental et le programme PEPR PROPSY (Inserm/CNRS, France 2030) organisent le 20 novembre 2026 à Lille le premier grand événement national dédié à l'IA et aux innovations numériques en psychiatrie : PsyTech 2026. Ce rassemblement réunira chercheurs, cliniciens, industriels et décideurs publics sous le haut patronage du président de la République pour accélérer le développement d'une psychiatrie de précision à la française. L'événement constitue un signal fort de la volonté institutionnelle de structurer un écosystème national d'innovation en santé mentale numérique, dans un contexte où l'essor des applications et chatbots s'est largement fait sans cadre clinique national."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque le passage de l'IA en santé mentale du stade expérimental à l'intégration dans les workflows cliniques opérationnels : des systèmes d'IA commencent à être utilisés pour identifier les patients nécessitant une attention urgente, optimiser les plannings et allouer les ressources cliniques limitées. Le marché mondial de l'IA en santé mentale devrait dépasser 8 milliards de dollars en 2026. Toutefois, 73 % des consommateurs américains exigent que les décisions finales en situations d'urgence restent prises par des professionnels humains, soulignant que l'expansion industrielle doit s'accompagner d'une gouvernance clinique robuste."
+        }
+      ]
+    },
+    {
       "date": "2026-07-26",
       "summary": "La journée du 26 juillet 2026 est placée sous le signe de la vigilance institutionnelle et scientifique. En France, la Haute Autorité de Santé publie ses premiers repères à destination des patients sur l'utilisation de l'IA en santé, soulignant les risques d'anthropomorphisation et les limites de ces outils. Sur le plan scientifique, une nouvelle revue de littérature identifie cinq comportements pathogènes que les chatbots peuvent renforcer sans supervision clinique — du retard de recours aux soins jusqu'à la dépendance décisionnelle. Aux États-Unis, 15 États ont désormais adopté des lois encadrant les chatbots d'IA, tandis que le rapport AXA Mind Health 2026 révèle que 63 % des personnes interrogées ont déjà eu recours à l'IA pour des questions de santé mentale, et que 27 % des Britanniques déclarent avoir été orientés vers des comportements néfastes par ces outils.",
       "items": [
