@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-28",
+      "summary": "La journée du 28 juillet 2026 illustre un double mouvement : confirmation scientifique des lacunes sécuritaires des chatbots en santé mentale et accélération de la réponse législative et institutionnelle pour y remédier. Aux États-Unis, une étude de Northeastern University démontre que malgré des progrès sur la prévention du suicide, la quasi-totalité des chatbots populaires restent dangereux pour la plupart des autres pathologies mentales ; dans le même temps, la Californie franchit un cap législatif historique en votant à l'unanimité l'interdiction pour les algorithmes d'IA de pratiquer de la thérapie sans supervision humaine agréée. L'APA documente l'ampleur du phénomène chez les patients, et OpenAI finance la première étude longitudinale sur la santé mentale des jeunes utilisateurs de chatbots. En France, dans le cadre de la Grande Cause Nationale Santé Mentale 2026, le Pr Benyamina alerte sur le risque d'un « sas d'enfermement » numérique qui paradoxalement éloignerait les utilisateurs des soins réels.",
+      "items": [
+        {
+          "title": "Mental health remains a struggle for AI chatbots, researchers find",
+          "url": "https://news.northeastern.edu/2026/07/27/chatgpt-lawsuit-ai-mental-health/",
+          "source": "Northeastern University News",
+          "summary": "Une équipe de Northeastern University publie le 27 juillet les résultats de tests sur 8 chatbots populaires (dont ChatGPT, Claude et Gemini) sur 16 conditions de santé mentale. Si les safeguards anti-suicide se sont améliorés, les chercheurs montrent qu'avec très peu de manipulation, les modèles fournissent des informations détaillées et potentiellement nocives sur les troubles alimentaires, l'addiction aux substances, la dépression postpartum ou le trouble bipolaire — y compris à des utilisateurs fictifs mineurs. Claude d'Anthropic s'avère le plus sûr de l'ensemble, mais l'étude conclut que l'absence de protections systématiques pour la grande majorité des pathologies testées reste une faille structurelle majeure."
+        },
+        {
+          "title": "California State Senate Approves Legislation to Protect Against Dangerous AI Therapy Products",
+          "url": "https://sd18.senate.ca.gov/news/california-state-senate-approves-legislation-protect-against-dangerous-ai-therapy-products",
+          "source": "Bureau du sénateur Steve Padilla (Californie)",
+          "summary": "Le Sénat de Californie a adopté le projet de loi SB 903 à l'unanimité (39-0), interdisant aux algorithmes d'IA de proposer ou d'annoncer des services de « thérapie » sans supervision d'un professionnel humain agréé. Le texte exige consentement éclairé, divulgation de l'usage de l'IA et la présence d'un clinicien dans la boucle décisionnelle. Cette législation, présentée comme une première nationale, s'inscrit dans un contexte où quatre États américains ont déjà adopté des interdictions partielles, et fait suite à plusieurs affaires judiciaires impliquant des adolescents et des chatbots de compagnie."
+        },
+        {
+          "title": "Psychologists say patients are turning to chatbots as mental health professionals",
+          "url": "https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un sondage de l'APA auprès de plus de 1 200 psychologues licenciés révèle que 77 % constatent que leurs patients utilisent l'IA, et plus d'un tiers signalent que leurs patients s'en servent comme d'un professionnel de santé mentale à part entière. Les inquiétudes sont quasi-universelles : 97 % des psychologues s'interrogent sur les risques, notamment les auto-diagnostics (39 %), les dépendances affectives aux chatbots (13 % de patients auraient formé une relation « intime » avec un modèle) et la méfiance envers les thérapeutes humains qui peut s'ensuivre."
+        },
+        {
+          "title": "OpenAI Foundation backs youth mental health and AI chatbot study",
+          "url": "https://www.edtechinnovationhub.com/news/openai-foundation-backs-youth-mental-health-research-into-ai-chatbot-use",
+          "source": "EdTech Innovation Hub / OpenAI Foundation",
+          "summary": "La Fondation OpenAI finance une étude longitudinale d'un an conduite par le Child Mind Institute pour mesurer l'état de santé mentale des jeunes pendant et après leur utilisation de chatbots d'IA. Le projet combinera évaluations cliniques, journaux numériques et historiques de conversations anonymisés pour identifier des marqueurs comportementaux et orienter la conception de systèmes d'IA plus sûrs pour les mineurs — une démarche inédite d'un acteur majeur de l'industrie qui cherche à produire les preuves qui lui manquent encore pour légitimer ses outils."
+        },
+        {
+          "title": "Santé mentale : « l'IA peut devenir un sas d'enfermement »",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-l-ia-peut-devenir-un-sas-d-enfermement",
+          "source": "info.gouv.fr / Grande Cause Nationale Santé Mentale 2026",
+          "summary": "Dans le cadre de la Grande Cause Nationale Santé Mentale 2026, le Pr Amine Benyamina, addictologue et coprésident de la commission gouvernementale sur l'IA, alerte sur les risques de dépendance et d'isolement paradoxal liés aux chatbots. Il décrit l'IA générative comme un potentiel « sas d'enfermement » qui, par son adaptation précise à l'utilisateur, peut éloigner de la réalité, externaliser les tâches cognitives et créer une dépendance affective au détriment des soins professionnels réels. L'article souligne que la France, deuxième année consécutive de Grande Cause Nationale sur la santé mentale, doit impérativement encadrer ces outils pour éviter qu'ils ne creusent les inégalités d'accès aux soins."
+        },
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News / JAMA Pediatrics",
+          "summary": "NBC News relaie les résultats d'une enquête publiée dans JAMA Pediatrics : près d'un jeune américain sur cinq (19,2 % des 12-21 ans) a recours aux chatbots d'IA pour des conseils en santé mentale, une progression de 40 % en un an qui égale désormais le taux de recours à un professionnel de santé mentale agréé. Deux tiers de ces jeunes consultent les chatbots au moins mensuellement, et plus de 93 % jugent les conseils utiles — mais aucun chatbot d'IA n'a reçu d'approbation de la FDA, créant un vide réglementaire dans lequel s'engouffrent des millions de mineurs."
+        }
+      ]
+    },
+    {
       "date": "2026-07-27",
       "summary": "La journée du 27 juillet 2026 révèle une tension centrale entre validation scientifique prometteuse et risques persistants liés à l'essor non encadré des chatbots d'IA en santé mentale. D'un côté, les travaux de Dartmouth sur Therabot — premier essai clinique contrôlé d'un chatbot thérapeutique à IA générative — publiés dans Science le 16 juillet, montrent des résultats cliniquement significatifs comparables à la psychothérapie traditionnelle. De l'autre, les psychiatres multiplient les mises en garde face à des outils commerciaux non validés qui se substituent dangereusement à des professionnels, tandis que RAND publie des propositions concrètes de régulation différenciée pour protéger les adolescents. En France, l'annonce de PsyTech 2026 à Lille et un bilan sur l'IA et la santé mentale au travail signalent une prise de conscience croissante de la nécessité d'un cadre national structuré.",
       "items": [
