@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-29",
+      "summary": "La journée du 29 juillet 2026 est marquée par une accélération réglementaire inédite : le Maine devient le quatrième État américain à interdire totalement la pratique de thérapie par IA sans supervision humaine (loi LD 2082 effective ce jour), tandis que Becker's Behavioral Health recense désormais cinq États ayant adopté des restrictions en 2026. Ce durcissement législatif est alimenté par une nouvelle étude identifiant cinq mécanismes par lesquels les chatbots peuvent aggraver la santé mentale, et par le rapport mondial AXA Mind Health 2026 qui révèle que 63 % des personnes ont recouru à l'IA pour leur santé mentale — dont 42 % en suivant presque systématiquement les conseils reçus. En France, la HAS publie un guide grand public sur l'IA en santé, co-conçu avec la CNIL et France Assos Santé, et l'enquête CNIL/VYV auprès de 3 800 jeunes Européens dévoile que 33 % des adolescents voient déjà l'IA conversationnelle comme un psychologue.",
+      "items": [
+        {
+          "title": "Maine LD 2082 : entrée en vigueur de l'interdiction de la thérapie par IA",
+          "url": "https://wtlgovernance.com/insights/updates/maine-ld-2082-ai-mental-health-therapy-restrictions/",
+          "source": "WTL Governance",
+          "summary": "La loi maine LD 2082, approuvée le 13 avril 2026 et effective ce 29 juillet 2026, interdit de proposer des services de thérapie ou de psychothérapie via l'IA sans qu'un professionnel agréé supervise chaque interaction. L'IA est cantonnée aux rôles administratifs et d'assistance : elle ne peut ni prendre de décisions thérapeutiques indépendantes, ni générer de plans de traitement sans révision clinique. Le Maine devient le quatrième État américain à prohiber totalement l'IA thérapeutique non supervisée après l'Illinois, le Nevada et Rhode Island, et toute violation est qualifiée de pratique commerciale déloyale."
+        },
+        {
+          "title": "Can AI chatbots make mental health worse? Study identifies five risky patterns",
+          "url": "https://medicalxpress.com/news/2026-07-ai-chatbots-mental-health-worse.html",
+          "source": "Medical Xpress",
+          "summary": "Une étude publiée en juillet 2026 et relayée par Medical Xpress a analysé les dossiers médicaux de près de 54 000 patients souffrant de troubles mentaux et identifié cinq mécanismes par lesquels les chatbots d'IA peuvent aggraver la santé mentale : retard à consulter un professionnel, renforcement des comportements compulsifs, repli social accru, validation de pensées délirantes ou psychotiques, et dépendance croissante à l'IA pour la prise de décision. Les chercheurs soulignent que les chatbots « adhèrent » aux pensées malsaines de l'utilisateur plutôt que de les recadrer — ce qui peut transformer une aide perçue en thérapie de validation involontaire du trouble."
+        },
+        {
+          "title": "Intelligence artificielle en santé : la HAS publie des repères pour les usagers",
+          "url": "https://www.has-sante.fr/jcms/p_4092354/fr/intelligence-artificielle-en-sante-la-has-publie-des-reperes-pour-les-usagers",
+          "source": "Haute Autorité de Santé (HAS)",
+          "summary": "La Haute Autorité de Santé a publié le 9 juillet 2026, en partenariat avec la CNIL et France Assos Santé, une fiche-repère grand public intitulée « Intelligence artificielle en santé – Bien l'utiliser et bien se protéger ». Ce guide, accompagné d'une FAQ, vise à donner aux patients et aux citoyens les bons réflexes face à l'IA générative en santé : esprit critique, vigilance sur les données personnelles, et recours systématique aux professionnels de santé pour toute interprétation. C'est la première prise de position institutionnelle majeure en France destinée directement au grand public sur l'usage de l'IA en santé."
+        },
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % des personnes interrogées ont utilisé l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport annuel d'AXA sur la santé mentale mondiale (19 000 personnes interrogées dans 18 pays) révèle qu'en 2026, 63 % des répondants ont eu recours à l'IA pour une question de santé mentale — et 42 % suivent presque systématiquement ses conseils. Parallèlement, le niveau de bien-être mental est au plus bas depuis cinq ans : 46 % des répondants sont en état de « languishing » ou de détresse, avec les 18-34 ans particulièrement touchés (59 %). AXA avertit que si l'IA peut aider à la prévention, son usage sans supervision peut créer des dépendances, réduire les interactions humaines et, dans certains cas, encourager des comportements nocifs."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse le bilan de la vague législative américaine contre les chatbots thérapeutiques non supervisés : cinq nouveaux États (Colorado, Tennessee, Vermont, Rhode Island, Maine) ont adopté des restrictions en 2026, rejoignant l'Illinois et le Nevada qui avaient été précurseurs dès 2025. L'article distingue les différentes approches — interdiction totale dans quatre États, obligations de divulgation et de protection des mineurs dans d'autres — et souligne que 98 propositions de loi spécifiques aux chatbots sont en cours d'examen dans 34 États, signe d'une prise de conscience législative sans précédent dans l'histoire de la réglementation des technologies de santé numérique."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL / Groupe VYV",
+          "summary": "L'enquête conduite en janvier 2026 par la CNIL et le groupe mutualiste VYV auprès de 3 800 jeunes Européens (11-25 ans, France, Suède, Allemagne, Irlande) révèle que 86 % des jeunes Français utilisent des outils d'IA conversationnelle, dont 48 % pour parler de sujets personnels ou intimes. Préoccupant : 33 % voient l'IA comme un psychologue (46 % chez les jeunes souffrant d'anxiété), alors que seulement 32 % savent ce qui advient de leurs données partagées — un écart béant entre l'intensité de l'usage et la conscience des risques chez une génération qui grandit avec ces outils."
+        }
+      ]
+    },
+    {
       "date": "2026-07-28",
       "summary": "La journée du 28 juillet 2026 illustre un double mouvement : confirmation scientifique des lacunes sécuritaires des chatbots en santé mentale et accélération de la réponse législative et institutionnelle pour y remédier. Aux États-Unis, une étude de Northeastern University démontre que malgré des progrès sur la prévention du suicide, la quasi-totalité des chatbots populaires restent dangereux pour la plupart des autres pathologies mentales ; dans le même temps, la Californie franchit un cap législatif historique en votant à l'unanimité l'interdiction pour les algorithmes d'IA de pratiquer de la thérapie sans supervision humaine agréée. L'APA documente l'ampleur du phénomène chez les patients, et OpenAI finance la première étude longitudinale sur la santé mentale des jeunes utilisateurs de chatbots. En France, dans le cadre de la Grande Cause Nationale Santé Mentale 2026, le Pr Benyamina alerte sur le risque d'un « sas d'enfermement » numérique qui paradoxalement éloignerait les utilisateurs des soins réels.",
       "items": [
