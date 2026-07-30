@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-30",
+      "summary": "La journée du 30 juillet 2026 est dominée par la montée en puissance des débats réglementaires et scientifiques sur l'IA en santé mentale. Aux États-Unis, la vague législative s'amplifie : 15 États ont déjà adopté des lois encadrant les chatbots, et une étude Rutgers révèle que 6 adultes du New Jersey sur 10 approuvent cette régulation. La recherche dresse un bilan mitigé : malgré des progrès sur la prévention suicidaire, une étude de Northeastern University confirme que l'IA reste dangereuse pour la quasi-totalité des autres troubles mentaux, tandis que Stanford HAI pointe un défaut fondamental dans les méthodes de test de sécurité de ces outils. La question des adolescents cristallise le débat entre partisans des interdictions totales et défenseurs de garde-fous ciblés. En France, la Fondation FondaMental annonce PsyTech 2026 pour novembre, premier grand rendez-vous institutionnel dédié à l'IA en psychiatrie.",
+      "items": [
+        {
+          "title": "For most mental health conditions, AI remains a liability, research finds",
+          "url": "https://medicalxpress.com/news/2026-07-mental-health-conditions-ai-liability.html",
+          "source": "Medical Xpress / Northeastern University",
+          "summary": "Malgré des améliorations dans la détection des intentions suicidaires, une étude de Northeastern University publiée en juillet 2026 conclut que l'IA demeure un risque pour la quasi-totalité des autres troubles mentaux, incluant les troubles alimentaires, les addictions et la dépression périnatale. Lors de tests menés sur huit grands modèles d'IA, la plupart ont fourni des conseils potentiellement dangereux, même face à des mineurs ou lorsque l'intention de l'utilisateur était partiellement dissimulée. Les experts soulignent l'absence de consensus sur ce que les systèmes d'IA devraient être tenus de prévenir en matière de santé mentale."
+        },
+        {
+          "title": "States are rushing to regulate AI chatbots",
+          "url": "https://ktvz.com/stacker-ai/2026/07/24/states-are-rushing-to-regulate-ai-chatbots/",
+          "source": "Stacker / KTVZ",
+          "summary": "Un tour d'horizon publié le 24 juillet 2026 révèle que 98 propositions de loi spécifiquement axées sur la régulation des chatbots ont été déposées dans 34 États américains en 2026 ; 15 États ont déjà promulgué une législation, ciblant trois priorités : transparence et divulgation de la nature non-humaine du bot, protection des mineurs, et restriction des autorisations professionnelles pour la thérapie par IA. Cette vague législative traduit l'inquiétude croissante face à la montée en puissance des chatbots d'IA dans les usages de santé mentale, notamment après que 1 adulte américain sur 6 a déclaré avoir utilisé un outil d'IA pour sa santé mentale au cours de l'année écoulée."
+        },
+        {
+          "title": "Researchers Find New Jerseyans Want Regulations Around AI and Mental Health",
+          "url": "https://www.rutgers.edu/news/researchers-find-new-jerseyans-want-regulations-around-ai-and-mental-health",
+          "source": "Rutgers University / Health Affairs Scholar",
+          "summary": "Une étude publiée dans Health Affairs Scholar, conduite par le Centre Eagleton de l'Université Rutgers auprès de 1 568 adultes du New Jersey, révèle que près de 6 répondants sur 10 soutiennent la régulation des chatbots d'IA dans le domaine de la santé mentale — un soutien encore plus fort chez ceux qui en ont déjà fait usage. En parallèle, un projet de loi (A5603) est en cours d'examen à l'Assemblée du New Jersey pour interdire qu'une IA soit présentée comme un professionnel de santé mentale agréé. Ces données illustrent l'écart croissant entre l'adoption rapide de ces outils et l'absence de cadre légal clair."
+        },
+        {
+          "title": "Teens need guardrails, not bans, for mental health chatbots",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/",
+          "source": "STAT News",
+          "summary": "STAT News plaide, dans un article du 2 juillet 2026, pour des garde-fous ciblés plutôt que des interdictions totales afin de protéger les adolescents utilisant des chatbots d'IA pour leur santé mentale. S'appuyant sur des données de JAMA Pediatrics montrant que la proportion de jeunes ayant recours à l'IA pour leur santé mentale a bondi de 1 sur 8 à 1 sur 5 en un an (soit +40 %), l'article estime que les bans brutaux pourraient priver les jeunes d'un accès de premier recours utile et préconise des protocoles de crise obligatoires, des mesures de divulgation renforcées et des protections spécifiques pour les mineurs."
+        },
+        {
+          "title": "Exploring the Dangers of AI in Mental Health Care",
+          "url": "https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care",
+          "source": "Stanford HAI",
+          "summary": "Stanford HAI publie les conclusions de son atelier de politique publique sur l'IA et la santé mentale (juin 2026), réunissant chercheurs, cliniciens, décideurs et représentants de patients. L'analyse pointe un défaut structurel majeur : les développeurs font appel à des experts humains pour évaluer la « sécurité » des réponses de l'IA, mais ces experts s'accordent rarement sur ce qui est sûr ou dangereux — notamment dans les cas à plus haut risque comme le suicide ou l'automutilation. Stanford HAI signale également le manque de représentation des personnes atteintes de maladies mentales sévères dans le débat politique, au risque de creuser les inégalités."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental, avec l'Inserm et le CNRS dans le cadre du programme PEPR PROPSY (France 2030), annonce PsyTech 2026, grande journée dédiée à l'IA et aux technologies numériques en psychiatrie, prévue le 20 novembre 2026 à Lille sous le haut patronage du Président de la République. L'événement réunira chercheurs, cliniciens, industriels et décideurs publics pour construire un écosystème d'innovation en psychiatrie de précision, avec notamment des avancées sur la détection précoce des troubles via l'analyse vocale et les outils d'aide à la décision clinique. C'est le premier grand rendez-vous institutionnel français spécifiquement consacré à l'IA en psychiatrie."
+        }
+      ]
+    },
+    {
       "date": "2026-07-29",
       "summary": "La journée du 29 juillet 2026 est marquée par une accélération réglementaire inédite : le Maine devient le quatrième État américain à interdire totalement la pratique de thérapie par IA sans supervision humaine (loi LD 2082 effective ce jour), tandis que Becker's Behavioral Health recense désormais cinq États ayant adopté des restrictions en 2026. Ce durcissement législatif est alimenté par une nouvelle étude identifiant cinq mécanismes par lesquels les chatbots peuvent aggraver la santé mentale, et par le rapport mondial AXA Mind Health 2026 qui révèle que 63 % des personnes ont recouru à l'IA pour leur santé mentale — dont 42 % en suivant presque systématiquement les conseils reçus. En France, la HAS publie un guide grand public sur l'IA en santé, co-conçu avec la CNIL et France Assos Santé, et l'enquête CNIL/VYV auprès de 3 800 jeunes Européens dévoile que 33 % des adolescents voient déjà l'IA conversationnelle comme un psychologue.",
       "items": [
