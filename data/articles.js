@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-07-31",
+      "summary": "La journée du 31 juillet 2026 confirme la double dynamique qui traverse le champ de l'IA en santé mentale : une adoption massive en pratique clinique et quotidienne, accompagnée d'un resserrement législatif et éthique sans précédent. L'enquête annuelle de l'APA révèle que 77 % des psychologues américains constatent que leurs patients utilisent l'IA, dont 35 % comme substitut thérapeutique, tandis que 97 % expriment des inquiétudes sur les risques de ces outils. Sur le plan réglementaire, sept États américains ont désormais adopté des restrictions ou interdictions sur les chatbots thérapeutiques, et Quartz propose une synthèse pédagogique du patchwork législatif en cours. Côté innovation clinique, Healthcare IT News signale que 2026 marque l'entrée de l'IA dans les workflows opérationnels des systèmes de santé mentale, tandis qu'une étude française publiée sur PubMed explore les scénarios prospectifs pour la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy — APA 2026 Chatbots and Mental Health Survey",
+          "url": "https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'APA publie son enquête 2026 auprès des psychologues américains : 77 % signalent que leurs patients utilisent l'IA pour leur santé mentale, dont 35 % comme « professionnel supplémentaire ». 97 % des psychologues craignent que les chatbots ne renforcent des comportements négatifs ou des croyances dysfonctionnelles, et 94 % estiment qu'ils manquent de nuance pour traiter les troubles mentaux avec la finesse requise. L'APA appelle à une distinction claire entre outils validés cliniquement et applications grand public, et recommande que les chatbots soutiennent sans jamais remplacer la relation thérapeutique."
+        },
+        {
+          "title": "7 states curb AI therapy chatbots",
+          "url": "https://www.dbrecoveryresources.com/2026/07/7-states-curb-ai-therapy-chatbots/",
+          "source": "DB Recovery Resources",
+          "summary": "Un article de juillet 2026 recense désormais sept États américains ayant restreint ou interdit les chatbots d'IA pratiquant la thérapie : Illinois, Nevada, Rhode Island et Maine (interdictions totales), ainsi que Colorado, Tennessee et Vermont (restrictions ciblées). Ce chiffre, en hausse par rapport au décompte de cinq États publié début juillet, illustre l'accélération de la vague législative qui mobilise le droit de licensing des professionnels de santé mentale pour encadrer ces nouvelles technologies."
+        },
+        {
+          "title": "State laws restricting AI in mental health care, explained",
+          "url": "https://qz.com/state-laws-restricting-ai-mental-health-care-guide-072826",
+          "source": "Quartz",
+          "summary": "Quartz publie le 28 juillet un guide exhaustif des législations étatiques américaines encadrant l'IA en santé mentale : quatre États interdisent à l'IA de pratiquer toute forme de thérapie, tandis que d'autres imposent des obligations de divulgation de la nature non-humaine du bot, des protocoles de crise obligatoires ou des protections spécifiques pour les mineurs. L'article illustre la tension entre une régulation étatique foisonnante et une réglementation fédérale quasi absente, créant un patchwork juridique complexe pour les entreprises de tech-santé opérant dans plusieurs États."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque l'entrée de l'IA dans les workflows opérationnels des systèmes de santé mentale : les établissements font sortir ces outils de la phase pilote pour les intégrer dans la stratification des risques patients, la gestion des listes d'attente et la détection des crises. Le marché mondial de l'IA en santé mentale devrait dépasser 8 milliards de dollars en 2026, mais les experts insistent : les déploiements réussis maintiennent une supervision humaine systématique et évitent de confier à l'IA des décisions cliniques directes."
+        },
+        {
+          "title": "AI Chatbots for Mental Health Self-Management: Lived Experience–Centered Qualitative Study",
+          "url": "https://mental.jmir.org/2026/1/e78288",
+          "source": "JMIR Mental Health",
+          "summary": "Une étude qualitative publiée dans JMIR Mental Health en 2026, centrée sur l'expérience vécue de personnes souffrant de dépression, identifie trois priorités qu'elles attendent des chatbots d'IA : des informations actionnables, une validation émotionnelle dans des limites clairement définies, et une personnalisation sans divulgation de données sensibles. L'étude souligne que ces attentes sont souvent en décalage avec ce que les chatbots actuels proposent, et plaide pour une co-conception systématique avec des personnes concernées afin d'améliorer la pertinence et la sécurité de ces outils."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "NCBI / PubMed",
+          "summary": "Une étude française de recherche-action publiée sur PubMed en 2026 explore l'avenir de la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050, en utilisant l'IA comme outil d'analyse qualitative prospective. Les auteurs dessinent des scénarios contrastés : un futur où l'IA aide les cliniciens à détecter précocement les troubles développementaux, et un autre où la déshumanisation des soins creuse les inégalités de santé mentale chez les jeunes. Cette étude constitue une contribution pionnière en France sur l'usage de l'IA dans la prospective clinique en pédopsychiatrie."
+        }
+      ]
+    },
+    {
       "date": "2026-07-30",
       "summary": "La journée du 30 juillet 2026 est dominée par la montée en puissance des débats réglementaires et scientifiques sur l'IA en santé mentale. Aux États-Unis, la vague législative s'amplifie : 15 États ont déjà adopté des lois encadrant les chatbots, et une étude Rutgers révèle que 6 adultes du New Jersey sur 10 approuvent cette régulation. La recherche dresse un bilan mitigé : malgré des progrès sur la prévention suicidaire, une étude de Northeastern University confirme que l'IA reste dangereuse pour la quasi-totalité des autres troubles mentaux, tandis que Stanford HAI pointe un défaut fondamental dans les méthodes de test de sécurité de ces outils. La question des adolescents cristallise le débat entre partisans des interdictions totales et défenseurs de garde-fous ciblés. En France, la Fondation FondaMental annonce PsyTech 2026 pour novembre, premier grand rendez-vous institutionnel dédié à l'IA en psychiatrie.",
       "items": [
