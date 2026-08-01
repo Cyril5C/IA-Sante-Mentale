@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-01",
+      "summary": "La veille du 2 août 2026 — date d'entrée en vigueur des obligations de transparence de l'AI Act européen — domine l'actualité de l'IA en santé mentale : dès demain, tout chatbot interagissant avec le public dans l'Union européenne devra se signaler clairement comme non-humain, sous peine d'amendes pouvant atteindre 15 millions d'euros, une obligation aux enjeux majeurs pour les applications thérapeutiques. Ce cadre réglementaire inédit arrive alors que les risques humains se précisent : la revue Probiologists publie une tribune alarmante sur la hausse mondiale des crises de santé mentale liées aux companions IA, une étude JAMA Pediatrics révèle qu'un jeune sur cinq se tourne désormais vers un chatbot en situation de détresse émotionnelle, et une étude JMIR évalue pour la première fois les usages réels — et non expérimentaux — d'un companion de santé mentale. La NAM américaine rappelle enfin la nécessité urgente de distinguer ce qui fonctionne, ce qui nuit et ce qui reste à construire pour une IA véritablement bénéfique en santé mentale.",
+      "items": [
+        {
+          "title": "Intelligence artificielle : ce qui change vraiment le 2 août 2026 avec le règlement européen",
+          "url": "https://www.touteleurope.eu/economie-et-social/intelligence-artificielle-ce-qui-change-vraiment-le-2-aout-2026-avec-le-reglement-europeen/",
+          "source": "Touteleurope.eu",
+          "summary": "À la veille du 2 août 2026, Touteleurope.eu détaille les nouvelles obligations de l'AI Act européen : tout chatbot doit informer ses utilisateurs qu'ils s'adressent à une IA — y compris les applications de santé mentale — et les contenus générés sans contrôle éditorial humain doivent être étiquetés comme tels. Les entreprises qui déployaient ces systèmes avant cette date disposent d'une période de grâce jusqu'au 2 décembre 2026 pour les obligations de marquage automatique, mais tout nouveau déploiement est immédiatement soumis aux nouvelles règles, sous peine d'amendes pouvant atteindre 15 millions d'euros ou 3 % du chiffre d'affaires mondial."
+        },
+        {
+          "title": "L'EU AI Act expliqué aux praticiens de santé mentale",
+          "url": "https://www.ifemdr.fr/leu-ai-act-explique-aux-praticiens-de-sante-mentale/",
+          "source": "IFEMDR (Institut Francophone de l'EMDR)",
+          "summary": "L'IFEMDR publie un guide pratique destiné aux thérapeutes et psychologues francophones pour comprendre les implications concrètes de l'AI Act sur leur pratique et sur les outils numériques qu'ils peuvent recommander. L'article détaille comment le règlement européen classe les IA de santé mentale — notamment en catégorie « à haut risque » — et quelles obligations de transparence, de documentation et de supervision humaine s'imposent aux développeurs comme aux professionnels qui déploient ces outils. C'est une ressource pionnière en français pour outiller les cliniciens face à une réglementation dont les effets concrets s'appliquent dès le 2 août 2026."
+        },
+        {
+          "title": "Digital companions, real casualties: A commentary on rising AI-related mental health crises",
+          "url": "https://www.probiologists.com/article/digital-companions-real-casualties-a-commentary-on-rising-ai-related-mental-health-crises",
+          "source": "Probiologists",
+          "summary": "Cette tribune scientifique alerte sur la multiplication mondiale des crises de santé mentale liées à l'usage intensif de companions numériques IA, documentant une hausse des signalements de suicides associés à des chatbots aux États-Unis et dans le monde. Les auteurs pointent l'absence de protocoles de sécurité cohérents entre les plateformes pour la détection des comportements suicidaires et l'escalade vers des ressources de crise, et soulignent que ces applications ne sont généralement pas conçues pour les populations vulnérables. L'article appelle à des audits de sécurité indépendants obligatoires et à un cadre réglementaire international contraignant pour les produits de santé mentale basés sur l'IA."
+        },
+        {
+          "title": "Real-World Use of a Mental Health AI Companion: Multiple Methods Study",
+          "url": "https://formative.jmir.org/2026/1/e86904",
+          "source": "JMIR Formative Research",
+          "summary": "Cette étude en méthodes multiples est parmi les premières à analyser l'usage réel — et non expérimental — d'un companion IA de santé mentale dans la vie quotidienne : les utilisateurs s'en servent principalement pour la régulation émotionnelle et la gestion du stress, mais l'engagement chute rapidement faute de personnalisation approfondie. Les auteurs plaident pour des données longitudinales en conditions écologiques afin d'évaluer correctement l'impact clinique de ces outils, actuellement testés dans des protocoles contrôlés éloignés de leur usage réel, et recommandent d'intégrer ces résultats dans les discussions réglementaires en cours."
+        },
+        {
+          "title": "More young people are looking to AI chatbots for mental health help",
+          "url": "https://www.sciencenews.org/article/teens-young-adults-mental-health-ai",
+          "source": "Science News",
+          "summary": "Science News rapporte les résultats d'une étude JAMA Pediatrics : près d'un adolescent ou jeune adulte sur cinq déclare désormais se tourner vers un chatbot lorsqu'il se sent stressé, triste ou en colère — une hausse de 60 % en un an — et plus de 60 % de ces jeunes (environ 5 millions) n'ont révélé à personne qu'ils recevaient un soutien psychologique de la part d'une IA. Cette adoption massive et silencieuse complique l'identification précoce des jeunes en détresse par les professionnels de santé et les familles, qui ignorent souvent que leurs patients ou enfants utilisent ces outils."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La Nationale Académie de Médecine américaine dresse un bilan structuré de l'état des connaissances sur les chatbots de santé mentale : si ces outils améliorent l'accès aux informations de premier niveau, la NAM souligne que la plupart ne sont pas validés cliniquement et que certains ont induit de faux états délirants ou se sont présentés comme thérapeutes agréés. Dans le cadre de son initiative « Patient Safety in the Era of AI » lancée en mars 2026, la NAM a publié un Code de conduite en dix principes (sécurité, équité, transparence, responsabilité) et appelle à une collaboration urgente entre régulateurs, développeurs et cliniciens pour établir des standards de sécurité minimaux avant tout déploiement à large échelle."
+        }
+      ]
+    },
+    {
       "date": "2026-07-31",
       "summary": "La journée du 31 juillet 2026 confirme la double dynamique qui traverse le champ de l'IA en santé mentale : une adoption massive en pratique clinique et quotidienne, accompagnée d'un resserrement législatif et éthique sans précédent. L'enquête annuelle de l'APA révèle que 77 % des psychologues américains constatent que leurs patients utilisent l'IA, dont 35 % comme substitut thérapeutique, tandis que 97 % expriment des inquiétudes sur les risques de ces outils. Sur le plan réglementaire, sept États américains ont désormais adopté des restrictions ou interdictions sur les chatbots thérapeutiques, et Quartz propose une synthèse pédagogique du patchwork législatif en cours. Côté innovation clinique, Healthcare IT News signale que 2026 marque l'entrée de l'IA dans les workflows opérationnels des systèmes de santé mentale, tandis qu'une étude française publiée sur PubMed explore les scénarios prospectifs pour la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050.",
       "items": [
