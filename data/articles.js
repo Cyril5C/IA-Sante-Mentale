@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-02",
+      "summary": "Le 2 août 2026, date d'entrée en vigueur de l'article 50 de l'AI Act européen, marque un tournant réglementaire historique pour les chatbots de santé mentale, désormais tenus de signaler clairement leur nature non-humaine à leurs utilisateurs. Cette obligation s'applique dans un contexte révélé par le rapport Mind Health 2026 d'AXA : à l'échelle mondiale, 63 % des personnes interrogées ont déjà sollicité une IA pour un soutien psychologique, et 42 % en suivent quasi systématiquement les conseils — soulevant de profondes questions sur la dépendance et la confiance aveugle. Sur le terrain clinique, Healthcare IT News documente comment 2026 s'affirme comme l'année où l'IA quitte les projets pilotes pour intégrer les opérations courantes des systèmes de santé mentale, tandis que des chercheurs du RAND et de STAT News appellent à des règles claires pour protéger les adolescents qui se tournent massivement vers des chatbots en guise de thérapeutes. En France, la Fondation FondaMental dévoile le programme de PsyTech 2026 — grande journée dédiée à l'IA et à la psychiatrie, prévue en novembre à Lille — et Caducée dresse un bilan nuancé de la santé mentale au travail, entre épuisement professionnel et technostress lié à l'IA.",
+      "items": [
+        {
+          "title": "De nouvelles obligations de l'AI Act entrent en vigueur au 2 août 2026",
+          "url": "https://www.larevuedudigital.com/de-nouvelles-obligations-de-lai-act-entrent-en-vigueur-au-2-aout-2026/",
+          "source": "La Revue du Digital",
+          "summary": "La Revue du Digital fait le point en temps réel sur ce qui entre concrètement en vigueur aujourd'hui au titre de l'article 50 de l'AI Act : tout système conversationnel — y compris les chatbots de santé mentale — doit informer ses utilisateurs qu'ils s'adressent à une IA, sauf lorsque cela est évident dès l'ouverture de la conversation. Le texte détaille les catégories de contenus visés (messages vocaux, textes générés, deepfakes) et précise la période de grâce accordée jusqu'au 2 décembre 2026 pour la seule obligation de marquage machine des systèmes déjà en service. Une mise à jour réglementaire à fort impact pour les éditeurs de solutions de santé mentale numérique opérant dans l'Union européenne."
+        },
+        {
+          "title": "2026 Mind Health Report: More than 6 in 10 turn to AI for psychological support",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport Mind Health 2026 d'AXA, réalisé avec Ipsos auprès de plus de 19 000 personnes dans 18 pays, révèle un paradoxe saisissant : jamais la parole sur la santé mentale n'a été aussi libérée, mais le bien-être réel est à son niveau le plus bas depuis cinq ans. Sur le plan de l'IA, 63 % des répondants ont déjà sollicité une plateforme d'intelligence artificielle pour gérer ou chercher conseil sur leur santé mentale, et 42 % en suivent quasi systématiquement les recommandations — une adoption massive qui s'accompagne de craintes : 34 % redoutent de nouvelles formes de dépendance, 33 % un recul des interactions humaines, et 20 % un risque d'encouragement de comportements néfastes."
+        },
+        {
+          "title": "Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+          "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/",
+          "source": "STAT News / RAND",
+          "summary": "Le chercheur Ryan K. McBain (Harvard Medical School / RAND) tire la sonnette d'alarme dans une tribune de STAT News : en un an, la proportion de jeunes Américains de 12 à 21 ans utilisant un chatbot pour leur santé mentale est passée d'un sur huit à un sur cinq, soit une augmentation de plus de 40 %. Il souligne que, lorsque des millions d'adolescents se tournent vers des chatbots en cas de détresse, même des défaillances rares peuvent avoir des conséquences dramatiques, et appelle à une régulation qui distingue clairement l'accompagnement émotionnel, la prise en charge clinique et la gestion des crises — trois fonctions que les applications actuelles confondent dangereusement."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News documente le basculement majeur de 2026 : après des années de pilotes, l'IA en santé mentale intègre désormais les workflows opérationnels quotidiens des hôpitaux et programmes de santé comportementale — priorisation des patients à risque, allocation de ressources cliniques, optimisation des plannings. Un modèle prédictif déployé en milieu rural (Caroline du Nord, Minnesota, Dakota du Nord) est capable d'anticiper l'aggravation des états de santé mentale jusqu'à un an à l'avance avec 84 % de précision. Les experts insistent cependant : 73 % des patients américains exigent qu'un professionnel humain reste le décisionnaire final dans les situations d'urgence signalées par l'IA."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Le portail médical français Caducée dresse un bilan contrasté de la santé mentale au travail en 2026 : 41 % des travailleurs déclarent avoir déjà vécu un burn-out ou un épisode d'épuisement professionnel, et 23 % souffrent de technostress lié à l'irruption de l'IA dans leurs pratiques professionnelles. Si l'intelligence artificielle est présentée comme un levier de prévention possible — notamment par la détection précoce des fragilités via des indicateurs internes — l'article souligne le paradoxe d'une technologie qui est à la fois outil thérapeutique potentiel et source de détresse nouvelle pour de larges segments de la population active française."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, grande journée nationale consacrée à l'IA appliquée à la psychiatrie, prévue le 20 novembre 2026 à Lille. Inscrit dans le PEPR PROPSY — programme de psychiatrie de précision doté de 80 millions d'euros sur 5 ans, co-piloté par l'Inserm et le CNRS dans le cadre de France 2030 —, l'événement réunira chercheurs, cliniciens, industriels et décideurs publics pour accélérer le déploiement d'innovations en santé mentale. Sa tenue sous le Haut Patronage du Président de la République souligne l'enjeu stratégique national que représente désormais l'IA en psychiatrie."
+        }
+      ]
+    },
+    {
       "date": "2026-08-01",
       "summary": "La veille du 2 août 2026 — date d'entrée en vigueur des obligations de transparence de l'AI Act européen — domine l'actualité de l'IA en santé mentale : dès demain, tout chatbot interagissant avec le public dans l'Union européenne devra se signaler clairement comme non-humain, sous peine d'amendes pouvant atteindre 15 millions d'euros, une obligation aux enjeux majeurs pour les applications thérapeutiques. Ce cadre réglementaire inédit arrive alors que les risques humains se précisent : la revue Probiologists publie une tribune alarmante sur la hausse mondiale des crises de santé mentale liées aux companions IA, une étude JAMA Pediatrics révèle qu'un jeune sur cinq se tourne désormais vers un chatbot en situation de détresse émotionnelle, et une étude JMIR évalue pour la première fois les usages réels — et non expérimentaux — d'un companion de santé mentale. La NAM américaine rappelle enfin la nécessité urgente de distinguer ce qui fonctionne, ce qui nuit et ce qui reste à construire pour une IA véritablement bénéfique en santé mentale.",
       "items": [
