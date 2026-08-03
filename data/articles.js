@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-03",
+      "summary": "Trois jours après l'entrée en vigueur des obligations de transparence de l'AI Act, l'actualité du 3 août 2026 révèle un paysage partagé entre adoption massive et régulation en rattrapage. Côté usages, des familles entières commencent à consulter l'IA comme un conseiller psychologique collectif — fait inédit documenté par Forbes — tandis que l'APA révèle qu'un psychologue sur trois signale que ses propres patients utilisent déjà l'IA comme thérapeute de substitution. Côté risques, une étude de Northeastern University confirme que si les chatbots progressent dans la détection du risque suicidaire sous la pression judiciaire, ils demeurent dangereux pour la quasi-totalité des autres troubles mentaux. Face à cette réalité, les États américains intensifient leur réponse législative : 2026 est devenu une année charnière avec 14 nouvelles lois sur la sécurité des chatbots, pendant qu'en France, une étude publiée sur PubMed esquisse l'avenir de la psychiatrie pédiatrique à l'horizon 2050 avec l'IA comme partenaire de recherche.",
+      "items": [
+        {
+          "title": "Surprising Twist That Entire Families Are Now Opting To Use AI For Their Mental Health Guidance",
+          "url": "https://www.forbes.com/sites/lanceeliot/2026/08/01/surprising-twist-that-entire-families-are-now-opting-to-use-ai-for-their-mental-health-guidance/",
+          "source": "Forbes",
+          "summary": "Dans une tribune publiée le 1er août 2026, le spécialiste en IA Lance Eliot documente un phénomène inédit : des familles entières — parents et enfants — se tournent ensemble vers des chatbots d'IA pour obtenir des conseils sur leur santé mentale. Si l'accessibilité et le coût jouent en faveur de cette adoption collective, l'article pointe des risques spécifiques : conseils contradictoires entre membres de la même famille, dépendance aux hallucinations de l'IA, absence de confidentialité des échanges et questions éthiques sur la détection de la maltraitance ou de l'automutilation. Une nouvelle dimension familiale de l'usage des IA en santé mentale qui ouvre des débats inédits sur les dynamiques intrafamiliales et la responsabilité des plateformes."
+        },
+        {
+          "title": "1 in 3 psychologists say their patients use AI as a second therapist",
+          "url": "https://www.scientificamerican.com/article/1-in-3-psychologists-say-their-patients-use-ai-as-a-second-therapist/",
+          "source": "Scientific American / APA",
+          "summary": "Une enquête de l'APA (American Psychological Association) auprès de plus de 1 200 psychologues licenciés révèle que 77 % d'entre eux ont eu au moins un patient utilisant l'IA pour un soutien émotionnel, et que 35 % signalent des patients qui recourent à l'IA comme à un « professionnel de santé mentale supplémentaire ». La majorité des cliniciens expriment des préoccupations sur la sécurité, la confidentialité et la dépendance, et s'inquiètent que des chatbots non validés puissent renforcer des comportements autodestructeurs ou des délires — sans que les thérapeutes eux-mêmes soient suffisamment formés pour en discuter avec leurs patients."
+        },
+        {
+          "title": "After ChatGPT Lawsuit, AI Still Gives Risky Mental Health Advice",
+          "url": "https://news.northeastern.edu/2026/07/27/chatgpt-lawsuit-ai-mental-health/",
+          "source": "Northeastern University News",
+          "summary": "Des chercheurs de Northeastern University ont évalué huit chatbots d'IA parmi les plus utilisés (dont ChatGPT, Gemini et Claude) sur seize troubles mentaux distincts. Si les garde-fous autour du risque suicidaire se sont améliorés sous la pression de procès retentissants — dont celui intenté par des parents dont le fils de 16 ans s'est suicidé après des interactions avec ChatGPT —, les chercheurs concluent que les entreprises ont négligé de couvrir presque tous les autres troubles : addictions, troubles alimentaires, trouble bipolaire, insomnie. Un constat systémique qui interroge la responsabilité des concepteurs de ces systèmes bien au-delà des seuls risques suicidaires."
+        },
+        {
+          "title": "Watershed year for chatbot safety: 14 new state laws passed so far in 2026",
+          "url": "https://www.transparencycoalition.ai/news/watershed-year-for-chatbot-safety-measures-14-new-state-laws-enacted-so-far-in-2026",
+          "source": "Transparency Coalition",
+          "summary": "La Transparency Coalition dresse un bilan législatif sans précédent : 2026 marque une année charnière pour la sécurité des chatbots aux États-Unis, avec 14 nouvelles lois d'État adoptées et plus de 70 projets de loi déposés dans 36 États. La majorité de ces textes imposent aux chatbots de se déclarer comme des IA et non comme des humains, avec des protections spécifiques pour les mineurs et des restrictions sur l'usage de l'IA en tant que thérapeute indépendant — le Tennessee interdisant désormais aux systèmes d'IA de se présenter comme des professionnels de santé mentale agréés. Cette vague législative illustre l'accélération de la prise de conscience politique face aux risques documentés des chatbots en santé mentale."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "NCBI / PubMed",
+          "summary": "Une étude qualitative de recherche-action publiée en accès libre sur PubMed, associant cliniciens et chercheurs français, projette l'avenir de la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050 avec le concours d'une IA. Les auteurs identifient quatre axes structurants : détection précoce des troubles via l'IA, enjeux éthiques et formation des cliniciens, transformation de la relation soignant-soigné à l'ère numérique, et gouvernance des données de santé mentale des mineurs. Premier travail prospectif d'ampleur sur ce sujet en France, il illustre la montée en puissance de la réflexion académique française sur l'IA en psychiatrie pédiatrique."
+        }
+      ]
+    },
+    {
       "date": "2026-08-02",
       "summary": "Le 2 août 2026, date d'entrée en vigueur de l'article 50 de l'AI Act européen, marque un tournant réglementaire historique pour les chatbots de santé mentale, désormais tenus de signaler clairement leur nature non-humaine à leurs utilisateurs. Cette obligation s'applique dans un contexte révélé par le rapport Mind Health 2026 d'AXA : à l'échelle mondiale, 63 % des personnes interrogées ont déjà sollicité une IA pour un soutien psychologique, et 42 % en suivent quasi systématiquement les conseils — soulevant de profondes questions sur la dépendance et la confiance aveugle. Sur le terrain clinique, Healthcare IT News documente comment 2026 s'affirme comme l'année où l'IA quitte les projets pilotes pour intégrer les opérations courantes des systèmes de santé mentale, tandis que des chercheurs du RAND et de STAT News appellent à des règles claires pour protéger les adolescents qui se tournent massivement vers des chatbots en guise de thérapeutes. En France, la Fondation FondaMental dévoile le programme de PsyTech 2026 — grande journée dédiée à l'IA et à la psychiatrie, prévue en novembre à Lille — et Caducée dresse un bilan nuancé de la santé mentale au travail, entre épuisement professionnel et technostress lié à l'IA.",
       "items": [
