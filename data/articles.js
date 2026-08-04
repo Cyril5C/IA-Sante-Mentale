@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-04",
+      "summary": "Le 4 août 2026 place les adolescents et la santé mentale numérique au cœur de l'actualité. Une étude de l'École de médecine de Harvard révèle que l'usage des chatbots IA pour la santé mentale chez les jeunes américains a bondi de 60 % en un an, atteignant presque un jeune sur cinq — la plupart sans en informer parents ou médecins. Le RAND Institute et JAMA Pediatrics documentent les mêmes tendances et appellent à des garde-fous urgents, alors que cinq États américains ont déjà légiféré pour encadrer les chatbots thérapeutiques (la loi du Colorado entre en vigueur le 12 août). En France, à la veille de la rentrée 2026, le gouvernement dévoile ses mesures concrètes en santé mentale numérique, dans le cadre de la Grande cause nationale prolongée pour la deuxième année consécutive.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude menée par Hao Yu, professeur associé à la Harvard Medical School, auprès de 1 727 jeunes américains de 12 à 21 ans révèle que l'usage des chatbots d'IA pour la santé mentale a bondi de 60 % en un an : de 12,5 % l'an passé à 19,2 % aujourd'hui, soit presque un jeune sur cinq. La grande majorité des utilisateurs (63 %) n'en parle ni à leurs parents ni à leurs médecins. Malgré cela, 92 % trouvent les conseils « utiles », ce qui soulève de vives inquiétudes sur la dépendance à des systèmes non validés cliniquement — d'autant que des tentatives de suicide ont déjà été liées à des échanges avec des IA."
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "url": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "source": "RAND Corporation",
+          "summary": "Dans une tribune publiée en juillet 2026, des chercheurs du RAND appellent à une réglementation fédérale urgente aux États-Unis face au vide réglementaire autour des chatbots de santé mentale pour mineurs. S'appuyant sur leur étude parue dans JAMA Pediatrics (19,2 % des 12-21 ans utilisent des chatbots IA pour leur santé mentale ; 63 % ne l'ont jamais déclaré à quiconque), ils proposent vérification d'âge obligatoire, protocoles de crise standardisés, transparence sur les limites de l'IA et formation des pédiatres à interroger leurs patients sur ces usages cachés."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse le bilan législatif américain : cinq États ont adopté en 2026 des lois restreignant les chatbots thérapeutiques, rejoignant l'Illinois et le Nevada. Le Colorado est particulièrement scruté : sa loi HB 26-1263, qui entre en vigueur le 12 août prochain, interdit aux IA de conduire des « communications thérapeutiques » sans supervision professionnelle en temps réel et leur interdit de générer des recommandations de traitement autonomes. Tennessee, Vermont et Rhode Island ont adopté des dispositions similaires, créant une mosaïque réglementaire que les éditeurs de solutions numériques en santé mentale doivent désormais naviguer."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "info.gouv.fr",
+          "summary": "Le gouvernement français détaille les mesures concrètes entrant en vigueur en 2026 dans le cadre de la Grande cause nationale santé mentale — prolongée pour la deuxième année consécutive. Parmi les nouveautés numériques : un dispositif d'orientation prioritaire pour les élèves en souffrance psychique dès la rentrée 2026 (rendez-vous garantis sous 24 à 48h), une majorité numérique fixée à 15 ans pour les plateformes sociales, et l'élargissement de MonSoutienPsy, qui a déjà bénéficié à 1,8 million de Français. Ce tour d'horizon illustre l'articulation croissante entre politiques de santé mentale et régulation du numérique en France."
+        },
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC (American Journal of Managed Care)",
+          "summary": "L'AJMC analyse en détail l'étude RAND/JAMA Pediatrics sur l'usage des chatbots IA pour la santé mentale chez les jeunes Américains, en mettant en lumière des disparités préoccupantes : les femmes, les 18-21 ans et les jeunes ayant déjà consulté un médecin pour leur santé mentale sont surreprésentés parmi les utilisateurs. L'article souligne que la majorité des utilisateurs ne divulgue pas cet usage à leur entourage ou à leurs professionnels de santé, créant un angle mort thérapeutique majeur. Les auteurs plaident pour des études longitudinales sur les effets à long terme de ces interactions non supervisées."
+        }
+      ]
+    },
+    {
       "date": "2026-08-03",
       "summary": "Trois jours après l'entrée en vigueur des obligations de transparence de l'AI Act, l'actualité du 3 août 2026 révèle un paysage partagé entre adoption massive et régulation en rattrapage. Côté usages, des familles entières commencent à consulter l'IA comme un conseiller psychologique collectif — fait inédit documenté par Forbes — tandis que l'APA révèle qu'un psychologue sur trois signale que ses propres patients utilisent déjà l'IA comme thérapeute de substitution. Côté risques, une étude de Northeastern University confirme que si les chatbots progressent dans la détection du risque suicidaire sous la pression judiciaire, ils demeurent dangereux pour la quasi-totalité des autres troubles mentaux. Face à cette réalité, les États américains intensifient leur réponse législative : 2026 est devenu une année charnière avec 14 nouvelles lois sur la sécurité des chatbots, pendant qu'en France, une étude publiée sur PubMed esquisse l'avenir de la psychiatrie pédiatrique à l'horizon 2050 avec l'IA comme partenaire de recherche.",
       "items": [
