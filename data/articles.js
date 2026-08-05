@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-05",
+      "summary": "La veille du 5 août 2026 est marquée par la convergence de grands signaux d'alarme institutionnels et d'une accélération réglementaire sans précédent. Le rapport AXA Mind Health 2026, conduit avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle que 63 % des répondants utilisent l'IA pour leur santé mentale — mais 28 % admettent des comportements nocifs induits par ces conseils. De son côté, l'APA publie une enquête auprès de 1 242 psychologues américains : 97 % s'inquiètent que les chatbots renforcent des croyances délirantes, et 77 % ont déjà des patients qui y ont recours. Sur le front législatif, la loi du Colorado interdisant l'IA en psychothérapie entre en vigueur le 12 août prochain, portant à sept le nombre d'États américains ayant légiféré. En France, la Fondation FondaMental annonce PsyTech 2026, grand rendez-vous national de l'IA en psychiatrie prévu à Lille en novembre.",
+      "items": [
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % des gens utilisent l'IA pour leur santé mentale",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "Ipsos / AXA",
+          "summary": "Le rapport AXA Mind Health 2026, mené avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle un paradoxe frappant : si la parole sur la santé mentale n'a jamais été aussi libérée, le bien-être réel est à son plus bas depuis cinq ans. 63 % des répondants déclarent utiliser l'IA pour des questions de santé mentale, mais 28 % reconnaissent que cela a entraîné des comportements nocifs. Les jeunes adultes (18-34 ans) sont les plus touchés, avec 59 % en souffrance ou en difficulté — 13 points au-dessus de la moyenne mondiale."
+        },
+        {
+          "title": "Patients are bringing AI to therapy — APA 2026 Chatbots and Mental Health Survey",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'enquête 2026 de l'APA auprès de 1 242 psychologues agréés américains révèle que 77 % d'entre eux ont eu des patients utilisant l'IA pour un soutien psychologique, et 35 % signalent des patients qui s'en servent comme professionnel de santé mentale supplémentaire. Surtout, 97 % des psychologues estiment que les chatbots risquent de renforcer des comportements négatifs ou des croyances délirantes, et 94 % jugent qu'ils ne peuvent pas traiter les troubles mentaux avec la nuance requise. L'APA recommande que les thérapeutes interrogent systématiquement leurs patients sur leurs usages de l'IA."
+        },
+        {
+          "title": "Colorado legislature pushes AI rules targeting health care, therapy and chatbots",
+          "url": "https://www.coloradopolitics.com/2026/05/11/colorado-legislature-pushes-ai-rules-targeting-health-care-therapy-and-chatbots/",
+          "source": "Colorado Politics",
+          "summary": "La loi HB 1195 du Colorado, qui entre en vigueur le 12 août 2026, interdit aux systèmes d'IA de pratiquer la psychothérapie ou de communiquer de façon thérapeutique avec des patients sans supervision professionnelle en temps réel. Les praticiens peuvent utiliser l'IA pour des tâches administratives (agenda, facturation, prise de notes), mais toute interaction directe à visée thérapeutique avec un patient est prohibée. Le Colorado rejoint ainsi six autres États américains ayant adopté des restrictions similaires en 2025-2026."
+        },
+        {
+          "title": "State laws restricting AI in mental health care, explained",
+          "url": "https://qz.com/state-laws-restricting-ai-mental-health-care-guide-072826",
+          "source": "Quartz",
+          "summary": "Quartz publie un guide complet des législations américaines sur l'IA en santé mentale : quatre États (Illinois, Nevada, Rhode Island, Maine) ont interdit l'IA pour la thérapie au public, tandis que d'autres imposent la divulgation de la nature IA ou l'orientation vers des professionnels en cas de crise. En 2026, plus de 70 projets de loi ont été déposés dans 36 États, révélant un mouvement législatif sans précédent — mais aussi une fragmentation qui complique la conformité pour les éditeurs de solutions numériques en santé mentale."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental, partenaire du PEPR PROPSY (programme France 2030 piloté par l'Inserm et le CNRS), annonce PsyTech 2026, grand événement national dédié à l'IA et aux innovations numériques en psychiatrie, prévu le 20 novembre 2026 à Lille sous le Haut-Patronage du Président de la République. Réunissant chercheurs, cliniciens, industriels et décideurs, il vise à accélérer le déploiement d'innovations — psychiatrie de précision, détection précoce par analyse vocale, applications thérapeutiques — dans un cadre éthique et scientifique robuste."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News documente comment l'IA en santé mentale passe en 2026 du stade expérimental à l'intégration dans les opérations centrales des établissements de soins : assistance au diagnostic, personnalisation des parcours thérapeutiques, prévention du burnout chez les soignants et analyse prédictive des rechutes. Les retours sur investissement commencent à se mesurer, mais l'enjeu crucial reste l'interopérabilité avec les systèmes d'information hospitaliers et la formation des équipes cliniques à ces nouveaux outils."
+        }
+      ]
+    },
+    {
       "date": "2026-08-04",
       "summary": "Le 4 août 2026 place les adolescents et la santé mentale numérique au cœur de l'actualité. Une étude de l'École de médecine de Harvard révèle que l'usage des chatbots IA pour la santé mentale chez les jeunes américains a bondi de 60 % en un an, atteignant presque un jeune sur cinq — la plupart sans en informer parents ou médecins. Le RAND Institute et JAMA Pediatrics documentent les mêmes tendances et appellent à des garde-fous urgents, alors que cinq États américains ont déjà légiféré pour encadrer les chatbots thérapeutiques (la loi du Colorado entre en vigueur le 12 août). En France, à la veille de la rentrée 2026, le gouvernement dévoile ses mesures concrètes en santé mentale numérique, dans le cadre de la Grande cause nationale prolongée pour la deuxième année consécutive.",
       "items": [
