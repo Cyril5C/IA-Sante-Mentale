@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-06",
+      "summary": "La veille du 6 août 2026 s'ouvre sur un front scientifique prometteur : deux études indépendantes — l'une menée par l'USC, l'autre publiée dans npj Digital Medicine — démontrent que l'IA peut détecter la dépression et le risque suicidaire à partir de biomarqueurs physiologiques objectifs (mouvements oculaires, signaux cérébraux, réponses électrodermales), ouvrant la voie à un diagnostic plus précoce et moins dépendant des auto-déclarations. Sur le plan de la sécurité des plateformes, Meta franchit un cap en alertant désormais les parents lorsqu'un adolescent évoque le suicide avec son assistant IA. En Europe, l'EU AI Act est entré pleinement en vigueur le 2 août, créant un cadre contraignant que les praticiens en santé mentale doivent désormais maîtriser. En France, la question de l'IA et du burn-out au travail cristallise des tensions entre promesses technologiques et risques réels d'intensification du travail.",
+      "items": [
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "Medical Xpress / USC Viterbi",
+          "summary": "Une équipe pluridisciplinaire de l'USC (ingénierie, neurologie, psychiatrie, IA) a mis au point un système classifiant la dépression et l'idéation suicidaire à partir de biomarqueurs physiologiques — réponses électrodermales (sueur), signaux cérébraux EEG et mouvements oculaires — analysés par IA. Les résultats montrent des altérations spécifiques chez les individus dépressifs : N400 réduit et N170 émoussé en réponse à des contenus négatifs, constituant des marqueurs objectifs et mesurables du risque suicidaire. Cet outil vise à compléter les évaluations cliniques existantes, en fournissant aux psychiatres des points d'intervention plus précis sans remplacer l'entretien humain."
+        },
+        {
+          "title": "Deep learning characterizes depression and suicidal ideation in young adults from eye movements",
+          "url": "https://www.nature.com/articles/s41746-026-02550-4",
+          "source": "npj Digital Medicine (Nature)",
+          "summary": "Publiée dans npj Digital Medicine, cette étude démontre qu'un modèle de deep learning peut caractériser la dépression et l'idéation suicidaire chez de jeunes adultes à partir de l'analyse seule de leurs mouvements oculaires. Les saccades et fixations du regard, largement automatiques et difficiles à contrôler consciemment, offrent une fenêtre objective sur le traitement cognitif et attentionnel, contournant les biais inhérents aux auto-déclarations. Cette approche non invasive ouvre la voie à des outils de dépistage déployables dans des contextes cliniques à grande échelle."
+        },
+        {
+          "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+          "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+          "source": "TechCrunch",
+          "summary": "Depuis le 16 juillet 2026, Meta alerte automatiquement les parents lorsque son assistant IA détecte qu'un adolescent évoque le suicide ou l'automutilation dans une conversation. Un système IA dédié analyse les échanges en temps réel ; chaque signalement fait l'objet d'une relecture humaine avant qu'une notification parentale ne soit envoyée — Meta envisage aussi d'alerter les secours dans les cas les plus critiques. Cette mesure intervient alors que près de 2 900 poursuites judiciaires sont en cours contre le groupe dans le cadre du contentieux sur l'addiction aux réseaux sociaux chez les mineurs."
+        },
+        {
+          "title": "L'EU AI Act expliqué aux praticiens de santé mentale",
+          "url": "https://www.ifemdr.fr/leu-ai-act-explique-aux-praticiens-de-sante-mentale/",
+          "source": "IFEMDR",
+          "summary": "L'IFEMDR publie un guide pratique à l'attention des cliniciens et thérapeutes sur les implications de l'EU AI Act, entré pleinement en application le 2 août 2026. Les systèmes IA interagissant avec des patients en santé mentale sont classés « à haut risque », imposant des obligations strictes de transparence, de documentation et de surveillance post-commercialisation — sous peine de sanctions pouvant atteindre 15 M€ ou 3 % du chiffre d'affaires mondial. L'article souligne l'urgence pour les praticiens français de s'approprier ce cadre réglementaire avant de déployer ou recommander des outils IA à leurs patients."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Caducée examine la polarisation croissante au sein des entreprises françaises face à l'IA en 2026 : d'un côté, des outils IA présentés comme remèdes au burn-out (détection précoce, gestion de la charge de travail) ; de l'autre, une intensification algorithmique du travail et une surveillance accrue qui exacerbent l'épuisement professionnel. Des experts en santé au travail appellent à distinguer l'usage de l'IA comme outil de soutien de son déploiement comme levier de productivité au détriment du bien-être réel des salariés. La médecine du travail est invitée à prendre position dans ce débat encore largement tranché par les directions d'entreprises."
+        }
+      ]
+    },
+    {
       "date": "2026-08-05",
       "summary": "La veille du 5 août 2026 est marquée par la convergence de grands signaux d'alarme institutionnels et d'une accélération réglementaire sans précédent. Le rapport AXA Mind Health 2026, conduit avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle que 63 % des répondants utilisent l'IA pour leur santé mentale — mais 28 % admettent des comportements nocifs induits par ces conseils. De son côté, l'APA publie une enquête auprès de 1 242 psychologues américains : 97 % s'inquiètent que les chatbots renforcent des croyances délirantes, et 77 % ont déjà des patients qui y ont recours. Sur le front législatif, la loi du Colorado interdisant l'IA en psychothérapie entre en vigueur le 12 août prochain, portant à sept le nombre d'États américains ayant légiféré. En France, la Fondation FondaMental annonce PsyTech 2026, grand rendez-vous national de l'IA en psychiatrie prévu à Lille en novembre.",
       "items": [
