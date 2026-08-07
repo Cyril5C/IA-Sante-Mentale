@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-07",
+      "summary": "La veille du 7 août 2026 est dominée par un signal d'alarme convergent : une étude d'Harvard confirme que près d'1 jeune Américain sur 5 recourt désormais aux chatbots IA pour sa santé mentale — en hausse de 60 % en un an —, tandis que la National Academy of Medicine et des chercheurs de la Northeastern University rappellent que ces outils échouent encore dans environ 20 % des situations de crise. Face à cette adoption massive et potentiellement risquée, la réponse législative s'accélère des deux côtés de l'Atlantique : aux États-Unis, 36 États ont déposé plus de 70 projets de loi en quelques mois, et cinq États disposent déjà d'interdictions ou restrictions actives sur les chatbots thérapeutiques. En France, le gouvernement traduit sa politique de Grande Cause Nationale en mesures concrètes — majorité numérique à 15 ans, remboursement expérimental d'applications de santé mentale —, signalant une prise de conscience institutionnelle sur la régulation du numérique en santé mentale.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude d'Harvard publiée en août 2026 révèle que le recours des jeunes Américains (12-21 ans) aux chatbots IA pour des problèmes de santé mentale a bondi de 60 % en un an, passant d'1 jeune sur 8 à près d'1 sur 5, soit environ 8,2 millions d'adolescents et jeunes adultes. La grande majorité n'en informe ni leurs parents ni leurs médecins, soulevant des inquiétudes majeures quant à la fiabilité et à la sécurité des conseils délivrés par des chatbots généralistes non spécialisés. Les chercheurs appellent à une réorientation urgente des politiques publiques vers des standards de qualité pour ces outils, qui comblent en partie le vide laissé par la pénurie de professionnels de santé mentale."
+        },
+        {
+          "title": "Millions Are Turning to AI Chatbots for Mental Health Support. Psychiatrists Warn It Is Not Safe Yet.",
+          "url": "https://www.medicaldaily.com/ai-chatbots-mental-health-therapy-safety-risks-psychiatrists-2026-476335",
+          "source": "Medical Daily",
+          "summary": "Alors que des millions de personnes s'appuient sur des chatbots IA pour leur santé mentale, un nombre croissant de psychiatres tire la sonnette d'alarme : ces outils échouent à délivrer une réponse sûre dans environ 20 % des situations de crise, contre 7 % pour les thérapeutes humains. L'APA rapporte que plus d'un tiers des psychologues américains ont des patients utilisant des chatbots comme substituts de thérapeutes, et que 97 % s'inquiètent du risque de renforcement de croyances erronées. Les experts appellent à des standards réglementaires stricts avant tout déploiement de masse auprès de populations vulnérables."
+        },
+        {
+          "title": "Mental health remains a struggle for AI chatbots, researchers find",
+          "url": "https://news.northeastern.edu/2026/07/27/chatgpt-lawsuit-ai-mental-health/",
+          "source": "Northeastern University News",
+          "summary": "Des chercheurs de la Northeastern University ont évalué les performances des chatbots IA (dont ChatGPT) dans des scénarios de crise de santé mentale. Leurs conclusions montrent que si la détection du risque suicidaire s'améliore, ces outils restent inadaptés dans un cas sur cinq — réponses potentiellement dangereuses ou insuffisantes face à la complexité des pathologies mentales. L'étude paraît dans le contexte d'une vague de poursuites judiciaires contre Character.AI, Google et d'autres plateformes pour des décès liés à l'usage de chatbots aux États-Unis."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "info.gouv.fr",
+          "summary": "Le gouvernement français détaille les réformes 2026 pour la santé mentale : instauration d'une majorité numérique à 15 ans pour l'accès aux plateformes sociales, guidage prioritaire vers les soins pour les étudiants en détresse psychologique, et développement du remboursement des applications numériques de santé mentale via des expérimentations dans plusieurs CPAM. Ces mesures s'inscrivent dans la politique de Grande Cause Nationale pour la santé mentale et traduisent une volonté d'articuler régulation du numérique et accès aux soins pour les publics les plus fragiles."
+        },
+        {
+          "title": "States are rushing to regulate AI chatbots",
+          "url": "https://ktvz.com/stacker-ai/2026/07/24/states-are-rushing-to-regulate-ai-chatbots/",
+          "source": "Stacker / KTVZ",
+          "summary": "Un article de synthèse publié fin juillet 2026 documente la vague législative américaine contre les chatbots IA : 36 États ont introduit plus de 70 propositions de loi en quelques mois, ciblant en priorité les chatbots thérapeutiques et les applications compagnes pour mineurs. Cinq États (Colorado, Tennessee, Vermont, Illinois, Nevada) disposent désormais de lois interdisant ou restreignant sévèrement l'IA en psychothérapie, et l'Oregon impose des protocoles obligatoires de détection du risque suicidaire. Cette effervescence législative contraste avec la lente montée en puissance de l'EU AI Act en Europe."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une synthèse rigoureuse sur l'état des chatbots IA en santé mentale : utiles pour la gestion du stress léger et les techniques de TCC, ils restent insuffisants pour des pathologies complexes et peuvent causer des dommages réels en situation de crise. L'article distingue les chatbots spécialisés et validés cliniquement (Woebot, Wysa) des chatbots généralistes (ChatGPT, Character.AI) utilisés à mauvais escient dans un contexte thérapeutique, et plaide pour un cadre national de certification avant tout déploiement auprès de populations vulnérables."
+        }
+      ]
+    },
+    {
       "date": "2026-08-06",
       "summary": "La veille du 6 août 2026 s'ouvre sur un front scientifique prometteur : deux études indépendantes — l'une menée par l'USC, l'autre publiée dans npj Digital Medicine — démontrent que l'IA peut détecter la dépression et le risque suicidaire à partir de biomarqueurs physiologiques objectifs (mouvements oculaires, signaux cérébraux, réponses électrodermales), ouvrant la voie à un diagnostic plus précoce et moins dépendant des auto-déclarations. Sur le plan de la sécurité des plateformes, Meta franchit un cap en alertant désormais les parents lorsqu'un adolescent évoque le suicide avec son assistant IA. En Europe, l'EU AI Act est entré pleinement en vigueur le 2 août, créant un cadre contraignant que les praticiens en santé mentale doivent désormais maîtriser. En France, la question de l'IA et du burn-out au travail cristallise des tensions entre promesses technologiques et risques réels d'intensification du travail.",
       "items": [
