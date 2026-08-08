@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-08",
+      "summary": "La veille du 8 août 2026 est marquée par une convergence de données quantitatives qui dessinent le portrait d'une adoption massive mais problématique de l'IA en santé mentale. L'enquête mondiale d'AXA (19 000 personnes, 18 pays) et le rapport de l'APA auprès de 1 242 psychologues américains dressent un tableau préoccupant : 63 % des personnes utilisent déjà l'IA pour leur bien-être psychologique, mais 45 % se disent insatisfaites et 28 % reconnaissent avoir adopté des comportements nuisibles suite aux conseils reçus ; côté cliniciens, 15 % des psychologues signalent des patients ayant développé des croyances délirantes après des échanges avec un chatbot. En France et en Europe, la CNIL rappelle que 9 jeunes Français sur 10 utilisent l'IA conversationnelle et qu'un tiers la perçoit comme un substitut thérapeutique, soulignant l'urgence d'une régulation centrée sur les publics vulnérables. Paradoxalement, 2026 voit aussi les premières intégrations opérationnelles réussies de l'IA dans des cliniques de santé mentale — des modèles prédictifs à 84 % d'exactitude déployés en zone rurale —, tandis que les populations concernées restent méfiantes face à une technologie présentée comme remède aux déserts médicaux.",
+      "items": [
+        {
+          "title": "Mind Health Report 2026 : 63 % des personnes ont recours à l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/fr/presse/communiques-de-presse/etude-sante-mentale-2026",
+          "source": "AXA",
+          "summary": "La grande enquête annuelle d'AXA sur la santé mentale (19 000 personnes, 18 pays) révèle un paradoxe alarmant : si 63 % des répondants utilisent l'IA pour des questions liées à leur bien-être psychologique, 45 % se déclarent insatisfaits des conseils reçus et 28 % reconnaissent que cela les a conduits à des comportements nuisibles. Le rapport souligne également que le bien-être mental mondial est à son niveau le plus bas depuis cinq ans, avec 46 % des répondants signalant un burn-out ou un trouble de santé mentale — un chiffre qui monte à 59 % chez les 18-34 ans."
+        },
+        {
+          "title": "Patients are bringing AI to therapy — APA Chatbots & Mental Health Survey 2026",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "L'American Psychological Association publie une enquête auprès de 1 242 psychologues licenciés : 77 % ont échangé avec des patients utilisant l'IA dans leur suivi, 36 % ont des patients devenus dépendants d'un chatbot, 15 % signalent des patients ayant développé des croyances délirantes après des conversations avec une IA, et 39 % ont rencontré des patients qui s'auto-diagnostiquaient grâce à ces outils. Ces données font de l'usage de l'IA un sujet clinique incontournable que les thérapeutes doivent désormais aborder activement en consultation."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "Dans une enquête menée avec le Groupe VYV auprès de 3 800 jeunes Européens (11-25 ans), la CNIL révèle que 9 jeunes Français sur 10 utilisent l'IA conversationnelle, 48 % y partagent des sujets personnels ou intimes, et 33 % la considèrent parfois comme un « thérapeute ». Seuls 32 % savent ce qu'il advient de leurs données partagées avec ces outils et 85 % réclament davantage d'informations sur les risques. Face à ces constats, la CNIL et le Groupe VYV ont lancé l'initiative européenne AI*me pour transformer ces résultats en actions concrètes de protection des mineurs."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "2026 marque un tournant dans le déploiement opérationnel de l'IA en santé mentale : les hôpitaux pionniers sortent de la phase pilote pour intégrer ces outils dans leurs flux cliniques quotidiens. Un modèle prédictif déployé dans des cliniques rurales de North Carolina, Minnesota et Dakota prédit avec 84 % de précision une dégradation de la santé mentale jusqu'à un an à l'avance, permettant une intervention précoce. Les experts insistent toutefois sur la nécessité d'un superviseur humain dans la boucle décisionnelle, les patients souhaitant à 73 % que le médecin reste décisionnaire final."
+        },
+        {
+          "title": "Barriers to understanding how many people use AI for mental health support: an estimate and narrative review",
+          "url": "https://www.nature.com/articles/s44482-026-00025-7",
+          "source": "npj Digital Public Health (Nature)",
+          "summary": "Une revue narrative publiée dans npj Digital Public Health (juillet 2026) tente d'estimer le nombre réel de personnes utilisant l'IA comme soutien en santé mentale — un chiffre difficile à établir faute de standards déclaratifs. Les auteurs estiment qu'environ 27 % des utilisateurs d'IA y recourent pour des questions de santé mentale, tout en soulignant que les études existantes souffrent de biais méthodologiques majeurs. La revue plaide pour des obligations de transparence des plateformes afin d'évaluer réellement l'ampleur et les risques du phénomène."
+        },
+        {
+          "title": "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution",
+          "url": "https://dailyyonder.com/patients-wary-of-governments-companies-pushing-ai-as-a-rural-healthcare-solution/2026/07/31/",
+          "source": "The Daily Yonder",
+          "summary": "Une enquête de terrain du Daily Yonder (31 juillet 2026) met en lumière la méfiance des populations rurales américaines face aux politiques qui promeuvent l'IA comme solution aux déserts médicaux en santé mentale. Si le déploiement de chatbots et d'avatars IA est présenté comme une avancée pour l'accès aux soins, les patients interrogés s'inquiètent de la qualité des interactions, de la confidentialité de leurs données et du risque de se voir proposer une alternative de moindre qualité au soin humain — nuançant le discours techno-optimiste sur l'IA comme remède aux inégalités de santé."
+        }
+      ]
+    },
+    {
       "date": "2026-08-07",
       "summary": "La veille du 7 août 2026 est dominée par un signal d'alarme convergent : une étude d'Harvard confirme que près d'1 jeune Américain sur 5 recourt désormais aux chatbots IA pour sa santé mentale — en hausse de 60 % en un an —, tandis que la National Academy of Medicine et des chercheurs de la Northeastern University rappellent que ces outils échouent encore dans environ 20 % des situations de crise. Face à cette adoption massive et potentiellement risquée, la réponse législative s'accélère des deux côtés de l'Atlantique : aux États-Unis, 36 États ont déposé plus de 70 projets de loi en quelques mois, et cinq États disposent déjà d'interdictions ou restrictions actives sur les chatbots thérapeutiques. En France, le gouvernement traduit sa politique de Grande Cause Nationale en mesures concrètes — majorité numérique à 15 ans, remboursement expérimental d'applications de santé mentale —, signalant une prise de conscience institutionnelle sur la régulation du numérique en santé mentale.",
       "items": [
