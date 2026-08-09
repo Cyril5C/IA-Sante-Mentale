@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-09",
+      "summary": "La veille du 9 août 2026 est placée sous le signe de la régulation et de la recherche diagnostique. Sur le plan réglementaire, l'entrée en vigueur le 2 août des obligations de transparence de l'AI Act européen crée une nouvelle réalité juridique pour tous les chatbots conversationnels en santé mentale, tandis qu'en Californie le projet de loi SB 903 tente d'aller plus loin en interdisant le marketing thérapeutique des IA et en exigeant une supervision professionnelle. Sur le front de la recherche, deux publications scientifiques majeures démontrent des avancées significatives dans la détection biologique de la dépression : l'USC exploite des biomarqueurs physiologiques combinés à l'IA (sueur, signaux cérébraux, mouvements oculaires) pour détecter la dépression et le risque suicidaire, tandis qu'une équipe publie dans Communications Medicine un modèle de connectivité cérébrale surpassant les méthodes existantes. En filigrane, des chercheurs européens rappellent l'urgence d'une gouvernance de santé publique spécifique pour les adolescents face aux chatbots IA — une population particulièrement exposée et insuffisamment protégée par les cadres réglementaires actuels.",
+      "items": [
+        {
+          "title": "AI Act : ce qui change le 2 août 2026 pour les chatbots et la santé mentale",
+          "url": "https://www.blogdumoderateur.com/ia-act-2-aout-2026/",
+          "source": "Blog du Modérateur",
+          "summary": "Depuis le 2 août 2026, les obligations de transparence de l'article 50 de l'AI Act européen s'appliquent : tout chatbot ou agent conversationnel doit signaler à l'utilisateur qu'il interagit avec une IA, sous peine d'une amende pouvant atteindre 15 millions d'euros ou 3 % du chiffre d'affaires mondial. Pour la santé mentale, cela signifie qu'aucune application thérapeutique conversationnelle ne peut désormais s'adresser à un patient sans révéler clairement sa nature artificielle. Cette évolution réglementaire majeure intervient au moment où des millions d'Européens consultent des chatbots pour des questions liées à leur bien-être psychologique."
+        },
+        {
+          "title": "As AI 'therapists' dish out advice, California lawmakers try to set some limits",
+          "url": "https://www.paloaltoonline.com/calmatters/2026/08/06/as-ai-therapists-dish-out-advice-california-lawmakers-try-to-set-some-limits/",
+          "source": "CalMatters",
+          "summary": "Le projet de loi californien SB 903, analysé par CalMatters le 6 août 2026, interdirait aux entreprises de commercialiser des chatbots comme des thérapies et imposerait une supervision par un professionnel licencié pour toute décision thérapeutique par IA. Soutenu par les associations de psychologues et thérapeutes, le texte intervient alors qu'une personne sur huit parmi les adolescents et jeunes adultes américains recourt déjà à des chatbots pour des problèmes de santé mentale. La Californie, qui a instauré en 2024 des obligations de détection des crises suicidaires pour les chatbots, cherche ainsi à responsabiliser davantage les développeurs."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "Medical Xpress / USC Viterbi",
+          "summary": "Une étude de l'USC publiée en août 2026 démontre que des biomarqueurs physiologiques — conductance cutanée (sueur), signaux cérébraux et mouvements oculaires — combinés à l'IA permettent de détecter avec précision la dépression et le risque suicidaire. Les chercheurs ont observé que les personnes dépressives présentent des réactions physiologiques altérées face aux mots à forte charge émotionnelle négative, constituant un biomarqueur mesurable. L'objectif affiché est de compléter les auto-évaluations existantes en offrant aux psychiatres un outil biologique d'aide à la décision, sans prétendre remplacer le diagnostic clinique."
+        },
+        {
+          "title": "Enhancing depression diagnosis with augmented brain signal driven decorrelated graph neural networks",
+          "url": "https://www.nature.com/articles/s43856-026-01395-y",
+          "source": "Communications Medicine (Nature)",
+          "summary": "Une équipe de recherche publie dans Communications Medicine le modèle BrainADNet, qui améliore la détection du trouble dépressif majeur en intégrant des signaux cérébraux augmentés et des facteurs démographiques dans un réseau de graphes de connectivité cérébrale. Le modèle surpasse les méthodes existantes sur plusieurs stades dépressifs et révèle des patterns de connectivité spécifiques au genre. Ces résultats ouvrent la voie à des interventions plus précoces et personnalisées en psychiatrie de précision."
+        },
+        {
+          "title": "Beyond social media: public health governance of AI-based chatbots used by adolescents",
+          "url": "https://academic.oup.com/eurpub/article/36/4/ckag079/8713648",
+          "source": "European Journal of Public Health",
+          "summary": "Un article de l'European Journal of Public Health plaide pour une gouvernance de santé publique adaptée aux chatbots IA utilisés par les adolescents, distincte de la régulation des réseaux sociaux classiques. Les auteurs analysent les lacunes des cadres réglementaires actuels en matière de consentement éclairé des mineurs et de transparence algorithmique, et proposent des mécanismes de surveillance spécifiques. L'article démontre que les chatbots IA présentent des risques distincts pour la santé mentale des adolescents, justifiant une approche réglementaire dédiée au-delà de l'AI Act existant."
+        },
+        {
+          "title": "L'EU AI Act expliqué aux praticiens de santé mentale",
+          "url": "https://www.ifemdr.fr/leu-ai-act-explique-aux-praticiens-de-sante-mentale/",
+          "source": "IFEMDR",
+          "summary": "L'Institut Français de l'EMDR publie un guide pratique destiné aux thérapeutes et cliniciens pour comprendre les implications concrètes de l'EU AI Act sur leur pratique. Le texte précise quelles catégories d'outils IA utilisés en cabinet relèvent du « haut risque » réglementaire et quelles obligations de conformité s'imposent aux praticiens qui intègrent des solutions numériques dans leurs protocoles thérapeutiques. Cette ressource francophone illustre la montée en compétence nécessaire du secteur face à une régulation européenne encore peu connue des professionnels de terrain."
+        }
+      ]
+    },
+    {
       "date": "2026-08-08",
       "summary": "La veille du 8 août 2026 est marquée par une convergence de données quantitatives qui dessinent le portrait d'une adoption massive mais problématique de l'IA en santé mentale. L'enquête mondiale d'AXA (19 000 personnes, 18 pays) et le rapport de l'APA auprès de 1 242 psychologues américains dressent un tableau préoccupant : 63 % des personnes utilisent déjà l'IA pour leur bien-être psychologique, mais 45 % se disent insatisfaites et 28 % reconnaissent avoir adopté des comportements nuisibles suite aux conseils reçus ; côté cliniciens, 15 % des psychologues signalent des patients ayant développé des croyances délirantes après des échanges avec un chatbot. En France et en Europe, la CNIL rappelle que 9 jeunes Français sur 10 utilisent l'IA conversationnelle et qu'un tiers la perçoit comme un substitut thérapeutique, soulignant l'urgence d'une régulation centrée sur les publics vulnérables. Paradoxalement, 2026 voit aussi les premières intégrations opérationnelles réussies de l'IA dans des cliniques de santé mentale — des modèles prédictifs à 84 % d'exactitude déployés en zone rurale —, tandis que les populations concernées restent méfiantes face à une technologie présentée comme remède aux déserts médicaux.",
       "items": [
