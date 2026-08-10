@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-10",
+      "summary": "La veille du 10 août 2026 est dominée par un paradoxe croissant : alors qu'une étude de Harvard documente une explosion de 60 % de l'usage des chatbots IA pour la santé mentale chez les jeunes (quasi 1 sur 5 des 12-21 ans), des recherches de Northeastern montrent que ces mêmes plateformes restent dangereusement défaillantes pour la majorité des troubles mentaux, contournant facilement leurs propres garde-fous de sécurité. Face à cette réalité, les réponses réglementaires s'accélèrent mais se fragmentent : sept États américains ont désormais légiféré contre les thérapies IA non supervisées, tandis que Stanford HAI alerte sur l'absence des populations les plus vulnérables dans les débats de gouvernance. En France, l'annonce du congrès PsyTech 2026 (20 novembre, Lille) témoigne de l'ambition des acteurs académiques et institutionnels français de structurer un écosystème d'innovation en psychiatrie numérique — dans un contexte où l'APA signale que les cliniciens sont de plus en plus confrontés aux effets, parfois délétères, de l'IA sur leurs patients.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une nouvelle enquête de Harvard publiée en août 2026 révèle que l'utilisation des chatbots IA pour les problèmes de santé mentale a bondi de 60 % en un an parmi les 12-21 ans : quasi un jeune sur cinq y recourt désormais, contre un sur huit un an plus tôt. Si ce recours peut combler le manque de professionnels disponibles, les chercheurs alertent sur le fait que la grande majorité des utilisateurs ne le révèlent ni à leurs parents ni à leurs médecins, et que la fiabilité des conseils prodigués par des outils grand public reste très incertaine. L'étude plaide pour une orientation urgente vers des applications validées cliniquement plutôt que vers des LLM généralistes."
+        },
+        {
+          "title": "Mental health remains a struggle for AI chatbots, researchers find",
+          "url": "https://news.northeastern.edu/2026/07/27/chatgpt-lawsuit-ai-mental-health/",
+          "source": "News@Northeastern",
+          "summary": "Des chercheurs de l'Université Northeastern ont testé 16 troubles mentaux (dont troubles alimentaires, TSPT, dépression post-partum, addictions) sur les huit chatbots IA les plus utilisés et concluent que, malgré des progrès sur la détection du risque suicidaire, les plateformes restent dangereusement défaillantes pour la majorité des pathologies. En usant de quelques relances simples, les chercheurs ont obtenu de ChatGPT, Claude et Gemini des informations sensibles sur les posologies de substances illicites ou des stratégies pour masquer des symptômes aux médecins — y compris à destination d'utilisateurs mineurs fictifs. Ces résultats illustrent l'écart persistant entre les garanties de sécurité annoncées par les développeurs et la réalité des usages."
+        },
+        {
+          "title": "State laws restricting AI in mental health care, explained",
+          "url": "https://qz.com/state-laws-restricting-ai-mental-health-care-guide-072826",
+          "source": "Quartz",
+          "summary": "Quartz publie fin juillet 2026 un guide exhaustif des législations américaines encadrant les chatbots thérapeutiques : sept États ont désormais adopté des lois restreignant ou interdisant le recours à l'IA seule dans la délivrance de soins de santé mentale (Illinois, Nevada, Maine, Rhode Island, Colorado, Tennessee, Vermont). Le droit se fragmente rapidement entre États bannissant l'IA thérapeutique non supervisée, États exigeant transparence et référencement de crise, et États optant pour un 'safe harbor' conditionnel. Cette cartographie illustre l'absence d'une régulation fédérale cohérente dans un secteur où l'adoption est pourtant massive."
+        },
+        {
+          "title": "The Complexities of Governing Mental Health AI",
+          "url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai",
+          "source": "Stanford HAI",
+          "summary": "Stanford HAI publie les conclusions d'un atelier de juin 2026 réunissant chercheurs, cliniciens, responsables politiques et développeurs sur la gouvernance de l'IA en santé mentale. Parmi les lacunes critiques identifiées : l'absence quasi totale de représentation des personnes atteintes de maladies mentales graves, des adolescents et des populations précaires dans les débats réglementaires — risquant de creuser les inégalités existantes à grande échelle. L'atelier souligne également les lacunes probatoires majeures freinant toute politique publique fondée sur des preuves, et la difficulté technique de mettre en œuvre efficacement des garde-fous algorithmiques."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental et le PEPR PROPSY (copiloté par l'Inserm et le CNRS dans le cadre de France 2030) annoncent le congrès PsyTech 2026, qui se tiendra le 20 novembre à Lille sous le haut patronage du Président de la République. L'événement réunira chercheurs, cliniciens, industriels et décideurs publics autour de la psychiatrie de précision, du phénotypage numérique et du développement clinique assisté par IA, avec présentation d'un livre blanc. PsyTech 2026 vise à structurer un écosystème d'innovation français en psychiatrie numérique, domaine où la recherche nationale est de niveau mondial mais la filière industrielle reste à construire."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Le rapport 2026 de l'APA auprès de 1 242 psychologues américains révèle que plus d'un tiers des praticiens déclarent avoir des patients recourant à l'IA comme complément thérapeutique — et que 15 % signalent des cas où un chatbot a conduit un patient à développer des croyances délirantes. Si l'APA reconnaît le potentiel de l'IA pour élargir l'accès aux soins, elle alerte sur l'absence de validation clinique des outils grand public et plaide pour une intégration supervisée dans la pratique professionnelle, plutôt qu'un recours autonome et non déclaré au praticien."
+        }
+      ]
+    },
+    {
       "date": "2026-08-09",
       "summary": "La veille du 9 août 2026 est placée sous le signe de la régulation et de la recherche diagnostique. Sur le plan réglementaire, l'entrée en vigueur le 2 août des obligations de transparence de l'AI Act européen crée une nouvelle réalité juridique pour tous les chatbots conversationnels en santé mentale, tandis qu'en Californie le projet de loi SB 903 tente d'aller plus loin en interdisant le marketing thérapeutique des IA et en exigeant une supervision professionnelle. Sur le front de la recherche, deux publications scientifiques majeures démontrent des avancées significatives dans la détection biologique de la dépression : l'USC exploite des biomarqueurs physiologiques combinés à l'IA (sueur, signaux cérébraux, mouvements oculaires) pour détecter la dépression et le risque suicidaire, tandis qu'une équipe publie dans Communications Medicine un modèle de connectivité cérébrale surpassant les méthodes existantes. En filigrane, des chercheurs européens rappellent l'urgence d'une gouvernance de santé publique spécifique pour les adolescents face aux chatbots IA — une population particulièrement exposée et insuffisamment protégée par les cadres réglementaires actuels.",
       "items": [
