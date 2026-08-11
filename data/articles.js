@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-11",
+      "summary": "La veille du 11 août 2026 est marquée par la tension entre un recours massif à l'IA pour le soutien psychologique et les limites documentées de cette approche. Le rapport AXA Mind Health 2026 — 19 000 personnes interrogées dans 18 pays — cristallise cette ambivalence : 63 % des répondants ont utilisé une IA pour gérer leur santé mentale, mais 27 % admettent qu'une recommandation leur a causé du tort, dans un contexte où le bien-être mondial atteint son niveau le plus bas en cinq ans. Face à ces usages de masse, les acteurs scientifiques investissent dans des outils plus rigoureux : l'équipe Duke teste son modèle prédictif en zones rurales grâce à 15 millions de dollars du NIMH, tandis que le marché mondial de l'IA en santé mentale franchit le cap des 8 milliards de dollars et que les obligations de l'AI Act (entrées en vigueur le 2 août) imposent désormais aux chatbots une transparence que le terrain peine encore à mettre en œuvre. En France, une étude publiée dans European Child & Adolescent Psychiatry scrute l'avenir de la psychiatrie infanto-juvénile jusqu'en 2050 à l'aide de méthodes assistées par IA, révélant une crise structurelle profonde.",
+      "items": [
+        {
+          "title": "Mental health: although screens can play a negative role, more than 6 out of 10 people turn to artificial intelligence for psychological support",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport annuel AXA Mind Health 2026, réalisé avec Ipsos auprès de 19 000 personnes dans 18 pays, dresse un tableau contrasté de l'IA en santé mentale : 63 % des répondants ont eu recours à des plateformes IA pour gérer leur bien-être psychologique, mais 27 % déclarent qu'une recommandation de l'IA les a conduits à adopter un comportement nuisible, et 43 % se disent insatisfaits des conseils reçus. Le Royaume-Uni enregistre la pire santé mentale d'Europe (un tiers de la population en souffrance), et à l'échelle mondiale 46 % des répondants souffrent d'épuisement ou gèrent une pathologie mentale — le bien-être global atteignant son point le plus bas depuis cinq ans. AXA alerte que l'IA, malgré sa commodité d'accès, ne saurait remplacer l'empathie et l'expertise clinique, dans un contexte où 60 % des répondants n'ont consulté aucun professionnel de santé mentale au cours des douze derniers mois."
+        },
+        {
+          "title": "With $15 Million Grant, Duke Team Expands AI Tool to Predict Teen Mental Illness",
+          "url": "https://medschool.duke.edu/news/15-million-grant-duke-team-expands-ai-tool-predict-teen-mental-illness",
+          "source": "Duke University School of Medicine",
+          "summary": "L'équipe du Dr Jonathan Posner à Duke University a reçu une subvention de 15 millions de dollars du NIMH pour étendre son modèle d'IA « Duke-PMA », capable de prédire une dégradation de la santé mentale chez les adolescents de 10 à 15 ans jusqu'à un an à l'avance, avec une précision de 84 %. Le projet va désormais tester l'outil dans des cliniques rurales de trois États américains (Caroline du Nord, Minnesota, Dakota du Nord) où l'accès aux soins est le plus limité, en analysant des données comportementales, émotionnelles et neurobiologiques. Cette expansion marque une étape majeure vers le déploiement d'outils de prévention IA en conditions réelles, loin des contextes hospitaliers universitaires où ils sont généralement validés."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News documente la transition de l'IA en santé mentale du stade expérimental à celui d'outil opérationnel central : en 2026, les systèmes de santé les plus avancés intègrent l'IA dans leurs flux de travail quotidiens pour optimiser les plannings, allouer les ressources cliniques et identifier les patients nécessitant une attention urgente. Le marché mondial de l'IA en santé mentale devrait dépasser 8 milliards de dollars en 2026, et plus de 40 % des plateformes de santé numérique intègrent désormais une forme d'évaluation assistée par IA. Les auteurs soulignent toutefois que 73 % des consommateurs américains souhaitent que les décisions finales en urgence psychiatrique restent humaines, signalant une limite claire à l'autonomisation des algorithmes dans ce secteur."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://link.springer.com/article/10.1007/s00787-025-02748-z",
+          "source": "European Child & Adolescent Psychiatry",
+          "summary": "Publiée dans European Child & Adolescent Psychiatry, cette étude conduite par la Société française de psychiatrie de l'enfant et de l'adolescent (SFPEADA) présente une recherche-action qualitative — partiellement assistée par IA — sur l'avenir de la discipline en France à l'horizon 2050. Menée auprès de syndicats, associations professionnelles et décideurs du ministère de la Santé, elle identifie cinq grands axes de transformation : intégration des connaissances, organisation du système de soins, lien entre psychiatrie et société, conditions des soignants, et innovation numérique. L'étude souligne une crise capacitaire aiguë de la psychiatrie infanto-juvénile française et plaide pour une transformation structurelle intégrant les outils numériques et l'IA, sans réduire la relation clinique à une interface technologique."
+        },
+        {
+          "title": "IA Act : ce qui change le 2 août 2026",
+          "url": "https://www.blogdumoderateur.com/ia-act-2-aout-2026/",
+          "source": "Blog du Modérateur",
+          "summary": "Le Blog du Modérateur détaille les changements concrets pour les entreprises françaises et européennes depuis le 2 août 2026, date d'entrée en application des obligations de transparence de l'Article 50 de l'AI Act : tout chatbot, callbot ou voicebot doit désormais informer l'utilisateur dès la première interaction qu'il communique avec une IA, sous peine d'amendes pouvant atteindre 15 millions d'euros ou 3 % du chiffre d'affaires mondial. Pour les applications de soutien psychologique, cette obligation est particulièrement structurante — elle interdit toute ambiguïté sur la nature non-humaine du système — et s'accompagne d'obligations documentaires et de surveillance post-commercialisation spécifiques pour les systèmes classés « à haut risque » selon l'AI Act."
+        }
+      ]
+    },
+    {
       "date": "2026-08-10",
       "summary": "La veille du 10 août 2026 est dominée par un paradoxe croissant : alors qu'une étude de Harvard documente une explosion de 60 % de l'usage des chatbots IA pour la santé mentale chez les jeunes (quasi 1 sur 5 des 12-21 ans), des recherches de Northeastern montrent que ces mêmes plateformes restent dangereusement défaillantes pour la majorité des troubles mentaux, contournant facilement leurs propres garde-fous de sécurité. Face à cette réalité, les réponses réglementaires s'accélèrent mais se fragmentent : sept États américains ont désormais légiféré contre les thérapies IA non supervisées, tandis que Stanford HAI alerte sur l'absence des populations les plus vulnérables dans les débats de gouvernance. En France, l'annonce du congrès PsyTech 2026 (20 novembre, Lille) témoigne de l'ambition des acteurs académiques et institutionnels français de structurer un écosystème d'innovation en psychiatrie numérique — dans un contexte où l'APA signale que les cliniciens sont de plus en plus confrontés aux effets, parfois délétères, de l'IA sur leurs patients.",
       "items": [
