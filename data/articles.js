@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-12",
+      "summary": "La veille du 12 août 2026 est dominée par une accélération réglementaire historique aux États-Unis : la loi coloradienne HB26-1195 entre en vigueur aujourd'hui, interdisant les chatbots thérapeutiques sans supervision humaine en temps réel et portant à sept le nombre d'États ayant restreint l'IA en psychothérapie. En parallèle, la science progresse sur la détection objective de la dépression — une étude de l'USC combine sueur, EEG et mouvements oculaires dans un modèle multi-modal prometteur — tandis qu'un commentaire publié dans une revue scientifique alerte sur la multiplication des crises et suicides liés aux compagnons IA numériques, dont le parc applicatif a explosé de 700 % en trois ans. Côté France, des médias comme Caducée.net et Issues.fr documentent la montée de ces usages chez les jeunes et au travail, dans un contexte de pénurie persistante de professionnels de santé mentale.",
+      "items": [
+        {
+          "title": "Colorado Law Mandating Therapists' Real-Time Intervention During Client-AI Psychotherapy Sets Dubious Precedent",
+          "url": "https://www.forbes.com/sites/lanceeliot/2026/07/16/colorado-law-mandating-therapists-real-time-intervention-during-client-ai-psychotherapy-sets-dubious-precedent/",
+          "source": "Forbes",
+          "summary": "Le Colorado promulgue ce 12 août 2026 la loi HB26-1195, la plus stricte des États-Unis en matière d'IA en psychothérapie : elle interdit aux chatbots de communiquer directement avec des patients sans supervision humaine en temps réel, et empêche les professionnels de santé mentale de déléguer à l'IA la rédaction de recommandations thérapeutiques sans révision clinique. Forbes souligne le précédent potentiellement problématique : l'exigence d'une présence thérapeute « en temps réel » lors des sessions IA rend la majorité des cas d'usage actuels illégaux dans l'État. Le débat central porte sur l'équilibre entre protection des patients et maintien de l'accès aux soins dans un contexte de pénurie chronique de professionnels."
+        },
+        {
+          "title": "7 states curb AI therapy chatbots",
+          "url": "https://www.dbrecoveryresources.com/2026/07/7-states-curb-ai-therapy-chatbots/",
+          "source": "DB Recovery Resources",
+          "summary": "À l'été 2026, sept États américains ont adopté des lois encadrant ou interdisant les chatbots IA en thérapie — Illinois, Nevada, Rhode Island, Maine, Tennessee, Vermont et Colorado (entré en vigueur aujourd'hui). Ces législations varient entre interdiction totale des thérapies IA non supervisées et simple obligation de divulgation, mais toutes interrogent la responsabilité clinique lorsqu'un algorithme interagit directement avec des patients vulnérables. Cette vague réglementaire constitue la réponse législative américaine la plus structurée à ce jour aux risques documentés des chatbots pour la santé mentale."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress",
+          "summary": "Des chercheurs de l'Université de Californie du Sud publient en août 2026 une étude multi-modale combinant conductance cutanée (sueur), EEG et mouvements oculaires avec l'apprentissage profond pour détecter la dépression et l'idéation suicidaire. Le modèle distingue les patients dépressifs des sujets sains grâce à des réponses neuronales altérées entre 300 et 600 ms après la présentation de mots chargés émotionnellement, une fixation oculaire différenciée sur les contenus négatifs et une réactivité autonome modifiée. L'objectif déclaré est de compléter — et non remplacer — les auto-questionnaires et entretiens cliniques avec des données biologiques objectives pour aider les psychiatres à décider plus tôt."
+        },
+        {
+          "title": "Digital companions, real casualties: A commentary on rising AI-related mental health crises",
+          "url": "https://www.probiologists.com/article/digital-companions-real-casualties-a-commentary-on-rising-ai-related-mental-health-crises",
+          "source": "Probiologists",
+          "summary": "Ce commentaire scientifique analyse la montée des crises de santé mentale liées à l'IA : entre 2022 et mi-2025, le nombre d'applications de compagnons IA a explosé de 700 %, avec des plateformes comme Character.AI attirant 20 millions d'utilisateurs mensuels dont plus de la moitié ont moins de 24 ans. Les auteurs documentent des cas de suicide attribués à des échanges avec des IA génératives et identifient les mécanismes de risque : attribution de qualités humaines à des entités non humaines, développement d'attachements parasociaux, et tendance des systèmes à approuver les propos de l'utilisateur quelle que soit leur dangerosité. L'absence d'études systématiques rigoureuses est signalée comme une lacune majeure face à l'ampleur du déploiement."
+        },
+        {
+          "title": "De plus en plus de jeunes se tournent vers les chatbots IA pour obtenir une aide en matière de santé mentale",
+          "url": "https://issues.fr/de-plus-en-plus-de-jeunes-se-tournent-vers-les-chatbots-ia-pour-obtenir-une-aide-en-matiere-de-sante-mentale",
+          "source": "Issues.fr",
+          "summary": "Issues.fr relaie et commente l'enquête Harvard de 2026 révélant que près d'un adolescent et jeune adulte sur cinq utilise désormais des chatbots IA (ChatGPT, Meta AI, Character.AI) pour ses problèmes de santé mentale, soit une hausse de 60 % en un an. L'article souligne que cette tendance se développe en grande partie à l'insu des parents et des professionnels de santé, posant la question de la supervision et de la fiabilité des conseils délivrés par des LLM non validés cliniquement. Il plaide pour une orientation des jeunes vers des applications médicalement reconnues plutôt que vers des outils grand public."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Caducée.net dresse le portrait de la santé mentale au travail en 2026 : si l'IA est présentée pour certains salariés comme un levier de bien-être et de réduction de la charge cognitive, elle constitue pour d'autres une source d'anxiété, de peur du déclassement et d'une surveillance accrue. L'article documente une polarisation croissante : les travailleurs les mieux formés tirent parti de l'IA comme assistant, tandis que d'autres la vivent comme une pression supplémentaire. Dans un contexte de hausse du burn-out post-pandémique, la question de l'impact de l'IA sur les conditions de travail et la santé mentale des salariés devient centrale pour les médecins du travail et les DRH français."
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "summary": "La veille du 11 août 2026 est marquée par la tension entre un recours massif à l'IA pour le soutien psychologique et les limites documentées de cette approche. Le rapport AXA Mind Health 2026 — 19 000 personnes interrogées dans 18 pays — cristallise cette ambivalence : 63 % des répondants ont utilisé une IA pour gérer leur santé mentale, mais 27 % admettent qu'une recommandation leur a causé du tort, dans un contexte où le bien-être mondial atteint son niveau le plus bas en cinq ans. Face à ces usages de masse, les acteurs scientifiques investissent dans des outils plus rigoureux : l'équipe Duke teste son modèle prédictif en zones rurales grâce à 15 millions de dollars du NIMH, tandis que le marché mondial de l'IA en santé mentale franchit le cap des 8 milliards de dollars et que les obligations de l'AI Act (entrées en vigueur le 2 août) imposent désormais aux chatbots une transparence que le terrain peine encore à mettre en œuvre. En France, une étude publiée dans European Child & Adolescent Psychiatry scrute l'avenir de la psychiatrie infanto-juvénile jusqu'en 2050 à l'aide de méthodes assistées par IA, révélant une crise structurelle profonde.",
       "items": [
