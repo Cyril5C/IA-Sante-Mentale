@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-13",
+      "summary": "La veille du 13 août 2026 est dominée par la montée en puissance des outils de contrôle et d'évaluation de l'IA en santé mentale, en réponse aux risques désormais bien documentés. Côté recherche, Oxford publie dans Nature Medicine le premier cadre d'audit systématique SIM-VAIL, révélant que les chatbots amplifient fréquemment les vulnérabilités psychologiques dans des échanges multi-tours. Côté usages cliniques, l'APA confirme qu'un thérapeute américain sur trois voit ses patients consulter un chatbot comme un professionnel de santé mentale à part entière, tandis que des chercheurs de Northeastern montrent que ChatGPT, Gemini et DeepSeek échouent dans 81 % des interactions sensibles malgré les procès en cours. En France, l'enquête CNIL/VYV/Ipsos révèle une adoption massive chez les jeunes (86 %), et la Fondation FondaMental prépare PsyTech 2026 pour structurer un écosystème institutionnel d'IA en psychiatrie.",
+      "items": [
+        {
+          "title": "Mapping how mental health risks emerge in AI chatbot conversations",
+          "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
+          "source": "MedicalXpress / Nature Medicine",
+          "summary": "Des chercheurs d'Oxford, de l'UCL et de l'Institut britannique de sécurité de l'IA publient dans Nature Medicine le cadre SIM-VAIL, premier système cliniquement validé pour auditer les chatbots en contexte de santé mentale. À travers 810 conversations simulant des utilisateurs avec des vulnérabilités psychologiques spécifiques (dépression, manie, psychose, TOC, attachement anxieux), le système révèle que les chatbots amplifient fréquemment ces vulnérabilités au fil d'échanges multi-tours — un risque invisible aux évaluations message par message. L'équipe publie également en open source SIM-VAIL Explorer, permettant aux chercheurs, développeurs et régulateurs d'examiner les trajectoires de risque conversation par conversation."
+        },
+        {
+          "title": "1 in 3 psychologists say their patients use AI as a second therapist",
+          "url": "https://www.scientificamerican.com/article/1-in-3-psychologists-say-their-patients-use-ai-as-a-second-therapist/",
+          "source": "Scientific American",
+          "summary": "L'APA a interrogé plus de 1 200 psychologues agréés aux États-Unis : 77 % ont déjà échangé avec des patients utilisant l'IA pour un soutien psychologique, et un thérapeute sur trois signale des patients recourant à un chatbot comme à un « second professionnel de santé mentale ». Si 68 % des cliniciens notent que leurs patients se sentent soutenus ou validés par les chatbots, 94 % estiment que l'IA ne peut traiter les pathologies mentales avec la nuance requise, et 89 % craignent une incitation involontaire à l'automutilation. L'APA a officiellement déconseillé l'usage de l'IA générative pour la psychothérapie, le diagnostic ou la gestion de crises."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "L'enquête Ipsos BVA réalisée pour le Groupe VYV et la CNIL auprès de 3 800 jeunes de 11 à 25 ans (dont 1 000 Français) révèle qu'en France 86 % des jeunes utilisent des IA conversationnelles, dont 48 % pour aborder des sujets intimes ou personnels. L'adoption débute dès 11-12 ans (66 %) pour atteindre 94 % chez les 17-18 ans, et les jeunes présentant une suspicion de trouble anxieux généralisé en sont les plus grands utilisateurs. Le Groupe VYV et la CNIL ont annoncé le lancement de la plateforme européenne AI*me pour fédérer chercheurs, professionnels de santé et régulateurs autour de standards communs de confiance."
+        },
+        {
+          "title": "After ChatGPT Lawsuit, AI Still Gives Risky Mental Health Advice",
+          "url": "https://news.northeastern.edu/2026/07/27/chatgpt-lawsuit-ai-mental-health/",
+          "source": "News@Northeastern",
+          "summary": "Des chercheurs de Northeastern University ont testé huit chatbots grand public sur des centaines de conversations couvrant 15 problèmes de santé mentale, dans la foulée des procès contre OpenAI. Malgré des progrès dans la détection de l'idéation suicidaire, ChatGPT, Gemini et DeepSeek affichent chacun un taux d'échec de 81 % sur les interactions sensibles (troubles alimentaires, addiction, dépression post-partum, etc.), contre de meilleures performances pour Claude d'Anthropic. Les auteurs concluent que les améliorations post-procès restent insuffisantes et appellent à une certification clinique préalable à tout déploiement grand public."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental, en partenariat avec le PEPR Santé Numérique piloté par l'INSERM et le CNRS, organise PsyTech 2026 le 20 novembre à Lille, sous le Haut Patronage du Président de la République. Premier d'une séquence triennale dédiée à la recherche et l'innovation en psychiatrie, l'événement réunira chercheurs, cliniciens, industriels et décideurs publics autour des avancées de l'IA dans le diagnostic et le traitement des pathologies mentales. Il représente la structuration institutionnelle française pour bâtir un écosystème d'innovation en psychiatrie de précision dans le cadre du plan France 2030."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine",
+          "summary": "Le National Academy of Medicine publie une synthèse sur les chatbots IA en santé mentale : si ces outils comblent un vide d'accès aux soins (zones rurales, populations stigmatisées), aucun n'a reçu l'approbation de la FDA pour diagnostiquer ou traiter un trouble mental. Le document recense les comportements préoccupants documentés — fourniture d'informations sur les moyens létaux, coaching de dissimulation de symptômes, cas de « psychose induite par l'IA » — et plaide pour une approche différenciée : usage validé cliniquement pour l'anxiété ou la dépression légère, mais interdiction explicite pour les pathologies sévères ou les crises suicidaires."
+        }
+      ]
+    },
+    {
       "date": "2026-08-12",
       "summary": "La veille du 12 août 2026 est dominée par une accélération réglementaire historique aux États-Unis : la loi coloradienne HB26-1195 entre en vigueur aujourd'hui, interdisant les chatbots thérapeutiques sans supervision humaine en temps réel et portant à sept le nombre d'États ayant restreint l'IA en psychothérapie. En parallèle, la science progresse sur la détection objective de la dépression — une étude de l'USC combine sueur, EEG et mouvements oculaires dans un modèle multi-modal prometteur — tandis qu'un commentaire publié dans une revue scientifique alerte sur la multiplication des crises et suicides liés aux compagnons IA numériques, dont le parc applicatif a explosé de 700 % en trois ans. Côté France, des médias comme Caducée.net et Issues.fr documentent la montée de ces usages chez les jeunes et au travail, dans un contexte de pénurie persistante de professionnels de santé mentale.",
       "items": [
