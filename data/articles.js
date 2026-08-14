@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-14",
+      "summary": "La veille du 14 août 2026 révèle une double dynamique. D'un côté, l'adoption des chatbots IA pour la santé mentale s'accélère à un rythme inédit : Harvard publie une étude montrant une hausse de 60 % en un an chez les adolescents américains (désormais 1 sur 5), et l'enquête mondiale AXA (19 000 personnes dans 18 pays) indique que 63 % des adultes ont déjà eu recours à l'IA pour leur soutien psychologique, dont 42 % en suivent quasi-systématiquement les conseils. De l'autre, la régulation se resserre : depuis le 2 août 2026, l'AI Act européen impose à tout chatbot de santé de se présenter clairement comme une IA, avec des amendes pouvant atteindre 15 millions d'euros. Sur le plan clinique, des chercheurs de l'USC proposent un modèle multimodal inédit pour détecter la dépression via transpiration, signaux cérébraux et mouvements oculaires, tandis que des analyses mettent en lumière des inégalités d'accès : les jeunes LGBTQ+ et issus de milieux défavorisés recourent davantage aux chatbots, ampliant les risques pour les populations les plus vulnérables.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude conduite par l'Université Harvard (1 727 participants, 12-21 ans) révèle que le recours aux chatbots IA pour la santé mentale a bondi de 60 % en un an : aujourd'hui, près d'1 jeune américain sur 5 y a recours, contre 1 sur 8 l'année précédente. Si ces outils comblent partiellement le déficit de professionnels de santé mentale, les experts s'inquiètent que certains adolescents se tournent vers l'IA en pleine crise psychologique, domaine où ces technologies ne sont pas conçues pour intervenir de façon sûre."
+        },
+        {
+          "title": "Mind Health Report 2026 : plus de 6 personnes sur 10 utilisent l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "L'enquête annuelle d'AXA auprès de 19 000 personnes dans 18 pays révèle que 63 % des répondants ont eu recours à des outils d'IA pour leur santé mentale, et que 42 % suivent quasi-systématiquement leurs conseils. La santé mentale mondiale est au plus bas depuis cinq ans (46 % des personnes souffrent de burn-out ou d'une pathologie mentale) ; au Royaume-Uni, 27 % des utilisateurs d'IA pour la santé mentale déclarent avoir adopté un comportement nocif suite à une recommandation de l'IA, illustrant les risques concrets d'une adoption non encadrée."
+        },
+        {
+          "title": "Transparence de l'IA : ce qui a changé pour les hôpitaux et les soignants ce 2 août 2026",
+          "url": "https://www.healthcare-executive.be/fr/actualites/e-health/transparence-de-l-ia-ce-qui-a-change-pour-les-hopitaux-et-les-soignants-ce-2-aout-2026.html",
+          "source": "Healthcare Executive",
+          "summary": "Depuis le 2 août 2026, l'article 50 du règlement européen sur l'IA (AI Act) est entré en application : tout chatbot ou agent conversationnel déployé dans la santé — prise de rendez-vous, information patient, orientation médicale — doit désormais se présenter clairement comme une IA, dès le premier message. Cette obligation touche également les contenus de santé publique générés par IA publiés en ligne. Le non-respect expose à des amendes allant jusqu'à 15 millions d'euros ou 3 % du chiffre d'affaires mondial, ce qui représente un tournant majeur pour les plateformes de santé mentale en ligne."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress / USC Viterbi",
+          "summary": "Des chercheurs de l'USC (University of Southern California) ont développé un modèle d'IA combinant trois biomarqueurs physiologiques — conductance cutanée (transpiration face à des mots chargés émotionnellement), signaux cérébraux et mouvements oculaires — pour détecter la dépression et le risque suicidaire. L'outil, piloté par le laboratoire de Shrikanth Narayanan et fruit d'une collaboration interdisciplinaire (ingénierie, neurologie, linguistique, psychiatrie), vise à compléter les auto-évaluations cliniques traditionnelles pour aider les psychiatres à prendre des décisions plus éclairées et à identifier des points d'intervention plus précis."
+        },
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC",
+          "summary": "L'AJMC met en évidence des inégalités marquées dans l'usage des chatbots IA pour la santé mentale chez les jeunes américains : les adolescents issus de milieux défavorisés et les jeunes LGBTQ+ y recourent significativement plus que leurs pairs, révélant un double enjeu — potentiel de réduction des inégalités d'accès aux soins pour des populations sous-desservies, mais aussi risque amplifié pour des groupes déjà vulnérables dont les besoins cliniques complexes dépassent les capacités des chatbots grand public."
+        }
+      ]
+    },
+    {
       "date": "2026-08-13",
       "summary": "La veille du 13 août 2026 est dominée par la montée en puissance des outils de contrôle et d'évaluation de l'IA en santé mentale, en réponse aux risques désormais bien documentés. Côté recherche, Oxford publie dans Nature Medicine le premier cadre d'audit systématique SIM-VAIL, révélant que les chatbots amplifient fréquemment les vulnérabilités psychologiques dans des échanges multi-tours. Côté usages cliniques, l'APA confirme qu'un thérapeute américain sur trois voit ses patients consulter un chatbot comme un professionnel de santé mentale à part entière, tandis que des chercheurs de Northeastern montrent que ChatGPT, Gemini et DeepSeek échouent dans 81 % des interactions sensibles malgré les procès en cours. En France, l'enquête CNIL/VYV/Ipsos révèle une adoption massive chez les jeunes (86 %), et la Fondation FondaMental prépare PsyTech 2026 pour structurer un écosystème institutionnel d'IA en psychiatrie.",
       "items": [
