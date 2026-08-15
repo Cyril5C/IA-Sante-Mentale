@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-15",
+      "summary": "La veille du 15 août 2026 révèle une maturité croissante dans la prise de conscience des risques liés à l'IA en santé mentale. D'un côté, la régulation s'accélère tant aux États-Unis (quatre États interdisent désormais l'IA thérapeutique, 78 projets de loi en cours dans 27 États) qu'en France, où le gouvernement intègre un volet numérique ambitieux dans son plan santé mentale 2026. De l'autre, la mobilisation des acteurs institutionnels s'intensifie : OpenAI s'allie à l'APA pour sécuriser l'usage des chatbots par les adolescents, tandis qu'une étude transversale publiée dans JMIR Mental Health confirme les lacunes cliniques des principaux chatbots thérapeutiques destinés à la jeunesse. Des chercheurs de Deakin University alertent sur l'absence de tout cadre de gouvernance consensuel, et la presse médicale française ouvre le débat sur la place future du psychothérapeute humain face à une IA dont l'adoption ne cesse de progresser.",
+      "items": [
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "MedicalXpress / Deakin University",
+          "summary": "Des chercheurs de l'Université Deakin (Australie) alertent : si l'IA est désormais massivement utilisée pour l'évaluation, la surveillance et le soutien en santé mentale, il n'existe toujours aucun cadre de gouvernance consensuel pour réguler ces usages. Leur analyse publiée en août 2026 appelle à des standards clairs d'évaluation des bénéfices, de tests de sécurité, de transparence algorithmique et de voies d'escalade vers des professionnels en cas de crise — des garde-fous encore absents de la majorité des plateformes grand public."
+        },
+        {
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/",
+          "source": "OpenAI",
+          "summary": "OpenAI et l'American Psychological Association (APA) ont officialisé un partenariat pour développer des orientations fondées sur les données probantes encadrant l'usage de l'IA chez les adolescents. À la suite d'une réunion de hauts responsables de la santé mentale américaine fin juillet 2026, l'initiative vise à rendre des outils comme ChatGPT plus sûrs et adaptés aux jeunes, en guidant parents, thérapeutes et éducateurs sur les signes de dépendance ou de mésusage — une collaboration inédite entre une grande plateforme IA et la principale organisation de psychologues américains."
+        },
+        {
+          "title": "Which States Ban AI Therapy? 2026 Map",
+          "url": "https://psychology.com/ai-therapy/state-bans",
+          "source": "Psychology.com",
+          "summary": "Une cartographie actualisée recense désormais quatre États américains ayant interdit à l'IA de délivrer de la thérapie au public (Illinois, Nevada, Rhode Island, Maine), tandis que 78 propositions de loi dans 27 États sont en cours d'examen. Dans les États sans interdiction totale, les exigences portent principalement sur la divulgation de la nature artificielle du chatbot, la détection des crises et la protection des mineurs — reflétant une fragmentation réglementaire croissante à l'échelle fédérale américaine."
+        },
+        {
+          "title": "Evaluating Generative AI Psychotherapy Chatbots Used by Youth: Cross-Sectional Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12694945/",
+          "source": "JMIR Mental Health / PubMed Central",
+          "summary": "Une étude transversale publiée dans JMIR Mental Health a évalué cinq chatbots IA largement utilisés par les jeunes pour leur soutien psychologique. Des évaluateurs formés ont joué le rôle de jeunes présentant des troubles de santé mentale pour tester la qualité psychothérapeutique de chaque plateforme. Les résultats mettent en évidence des lacunes importantes dans la gestion des situations de crise et des insuffisances éthiques récurrentes, soulignant le fossé entre la popularité de ces outils et leur qualité clinique réelle."
+        },
+        {
+          "title": "L'IA finira-t-elle par mettre les psychothérapeutes au chômage ?",
+          "url": "https://www.jim.fr/viewarticle/lia-finira-t-elle-mettre-psychoth%C3%A9rapeutes-au-2026a1000gba",
+          "source": "JIM (Journal International de Médecine)",
+          "summary": "La presse médicale française pose la question qui anime de plus en plus les professionnels de santé mentale : l'IA peut-elle à terme remplacer le thérapeute humain ? Si des outils comme ChatGPT génèrent une alliance thérapeutique perçue comme comparable dans certains essais, les cas sévères, les urgences psychiatriques et les thérapies longues restent hors de portée des chatbots. L'article invite à repenser le rôle du clinicien plutôt qu'à anticiper sa disparition : l'IA libérant les thérapeutes des tâches répétitives pour recentrer la pratique sur la relation humaine."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "Info.gouv.fr (Gouvernement français)",
+          "summary": "Le gouvernement français détaille les mesures entrant en vigueur à la rentrée 2026 dans le domaine de la santé mentale, avec un volet numérique notable : déploiement d'un dispositif d'orientation prioritaire pour les élèves en souffrance psychique et intégration d'outils numériques dans le suivi des patients. Ces annonces s'inscrivent dans la Grande Cause nationale 2025 consacrée à la santé mentale et confirment la volonté de l'État d'encadrer — plutôt que de freiner — le recours aux technologies numériques dans ce secteur sensible."
+        }
+      ]
+    },
+    {
       "date": "2026-08-14",
       "summary": "La veille du 14 août 2026 révèle une double dynamique. D'un côté, l'adoption des chatbots IA pour la santé mentale s'accélère à un rythme inédit : Harvard publie une étude montrant une hausse de 60 % en un an chez les adolescents américains (désormais 1 sur 5), et l'enquête mondiale AXA (19 000 personnes dans 18 pays) indique que 63 % des adultes ont déjà eu recours à l'IA pour leur soutien psychologique, dont 42 % en suivent quasi-systématiquement les conseils. De l'autre, la régulation se resserre : depuis le 2 août 2026, l'AI Act européen impose à tout chatbot de santé de se présenter clairement comme une IA, avec des amendes pouvant atteindre 15 millions d'euros. Sur le plan clinique, des chercheurs de l'USC proposent un modèle multimodal inédit pour détecter la dépression via transpiration, signaux cérébraux et mouvements oculaires, tandis que des analyses mettent en lumière des inégalités d'accès : les jeunes LGBTQ+ et issus de milieux défavorisés recourent davantage aux chatbots, ampliant les risques pour les populations les plus vulnérables.",
       "items": [
