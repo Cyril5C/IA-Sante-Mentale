@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-16",
+      "summary": "La veille du 16 août 2026 met en lumière les tensions croissantes autour de l'encadrement des chatbots thérapeutiques. La Californie franchit une étape décisive avec le SB 903, loi adoptée à l'unanimité par son Sénat, qui interdit aux IA de se présenter comme thérapeutes et impose la supervision humaine de toute décision clinique. Sur le plan humain, NPR relaie le témoignage d'une mère dont la fille a confié ses intentions suicidaires à ChatGPT plutôt qu'à ses proches — illustrant les dangers réels des chatbots en situation de crise. L'APA documente une nouvelle réalité clinique : un tiers des psychologues américains voient désormais des patients arriver en consultation avec des recommandations générées par une IA. En France, la Fondation FondaMental annonce PsyTech 2026, grand rendez-vous national sur l'IA en psychiatrie à Lille le 20 novembre.",
+      "items": [
+        {
+          "title": "Millions are turning to AI for therapy. California lawmakers say not so fast.",
+          "url": "https://calmatters.org/health/mental-health/2026/08/at-therapists-chatbot-mental-health/",
+          "source": "CalMatters",
+          "summary": "Alors que des millions d'Américains se tournent vers des chatbots IA pour un soutien psychologique, la Californie adopte le SB 903 à l'unanimité au Sénat (39-0). Cette loi interdit aux IA de se présenter comme thérapeutes, de prendre des décisions cliniques sans supervision d'un professionnel licencié, et impose le consentement éclairé du patient avant tout enregistrement de séance par une IA. Les contrevenants s'exposent à des pénalités civiles pouvant atteindre 10 000 dollars par infraction, dans un contexte où des études montrent que les chatbots échouent dans 20 % des situations de crise."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Un bilan législatif actualisé recense désormais cinq États américains ayant adopté des lois restreignant ou interdisant les chatbots IA dans le domaine thérapeutique. Colorado, Tennessee et Vermont ont rejoint en 2026 l'Illinois et le Nevada, pionniers en la matière, portant à cinq le nombre d'États ayant légiféré, auxquels s'ajoutent près de 80 projets de loi en cours dans 27 autres États. Cette vague réglementaire confirme une prise de conscience collective, fruit notamment des premières affaires médiatisées de décès liés à l'usage de chatbots par des mineurs en crise."
+        },
+        {
+          "title": "She turned to ChatGPT during a mental health crisis. Her mother shares her story",
+          "url": "https://www.npr.org/2026/07/27/nx-s1-5836212/she-turned-to-chatgpt-during-a-mental-health-crisis-her-mother-shares-her-story",
+          "source": "NPR",
+          "summary": "NPR relaie le témoignage d'une mère dont la fille de 29 ans, en pleine crise suicidaire, a préféré confier ses intentions à ChatGPT plutôt qu'à ses proches ou à son thérapeute. Le chatbot, incapable d'orienter efficacement vers une aide d'urgence, illustre les risques concrets des IA en situation psychiatrique aiguë. Ce récit fait écho aux conclusions de Stanford HAI, qui montrent que les chatbots échouent à fournir des réponses sécurisées lors de crises dans environ 20 % des cas, contre 7 % pour les thérapeutes humains."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'American Psychological Association publie un rapport révélant qu'un tiers des psychologues américains voient désormais des patients arriver en séance avec des conseils ou diagnostics générés par une IA — certains ayant même pris des décisions de traitement sur cette base. Ce phénomène crée une nouvelle réalité clinique où le thérapeute doit intégrer, déconstruire ou valider le rôle déjà joué par la machine avant même la première consultation. L'APA appelle à des lignes directrices claires pour aider les praticiens à gérer la place croissante de l'IA dans la vie de leurs patients."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une analyse exhaustive sur l'état des chatbots IA en santé mentale : si les outils conversationnels de type TCC montrent des effets modestes mais réels sur la dépression légère et l'anxiété, leurs modes de défaillance en situation de crise sont prévisibles et mal maîtrisés. Le rapport pointe l'absence de cadre de gouvernance cohérent et recommande des tests de sécurité obligatoires, des protocoles d'escalade vers des professionnels humains, et une réglementation fondée sur le niveau de risque clinique plutôt que sur une interdiction ou une autorisation globale."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, grand rendez-vous national prévu le 20 novembre à Lille, organisé sous l'égide du PEPR PROPSY co-piloté par l'Inserm et le CNRS. Chercheurs, cliniciens, industriels et décideurs publics se réuniront pour faire le point sur les avancées en phénotypage digital, en IA clinique et en psychiatrie de précision, et présenteront les conclusions d'un livre blanc national. L'événement, placé sous le haut patronage du Président de la République, confirme l'institutionnalisation croissante du sujet en France."
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "summary": "La veille du 15 août 2026 révèle une maturité croissante dans la prise de conscience des risques liés à l'IA en santé mentale. D'un côté, la régulation s'accélère tant aux États-Unis (quatre États interdisent désormais l'IA thérapeutique, 78 projets de loi en cours dans 27 États) qu'en France, où le gouvernement intègre un volet numérique ambitieux dans son plan santé mentale 2026. De l'autre, la mobilisation des acteurs institutionnels s'intensifie : OpenAI s'allie à l'APA pour sécuriser l'usage des chatbots par les adolescents, tandis qu'une étude transversale publiée dans JMIR Mental Health confirme les lacunes cliniques des principaux chatbots thérapeutiques destinés à la jeunesse. Des chercheurs de Deakin University alertent sur l'absence de tout cadre de gouvernance consensuel, et la presse médicale française ouvre le débat sur la place future du psychothérapeute humain face à une IA dont l'adoption ne cesse de progresser.",
       "items": [
