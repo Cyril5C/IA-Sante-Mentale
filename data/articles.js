@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-17",
+      "summary": "La veille du 17 août 2026 est dominée par l'accélération massive de l'adoption de l'IA chez les jeunes pour les questions de santé mentale : une étude de Harvard confirme une hausse de 60 % en un an, avec près d'un adolescent américain sur cinq désormais utilisateur régulier — un phénomène que l'enquête Ipsos en Europe et le rapport AXA mondial confirment à l'échelle internationale. Sur le plan scientifique, des chercheurs de l'USC présentent un système de détection multimodale de la dépression par biomarqueurs (sueur, signaux cérébraux, mouvements oculaires) analysés par IA, ouvrant une piste prometteuse pour l'évaluation objective du risque suicidaire. La régulation reste en retard sur les usages : une revue exhaustive de 50 États américains recense une mosaïque hétérogène de lois, pendant qu'une analyse alerte sur l'insuffisance des garde-fous actuels face aux personnes en état de détresse.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une nouvelle étude de Harvard menée auprès de 1 727 jeunes révèle une explosion de l'usage de l'IA pour les questions de santé mentale : en un an, le recours aux chatbots (ChatGPT, Gemini, Character.AI) parmi les 12-21 ans a bondi de 60 %, passant d'un jeune sur huit à près d'un sur cinq. Face à la pénurie de professionnels de santé mentale, l'IA comble une partie du vide — mais les chercheurs alertent sur la nécessité de s'assurer que les conseils prodigués sont utiles et non nocifs."
+        },
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "Medical Xpress",
+          "summary": "Une analyse publiée en août 2026 met en évidence un décalage croissant entre la rapidité d'adoption de l'IA par les personnes en détresse psychologique et la lenteur des dispositifs de protection : manque de protocoles d'escalade vers des professionnels, absence de garde-fous standardisés pour la prévention du suicide, et déficit de formation des équipes de santé sur les interactions patients-IA. Les auteurs appellent à des réglementations d'urgence plutôt qu'à des approches au cas par cas."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "Medical Xpress / USC Viterbi School of Engineering",
+          "summary": "Des chercheurs de l'USC ont développé un système multimodal combinant mesure de sudation, signaux cérébraux (EEG) et suivi des mouvements oculaires, analysés par IA, pour détecter la dépression et évaluer le risque suicidaire avec une précision supérieure aux auto-questionnaires classiques. Ce projet financé par la DARPA représente une avancée prometteuse pour l'objectivisation du diagnostic psychiatrique, sans prétendre remplacer l'évaluation clinique humaine."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe",
+          "url": "https://www.ipsos.com/fr-fr/lia-conversationnelle-et-la-sante-mentale-des-jeunes-en-europe",
+          "source": "Ipsos",
+          "summary": "L'enquête Ipsos révèle qu'en France, 66 % des jeunes de 11-12 ans utilisent déjà l'IA et ce taux atteint 94 % chez les 17-18 ans — l'un des taux d'adoption les plus élevés d'Europe. Plus de 40 % des utilisateurs y ont recours au moins une fois par mois pour des questions de santé mentale, et plus de 60 % ne l'ont dit à personne, soulevant des questions cruciales de confidentialité et de supervision parentale face à un phénomène qui se développe largement hors du regard des adultes."
+        },
+        {
+          "title": "2026 Mind Health Report : plus de 6 personnes sur 10 se tournent vers l'IA pour un soutien psychologique",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport annuel Mind Health d'AXA (2026) révèle que plus de 6 personnes sur 10 dans le monde déclarent déjà recourir à l'IA pour des questions de santé mentale. L'assureur souligne que la rapidité de diffusion de ces outils dépasse largement la capacité des systèmes de santé à former les praticiens à les intégrer, et appelle à un usage supervisé et encadré, avec des garde-fous clairs pour les populations les plus vulnérables."
+        },
+        {
+          "title": "Governing AI in Mental Health: 50-State Legislative Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12578431/",
+          "source": "PMC (revue académique)",
+          "summary": "Une revue législative exhaustive portant sur les 50 États américains, publiée dans une revue académique en 2026, cartographie la mosaïque réglementaire en construction autour de l'IA en santé mentale : 7 États ont désormais interdit ou fortement restreint les chatbots thérapeutiques, 36 États ont introduit plus de 70 projets de loi en 2026, et la disparité des approches crée des inégalités d'accès aux soins selon les zones géographiques. L'article appelle à une harmonisation fédérale pour éviter que les patients vulnérables ne migrent vers des États moins réglementés."
+        }
+      ]
+    },
+    {
       "date": "2026-08-16",
       "summary": "La veille du 16 août 2026 met en lumière les tensions croissantes autour de l'encadrement des chatbots thérapeutiques. La Californie franchit une étape décisive avec le SB 903, loi adoptée à l'unanimité par son Sénat, qui interdit aux IA de se présenter comme thérapeutes et impose la supervision humaine de toute décision clinique. Sur le plan humain, NPR relaie le témoignage d'une mère dont la fille a confié ses intentions suicidaires à ChatGPT plutôt qu'à ses proches — illustrant les dangers réels des chatbots en situation de crise. L'APA documente une nouvelle réalité clinique : un tiers des psychologues américains voient désormais des patients arriver en consultation avec des recommandations générées par une IA. En France, la Fondation FondaMental annonce PsyTech 2026, grand rendez-vous national sur l'IA en psychiatrie à Lille le 20 novembre.",
       "items": [
