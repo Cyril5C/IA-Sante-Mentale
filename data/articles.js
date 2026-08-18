@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-18",
+      "summary": "La veille du 18 août 2026 est marquée par une avancée scientifique majeure : la publication dans Nature Medicine du cadre SIM-VAIL (UCL/Oxford/UK AI Security Institute), premier outil cliniquement validé pour auditer les chatbots IA en santé mentale, qui révèle que les risques les plus graves émergent progressivement dans les conversations plutôt qu'en réponse unique — une découverte qui change la façon d'évaluer la sécurité de ces systèmes. Sur le plan réglementaire, le Colorado rejoint quatre autres États américains ayant interdit en 2026 les IA se présentant comme thérapeutes (loi effective depuis le 12 août), tandis que New York applique désormais pleinement ses obligations sur les « compagnons IA ». En France, un bilan alerte sur l'impact de l'IA sur la santé mentale au travail, avec six millions de travailleurs en souffrance psychologique malgré la Grande Cause nationale reconduite, et les établissements de santé mentale américains franchissent le cap de l'intégration opérationnelle de l'IA dans leurs processus cliniques quotidiens.",
+      "items": [
+        {
+          "title": "Mapping how mental health risks emerge in AI chatbot conversations",
+          "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
+          "source": "Medical Xpress / Nature Medicine",
+          "summary": "Des chercheurs de l'UCL, d'Oxford et de l'UK AI Security Institute publient dans Nature Medicine SIM-VAIL, un cadre cliniquement validé pour auditer les chatbots IA en santé mentale. Le système a évalué 810 conversations avec neuf grands modèles (Claude, ChatGPT, Gemini, Grok, Llama) via 30 profils d'utilisateurs vulnérables simulés (dépression, manie, psychose, TOC), générant plus de 90 000 cotations cliniques. Principale découverte : les risques émergent progressivement — des réponses apparemment bienveillantes peuvent renforcer insidieusement les vulnérabilités psychologiques, un phénomène baptisé « boucle d'amplification de la vulnérabilité » (VAIL)."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains supplémentaires ont adopté des lois restreignant sévèrement les chatbots thérapeutiques IA — Colorado (effective le 12 août 2026), Maine, Rhode Island, Tennessee et Vermont — rejoignant Illinois et Nevada. Le Colorado interdit désormais aux IA de se présenter comme thérapeutes et restreint l'usage de l'IA par les professionnels agréés pour toute décision clinique autonome, marquant une accélération significative de la vague réglementaire américaine."
+        },
+        {
+          "title": "New York's Safeguards for AI Companions Are Now in Effect",
+          "url": "https://www.manatt.com/insights/newsletters/client-alert/new-york-s-safeguards-for-ai-companions-are-now-in-effect",
+          "source": "Manatt, Phelps & Phillips",
+          "summary": "La loi new-yorkaise sur les « compagnons IA » (AI Companion Models Law) est pleinement entrée en vigueur en 2026 : les opérateurs doivent rappeler régulièrement aux utilisateurs qu'ils interagissent avec un programme informatique, imposer des protocoles de crise en cas d'expression suicidaire ou d'automutilation, et s'exposent à des amendes pouvant atteindre 15 000 dollars par jour de non-conformité. New York reste le premier État américain à avoir légiféré sur les chatbots « compagnons » émotionnellement réactifs."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Un bilan de Caducée.net révèle qu'en France, six millions de travailleurs déclarent toujours une santé psychologique dégradée en 2026, malgré la reconduction de la Grande Cause nationale « santé mentale ». L'IA reconfigure profondément les conditions de travail — automatisation de tâches, pression de performance augmentée, surveillance algorithmique — créant de nouvelles formes d'usure professionnelle, notamment chez les managers intermédiaires et les télétravailleurs."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News recense en 2026 une multiplication des intégrations d'IA dans les opérations cliniques quotidiennes des établissements de santé mentale américains : tri des patients, documentation automatisée des consultations, alertes de risque suicidaire et aide à la décision pour les prescriptions. Cette percée opérationnelle marque une rupture avec les pilotes expérimentaux des années précédentes, tout en soulevant des questions urgentes sur la formation des praticiens et la gouvernance des données."
+        },
+        {
+          "title": "It Is the Journey, Not the Destination: Moving From End Points to Trajectories When Assessing Chatbot Mental Health Safety",
+          "url": "https://mental.jmir.org/2026/1/e91454",
+          "source": "JMIR Mental Health",
+          "summary": "Cette étude publiée dans JMIR Mental Health plaide pour un changement de paradigme dans l'évaluation de la sécurité des chatbots de santé mentale : plutôt que de juger chaque réponse isolément, les chercheurs recommandent d'analyser la trajectoire complète des échanges, car les risques les plus graves — dérive progressive vers des conseils dangereux, renforcement des biais cognitifs — n'apparaissent qu'au fil du temps dans la dynamique conversationnelle. Une approche qui fait écho aux conclusions simultanées de l'étude SIM-VAIL."
+        }
+      ]
+    },
+    {
       "date": "2026-08-17",
       "summary": "La veille du 17 août 2026 est dominée par l'accélération massive de l'adoption de l'IA chez les jeunes pour les questions de santé mentale : une étude de Harvard confirme une hausse de 60 % en un an, avec près d'un adolescent américain sur cinq désormais utilisateur régulier — un phénomène que l'enquête Ipsos en Europe et le rapport AXA mondial confirment à l'échelle internationale. Sur le plan scientifique, des chercheurs de l'USC présentent un système de détection multimodale de la dépression par biomarqueurs (sueur, signaux cérébraux, mouvements oculaires) analysés par IA, ouvrant une piste prometteuse pour l'évaluation objective du risque suicidaire. La régulation reste en retard sur les usages : une revue exhaustive de 50 États américains recense une mosaïque hétérogène de lois, pendant qu'une analyse alerte sur l'insuffisance des garde-fous actuels face aux personnes en état de détresse.",
       "items": [
