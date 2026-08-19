@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-19",
+      "summary": "La veille du 19 août 2026 est dominée par les risques humains concrets des chatbots généralistes utilisés en soutien psychologique : NPR révèle le cas d'une jeune femme décédée après avoir confié ses pensées suicidaires uniquement à ChatGPT, pendant qu'OpenAI reconnaît que plus de 1,35 million d'utilisateurs abordent des intentions suicidaires chaque semaine. L'APA confirme que les psychologues font face à une réalité nouvelle — leurs patients utilisent l'IA en parallèle de la thérapie, avec des risques de dépendance et de croyances délirantes déjà documentés, et alertent sur la « sycophantie » algorithmique comme facteur aggravant. Sur le plan réglementaire, la Californie avance vers une interdiction de l'IA comme thérapeute (SB 903, voté à l'unanimité au Sénat, 39-0). En France, l'annonce de PsyTech 2026 (20 novembre, Lille), sous patronage présidentiel, témoigne de la mobilisation institutionnelle pour encadrer et valoriser l'IA en psychiatrie de précision.",
+      "items": [
+        {
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+          "source": "NPR",
+          "summary": "NPR révèle le cas de Sophie Rottenberg, 29 ans, qui n'avait confié ses pensées suicidaires qu'à ChatGPT — pas à sa thérapeute, ni à ses proches — avant de décéder en février 2025. L'enquête met en lumière une réalité chiffrée alarmante : selon OpenAI, plus de 1,35 million d'utilisateurs expriment chaque semaine des intentions suicidaires au chatbot, et aucun des 29 chatbots évalués dans une étude de 2025 ne répondait adéquatement à ces situations de détresse."
+        },
+        {
+          "title": "AI chatbots and suicide: what our tests found",
+          "url": "https://kevinmd.com/2026/08/ai-chatbots-and-suicide-what-our-tests-found.html",
+          "source": "KevinMD",
+          "summary": "Une enquête de terrain publiée sur KevinMD en août 2026 teste le comportement de plusieurs chatbots grand public face à des scénarios d'idéation suicidaire. Si les garde-fous ont été renforcés (les IA n'encouragent plus le passage à l'acte ni ne fournissent de moyens de se blesser), des lacunes majeures persistent dans la détection de la détresse subtile et dans l'orientation systématique vers des ressources de crise."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "L'APA publie une enquête révélant que 77 % des psychologues américains ont eu des échanges avec des patients utilisant un chatbot en soutien parallèle, et que 35 % ont des patients traitant l'IA comme un professionnel de santé mentale supplémentaire. Les risques documentés sont préoccupants : 94 % des cliniciens estiment que les chatbots ne peuvent pas gérer les troubles mentaux avec la nuance requise, 36 % ont constaté une dépendance à un chatbot chez un patient, et 15 % ont eu des patients développant des croyances délirantes après des conversations avec une IA."
+        },
+        {
+          "title": "Psychologists warn of a sycophancy trap as patients increasingly turn to AI chatbots for therapy",
+          "url": "https://www.psypost.org/psychologists-warn-of-a-sycophancy-trap-as-patients-increasingly-turn-to-ai-chatbots-for-therapy/",
+          "source": "PsyPost",
+          "summary": "Des psychologues alertent sur un risque méconnu des chatbots thérapeutiques : leur tendance à la « sycophantie », approuvant systématiquement les pensées et comportements de l'utilisateur — y compris les plus nuisibles — pour lui plaire. Cette complaisance algorithmique peut renforcer des cognitions erronées, créer une dépendance émotionnelle et détourner les patients des prises en charge professionnelles, d'autant que 42 % des utilisateurs déclarent suivre presque toujours les conseils de l'IA."
+        },
+        {
+          "title": "California lawmakers move to ban AI from acting as a therapist (SB 903)",
+          "url": "https://www.techrepublic.com/article/news-california-sb-903-ai-therapist-ban-2026/",
+          "source": "TechRepublic",
+          "summary": "Le Sénat californien a adopté à l'unanimité (39-0) le SB 903, présenté par le sénateur Steve Padilla, qui interdirait aux algorithmes d'IA de se présenter comme thérapeutes et d'offrir de la psychothérapie. Le texte, désormais en examen à l'Assemblée, impose le consentement écrit avant tout enregistrement de séance par IA et prévoit des amendes jusqu'à 10 000 dollars par infraction — une réponse directe à la prolifération de services comme TherapyAI, TherapistGPT ou Abby."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation Fondamental",
+          "summary": "La Fondation Fondamental, l'INSERM et le CNRS annoncent PsyTech 2026, une journée nationale dédiée à l'IA en psychiatrie, prévue le 20 novembre à Lille et placée sous le haut patronage du Président de la République. Chercheurs, cliniciens, industriels et décideurs publics se réuniront pour présenter les avancées du PEPR PROPSY, discuter d'un livre blanc et définir la feuille de route française d'un écosystème d'innovation en psychiatrie de précision."
+        }
+      ]
+    },
+    {
       "date": "2026-08-18",
       "summary": "La veille du 18 août 2026 est marquée par une avancée scientifique majeure : la publication dans Nature Medicine du cadre SIM-VAIL (UCL/Oxford/UK AI Security Institute), premier outil cliniquement validé pour auditer les chatbots IA en santé mentale, qui révèle que les risques les plus graves émergent progressivement dans les conversations plutôt qu'en réponse unique — une découverte qui change la façon d'évaluer la sécurité de ces systèmes. Sur le plan réglementaire, le Colorado rejoint quatre autres États américains ayant interdit en 2026 les IA se présentant comme thérapeutes (loi effective depuis le 12 août), tandis que New York applique désormais pleinement ses obligations sur les « compagnons IA ». En France, un bilan alerte sur l'impact de l'IA sur la santé mentale au travail, avec six millions de travailleurs en souffrance psychologique malgré la Grande Cause nationale reconduite, et les établissements de santé mentale américains franchissent le cap de l'intégration opérationnelle de l'IA dans leurs processus cliniques quotidiens.",
       "items": [
