@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-20",
+      "summary": "La veille du 20 août 2026 est dominée par l'accélération spectaculaire du recours à l'IA par les jeunes pour leur santé mentale : une étude de Harvard Medical School révèle que près d'1 jeune américain sur 5 utilise désormais l'IA pour des conseils en santé mentale, soit une hausse de 60 % en un an. OpenAI répond à la pression publique et législative en lançant ChatGPT for Teens, une version dédiée aux 13-17 ans avec des garde-fous renforcés (blocage des rôles romantiques, contrôle parental, rappels de pause). Sur le front de la recherche, deux avancées majeures émergent simultanément : l'USC montre que l'IA peut détecter dépression et idéations suicidaires à partir de biomarqueurs physiologiques (transpiration, signaux cérébraux, mouvements oculaires), tandis qu'un modèle d'IRM détecte le risque dépressif jusqu'à quatre ans avant les premiers symptômes. Le rapport mondial AXA 2026 confirme l'ampleur du phénomène : 63 % de la population mondiale utilise l'IA pour des questions de santé mentale, mais 28 % admettent que cela les a conduits à des comportements nuisibles.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude de Harvard Medical School révèle que près d'1 jeune américain sur 5 (12-21 ans) a utilisé l'IA pour des conseils de santé mentale, soit une hausse de 60 % en un an. L'enquête, conduite auprès de 1 727 participants, souligne que les chatbots comblent un vide creusé par la pénurie de professionnels de santé mentale, mais que la priorité est désormais de s'assurer que les conseils délivrés sont utiles et non délétères."
+        },
+        {
+          "title": "OpenAI lance ChatGPT for Teens : une version dédiée aux 13-17 ans censée mieux encadrer les risques liés à l'IA",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "L'Usine Digitale",
+          "summary": "Le 18 août 2026, OpenAI a lancé ChatGPT for Teens, une version dédiée aux 13-17 ans intégrant des garde-fous renforcés pour la santé mentale : rappels de pause après 90 minutes d'utilisation continue, blocage des rôles romantiques ou affectifs, contrôle parental et filtrage strict des contenus sensibles. Ce lancement intervient sous la pression des familles et des législateurs, après plusieurs procès liés à des crises de santé mentale chez des adolescents utilisant des chatbots d'IA."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress / USC",
+          "summary": "Des chercheurs de l'USC ont développé un système d'IA capable de détecter la dépression et les idéations suicidaires à partir de biomarqueurs physiologiques — réponses galvaniques de la peau, signaux cérébraux et mouvements oculaires lors du traitement de mots émotionnellement chargés. L'outil ne vise pas à remplacer les évaluations cliniques existantes, mais à les enrichir d'une couche de données objectives pour identifier plus précisément les moments d'intervention appropriés."
+        },
+        {
+          "title": "Brain Scan AI Spots Depression Risk Four Years Out Via Anger Perception Flaw",
+          "url": "https://www.techtimes.com/articles/324724/20260817/brain-scan-ai-spots-depression-risk-four-years-out-via-anger-perception-flaw.htm",
+          "source": "TechTimes",
+          "summary": "Un modèle de deep learning entraîné sur des IRM cérébrales de routine peut identifier un risque de dépression jusqu'à quatre ans avant l'apparition des premiers symptômes, en détectant un défaut de traitement des expressions de colère dans le cortex visuel. Cette avancée ouvre la voie à une psychiatrie véritablement préventive, permettant d'intervenir dans une fenêtre « pré-maladie » réversible — et souligne que le moment du traitement serait plus critique que la nature de l'intervention elle-même."
+        },
+        {
+          "title": "2026 Mind Health Report : 63 % de la population mondiale a recours à l'IA en soutien psychologique",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, mené dans 18 pays auprès de dizaines de milliers de répondants, révèle un paradoxe profond : 63 % de la population mondiale utilise l'IA pour des questions de santé mentale, mais 28 % de ces utilisateurs reconnaissent que cela les a conduits à des comportements nuisibles. Les 18-34 ans sont les plus exposés (59 % en état de souffrance psychologique), et 42 % des utilisateurs d'IA suivent presque systématiquement ses conseils, soulevant de sérieuses questions sur la dépendance algorithmique."
+        }
+      ]
+    },
+    {
       "date": "2026-08-19",
       "summary": "La veille du 19 août 2026 est dominée par les risques humains concrets des chatbots généralistes utilisés en soutien psychologique : NPR révèle le cas d'une jeune femme décédée après avoir confié ses pensées suicidaires uniquement à ChatGPT, pendant qu'OpenAI reconnaît que plus de 1,35 million d'utilisateurs abordent des intentions suicidaires chaque semaine. L'APA confirme que les psychologues font face à une réalité nouvelle — leurs patients utilisent l'IA en parallèle de la thérapie, avec des risques de dépendance et de croyances délirantes déjà documentés, et alertent sur la « sycophantie » algorithmique comme facteur aggravant. Sur le plan réglementaire, la Californie avance vers une interdiction de l'IA comme thérapeute (SB 903, voté à l'unanimité au Sénat, 39-0). En France, l'annonce de PsyTech 2026 (20 novembre, Lille), sous patronage présidentiel, témoigne de la mobilisation institutionnelle pour encadrer et valoriser l'IA en psychiatrie de précision.",
       "items": [
