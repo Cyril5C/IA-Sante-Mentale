@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-21",
+      "summary": "La veille du 21 août 2026 est marquée par un double mouvement de consolidation : la recherche scientifique tire le bilan de l'IA en psychiatrie et pointe des lacunes profondes — absence de gouvernance unifiée (Deakin University), fragilité méthodologique des modèles (Translational Psychiatry), sous-représentation de pathologies majeures dans la littérature (Frontiers). Parallèlement, la réglementation s'accélère des deux côtés de l'Atlantique : aux États-Unis, cinq nouveaux États ont restreint les chatbots thérapeutiques en 2026, portant à sept le nombre de législatures ayant agi ; en France, une étude prospective interroge l'avenir de la psychiatrie de l'enfant à l'horizon 2050 et appelle à former d'urgence les cliniciens aux outils numériques. La fracture entre la rapidité du déploiement commercial de l'IA et la lenteur des cadres de sécurité clinique s'impose comme le fil directeur de la journée.",
+      "items": [
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "MedicalXpress / Deakin University",
+          "summary": "Des chercheurs de l'Université Deakin (Australie) alertent sur l'absence de cadres de gouvernance consensuels pour encadrer l'IA en santé mentale. Malgré des déploiements croissants — évaluation, monitoring, soutien thérapeutique —, aucune norme commune n'impose de validation clinique, de tests de sécurité ou de protocoles d'escalade pour les situations à risque. Les auteurs appellent à des exigences minimales : preuves d'efficacité, transparence algorithmique et responsabilité clairement définie en cas d'incident."
+        },
+        {
+          "title": "A cautionary tale for AI and machine learning in psychiatry",
+          "url": "https://www.nature.com/articles/s41398-026-03930-w",
+          "source": "Translational Psychiatry (Nature)",
+          "summary": "Un article de synthèse dans Translational Psychiatry (groupe Nature) dresse un bilan mitigé de l'IA en psychiatrie : si le potentiel transformateur est reconnu, la traduction clinique reste entravée par des lacunes méthodologiques graves — faible robustesse des modèles, opacité des algorithmes, biais dans les données d'entraînement, et quasi-absence d'essais cliniques randomisés. Les auteurs plaident pour une réglementation plus stricte et des standards de validation avant tout déploiement à grande échelle."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains supplémentaires ont adopté des lois restreignant les chatbots d'IA thérapeutiques (Colorado, Maine, Tennessee, Vermont, Rhode Island), portant à sept le nombre d'États ayant légiféré après l'Illinois et le Nevada en 2025. Ces lois interdisent à l'IA de se substituer à un thérapeute agréé ou de fournir des services de santé mentale sans supervision professionnelle, en réponse à plusieurs décès de jeunes liés à des chatbots de compagnie."
+        },
+        {
+          "title": "Governing AI for Mental Health: Fragmented State Approaches and the Case for a Federal Framework",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42517516/",
+          "source": "PubMed / NCBI",
+          "summary": "Une analyse juridique et de santé publique publiée sur PubMed documente la fragmentation réglementaire aux États-Unis : 36 États ont introduit plus de 70 projets de loi sur les chatbots en 2026, avec des approches divergentes (interdiction totale, autorisation sous conditions de transparence, modèle de responsabilité civile). Les auteurs argumentent qu'un cadre fédéral est indispensable pour éviter une «  course vers le bas  » où des entreprises s'installeraient dans les États les moins régulés."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "PMC / NCBI",
+          "summary": "Une étude qualitative prospective, menée avec une méthode de recherche-action assistée par IA, explore l'avenir de la psychiatrie de l'enfant et de l'adolescent en France à l'horizon 2050. Trois trajectoires émergent : une psychiatrie de précision fortement numérisée, un modèle hybride humain-IA, et un retour aux fondamentaux centrés sur le lien thérapeutique. Les auteurs soulignent l'urgence de former les psychiatres et pédopsychiatres français aux outils d'IA avant que leur déploiement ne dépasse les compétences cliniques."
+        },
+        {
+          "title": "Artificial intelligence in psychiatry: clinical applications, limitations, and ethical challenges",
+          "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1864429/full",
+          "source": "Frontiers in Behavioral Neuroscience",
+          "summary": "Une revue systématique publiée dans Frontiers in Behavioral Neuroscience cartographie les applications actuelles de l'IA en psychiatrie (diagnostic assisté, analyse du langage, prédiction de risques, personnalisation des traitements) et pointe leurs limites : la recherche se concentre quasi exclusivement sur dépression et anxiété, laissant la schizophrénie, le trouble bipolaire et la psychiatrie gériatrique largement sous-étudiés. Les auteurs alertent sur les risques de biais algorithmiques et les enjeux éthiques liés au consentement et à la confidentialité."
+        }
+      ]
+    },
+    {
       "date": "2026-08-20",
       "summary": "La veille du 20 août 2026 est dominée par l'accélération spectaculaire du recours à l'IA par les jeunes pour leur santé mentale : une étude de Harvard Medical School révèle que près d'1 jeune américain sur 5 utilise désormais l'IA pour des conseils en santé mentale, soit une hausse de 60 % en un an. OpenAI répond à la pression publique et législative en lançant ChatGPT for Teens, une version dédiée aux 13-17 ans avec des garde-fous renforcés (blocage des rôles romantiques, contrôle parental, rappels de pause). Sur le front de la recherche, deux avancées majeures émergent simultanément : l'USC montre que l'IA peut détecter dépression et idéations suicidaires à partir de biomarqueurs physiologiques (transpiration, signaux cérébraux, mouvements oculaires), tandis qu'un modèle d'IRM détecte le risque dépressif jusqu'à quatre ans avant les premiers symptômes. Le rapport mondial AXA 2026 confirme l'ampleur du phénomène : 63 % de la population mondiale utilise l'IA pour des questions de santé mentale, mais 28 % admettent que cela les a conduits à des comportements nuisibles.",
       "items": [
