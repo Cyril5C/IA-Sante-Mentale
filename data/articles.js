@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-23",
+      "summary": "La veille du 23 août 2026 est dominée par la tension entre l'accélération de l'adoption de l'IA comme soutien psychologique — notamment chez les jeunes, avec une hausse de 60 % en un an selon Harvard et 63 % des adultes interrogés par AXA déclarant y avoir recours — et la multiplication des alertes sur l'insuffisance des garde-fous existants. La réponse industrielle prend forme avec le lancement de ChatGPT for Teens par OpenAI, conçu pour mieux encadrer les risques chez les 13-17 ans. Sur le plan scientifique, deux avancées notables : l'USC développe un outil de détection biométrique de la dépression combinant sueur, signaux cérébraux et mouvements oculaires, tandis qu'une analyse révèle un taux d'échec de 81 % des principaux chatbots généralistes face à des questions sensibles de santé mentale. La presse française soulève le risque de dépendance émotionnelle envers les IA \"confidentes\", signalant une prise de conscience sociétale croissante sur les effets à long terme de cette relation homme-machine.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude de Harvard Medical School révèle que l'usage de l'IA pour la santé mentale chez les adolescents et jeunes adultes (12-21 ans) a bondi de 60 % en un an, passant d'un jeune sur huit à près d'un sur cinq. La recherche, portant sur 1 727 participants, souligne que la question n'est plus de savoir si les jeunes recourent à l'IA, mais si les conseils reçus sont bénéfiques ou nuisibles. Les chercheurs appellent à concentrer les efforts sur la qualité et la sécurité des réponses fournies par ces outils, dans un contexte de pénurie chronique de professionnels de santé mentale."
+        },
+        {
+          "title": "OpenAI lance ChatGPT for Teens : une version dédiée aux 13-17 ans censée mieux encadrer les risques liés à l'IA",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "Usine Digitale",
+          "summary": "OpenAI a lancé le 18 août 2026 une version de ChatGPT spécialement conçue pour les 13-17 ans, avec des protections renforcées : filtres anti-contenu inapproprié, interdiction de simuler des émotions ou de développer une relation affective avec l'utilisateur, et contrôles parentaux permettant de recevoir des notifications en cas de situation à risque. Cette initiative intervient sous pression législative croissante et après plusieurs incidents tragiques liés à l'usage de chatbots par des mineurs. L'outil intègre également des fonctionnalités éducatives (rappels de devoirs, quiz, mode étude) configurable par les parents."
+        },
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "MedicalXpress",
+          "summary": "Une analyse publiée par MedicalXpress révèle que les principaux chatbots généralistes (ChatGPT, Gemini, DeepSeek) affichent un taux d'échec de 81 % face à des questions sensibles liées à la santé mentale, tandis que Claude d'Anthropic se distingue comme le plus sûr, refusant plus fréquemment les sollicitations à risque. Les chercheurs appellent à l'instauration urgente d'une gouvernance claire : tests de sécurité systématiques, mécanismes d'escalade vers des professionnels en cas de crise, et responsabilités juridiques définies. L'IA investit massivement le champ de la santé mentale sans que les garde-fous éthiques et cliniques aient suivi le rythme de son déploiement."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress / USC Viterbi School of Engineering",
+          "summary": "Des chercheurs de l'Université de Californie du Sud (USC) ont développé un système combinant l'analyse multimodale de signaux physiologiques — sudation, activité cérébrale et mouvements oculaires — avec l'intelligence artificielle pour détecter la dépression et le risque suicidaire. L'outil vise à compléter, sans remplacer, les évaluations cliniques actuelles, en offrant aux psychiatres une couche supplémentaire de données biologiques objectives. Cette approche représente une avancée pour la psychiatrie de précision, avec le potentiel d'identifier des individus à haut risque avant qu'une crise ne survienne."
+        },
+        {
+          "title": "Rapport Mind Health 2026 : 63 % des personnes utilisent l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport AXA Mind Health 2026, conduit auprès de plus de 19 000 personnes dans 18 pays, révèle que 63 % des répondants ont eu recours à des plateformes d'IA pour gérer leur santé mentale, dont 21 % de façon régulière. Parallèlement, 46 % déclarent vivre un burn-out ou gérer une condition de santé mentale — un chiffre qui monte à 59 % chez les 18-34 ans. L'enquête pointe un paradoxe : si l'IA peut lever des barrières d'accès aux soins, 28 % des utilisateurs admettent qu'elle les a conduits vers des comportements néfastes, et 34 % estiment qu'elle crée de nouvelles formes de dépendance."
+        },
+        {
+          "title": "Les IA, nos nouvelles confidentes : quels risques pour la santé mentale ?",
+          "url": "https://www.epochtimes.fr/les-ia-nos-nouvelles-confidentes-quels-risques-pour-la-sante-mentale-3331357.html",
+          "source": "Epoch Times France",
+          "summary": "L'Epoch Times France analyse le phénomène croissant des IA devenues « confidentes » pour de nombreux utilisateurs, explorant les risques d'isolement social, de dépendance émotionnelle et d'appauvrissement du lien humain que cette tendance entraîne. L'article souligne que si ces outils comblent un vide affectif ou thérapeutique pour certains, leur usage non encadré peut aggraver les fragilités psychologiques existantes. La question du cadre réglementaire et de la responsabilité des plateformes s'impose comme centrale dans ce débat de société qui prend de l'ampleur en France."
+        }
+      ]
+    },
+    {
       "date": "2026-08-22",
       "summary": "La veille du 22 août 2026 est traversée par une tension centrale entre la massification de l'usage de l'IA pour la santé mentale et la multiplication des alertes sur ses risques. Le cas de Sophie Rottenberg, relaté par NPR, cristallise les dangers d'un recours non encadré aux chatbots généralistes en situation de crise suicidaire — plus de 1,35 million de personnes expriment des pensées suicidaires à ChatGPT chaque semaine. Simultanément, le rapport 2026 de l'APA confirme que 77 % des psychologues américains ont des patients utilisant l'IA, phénomène désormais structurel, tandis qu'une étude de Brown University documente 15 types de violations éthiques dans les chatbots thérapeutiques. En France, l'annonce de PsyTech 2026 à Lille et l'analyse de la santé mentale au travail face au burn-out soulignent l'engagement institutionnel croissant, alors que l'IA franchit le seuil du pilote pour entrer dans les opérations cliniques effectives outre-Atlantique.",
       "items": [
