@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-24",
+      "summary": "La veille du 24 août 2026 est marquée par une accélération sans précédent de la réglementation des chatbots thérapeutiques aux États-Unis : cinq nouveaux États (dont le Colorado, effectif au 12 août, et le Tennessee depuis juillet) ont adopté des lois interdisant ou encadrant strictement les IA se présentant comme thérapeutes, portant à sept le nombre d'États ayant légiféré. En parallèle, l'IA de prédiction clinique franchit un cap opérationnel en entrant dans des cliniques rurales américaines pour anticiper les crises psychiatriques jusqu'à un an à l'avance — mais une étude canadienne du CAMH rappelle que ces outils peuvent amplifier les inégalités systémiques en surciblant les groupes marginalisés. En France, MédecinGeek pointe les risques de dépendance émotionnelle des jeunes aux IA « confidentes », tandis qu'une revue scientifique internationale publiée dans Frontiers in Behavioral Neuroscience formule les conditions éthiques et cliniques indispensables au déploiement responsable de l'IA en psychiatrie.",
+      "items": [
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains ont adopté en 2026 des lois encadrant ou interdisant les chatbots se présentant comme thérapeutes, rejoignant l'Illinois et le Nevada déjà pionniers. Parmi eux, le Colorado (effectif au 12 août 2026), le Tennessee (depuis le 1er juillet), le Vermont, la Rhode Island et le Maine : sept États ont désormais légiféré sur ce front. Le mouvement traduit une prise de conscience croissante des risques après plusieurs tragédies impliquant des mineurs, et se concentre sur la transparence obligatoire sur la nature de l'IA, la protection des utilisateurs vulnérables et l'obligation de réorientation vers des professionnels en cas de crise."
+        },
+        {
+          "title": "Tennessee Bans AI Therapy Bots as Chatbot Safety Laws Surge",
+          "url": "https://ai2.work/blog/tennessee-bans-ai-therapy-bots-as-chatbot-safety-laws-surge",
+          "source": "AI2Work",
+          "summary": "Le gouverneur du Tennessee a signé le 1er avril 2026 une loi (SB 1580) interdisant à tout système d'IA de se présenter ou d'agir comme un professionnel de santé mentale qualifié, avec des amendes allant jusqu'à 5 000 dollars par infraction (effective depuis le 1er juillet). Adoptée à l'unanimité au Sénat (32-0) et quasiment à l'unanimité à la Chambre (94-0), cette loi figure parmi les plus bipartisanes jamais votées sur l'IA aux États-Unis. Elle s'inscrit dans une vague nationale : 78 propositions législatives dans 27 États cherchent à encadrer les chatbots « thérapeutes » en 2026."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Un modèle d'IA capable de prédire l'aggravation de l'état mental d'un patient jusqu'à un an à l'avance avec une précision de 84 % quitte les phases pilotes pour entrer en déploiement opérationnel dans des cliniques rurales du Carolina du Nord, du Minnesota et du Dakota du Nord. Cette avancée marque le passage de l'IA en santé mentale des études de faisabilité à l'usage clinique réel, intégrée dans les flux de travail des praticiens. Les experts soulignent cependant la nécessité d'un suivi rigoureux des biais et des erreurs de prédiction à mesure que ces outils s'implantent dans les soins de première ligne."
+        },
+        {
+          "title": "AI risk prediction tools in psychiatry can reinforce systemic bias",
+          "url": "https://medicalxpress.com/news/2026-04-ai-tools-psychiatry-bias.html",
+          "source": "MedicalXpress / CAMH",
+          "summary": "Une étude du Centre for Addiction and Mental Health (CAMH, Toronto) révèle que les modèles d'IA utilisés pour prédire les incidents agressifs en psychiatrie aiguë tendent à surestimer le risque chez les groupes marginalisés, amplifiant les inégalités structurelles déjà présentes dans les soins. Les chercheurs appellent à auditer systématiquement les outils d'IA clinique sous l'angle de l'équité et à ne pas les déployer sans supervision humaine rigoureuse. Ce travail soulève une question fondamentale pour la psychiatrie de précision : les données historiques, qui reflètent des pratiques biaisées, ne peuvent pas constituer à elles seules la base de décisions cliniques automatisées."
+        },
+        {
+          "title": "Quand l'IA devient le confident des jeunes : soutien, refuge ou nouveau risque ?",
+          "url": "https://medecingeek.com/quand-lia-devient-le-confident-des-jeunes-soutien-refuge-ou-nouveau-risque/",
+          "source": "MédecinGeek",
+          "summary": "MédecinGeek analyse la tendance croissante des adolescents et jeunes adultes à confier leurs difficultés psychologiques à des chatbots d'IA plutôt qu'à des proches ou des professionnels de santé, en pointant les risques de dépendance émotionnelle, d'isolement social et de retard dans la demande d'aide humaine. Si ces outils offrent une écoute disponible 24h/24, ils peuvent brouiller les repères relationnels des jeunes et aggraver les fragilités existantes sans offrir de suivi clinique réel. L'article appelle à une éducation numérique renforcée et à des garde-fous adaptés, dans un contexte où 72 % des adolescents français utilisent déjà ces chatbots selon les données CNIL/Ipsos-BVA."
+        },
+        {
+          "title": "Artificial intelligence in psychiatry: clinical applications, limitations, and ethical challenges",
+          "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1864429/full",
+          "source": "Frontiers in Behavioral Neuroscience",
+          "summary": "Une revue publiée dans Frontiers in Behavioral Neuroscience dresse un panorama des applications cliniques actuelles de l'IA en psychiatrie — détection précoce, aide au diagnostic, personnalisation des traitements — tout en identifiant les limites majeures : biais algorithmiques, manque de validation à long terme, risques pour la confidentialité et questions éthiques autour du consentement. Les auteurs plaident pour un cadre fondé sur l'équité, la transparence et la supervision humaine obligatoire, afin d'éviter que la promesse de la psychiatrie de précision ne soit compromise par un déploiement précipité. Cette revue fait office de référence pour les cliniciens et décideurs naviguant dans l'écosystème croissant des outils d'IA en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-08-23",
       "summary": "La veille du 23 août 2026 est dominée par la tension entre l'accélération de l'adoption de l'IA comme soutien psychologique — notamment chez les jeunes, avec une hausse de 60 % en un an selon Harvard et 63 % des adultes interrogés par AXA déclarant y avoir recours — et la multiplication des alertes sur l'insuffisance des garde-fous existants. La réponse industrielle prend forme avec le lancement de ChatGPT for Teens par OpenAI, conçu pour mieux encadrer les risques chez les 13-17 ans. Sur le plan scientifique, deux avancées notables : l'USC développe un outil de détection biométrique de la dépression combinant sueur, signaux cérébraux et mouvements oculaires, tandis qu'une analyse révèle un taux d'échec de 81 % des principaux chatbots généralistes face à des questions sensibles de santé mentale. La presse française soulève le risque de dépendance émotionnelle envers les IA \"confidentes\", signalant une prise de conscience sociétale croissante sur les effets à long terme de cette relation homme-machine.",
       "items": [
