@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-27",
+      "summary": "La veille du 27 août 2026 est dominée par la réponse d'OpenAI à la crise de sécurité des chatbots pour adolescents, avec le lancement mondial de ChatGPT for Teens — une version dédiée aux 13-17 ans intégrant des garde-fous spécifiques sur l'automutilation et la prévention de la dépendance émotionnelle. Cette initiative intervient alors qu'une étude de Harvard Medical School révèle que l'usage de l'IA pour la santé mentale chez les jeunes a bondi de 60 % en un an, et que des données inédites d'OpenAI exposent l'ampleur du phénomène : plus de 1,35 million d'utilisateurs de ChatGPT évoquent des intentions suicidaires chaque semaine. Aux États-Unis, la vague législative se concrétise : cinq nouveaux États ont promulgué en 2026 des lois restreignant les chatbots thérapeutiques, dont le Colorado dont la loi est entrée en vigueur le 12 août. En marge, une publication sur la détection multimodale de la dépression (transpiration, signaux cérébraux, mouvements oculaires) et une étude française sur l'avenir de la psychiatrie de l'enfant illustrent la diversité des fronts de recherche.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une enquête menée par Harvard Medical School (1 727 participants) révèle que le recours aux chatbots IA pour la santé mentale chez les 12-25 ans a progressé de 60 % en un an, avec désormais près d'un jeune américain sur cinq (20 %) qui consulte une IA pour son bien-être psychologique. La majorité n'en parle ni à leurs parents ni à leur médecin, malgré l'incertitude sur la fiabilité et la sécurité de ces outils généralistes. Les chercheurs appellent à un encadrement urgent pour garantir que l'IA comble le manque de professionnels de santé mentale sans exposer les utilisateurs vulnérables à des conseils potentiellement dangereux."
+        },
+        {
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+          "source": "TechCrunch",
+          "summary": "OpenAI a lancé le 18 août 2026 ChatGPT for Teens, une version dédiée aux 13-17 ans avec des garde-fous renforcés sur la santé mentale : blocage automatique des conversations sur l'automutilation, interdiction du langage romantique susceptible de créer une dépendance émotionnelle, et contrôles parentaux permettant de fixer des plages horaires d'utilisation. La plateforme envoie aux parents des notifications de sécurité dans les cas jugés à haut risque, sans toutefois leur donner accès au contenu des conversations. TechCrunch souligne l'ironie de ce lancement tardif : les adolescents utilisaient massivement ChatGPT depuis des années sans aucun garde-fou spécifique à leur âge."
+        },
+        {
+          "title": "OpenAI maps out the chatbot mental health crisis",
+          "url": "https://www.platformer.news/openai-mental-health-research-chatgpt-suicide-delusions/",
+          "source": "Platformer",
+          "summary": "OpenAI a publié des données internes révélant qu'en moyenne, 0,15 % de ses utilisateurs hebdomadaires — soit plus de 1,35 million de personnes — ont des conversations incluant des indicateurs explicites d'intentions suicidaires. D'autres données montrent que 0,07 % présentent des signes de psychose ou de manie, et que le chatbot ne redirige pas vers des ressources d'aide dans 9 % des cas où cela serait nécessaire. Cette publication sans précédent de métriques de crise mentale interroge sur la responsabilité des plateformes d'IA généraliste face aux utilisateurs en situation de détresse psychologique."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains supplémentaires ont adopté en 2026 des lois restreignant les chatbots thérapeutiques par IA, portant à sept le nombre d'États dotés d'une telle réglementation. Le Colorado (loi en vigueur depuis le 12 août 2026), le Maine (29 juillet) et le Tennessee (1er juillet) interdisent notamment aux outils IA de se présenter comme des professionnels de santé mentale qualifiés ou de fournir des services de psychothérapie indépendants. Ce morcellement législatif illustre l'absence d'un cadre fédéral unifié aux États-Unis, créant une protection inégale selon les États."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress",
+          "summary": "Des chercheurs publient une revue systématique montrant que la fusion multimodale de données physiologiques — transpiration, signaux EEG, mouvements oculaires, analyse de la démarche — associée à l'IA permet un dépistage de la dépression et du risque suicidaire avec des niveaux de précision diagnostique prometteurs. Ces approches objectivant des marqueurs biologiques pourraient compléter les auto-déclarations habituelles et réduire les biais du diagnostic clinique. Les auteurs soulignent néanmoins les défis éthiques liés à la collecte continue de données biométriques sensibles sur des personnes en situation de vulnérabilité."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "PubMed Central / Frontiers in Psychiatry",
+          "summary": "Une étude française publiée dans Frontiers in Psychiatry utilise une méthodologie assistée par IA pour projeter les scénarios de la psychiatrie de l'enfant et de l'adolescent en France jusqu'en 2050. Les chercheurs identifient l'IA comme un axe central de la transformation du secteur, entre opportunités de dépistage précoce et risques de déshumanisation des soins. L'article constitue un exemple rare de recherche qualitative en santé mentale utilisant l'IA comme outil de recherche, et non seulement comme objet d'étude, marquant une évolution méthodologique notable dans la psychiatrie académique française."
+        }
+      ]
+    },
+    {
       "date": "2026-08-26",
       "summary": "La veille du 26 août 2026 est marquée par une convergence de réponses institutionnelles à la montée en puissance de l'IA dans la santé mentale. Aux États-Unis, la SAMHSA publie son premier rapport fédéral de référence sur le sujet, tandis que de nouvelles données de JAMA Pediatrics quantifient les disparités d'accès parmi les jeunes usagers de chatbots IA. En Europe, l'entrée en vigueur le 2 août des obligations de transparence de l'AI Act constitue un premier cadre légal pour les chatbots de soutien émotionnel, relayée par la presse française spécialisée. L'annonce de PsyTech 2026, grande conférence française sur l'IA et la psychiatrie prévue à Lille en novembre, signale l'engagement croissant de la recherche académique française dans ce domaine.",
       "items": [
