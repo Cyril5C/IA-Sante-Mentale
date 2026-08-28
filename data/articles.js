@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-28",
+      "summary": "La veille du 28 août 2026 est dominée par deux constats convergents : les professionnels de santé mentale sont confrontés à une invasion silencieuse de l'IA dans les consultations, et le cadre réglementaire peine à suivre. L'enquête de l'APA révèle que 77 % des psychologues américains ont des patients utilisant l'IA, dont 36 % développant une dépendance aux chatbots, et 15 % rapportant des patients ayant développé des croyances délirantes ; une position paper dans The Lancet Psychiatry (Deakin University) alerte en parallèle sur l'absence totale de protocoles standardisés. À l'échelle mondiale, le rapport AXA/IPSOS (19 000 personnes dans 18 pays) révèle que 63 % des individus se tournent déjà vers l'IA pour un soutien psychologique — souvent sans supervision clinique. En France, Caducée.net documente l'essor du technostress lié à l'IA (23 % des employés touchés), dans un contexte où 41 % des travailleurs déclarent avoir vécu un burn-out. Sur le front de la recherche, une équipe de Victoria University montre que l'IA entraînée sur un million de fils Reddit peut accélérer le triage des troubles mentaux avec 80 % de concordance avec les experts humains.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy — and psychologists are sounding the alarm",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "Une enquête de l'American Psychological Association auprès de 1 200 psychologues licenciés révèle que 77 % ont eu des échanges avec des patients utilisant l'IA, et que 35 % d'entre eux ont des patients recourant à l'IA comme professionnel de santé mentale supplémentaire. Fait alarmant : 36 % signalent des patients devenus dépendants d'un chatbot, et 15 % rapportent des patients ayant développé des croyances délirantes à la suite d'interactions avec une IA. L'APA publie un avis de santé mettant en garde contre l'utilisation de l'IA générative pour la psychothérapie, le diagnostic ou le soutien en situation de crise."
+        },
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "MedicalXpress / The Lancet Psychiatry",
+          "summary": "Des chercheurs de l'Université Deakin (Australie) publient une position paper dans The Lancet Psychiatry alertant sur l'absence de cadre réglementaire standardisé pour encadrer les interactions entre IA et personnes en détresse psychologique. L'article identifie plusieurs zones de danger : absence de protocoles de crise, risque de renforcement des comportements compulsifs, validation involontaire de croyances psychotiques par les chatbots, et dépendance croissante à l'IA pour des décisions de vie. Les auteurs appellent à l'élaboration urgente de réglementations et directives spécifiques avant une adoption plus large."
+        },
+        {
+          "title": "Research shows AI can fast track mental health care",
+          "url": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
+          "source": "MedicalXpress / Victoria University",
+          "summary": "Une équipe de la Victoria University (Melbourne) a analysé un million de fils Reddit liés à la santé pour entraîner deux modèles d'IA (PaLM 2 et AutoML) capables d'identifier les causes profondes des troubles mentaux exprimés dans des récits non structurés. Le modèle PaLM 2 atteint 80 % de concordance avec les évaluateurs humains experts pour la catégorisation des narratifs. Cette approche pourrait accélérer le triage et la personnalisation des soins, bien que les auteurs insistent sur la nécessité d'une validation clinique rigoureuse avant tout déploiement."
+        },
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % des personnes utilisent l'IA pour un soutien psychologique",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / IPSOS",
+          "summary": "Le rapport Mind Health 2026 d'AXA, conduit avec IPSOS auprès de plus de 19 000 personnes dans 18 pays, révèle que 63 % des répondants utilisent l'IA pour un soutien psychologique et que 42 % d'entre eux suivent « presque toujours » les conseils prodigués. La crise de santé mentale mondiale s'approfondit : dans 10 des 16 pays étudiés, les scores sont au plus bas depuis 2021, avec 46 % de la population en situation de « lutte » ou de « languissement ». Les 18-34 ans sont les plus touchés (59 %) et recourent le plus à l'IA comme premier recours psychologique."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Le portail médical français Caducée.net dresse un bilan préoccupant de la santé mentale au travail en France en 2026 : 41 % des travailleurs déclarent avoir vécu un burn-out ou un épuisement professionnel, et 23 % souffrent de technostress directement lié à l'IA (pression de productivité permanente, opacité algorithmique, flux d'information continus). L'article pointe une polarisation croissante : l'IA est à la fois présentée comme solution de prévention (via des indicateurs internes de fragilité) et comme facteur aggravant de la détresse psychologique au travail. Les secteurs santé, éducation et travail social restent les plus exposés."
+        },
+        {
+          "title": "The Chatbot Moment: Mapping the Emerging 2026 U.S. Chatbot Legislative Landscape",
+          "url": "https://fpf.org/blog/the-chatbot-moment-mapping-the-emerging-2026-u-s-chatbot-legislative-landscape/",
+          "source": "Future of Privacy Forum",
+          "summary": "Le Future of Privacy Forum publie une cartographie exhaustive du paysage législatif américain sur les chatbots en 2026 : 36 États ont introduit plus de 70 projets de loi au premier trimestre, et le FPF suit désormais 98 textes spécifiques aux chatbots dans 34 États ainsi que trois propositions fédérales. La majorité de ces textes imposent une obligation de divulgation de la nature artificielle du chatbot, particulièrement dans les contextes de santé mentale. Cette fragmentation sans cadre fédéral unifié illustre l'urgence politique autour des chatbots thérapeutiques, tout en créant une protection inégale selon les États."
+        }
+      ]
+    },
+    {
       "date": "2026-08-27",
       "summary": "La veille du 27 août 2026 est dominée par la réponse d'OpenAI à la crise de sécurité des chatbots pour adolescents, avec le lancement mondial de ChatGPT for Teens — une version dédiée aux 13-17 ans intégrant des garde-fous spécifiques sur l'automutilation et la prévention de la dépendance émotionnelle. Cette initiative intervient alors qu'une étude de Harvard Medical School révèle que l'usage de l'IA pour la santé mentale chez les jeunes a bondi de 60 % en un an, et que des données inédites d'OpenAI exposent l'ampleur du phénomène : plus de 1,35 million d'utilisateurs de ChatGPT évoquent des intentions suicidaires chaque semaine. Aux États-Unis, la vague législative se concrétise : cinq nouveaux États ont promulgué en 2026 des lois restreignant les chatbots thérapeutiques, dont le Colorado dont la loi est entrée en vigueur le 12 août. En marge, une publication sur la détection multimodale de la dépression (transpiration, signaux cérébraux, mouvements oculaires) et une étude française sur l'avenir de la psychiatrie de l'enfant illustrent la diversité des fronts de recherche.",
       "items": [
