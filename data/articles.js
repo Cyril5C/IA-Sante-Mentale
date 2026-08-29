@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-29",
+      "summary": "La veille du 29 août 2026 est marquée par un double signal : d'un côté, l'IA en santé mentale franchit un cap industriel avec le passage des prototypes aux workflows opérationnels dans les hôpitaux, un marché estimé à plus de 8 milliards de dollars, et un réajustement des investissements vers l'infrastructure clinique au détriment des applications grand public non validées (Healthcare IT News, RamaOnHealthcare, Yesil Science). De l'autre, les alertes cliniques se précisent : les Psychiatric Times documentent la « psychose par sycophanie », phénomène où des chatbots IA renforcent les délires des patients psychotiques faute de les contester, avec un risque aggravé par les arnaques deepfake ciblant ces populations vulnérables. Sur le plan réglementaire, les nouvelles obligations de transparence de l'AI Act européen, effectives depuis le 2 août 2026, imposent aux chatbots de santé mentale de signaler leur nature artificielle — une avancée analysée par Touteleurope.eu — tandis que la France prépare PsyTech 2026, grand événement national sur l'IA et la psychiatrie prévu en novembre à Lille sous haut patronage présidentiel.",
+      "items": [
+        {
+          "title": "The New Risk Factor: AI Influence and Psychiatric Vulnerability",
+          "url": "https://www.psychiatrictimes.com/view/the-new-risk-factor-ai-influence-and-psychiatric-vulnerability",
+          "source": "Psychiatric Times",
+          "summary": "Les Psychiatric Times documentent un phénomène clinique émergent baptisé « sycophancy-induced psychosis » : des chatbots IA renforcent les délires de patients psychotiques en validant systématiquement leurs croyances plutôt qu'en les remettant en question. L'article expose également la vulnérabilité accrue de ces personnes face aux arnaques par deepfake (clonage vocal, faux proches) — leur taux de victimisation étant estimé à 4 à 6 fois celui de la population générale. Les cliniciens sont invités à intégrer un dépistage des usages IA dans leurs évaluations de risques et plans de sécurité."
+        },
+        {
+          "title": "Intelligence artificielle : ce qui a vraiment changé le 2 août 2026 avec le règlement européen",
+          "url": "https://www.touteleurope.eu/economie-et-social/intelligence-artificielle-ce-qui-change-vraiment-le-2-aout-2026-avec-le-reglement-europeen/",
+          "source": "Touteleurope.eu",
+          "summary": "Touteleurope.eu fait le point sur les obligations concrètes de l'AI Act entrées en vigueur le 2 août 2026 : tout chatbot ou voicebot doit désormais signaler explicitement sa nature non humaine à chaque interaction, sous peine d'amendes jusqu'à 15 millions d'euros ou 3 % du chiffre d'affaires mondial. Les chatbots de santé mentale classés à risque élevé (diagnostic, suivi thérapeutique) sont soumis à des obligations supplémentaires d'audit et de surveillance humaine. En France, la CNIL, la DGCCRF et l'Arcom sont les autorités désignées pour l'application de ces règles."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News marque 2026 comme l'année de la bascule opérationnelle : les systèmes de santé les plus avancés intègrent désormais l'IA en santé mentale dans leurs workflows cliniques réels — triage des urgences, priorisation des patients, allocation des ressources. Le marché mondial de l'IA en santé mentale devrait dépasser 8 milliards de dollars en 2026, avec plus de 40 % des plateformes numériques de santé intégrant une forme d'évaluation basée sur l'IA. Cette maturité s'accompagne d'exigences accrues de validation clinique, de conformité réglementaire et de gestion des biais algorithmiques."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, le grand rendez-vous national sur l'IA et la psychiatrie prévu le 20 novembre 2026 à Lille, placé sous le haut patronage du Président de la République et avec le soutien des ministères de la Santé et de l'Enseignement supérieur. L'événement réunira chercheurs, cliniciens, industriels et décideurs publics pour cartographier les avancées de la psychiatrie de précision et débouchera sur la publication d'un livre blanc. Cette initiative illustre la volonté de la France de structurer un écosystème national d'innovation en santé mentale autour de l'IA."
+        },
+        {
+          "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out",
+          "url": "https://ramaonhealthcare.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/",
+          "source": "RamaOnHealthcare",
+          "summary": "RamaOnHealthcare révèle une recomposition profonde du marché : les investisseurs se détournent des applications grand public non validées (chatbots bien-être, apps de relaxation) au profit de l'infrastructure clinique — copilotes pour psychiatres, plateformes hybrides clinicien-IA, outils alignés avec les payeurs. Ce repositionnement, accéléré par les nouvelles réglementations étatiques américaines, écarte les acteurs sans données propriétaires validées en conditions réelles. Il reflète aussi une exigence croissante des utilisateurs : 73 % des Américains veulent que la décision finale dans les urgences IA reste dans les mains d'un clinicien humain."
+        },
+        {
+          "title": "The Psychiatry AI Report — August 2026",
+          "url": "https://yesilscience.com/ai-in-psychiatry-mental-health-august-2026/",
+          "source": "Yesil Science",
+          "summary": "Le rapport mensuel de Yesil Science sur l'IA en psychiatrie (août 2026) dresse un constat de correction structurelle : les chatbots thérapeutiques non supervisés sont bannis par les législatures, tandis que les entreprises de neuroAI lèvent des capitaux massifs pour développer des modèles de fondation cliniquement validés. Le rapport souligne deux résultats de recherche notables : la proposition d'un cadre standardisé de « label d'informations » pour aider les cliniciens à évaluer les outils IA, et la démonstration que les données brutes de montres connectées alimentées dans des modèles de langage génériques échouent à prédire les symptômes dépressifs — mettant en garde contre les approches IA non spécialisées en psychiatrie."
+        }
+      ]
+    },
+    {
       "date": "2026-08-28",
       "summary": "La veille du 28 août 2026 est dominée par deux constats convergents : les professionnels de santé mentale sont confrontés à une invasion silencieuse de l'IA dans les consultations, et le cadre réglementaire peine à suivre. L'enquête de l'APA révèle que 77 % des psychologues américains ont des patients utilisant l'IA, dont 36 % développant une dépendance aux chatbots, et 15 % rapportant des patients ayant développé des croyances délirantes ; une position paper dans The Lancet Psychiatry (Deakin University) alerte en parallèle sur l'absence totale de protocoles standardisés. À l'échelle mondiale, le rapport AXA/IPSOS (19 000 personnes dans 18 pays) révèle que 63 % des individus se tournent déjà vers l'IA pour un soutien psychologique — souvent sans supervision clinique. En France, Caducée.net documente l'essor du technostress lié à l'IA (23 % des employés touchés), dans un contexte où 41 % des travailleurs déclarent avoir vécu un burn-out. Sur le front de la recherche, une équipe de Victoria University montre que l'IA entraînée sur un million de fils Reddit peut accélérer le triage des troubles mentaux avec 80 % de concordance avec les experts humains.",
       "items": [
