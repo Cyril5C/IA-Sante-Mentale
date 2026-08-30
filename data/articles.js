@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-30",
+      "summary": "La veille du 30 août 2026 est placée sous le signe d'une tension croissante entre l'adoption fulgurante de l'IA en santé mentale et l'urgence de régulation. Une étude publiée dans JAMA Pediatrics (Harvard) confirme qu'1 Américain sur 5 âgé de 14 à 25 ans consulte désormais l'IA pour des questions de santé mentale — une hausse de 60 % en un an —, tandis que des chercheurs de l'Université Deakin alertent sur l'absence totale de protocoles standardisés pour encadrer ces interactions avec des personnes en détresse. Sur le front réglementaire, cinq États américains supplémentaires (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont interdit aux chatbots de se comporter comme des thérapeutes en 2026, une vague que Le Devoir décrypte à travers la loi pionnière californienne. En parallèle, la recherche progresse sur deux fronts : une approche multimodale (sudation, EEG, mouvements oculaires + IA) promet une détection objective de la dépression et du risque suicidaire, pendant qu'un outil entraîné sur un million de fils Reddit atteint 80 % de concordance avec des experts humains pour le triage psychiatrique.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une étude publiée dans JAMA Pediatrics par le Harvard Pilgrim Healthcare Institute établit qu'1 jeune Américain sur 5 (environ 8,2 millions de 14-25 ans) a désormais recours à des chatbots IA pour des conseils de santé mentale, soit une hausse de 60 % en un an. Si la majorité des utilisateurs rapportent un bénéfice perçu, les experts s'inquiètent : certains jeunes consultent l'IA en situation de crise aiguë, là où ces outils ne sont pas conçus pour intervenir. La question n'est plus de savoir si les jeunes utilisent l'IA, mais de garantir la qualité et la sécurité des conseils qu'ils en reçoivent."
+        },
+        {
+          "title": "AI is already reaching people in distress, but mental health safeguards lag behind",
+          "url": "https://medicalxpress.com/news/2026-08-ai-people-distress-mental-health.html",
+          "source": "MedicalXpress",
+          "summary": "Des chercheurs de l'Université Deakin (Australie) tirent la sonnette d'alarme : alors que l'IA est déjà en contact avec des personnes en détresse psychologique, il n'existe encore aucun cadre standardisé pour réguler ou guider son usage dans ce contexte. L'étude, publiée dans The Lancet Psychiatry, souligne le paradoxe d'un déploiement massif sans filet de sécurité clinique validé, et plaide pour l'établissement urgent de protocoles internationaux encadrant l'utilisation de l'IA auprès des populations vulnérables."
+        },
+        {
+          "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
+          "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+          "source": "MedicalXpress",
+          "summary": "Des chercheurs ont développé une approche multimodale combinant mesure de la sudation, signaux cérébraux (EEG) et mouvements oculaires alimentés dans des modèles d'IA pour détecter la dépression et évaluer le risque suicidaire de façon objective. Ces biomarqueurs physiologiques, difficiles à simuler consciemment, offrent une alternative prometteuse aux auto-questionnaires actuels, ouvrant la voie à des évaluations cliniques plus fiables et moins dépendantes du ressenti subjectif du patient."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains supplémentaires ont adopté des lois restreignant les chatbots thérapeutiques IA : Colorado, Maine, Rhode Island, Tennessee et Vermont rejoignent Illinois et Nevada qui avaient ouvert la voie. Ces textes interdisent aux IA de se présenter comme thérapeutes qualifiés ou de prendre des décisions thérapeutiques autonomes. Cette vague législative, directement alimentée par les suicides de mineurs liés à des chatbots comme Character.AI, marque un tournant structurel dans la régulation américaine de la santé mentale numérique."
+        },
+        {
+          "title": "La Californie régule les «chatbots» d'IA, une première aux États-Unis",
+          "url": "https://www.ledevoir.com/monde/etats-unis/924795/californie-regule-chatbots-ia-premiere-etats-unis",
+          "source": "Le Devoir",
+          "summary": "Le quotidien québécois Le Devoir décrypte la loi californienne sur les chatbots IA, entrée en vigueur le 1er juillet 2026 et première du genre aux États-Unis : vérification de l'âge des utilisateurs, avertissements réguliers sur la nature non humaine de l'interlocuteur, et protocoles obligatoires de prévention du suicide. Cet article francophone offre une lecture critique de ce tournant réglementaire américain et de ses implications pour les plateformes qui opèrent également au Canada et en Europe."
+        },
+        {
+          "title": "Research shows AI can fast track mental health care",
+          "url": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
+          "source": "MedicalXpress",
+          "summary": "Des chercheurs ont entraîné un système d'IA sur plus d'un million de fils de discussion Reddit liés à la santé mentale, créant une plateforme capable d'identifier rapidement des profils de troubles psychiatriques et d'accélérer le triage clinique. Avec un taux de concordance de 80 % avec les évaluations d'experts humains, cet outil pourrait alléger la pression sur les listes d'attente — un enjeu critique dans un contexte de pénurie mondiale de professionnels de santé mentale — tout en maintenant un clinicien dans la boucle décisionnelle finale."
+        }
+      ]
+    },
+    {
       "date": "2026-08-29",
       "summary": "La veille du 29 août 2026 est marquée par un double signal : d'un côté, l'IA en santé mentale franchit un cap industriel avec le passage des prototypes aux workflows opérationnels dans les hôpitaux, un marché estimé à plus de 8 milliards de dollars, et un réajustement des investissements vers l'infrastructure clinique au détriment des applications grand public non validées (Healthcare IT News, RamaOnHealthcare, Yesil Science). De l'autre, les alertes cliniques se précisent : les Psychiatric Times documentent la « psychose par sycophanie », phénomène où des chatbots IA renforcent les délires des patients psychotiques faute de les contester, avec un risque aggravé par les arnaques deepfake ciblant ces populations vulnérables. Sur le plan réglementaire, les nouvelles obligations de transparence de l'AI Act européen, effectives depuis le 2 août 2026, imposent aux chatbots de santé mentale de signaler leur nature artificielle — une avancée analysée par Touteleurope.eu — tandis que la France prépare PsyTech 2026, grand événement national sur l'IA et la psychiatrie prévu en novembre à Lille sous haut patronage présidentiel.",
       "items": [
