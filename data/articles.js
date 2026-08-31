@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-08-31",
+      "summary": "La veille du 31 août 2026 met en lumière la généralisation rapide de l'IA comme soutien psychologique, documentée par deux grandes enquêtes convergentes : le rapport Mind Health 2026 d'AXA révèle que 63 % des adultes interrogés dans 18 pays ont déjà utilisé l'IA pour des questions de santé mentale, et l'enquête APA établit que 77 % des psychologues ont des patients qui y recourent — souvent sans supervision clinique. La CNIL souligne qu'un tiers des jeunes européens considèrent déjà les chatbots comme un « psy », dont 86 % des jeunes Français. Sur le front réglementaire, le Colorado a instauré le 12 août l'interdiction formelle de l'IA comme thérapeute autonome (HB26-1195), et des règles d'application du Chatbot Safety Act ont été soumises le 11 août. Enfin, une nouvelle alerte émerge en milieu professionnel : l'usage intensif de l'IA serait associé à un syndrome de fatigue cognitive inédit, baptisé « brain fry », qui accroît le risque de burn-out et l'intention de quitter l'entreprise.",
+      "items": [
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "Une enquête de l'APA menée auprès de 1 242 psychologues agréés américains révèle que 77 % ont discuté avec des patients utilisant l'IA comme soutien psychologique complémentaire, dont plus d'un tiers comme « thérapeute de substitution ». Si 94 % des psychologues estiment que les chatbots ne peuvent pas traiter les troubles mentaux avec la nuance nécessaire, seulement un quart pense que les patients préféreront un jour les chatbots aux professionnels humains : la cohabitation IA/thérapeutes s'installe dans les cabinets, mais non sans tensions éthiques et cliniques."
+        },
+        {
+          "title": "2026 Mind Health Report : 63 % des adultes ont recours à l'IA pour leur santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport Mind Health 2026 d'AXA, conduit dans 18 pays avec Ipsos, dresse un tableau saisissant : 63 % des répondants ont déjà utilisé l'IA pour des questions de santé mentale, 42 % suivent presque systématiquement ses conseils — et 28 % admettent qu'elle les a orientés vers des comportements néfastes. Ce paradoxe entre adoption massive et risques avérés illustre l'urgence d'encadrer cliniquement l'IA dans l'accompagnement psychologique à l'échelle internationale."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "La CNIL et le groupe VYV publient les résultats d'une enquête Ipsos BVA auprès de 3 800 jeunes de 11 à 25 ans en France, Allemagne, Suède et Irlande : 48 % utilisent l'IA pour aborder des sujets personnels ou intimes, et 33 % la considèrent comme un « psy » dans certaines situations. En France, 86 % des jeunes utilisent des outils d'IA conversationnelle, et seuls 32 % savent ce que deviennent leurs données. Face à ces constats, la CNIL et le groupe VYV ont lancé l'initiative européenne AI*me pour renforcer la protection des mineurs dans ces usages."
+        },
+        {
+          "title": "Law to Establish Guardrails for AI in Healthcare Goes into Effect",
+          "url": "https://www.cohousedems.com/news/law-to-establish-guardrails-for-ai-in-healthcare-goes-into-effect",
+          "source": "Colorado House Democrats",
+          "summary": "Le Colorado a franchi un cap réglementaire le 12 août 2026 avec l'entrée en vigueur de la loi HB26-1195, qui interdit à l'IA de fournir de manière autonome des services de psychothérapie et prohibe la facturation de soins psychiatriques dispensés sans supervision humaine. Le 11 août, le Département de Justice de l'État avait également soumis un projet de règlement d'application du Chatbot Safety Act, imposant divulgation obligatoire de la nature IA, protection des mineurs et protocoles anti-suicidaires pour toute IA conversationnelle accessible au public."
+        },
+        {
+          "title": "Santé au travail : l'IA augmente le risque de burnout",
+          "url": "https://www.santematin.fr/sante-travail-burnout-ia-alerte-emploi-tech",
+          "source": "SanteMatin",
+          "summary": "Des recherches publiées en 2026 documentent un nouveau syndrome lié à l'usage intensif des outils d'IA au travail, baptisé « brain fry » : fatigue mentale accrue, hausse des erreurs, fatigue décisionnelle et augmentation de 10 % de l'intention de quitter l'entreprise. Cette face méconnue de l'IA en milieu professionnel interpelle médecins du travail et DRH, alors que la France enregistre une amélioration globale encore fragile du bien-être mental des salariés, avec un quart d'entre eux toujours en situation de mal-être."
+        }
+      ]
+    },
+    {
       "date": "2026-08-30",
       "summary": "La veille du 30 août 2026 est placée sous le signe d'une tension croissante entre l'adoption fulgurante de l'IA en santé mentale et l'urgence de régulation. Une étude publiée dans JAMA Pediatrics (Harvard) confirme qu'1 Américain sur 5 âgé de 14 à 25 ans consulte désormais l'IA pour des questions de santé mentale — une hausse de 60 % en un an —, tandis que des chercheurs de l'Université Deakin alertent sur l'absence totale de protocoles standardisés pour encadrer ces interactions avec des personnes en détresse. Sur le front réglementaire, cinq États américains supplémentaires (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont interdit aux chatbots de se comporter comme des thérapeutes en 2026, une vague que Le Devoir décrypte à travers la loi pionnière californienne. En parallèle, la recherche progresse sur deux fronts : une approche multimodale (sudation, EEG, mouvements oculaires + IA) promet une détection objective de la dépression et du risque suicidaire, pendant qu'un outil entraîné sur un million de fils Reddit atteint 80 % de concordance avec des experts humains pour le triage psychiatrique.",
       "items": [
