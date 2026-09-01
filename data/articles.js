@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-01",
+      "summary": "La rentrée de septembre 2026 est marquée par deux dynamiques convergentes dans le domaine de l'IA et de la santé mentale : d'un côté, plusieurs méta-analyses scientifiques publiées confirment l'efficacité modeste mais réelle des chatbots thérapeutiques pour réduire l'anxiété et la dépression, avec une attention particulière portée aux adolescents (études dans Nature npj Digital Medicine et PMC) ; de l'autre, les instances de régulation — françaises (commission gouvernementale) et internationales (Stanford HAI) — intensifient leur travail pour définir des garde-fous face aux risques de dépendance émotionnelle et aux lacunes de sécurité pour les publics vulnérables. En France, une étude inédite sur l'avenir de la psychiatrie de l'enfant et de l'adolescent (2026-2050), conduite avec l'IA, appelle à une refonte systémique de l'offre de soins pédopsychiatriques. La généralisation de l'IA dans les opérations cliniques quotidiennes s'accélère, mais la question du cadre éthique et réglementaire reste centrale.",
+      "items": [
+        {
+          "title": "Santé mentale : « l'IA peut devenir un sas d'enfermement »",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-l-ia-peut-devenir-un-sas-d-enfermement",
+          "source": "info.gouv.fr",
+          "summary": "La commission gouvernementale française sur l'IA et la santé mentale, co-présidée par le Pr Amine Benyamina, publie ses premières orientations avant ses recommandations attendues en septembre 2026. Le rapport met en garde contre les risques de dépendance affective et cognitive aux outils d'IA conversationnelle — qualifiée de potentiel « sas d'enfermement » susceptible d'altérer le rapport à la réalité, d'isoler l'utilisateur et de perturber sa régulation émotionnelle. La commission appelle à réguler l'anthropomorphisation de l'IA, à renforcer la protection des mineurs et à engager la responsabilité des acteurs technologiques."
+        },
+        {
+          "title": "Systematic review and meta-analysis of chatbots in the management of depressive and anxiety symptoms",
+          "url": "https://www.nature.com/articles/s41746-026-02566-w",
+          "source": "npj Digital Medicine (Nature)",
+          "summary": "Cette méta-analyse publiée dans npj Digital Medicine synthétise les données de multiples essais randomisés contrôlés et conclut à des réductions statistiquement significatives des symptômes dépressifs (g = 0,31) et anxieux (g = 0,28) grâce aux chatbots, comparés aux conditions contrôles. L'effet mesuré reste modeste, ce qui plaide pour concevoir ces outils comme compléments à la prise en charge humaine plutôt que comme substituts. Les auteurs soulignent néanmoins la nécessité urgente de standardiser les critères de qualité et de sécurité pour les déploiements cliniques."
+        },
+        {
+          "title": "The Complexities of Governing Mental Health AI",
+          "url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai",
+          "source": "Stanford HAI",
+          "summary": "Dans la foulée du symposium AI4MH (juin 2026), Stanford HAI publie une analyse des défis de gouvernance posés par l'IA en santé mentale, pointant l'absence de standards d'évaluation communs et la fragilité des cadres réglementaires face à l'adoption massive. Le rapport alerte en particulier sur les utilisateurs vulnérables en détresse psychologique, qui développent des liens émotionnels plus profonds avec les IA et sont exposés à des « dark patterns relationnels » exploitant leur fragilité. Une feuille de route politique est en cours d'élaboration pour guider régulateurs et acteurs de l'industrie vers des pratiques plus sûres."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque un tournant opérationnel majeur : les systèmes de santé les plus avancés ont intégré l'IA au cœur de leurs processus de soins en santé mentale, passant de la phase pilote à l'utilisation clinique quotidienne. L'IA sert désormais à identifier les patients nécessitant une attention urgente, à optimiser les listes d'attente et à automatiser le suivi post-consultation. Ce changement de paradigme soulève des questions sur l'homogénéité de la qualité et la responsabilité clinique en cas d'erreur algorithmique."
+        },
+        {
+          "title": "The future of child and adolescent psychiatry in France (2026–2050): An AI-assisted qualitative action research study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12592303/",
+          "source": "PMC / PubMed",
+          "summary": "Une étude publiée dans PMC présente les résultats d'une recherche-action conduite par la Société Française de Psychiatrie de l'Enfant et de l'Adolescent (SFPEADA), qui a utilisé l'IA pour synthétiser et analyser des entretiens d'experts et des consultations associatives. Projetant les défis de la pédopsychiatrie française à l'horizon 2050, l'étude souligne l'explosion de la demande, les déserts médicaux et l'intégration croissante des outils numériques, tout en maintenant la primauté du lien humain dans le traitement. Elle appelle à une refonte structurelle de l'offre de soins pédopsychiatriques, incluant l'IA comme outil de repérage précoce."
+        },
+        {
+          "title": "The Effectiveness of AI Chatbots in Alleviating Mental Distress Among Adolescents and Young Adults: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/",
+          "source": "PMC / PubMed",
+          "summary": "Une revue systématique et méta-analyse publiée dans PMC évalue l'efficacité et la sécurité des chatbots IA pour atténuer la détresse psychologique chez les adolescents et jeunes adultes. Les résultats indiquent un effet modeste mais significatif sur la réduction des symptômes anxieux et dépressifs, avec une bonne acceptabilité chez les jeunes utilisateurs. Les auteurs identifient cependant des lacunes majeures dans les protocoles de sécurité pour les usagers mineurs, notamment en situation de crise, et appellent à des recommandations spécifiques à cette population."
+        }
+      ]
+    },
+    {
       "date": "2026-08-31",
       "summary": "La veille du 31 août 2026 met en lumière la généralisation rapide de l'IA comme soutien psychologique, documentée par deux grandes enquêtes convergentes : le rapport Mind Health 2026 d'AXA révèle que 63 % des adultes interrogés dans 18 pays ont déjà utilisé l'IA pour des questions de santé mentale, et l'enquête APA établit que 77 % des psychologues ont des patients qui y recourent — souvent sans supervision clinique. La CNIL souligne qu'un tiers des jeunes européens considèrent déjà les chatbots comme un « psy », dont 86 % des jeunes Français. Sur le front réglementaire, le Colorado a instauré le 12 août l'interdiction formelle de l'IA comme thérapeute autonome (HB26-1195), et des règles d'application du Chatbot Safety Act ont été soumises le 11 août. Enfin, une nouvelle alerte émerge en milieu professionnel : l'usage intensif de l'IA serait associé à un syndrome de fatigue cognitive inédit, baptisé « brain fry », qui accroît le risque de burn-out et l'intention de quitter l'entreprise.",
       "items": [
