@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-02",
+      "summary": "La veille du 2 septembre 2026 est dominée par deux dynamiques parallèles : d'un côté, une vague réglementaire sans précédent aux États-Unis — désormais six États ont interdit ou strictement encadré les chatbots thérapeutes autonomes (Colorado, Maine, Rhode Island, Tennessee, Vermont, plus l'Illinois) — et, de l'autre, l'émergence d'offres ciblant spécifiquement les adolescents comme ChatGPT for Teens d'OpenAI, signe que l'industrie intègre sous pression les impératifs de protection des mineurs. En France, des analyses académiques et médiatiques alertent sur l'isolement affectif induit par l'usage des chatbots chez les jeunes, tandis que la santé mentale au travail à l'ère de l'IA reste un sujet de préoccupation croissante. Sur le front de la recherche, une étude dans PMC démontre la faisabilité de la prédiction du risque suicidaire par IA à partir de données cliniques réelles, ouvrant des perspectives prometteuses tout en soulignant les exigences éthiques d'un déploiement encadré.",
+      "items": [
+        {
+          "title": "ChatGPT for Teens : OpenAI lance une version dédiée aux 13-17 ans avec des garde-fous renforcés",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "L'Usine Digitale",
+          "summary": "OpenAI a lancé une version de ChatGPT spécialement conçue pour les adolescents de 13 à 17 ans, intégrant des protections renforcées — mode étude, contrôles parentaux et détection automatique de signaux de crise suicidaire transmis à un modérateur humain. Cette initiative intervient dans un contexte de vives inquiétudes sur l'impact des chatbots sur la santé mentale des jeunes, notamment leur rôle de « confidents » de substitution. Les experts saluent la démarche tout en appelant à une évaluation indépendante de l'efficacité réelle de ces garde-fous."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Colorado, Maine, Rhode Island, Tennessee et Vermont ont adopté en 2026 des lois restreignant ou interdisant les chatbots IA exerçant une fonction thérapeutique autonome, portant à six le nombre d'États américains dotés d'une telle réglementation. Ces textes varient : certains interdisent que des IA se présentent comme thérapeutes, d'autres encadrent l'usage de l'IA par les praticiens licenciés. Cette vague législative reflète l'urgence ressentie par les élus face aux signalements de réponses dangereuses de chatbots en contexte de crise."
+        },
+        {
+          "title": "IA et ados : quand les chatbots remplacent les confidences et menacent la santé mentale",
+          "url": "https://atlantico.fr/article/decryptage/ia-le-recours-massif-aux-bots-moteur-dune-nouvelle-crise-de-la-sante-des-adolescents-pascal-neveu-emmanuel-goffi",
+          "source": "Atlantico",
+          "summary": "Une analyse d'Atlantico cosignée par les psychologues Pascal Neveu et Emmanuel Goffi souligne comment le recours massif des adolescents aux chatbots d'IA — comme confidents ou substituts thérapeutiques — creuse l'isolement affectif et fragilise le développement socio-émotionnel. Les auteurs décrivent un mécanisme de « projection affective » par lequel le jeune projette une relation quasi-thérapeutique sur le bot, au détriment des liens humains. Ils appellent à intégrer la question de l'usage de l'IA dans les programmes de prévention en santé mentale scolaire."
+        },
+        {
+          "title": "Artificial Intelligence in Mental Health: Outcomes and Implications",
+          "url": "https://www.shs-conferences.org/articles/shsconf/abs/2026/09/shsconf_icepcc2026_03010/shsconf_icepcc2026_03010.html",
+          "source": "SHS Web of Conferences (ICEPCC 2026)",
+          "summary": "Une communication présentée à la conférence internationale ICEPCC 2026 (septembre 2026) dresse un bilan des apports et des limites de l'IA en santé mentale, des systèmes de détection précoce basés sur l'analyse du langage aux assistants conversationnels de soutien psychologique. Si les résultats sur l'accessibilité des soins sont prometteurs, les auteurs insistent sur les risques d'équité (biais algorithmiques) et la nécessité d'une supervision clinique humaine pour tout usage en contexte de vulnérabilité."
+        },
+        {
+          "title": "Developing a Suicide Risk Prediction Algorithm Using Electronic Health Record Data in Mental Health Care: Real-World Case Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12803502/",
+          "source": "PMC / PubMed",
+          "summary": "Une étude publiée dans PMC présente un algorithme de prédiction du risque suicidaire entraîné sur des données réelles de dossiers médicaux électroniques, capable d'identifier parmi les patients psychiatriques ceux nécessitant une intervention prioritaire avec une précision supérieure aux évaluations cliniques standard. Les auteurs soulignent les enjeux éthiques de ce type d'outil — risque de faux positifs, déterminisme algorithmique, acceptabilité par les soignants — et plaident pour une intégration prudente, comme aide à la décision et non comme substitut au jugement clinique."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Un rapport analysé par Caducée.net révèle une polarisation croissante des effets de l'IA sur la santé mentale en milieu professionnel : si l'automatisation des tâches répétitives réduit la charge cognitive pour certains travailleurs, elle accroît l'anxiété de reconversion et le syndrome de « brain fry » chez ceux dont les compétences sont directement menacées. France Travail expérimente par ailleurs l'IA pour la détection précoce de fragilités psychosociales, soulevant des questions importantes sur la confidentialité et le risque de stigmatisation."
+        }
+      ]
+    },
+    {
       "date": "2026-09-01",
       "summary": "La rentrée de septembre 2026 est marquée par deux dynamiques convergentes dans le domaine de l'IA et de la santé mentale : d'un côté, plusieurs méta-analyses scientifiques publiées confirment l'efficacité modeste mais réelle des chatbots thérapeutiques pour réduire l'anxiété et la dépression, avec une attention particulière portée aux adolescents (études dans Nature npj Digital Medicine et PMC) ; de l'autre, les instances de régulation — françaises (commission gouvernementale) et internationales (Stanford HAI) — intensifient leur travail pour définir des garde-fous face aux risques de dépendance émotionnelle et aux lacunes de sécurité pour les publics vulnérables. En France, une étude inédite sur l'avenir de la psychiatrie de l'enfant et de l'adolescent (2026-2050), conduite avec l'IA, appelle à une refonte systémique de l'offre de soins pédopsychiatriques. La généralisation de l'IA dans les opérations cliniques quotidiennes s'accélère, mais la question du cadre éthique et réglementaire reste centrale.",
       "items": [
