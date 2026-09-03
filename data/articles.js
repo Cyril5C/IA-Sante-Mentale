@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-03",
+      "summary": "La journée du 3 septembre 2026 est marquée par une tension révélatrice au sein même du champ de l'IA en santé mentale : d'un côté, l'adoption massive des chatbots comme soutien psychologique (63 % des usagers à l'échelle mondiale selon le rapport AXA/Ipsos) et leur intégration accélérée dans les opérations cliniques hospitalières aux États-Unis ; de l'autre, des mises en garde de plus en plus documentées — l'enquête de l'APA révèle que 39 % des psychologues accompagnent des patients ayant eu recours à l'auto-diagnostic par IA, tandis que des analyses médicales françaises pointent les limites réelles des algorithmes de prédiction du risque suicidaire. Sur le plan réglementaire, la mise en application depuis août 2026 du règlement européen IA rend la transparence obligatoire pour les chatbots, mais les dispositifs de protection des mineurs restent insuffisamment déployés. La recherche clinique progresse — Frontiers in Psychiatry publie un nouveau modèle de détection précoce du risque suicidaire — mais les experts restent unanimes sur la nécessité d'un encadrement humain rigoureux.",
+      "items": [
+        {
+          "title": "Les psychologues alertent : leurs patients se tournent vers les chatbots comme thérapeutes",
+          "url": "https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health",
+          "source": "American Psychological Association (APA)",
+          "summary": "Une enquête de l'APA menée auprès de 1 242 psychologues américains révèle que plus des trois quarts d'entre eux ont des patients qui évoquent l'IA en thérapie, et que 39 % ont accompagné des patients ayant eu recours à l'IA pour réaliser un auto-diagnostic. Si ces patients cherchent dans les chatbots un soutien supplémentaire, une relation d'amitié ou même de l'intimité, les professionnels soulignent les risques importants de remplacer un suivi qualifié par des outils non validés cliniquement. L'APA appelle à une meilleure éducation des patients sur les limites des chatbots et à un encadrement renforcé de ces usages."
+        },
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % des personnes utilisent l'IA pour leur santé mentale, mais 28 % admettent des effets négatifs",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport annuel AXA sur la santé mentale, conduit avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle que 63 % des répondants ont recours à l'IA pour des questions de santé mentale — une proportion qui monte à 74 % chez les moins de 35 ans — mais que 28 % reconnaissent que cela les a conduits à des comportements néfastes. Le rapport décrit une « épidémie silencieuse » combinant isolement croissant, stress professionnel et recours controversé à l'IA comme soutien psychologique de substitution. La satisfaction envers les conseils fournis reste limitée (55 %), et des phénomènes de dépendance sont déjà signalés chez un tiers des utilisateurs."
+        },
+        {
+          "title": "L'IA en santé mentale passe du stade pilote aux opérations cliniques courantes en 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "2026 marque un tournant pour l'IA en psychiatrie : plusieurs grands systèmes de santé américains déploient des outils d'IA directement dans leurs workflows cliniques opérationnels, notamment pour identifier les patients prioritaires et optimiser l'allocation des ressources. Le modèle de l'Université Duke, financé par 15 millions de dollars du NIMH, prédit avec 84 % de précision la détérioration de la santé mentale jusqu'à un an à l'avance. Les experts insistent néanmoins sur le fait que l'IA doit rester un outil d'efficacité opérationnelle et non un substitut au jugement clinique."
+        },
+        {
+          "title": "Suicide : les outils d'IA sont insuffisants pour prédire le risque",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/52550-Suicide-outils-d-IA-insuffisants-predire-risque",
+          "source": "Pourquoi Docteur",
+          "summary": "Une analyse parue sur Pourquoi Docteur pointe les limites des algorithmes d'IA pour la prédiction du risque suicidaire : ces outils classent à tort en « faible risque » plus de la moitié des patients qui passeront ensuite à l'acte ou consulteront en urgence pour automutilation. Les auteurs rappellent que ces algorithmes ne font pas mieux que les échelles de dépistage traditionnelles, et soulèvent le risque d'une fausse réassurance induite par la confiance excessive dans les systèmes automatisés. Une invitation à la prudence dans l'adoption clinique de ces outils, malgré leurs performances apparentes."
+        },
+        {
+          "title": "Mineurs, santé mentale et IA : quelle responsabilité face aux chatbots confidentiels ?",
+          "url": "https://mesinfos.fr/ile-de-france/mineurs-sante-mentale-et-ia-quelle-responsabilite-face-aux-chatbots-confidents-244953.html",
+          "source": "Affiches Parisiennes / MesInfos",
+          "summary": "Un article de la presse francilienne revient sur la question de la responsabilité juridique et éthique des éditeurs de chatbots face aux risques pour la santé mentale des mineurs. Depuis août 2026, le règlement européen sur l'IA impose la transparence sur l'identité machine des chatbots, mais des lacunes subsistent — notamment l'absence de déploiement de l'estimation d'âge et l'insuffisance des protocoles de détection des situations de crise. Un chatbot sans supervision clinique ni dispositif d'urgence est désormais considéré comme un produit dangereux aux yeux de la loi."
+        },
+        {
+          "title": "Early warning model for suicide attempt risk in depression using machine learning",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1856898/full",
+          "source": "Frontiers in Psychiatry",
+          "summary": "Une étude publiée en 2026 dans Frontiers in Psychiatry présente un modèle de machine learning entraîné sur des données cliniques réelles pour détecter précocement les patients déprimés à risque de tentative de suicide, affichant des performances supérieures aux échelles de dépistage classiques. Les auteurs soulignent cependant que les résultats sont limités à un seul centre hospitalier et plaident pour une validation multicentrique avant tout déploiement clinique, rappelant la fragilité des modèles entraînés sur des populations spécifiques."
+        }
+      ]
+    },
+    {
       "date": "2026-09-02",
       "summary": "La veille du 2 septembre 2026 est dominée par deux dynamiques parallèles : d'un côté, une vague réglementaire sans précédent aux États-Unis — désormais six États ont interdit ou strictement encadré les chatbots thérapeutes autonomes (Colorado, Maine, Rhode Island, Tennessee, Vermont, plus l'Illinois) — et, de l'autre, l'émergence d'offres ciblant spécifiquement les adolescents comme ChatGPT for Teens d'OpenAI, signe que l'industrie intègre sous pression les impératifs de protection des mineurs. En France, des analyses académiques et médiatiques alertent sur l'isolement affectif induit par l'usage des chatbots chez les jeunes, tandis que la santé mentale au travail à l'ère de l'IA reste un sujet de préoccupation croissante. Sur le front de la recherche, une étude dans PMC démontre la faisabilité de la prédiction du risque suicidaire par IA à partir de données cliniques réelles, ouvrant des perspectives prometteuses tout en soulignant les exigences éthiques d'un déploiement encadré.",
       "items": [
