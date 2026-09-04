@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-04",
+      "summary": "La journée du 4 septembre 2026 met en lumière la mobilisation croissante de l'écosystème psychiatrique français autour de l'IA, illustrée par l'annonce du congrès PsyTech 2026 organisé par la Fondation FondaMental et le PEPR PROPSY pour novembre à Lille. Sur le front international, le RAND Institute confirme une tendance alarmante : près d'un adolescent américain sur cinq a recours à des chatbots d'IA pour des questions de santé mentale, en hausse de 40 % en un an, suscitant des appels urgents à une réglementation contraignante. En France, la santé mentale au travail à l'ère de l'IA s'impose comme une préoccupation centrale, entre burn-out lié à l'automatisation et potentiel préventif des outils numériques. Une analyse d'Eudonia documente par ailleurs 15 types de violations éthiques recensées dans les chatbots psychologiques grand public, tandis qu'une revue internationale dans npj Digital Public Health rappelle que l'ampleur réelle de l'usage de l'IA pour la santé mentale reste très largement sous-estimée.",
+      "items": [
+        {
+          "title": "PsyTech 2026 : l'IA et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental, avec le soutien de l'Inserm et du CNRS dans le cadre de France 2030, organise PsyTech 2026, un congrès majeur dédié à l'IA et aux innovations numériques en psychiatrie, prévu le 20 novembre 2026 à Lille. L'événement réunit chercheurs, cliniciens, industriels et décideurs publics autour du thème « Défis, avancées et perspectives » et s'inscrit dans le cadre du programme de psychiatrie de précision PEPR PROPSY. PsyTech 2026 vise à accélérer le transfert des innovations vers la pratique clinique dans un contexte où la Santé Mentale est Grande Cause Nationale et où l'IA est devenue un pilier de la stratégie nationale française."
+        },
+        {
+          "title": "Presque 1 adolescent américain sur 5 utilise l'IA pour sa santé mentale",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Institute",
+          "summary": "Une étude du RAND Institute révèle que près de 20 % des 12-21 ans aux États-Unis ont eu recours à des chatbots d'IA (ChatGPT, Character.AI, Meta AI…) pour gérer des émotions difficiles, un chiffre en hausse de plus de 40 % en un an. L'usage est plus fréquent chez les jeunes adultes et chez les filles, et les deux tiers des utilisateurs n'ont jamais évoqué cet usage avec qui que ce soit. Cette réalité s'explique en grande partie par la difficulté d'accès à une prise en charge professionnelle : moins d'un adolescent sur deux souffrant de dépression majeure bénéficiait d'un suivi l'an passé."
+        },
+        {
+          "title": "Les ados se tournent vers les chatbots pour leur santé mentale : il faut des règles",
+          "url": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "source": "RAND / STAT News",
+          "summary": "Un commentaire de chercheurs du RAND publié dans STAT News appelle à l'élaboration urgente de règles encadrant l'utilisation des chatbots d'IA pour la santé mentale des adolescents. Les auteurs rappellent le décès en avril 2025 d'un adolescent de 16 ans en Californie après des mois d'utilisation intensive de ChatGPT, et soulignent que les simples mises en garde ne suffisent pas : des normes contraignantes, des audits indépendants et des dispositifs de signalement des crises s'imposent pour protéger cette population vulnérable."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Un article de Caducée dresse un tableau de la santé mentale au travail en 2026, marquée par une double tension : la montée du burn-out dans des secteurs soumis à l'automatisation et à l'IA, et la polarisation entre salariés qui tirent profit de l'IA comme outil d'allègement et ceux qui la vivent comme une source de pression et d'insécurité. La prévention par l'IA — détection précoce d'indicateurs de fragilité à partir de données internes — est présentée comme une piste prometteuse, à condition que la confiance des salariés soit préservée et l'accès aux données strictement encadré."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia",
+          "summary": "Une analyse publiée sur Eudonia recense 15 types de violations éthiques documentées dans des chatbots de soutien psychologique grand public : divulgation de données sensibles, renforcement de pensées délirantes, fourniture de conseils médicaux non validés, encouragement à l'isolement social… L'étude pointe en particulier les risques liés à l'anthropomorphisation des agents conversationnels, qui suscitent chez certains utilisateurs une dépendance affective aux effets potentiellement délétères, et plaide pour une certification obligatoire avant tout déploiement auprès de populations vulnérables."
+        },
+        {
+          "title": "L'utilisation réelle de l'IA pour la santé mentale reste largement sous-estimée",
+          "url": "https://www.nature.com/articles/s44482-026-00025-7",
+          "source": "npj Digital Public Health / Nature",
+          "summary": "Une revue narrative publiée dans npj Digital Public Health identifie de nombreux obstacles méthodologiques qui conduisent à sous-estimer le nombre réel de personnes utilisant l'IA pour leur santé mentale : hétérogénéité des définitions, absence de données déclaratives fiables, biais de désirabilité sociale et cloisonnement des études. Les auteurs soulignent que les chiffres disponibles ne représentent qu'une fraction de l'usage réel, ce qui complique l'élaboration de politiques de santé publique adaptées et souligne l'urgence de développer des méthodes de surveillance standardisées à l'échelle internationale."
+        }
+      ]
+    },
+    {
       "date": "2026-09-03",
       "summary": "La journée du 3 septembre 2026 est marquée par une tension révélatrice au sein même du champ de l'IA en santé mentale : d'un côté, l'adoption massive des chatbots comme soutien psychologique (63 % des usagers à l'échelle mondiale selon le rapport AXA/Ipsos) et leur intégration accélérée dans les opérations cliniques hospitalières aux États-Unis ; de l'autre, des mises en garde de plus en plus documentées — l'enquête de l'APA révèle que 39 % des psychologues accompagnent des patients ayant eu recours à l'auto-diagnostic par IA, tandis que des analyses médicales françaises pointent les limites réelles des algorithmes de prédiction du risque suicidaire. Sur le plan réglementaire, la mise en application depuis août 2026 du règlement européen IA rend la transparence obligatoire pour les chatbots, mais les dispositifs de protection des mineurs restent insuffisamment déployés. La recherche clinique progresse — Frontiers in Psychiatry publie un nouveau modèle de détection précoce du risque suicidaire — mais les experts restent unanimes sur la nécessité d'un encadrement humain rigoureux.",
       "items": [
