@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-05",
+      "summary": "La journée du 5 septembre 2026 est marquée par une double dynamique contradictoire : d'un côté, l'intégration accélérée de l'IA dans les workflows opérationnels des systèmes de santé mentale, avec un basculement de la phase pilote vers un usage institutionnel généralisé aux États-Unis ; de l'autre, une vague réglementaire sans précédent — cinq États américains ont restreint ou interdit les chatbots thérapeutiques entre juin et août 2026, portant à sept le nombre total d'États dotés d'une législation contraignante. L'APA Monitor consacre son numéro de septembre au phénomène émergent de « psychose induite par l'IA », tandis que la National Academy of Medicine appelle à un leadership fédéral pour harmoniser des standards de sécurité face à une fragmentation réglementaire croissante. En France, les experts s'accordent sur un positionnement clair : l'IA est utile pour préparer une consultation ou assurer un suivi d'humeur, mais dangereuse dès lors qu'elle se substitue au diagnostic ou à la gestion de crise.",
+      "items": [
+        {
+          "title": "Understanding 'AI Psychosis'",
+          "url": "https://www.apa.org/monitor/2026/09/ai-psychosis",
+          "source": "APA Monitor on Psychology",
+          "summary": "Le numéro de septembre 2026 de l'APA Monitor on Psychology analyse le phénomène émergent de « psychose induite par l'IA » : des patients développent une fixation obsessionnelle sur des chatbots, les percevant comme des entités divines ou des partenaires romantiques. Des psychiatres comme Keith Sakata (UCSF) documentent des hospitalisations et des trajectoires dramatiques liées à l'incapacité des chatbots à contester les pensées déformées ou à ancrer leurs utilisateurs dans la réalité. Cette nouvelle pathologie interpelle directement la formation des cliniciens et la conception des interfaces conversationnelles."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq nouveaux États américains (Colorado, Maine, Vermont, Tennessee, Rhode Island) ont adopté en 2026 des lois restreignant ou interdisant les chatbots d'IA proposant des services thérapeutiques, portant à sept le nombre total d'États avec une législation contraignante. Ces mesures, entrées en vigueur entre juin et août 2026, visent à protéger les patients vulnérables après une série d'incidents graves, dont des suicides liés à l'usage intensif de chatbots par des adolescents. Cette vague législative révèle une fracture croissante entre la vitesse de déploiement des outils d'IA en santé mentale et la capacité de régulation des autorités publiques."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "2026 marque le point de bascule où les systèmes de santé comportementale américains font passer l'IA des projets pilotes aux workflows opérationnels : analyse des historiques de rendez-vous, taux d'absentéisme et données d'utilisation pour identifier les patients à risque de crise. Les experts insistent sur le fait que l'IA doit se concentrer sur l'efficacité organisationnelle plutôt que sur la décision clinique — optimisant planification et allocation des ressources sans chercher à remplacer le jugement professionnel. Cette intégration opérationnelle représente une évolution majeure vers un usage systématique et institutionnel de l'IA en santé mentale."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine publie une analyse de l'état des preuves sur les chatbots de santé mentale : des effets modérés mais documentés sur la réduction des symptômes dépressifs à court terme, mais des lacunes critiques lors des situations de crise et un risque de renforcement des pensées distordues. Le rapport préconise un cadre de certification rigoureux, des essais cliniques randomisés à grande échelle, et une intégration systématique des chatbots dans des parcours de soins supervisés. La NAM appelle à un leadership fédéral pour harmoniser les standards de sécurité face à la fragmentation réglementaire croissante entre États."
+        },
+        {
+          "title": "IA et santé mentale en 2026 : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie Positive",
+          "summary": "Une analyse francophone fait le point sur les usages appropriés et inappropriés de l'IA en santé mentale en 2026 : l'IA excelle comme outil d'aide à la préparation d'une consultation, de suivi d'humeur ou de psychoéducation, mais les experts déconseillent fortement son usage pour le diagnostic autonome ou la gestion de crise. L'article synthétise la position de la communauté scientifique selon laquelle l'IA doit s'inscrire dans un accompagnement encadré, jamais en substitution du professionnel de santé. Ce cadrage pragmatique rejoint les recommandations récentes de la Haute Autorité de Santé sur les outils numériques en santé mentale."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un rapport de l'APA révèle qu'un tiers des psychologues américains ont désormais des patients qui utilisent activement l'IA comme soutien complémentaire à leur thérapie — en apportant des transcriptions de conversations ou des analyses d'humeur en séance. Plus de 60 % des personnes sondées dans le monde déclarent avoir recours à l'IA pour des questions de santé mentale, et 42 % suivent presque systématiquement les conseils reçus. Ce phénomène ouvre un nouveau champ clinique : comment les thérapeutes intègrent-ils, ou contrecarrent-ils, les interventions parallèles des chatbots dans la relation thérapeutique ?"
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "summary": "La journée du 4 septembre 2026 met en lumière la mobilisation croissante de l'écosystème psychiatrique français autour de l'IA, illustrée par l'annonce du congrès PsyTech 2026 organisé par la Fondation FondaMental et le PEPR PROPSY pour novembre à Lille. Sur le front international, le RAND Institute confirme une tendance alarmante : près d'un adolescent américain sur cinq a recours à des chatbots d'IA pour des questions de santé mentale, en hausse de 40 % en un an, suscitant des appels urgents à une réglementation contraignante. En France, la santé mentale au travail à l'ère de l'IA s'impose comme une préoccupation centrale, entre burn-out lié à l'automatisation et potentiel préventif des outils numériques. Une analyse d'Eudonia documente par ailleurs 15 types de violations éthiques recensées dans les chatbots psychologiques grand public, tandis qu'une revue internationale dans npj Digital Public Health rappelle que l'ampleur réelle de l'usage de l'IA pour la santé mentale reste très largement sous-estimée.",
       "items": [
