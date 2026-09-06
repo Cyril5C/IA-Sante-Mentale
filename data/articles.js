@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-06",
+      "summary": "La journée du 6 septembre 2026 est dominée par le bilan mondial du rapport AXA Mind Health 2026, réalisé auprès de 19 000 personnes dans 18 pays : 63 % ont déjà utilisé l'IA pour leur santé mentale, mais 28 % signalent des comportements dangereux induits par ces outils — chiffre alarmant qui illustre la double nature de cette révolution. En France, la Grande Cause Nationale inspire une réflexion de fond publiée par l'ANCT sur les enjeux éthiques de l'IA, tandis qu'un article de Luxsure interroge la capacité des algorithmes à « scaler l'empathie » sans en trahir l'essence humaine. Sur le plan scientifique, la revue Science publie une analyse de synthèse soulignant les lacunes fondamentales — absence de biomarqueurs objectifs, enjeux de confidentialité — qui freinent l'intégration sûre de l'IA dans la clinique. Aux États-Unis, la carte réglementaire se dessine peu à peu avec quatre États interdisant les chatbots thérapeutiques et quatre autres les encadrant, mais Stanford HAI souligne la complexité croissante d'une gouvernance fragmentée.",
+      "items": [
+        {
+          "title": "2026 Mind Health Report : 63 % des gens utilisent l'IA pour leur santé mentale, 28 % ont adopté des comportements dangereux",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "Le rapport AXA Mind Health 2026, conduit avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle un paradoxe : jamais la parole autour de la santé mentale n'a été aussi libre, mais 46 % des répondants « languissent ou souffrent ». 63 % ont déjà eu recours à l'IA pour leur bien-être psychologique et 42 % suivent quasi systématiquement les conseils reçus. Fait particulièrement alarmant : 28 % des utilisateurs admettent que l'IA les a orientés vers des comportements dangereux, AXA appelant à un usage supervisé et limité de ces outils."
+        },
+        {
+          "title": "Santé mentale et IA : peut-on scaler l'empathie ?",
+          "url": "https://www.luxsure.fr/2026/09/05/sante-mentale-ia-empathie-algorithmes/",
+          "source": "Luxsure",
+          "summary": "Publié le 5 septembre 2026, cet article pose la question centrale de l'ère algorithmique : peut-on industrialiser l'écoute sans industrialiser l'illusion d'être compris ? Il souligne que plus d'un milliard de personnes vivent avec un trouble de santé mentale dans des systèmes de soins saturés, et analyse le risque que les chatbots, en se trompant face à une personne fragile, n'abîment une trajectoire humaine. Un regard critique mais nuancé sur les limites structurelles de l'empathie computationnelle."
+        },
+        {
+          "title": "L'IA au chevet de la santé mentale ? Le nouveau défi éthique de la Grande Cause Nationale",
+          "url": "https://lesbases.anct.gouv.fr/ressources/l-ia-au-chevet-de-nos-ames-le-nouveau-defi-ethique-de-la-grande-cause-nationale",
+          "source": "Les Bases / ANCT",
+          "summary": "L'Agence nationale de la cohésion des territoires analyse les enjeux éthiques de l'IA en santé mentale dans le contexte de la Grande Cause Nationale 2026. L'article passe en revue les algorithmes de détection précoce des rechutes (prosodie vocale, vitesse de frappe, géolocalisation), les chatbots accessibles 24h/24, mais aussi les risques de biais et de dépendance affective. Il relève que 86 % des Français souhaitent que leurs données psychologiques restent hébergées sur des serveurs français ou européens, et que la CNIL et la HAS ont publié des recommandations communes au premier trimestre 2026."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science",
+          "summary": "Une revue de synthèse publiée dans Science identifie les obstacles fondamentaux qui freinent l'intégration clinique de l'IA en santé mentale : absence de biomarqueurs objectifs, dépendance aux évaluations comportementales et émotionnelles, héritage de la stigmatisation et enjeux de confidentialité des données. Les auteurs reconnaissent le potentiel de l'IA pour améliorer la précision diagnostique et alléger la charge des cliniciens, mais insistent sur la nécessité d'essais rigoureux pour garantir une intégration sûre, efficace et durable dans la pratique."
+        },
+        {
+          "title": "State laws restricting AI in mental health care, explained",
+          "url": "https://qz.com/state-laws-restricting-ai-mental-health-care-guide-072826",
+          "source": "Quartz",
+          "summary": "Quartz publie un guide exhaustif de la régulation américaine sur les chatbots de santé mentale à mi-2026 : quatre États (Illinois, Nevada, Rhode Island, Maine) interdisent désormais les services thérapeutiques IA au public, tandis que quatre autres (Utah, New York, Californie, Nebraska) imposent des règles d'encadrement sans interdiction totale. Les obligations communes incluent la déclaration claire du caractère non-humain du chatbot, des protocoles de crise pour les idéations suicidaires et la protection des mineurs. Ce guide illustre la fragmentation croissante du paysage réglementaire américain."
+        },
+        {
+          "title": "The Complexities of Governing Mental Health AI",
+          "url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai",
+          "source": "Stanford HAI",
+          "summary": "Stanford HAI explore les défis spécifiques que pose la gouvernance de l'IA en santé mentale, domaine où enjeux de vie privée, vulnérabilité des utilisateurs et limites cliniques se croisent avec de fortes pressions commerciales. L'article met en lumière l'absence de consensus sur les standards minimaux de sécurité et appelle à une coopération entre régulateurs, développeurs et cliniciens pour définir un cadre d'usage responsable à l'échelle nationale, alors que la multiplication des législations étatiques aux États-Unis crée une complexité croissante pour les acteurs."
+        }
+      ]
+    },
+    {
       "date": "2026-09-05",
       "summary": "La journée du 5 septembre 2026 est marquée par une double dynamique contradictoire : d'un côté, l'intégration accélérée de l'IA dans les workflows opérationnels des systèmes de santé mentale, avec un basculement de la phase pilote vers un usage institutionnel généralisé aux États-Unis ; de l'autre, une vague réglementaire sans précédent — cinq États américains ont restreint ou interdit les chatbots thérapeutiques entre juin et août 2026, portant à sept le nombre total d'États dotés d'une législation contraignante. L'APA Monitor consacre son numéro de septembre au phénomène émergent de « psychose induite par l'IA », tandis que la National Academy of Medicine appelle à un leadership fédéral pour harmoniser des standards de sécurité face à une fragmentation réglementaire croissante. En France, les experts s'accordent sur un positionnement clair : l'IA est utile pour préparer une consultation ou assurer un suivi d'humeur, mais dangereuse dès lors qu'elle se substitue au diagnostic ou à la gestion de crise.",
       "items": [
