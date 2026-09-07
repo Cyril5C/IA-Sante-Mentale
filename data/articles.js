@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-07",
+      "summary": "La journée du 7 septembre 2026 est marquée par une convergence entre les débats cliniques, scientifiques et institutionnels autour du rôle de l'IA en santé mentale. En France, trois psychiatres interrogent publiquement ce qui rend leur profession irremplaçable face aux algorithmes, tandis que le gouvernement rappelle ses engagements 2026 autour de la santé mentale comme Grande Cause Nationale, mêlant numérique et renforcement humain. À l'international, l'enquête APA 2026 révèle que 77 % des psychologues ont des patients qui utilisent déjà l'IA, parfois comme substitut professionnel, et une étude JAMA Pediatrics alerte sur le recours silencieux et non divulgué des adolescents aux chatbots. Sur le plan scientifique, une méta-analyse systématique confirme l'utilité des chatbots comme outils d'appoint, mais souligne l'absence de données à long terme et leur infériorité face aux thérapeutes humains pour les cas modérés à sévères. La France se prépare également à PsyTech 2026, événement majeur qui réunira à Lille en novembre l'ensemble de l'écosystème psychiatrie-numérique.",
+      "items": [
+        {
+          "title": "Les promesses et les dangers de l'IA en psychiatrie",
+          "url": "https://environnementsantepolitique.fr/2026/09/06/les-promesses-et-les-dangers-de-lia-en-psychiatrie/",
+          "source": "Santé-Environnement-Politique",
+          "summary": "Trois psychiatres passent en revue les promesses et les limites de l'IA dans leur spécialité, en se demandant ce qui rend le psychiatre irremplaçable. Ils reconnaissent des applications utiles — aide au diagnostic, détection précoce, allègement administratif — mais insistent sur le risque d'une délégation de la décision clinique à des systèmes incapables de saisir le contexte de vie du patient ni d'assumer la responsabilité d'un acte de soin. Un état des lieux lucide et nuancé au cœur du débat professionnel français."
+        },
+        {
+          "title": "Santé mentale : formation, soins, numérique… ce qui change dès 2026",
+          "url": "https://www.info.gouv.fr/actualite/sante-mentale-formation-soins-numerique-ce-qui-change-des-2026",
+          "source": "info.gouv.fr",
+          "summary": "Le gouvernement français détaille ses mesures 2026 pour la santé mentale, Grande Cause Nationale : renforcement de la formation des soignants, cartographie des pratiques restrictives, déploiement d'espaces d'apaisement dans les unités de soins et intégration du numérique dans le parcours de soin. La dimension IA y est abordée dans un cadre de complémentarité avec les professionnels, au service de l'accessibilité et de la continuité des soins, sans remplacer le suivi humain."
+        },
+        {
+          "title": "PsyTech 2026 : l'IA et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, un événement d'envergure nationale qui réunira le 20 novembre à Lille chercheurs, cliniciens, industriels et décideurs publics autour de l'IA et des innovations numériques au service de la psychiatrie. Organisé dans le cadre du programme France 2030 (PEPR PROPSY, conduit par l'Inserm et le CNRS) et placé sous le haut patronage du Président de la République, cet événement vise à bâtir un écosystème d'innovation en psychiatrie et à accélérer le déploiement de solutions numériques fiables."
+        },
+        {
+          "title": "Patients are bringing AI to therapy — APA 2026 Chatbots and Mental Health Survey",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "APA (American Psychological Association)",
+          "summary": "L'enquête 2026 de l'APA révèle que 77 % des psychologues américains ont déjà discuté avec des patients de leur usage de l'IA, et qu'un tiers signalent des patients qui traitent le chatbot comme un professionnel de santé mentale à part entière. Fait marquant : 94 % des psychologues estiment que les chatbots ne peuvent pas traiter les troubles mentaux avec le niveau de nuance requis, et la grande majorité expriment des préoccupations liées à la sécurité, à la confidentialité et au risque de dépendance ou de renforcement de pensées déformées."
+        },
+        {
+          "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+          "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2849307",
+          "source": "JAMA Pediatrics",
+          "summary": "Une étude publiée dans JAMA Pediatrics révèle qu'un cinquième des adolescents et jeunes adultes américains (12-21 ans) ont recours aux chatbots IA pour des conseils de santé mentale. Fait alarmant : 63,3 % d'entre eux n'ont jamais divulgué cette utilisation à quiconque — ni parents, ni professionnels de santé. Les femmes et les 18-21 ans sont surreprésentés, soulignant un phénomène de recours silencieux et autonome qui échappe largement aux radars cliniques."
+        },
+        {
+          "title": "Generative AI Mental Health Chatbots as Therapeutic Tools: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12707440/",
+          "source": "PMC / revue scientifique",
+          "summary": "Une méta-analyse systématique portant sur les chatbots d'IA générative en santé mentale confirme leur rôle comme outils complémentaires avec de petits à modérés effets positifs sur les symptômes dépressifs. Elle souligne toutefois des limites majeures : la majorité des études ne couvrent que 2 à 8 semaines, les données à long terme sont quasi absentes, et les chatbots restent significativement moins efficaces que les thérapeutes humains pour les troubles anxieux ou dépressifs d'intensité modérée à sévère. Les auteurs appellent à des essais randomisés robustes et à une réglementation fondée sur les preuves."
+        }
+      ]
+    },
+    {
       "date": "2026-09-06",
       "summary": "La journée du 6 septembre 2026 est dominée par le bilan mondial du rapport AXA Mind Health 2026, réalisé auprès de 19 000 personnes dans 18 pays : 63 % ont déjà utilisé l'IA pour leur santé mentale, mais 28 % signalent des comportements dangereux induits par ces outils — chiffre alarmant qui illustre la double nature de cette révolution. En France, la Grande Cause Nationale inspire une réflexion de fond publiée par l'ANCT sur les enjeux éthiques de l'IA, tandis qu'un article de Luxsure interroge la capacité des algorithmes à « scaler l'empathie » sans en trahir l'essence humaine. Sur le plan scientifique, la revue Science publie une analyse de synthèse soulignant les lacunes fondamentales — absence de biomarqueurs objectifs, enjeux de confidentialité — qui freinent l'intégration sûre de l'IA dans la clinique. Aux États-Unis, la carte réglementaire se dessine peu à peu avec quatre États interdisant les chatbots thérapeutiques et quatre autres les encadrant, mais Stanford HAI souligne la complexité croissante d'une gouvernance fragmentée.",
       "items": [
