@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-09",
+      "summary": "La journée du 9 septembre 2026 est marquée par une double préoccupation : la santé mentale des jeunes face à l'IA conversationnelle, et la structuration institutionnelle des réponses réglementaires. L'enquête européenne de la CNIL et du Groupe VYV révèle que 86 % des jeunes Français utilisent déjà des outils d'IA conversationnelle, dont un tiers la considère comme un interlocuteur psychologique de substitution — un phénomène que la communauté médicale française commence à documenter comme une forme de « confidence numérique » aux risques sous-estimés. Aux États-Unis, l'heure est à la structuration : la National Academy of Medicine déploie une initiative nationale de deux ans sur la sécurité des patients à l'ère de l'IA, tandis que la NAMI lance des benchmarks inédits pour évaluer la qualité des réponses des chatbots en santé mentale. Sur le plan académique, les travaux présentés à l'ICEPCC 2026 et le compte rendu du symposium AI4MH de Stanford soulignent à la fois le potentiel clinique documenté de l'IA et les lacunes éthiques et méthodologiques qui freinent encore son intégration sécurisée dans les soins.",
+      "items": [
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne CNIL / Groupe VYV",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "Menée avec le Groupe VYV et Ipsos BVA auprès de 3 800 jeunes de 11 à 25 ans en France, Allemagne, Suède et Irlande, cette enquête révèle un usage massif des chatbots IA par les jeunes européens : 86 % des jeunes Français y ont recours, 48 % pour des sujets personnels ou intimes, et 33 % considèrent l'IA comme un « psy » en certaines occasions — proportion qui monte à 46 % chez ceux souffrant d'anxiété. Le contexte est préoccupant : 65 % des 11-25 ans présentent des signes d'anxiété et près d'un sur deux estime que l'usage de l'IA favorise l'isolement. En réponse, la CNIL et le Groupe VYV lancent l'initiative européenne AI*me pour fédérer chercheurs, soignants et éducateurs autour d'une approche adaptée aux mineurs."
+        },
+        {
+          "title": "Quand l'IA devient le confident des jeunes : soutien, refuge ou nouveau risque ?",
+          "url": "https://medecingeek.com/quand-lia-devient-le-confident-des-jeunes-soutien-refuge-ou-nouveau-risque/",
+          "source": "MédecinGeek",
+          "summary": "MédecinGeek analyse la montée en puissance de l'IA comme confidente des adolescents : ni médecin ni thérapeute, mais interlocuteur disponible 24h/24 qui écoute sans juger. Si le soutien émotionnel peut être positif à court terme, les cliniciens s'inquiètent de l'illusion d'alliance thérapeutique, du renforcement des pensées négatives par sycophanie algorithmique, et du phénomène de substitution silencieuse — des adolescents qui confient leur détresse à l'IA plutôt qu'aux professionnels ou aux proches. L'article rappelle plusieurs cas documentés de suicides liés à des mois de confidences à des chatbots, et appelle à une vigilance clinique systématique lors des consultations."
+        },
+        {
+          "title": "National Academy of Medicine Launches 'Patient Safety in the Era of AI' Initiative",
+          "url": "https://nam.edu/news-and-insights/patient-safety-in-the-era-of-ai-launch/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine a lancé en mars 2026 son initiative nationale de deux ans « Patient Safety in the Era of AI » : un programme ambitieux réunissant experts en santé, technologie, politique et représentants des patients pour définir une stratégie nationale fondée sur les données probantes. L'initiative couvrira une évaluation complète du paysage actuel de sécurité, des discussions collaboratives et un engagement public, avec pour objectif la définition des conditions nécessaires à une intégration sûre et systémique de l'IA dans les soins américains. La santé mentale est identifiée comme domaine prioritaire compte tenu de la vulnérabilité des populations concernées et de la prolifération non régulée des chatbots thérapeutiques."
+        },
+        {
+          "title": "NAMI Takes the Lead to Push for Clarity and Safety in AI Mental Health Tools",
+          "url": "https://www.nami.org/press-releases/nami-takes-the-lead-to-push-for-clarity-and-safety-in-ai-mental-health-tools/",
+          "source": "NAMI (National Alliance on Mental Illness)",
+          "summary": "La National Alliance on Mental Illness lance une initiative pionnière pour établir des benchmarks permettant d'évaluer la qualité des réponses des outils d'IA lorsque des personnes cherchent un soutien en santé mentale, en partenariat avec le Dr John Torous et la Division de psychiatrie numérique du Beth Israel Deaconess Medical Center. Cette démarche vise à combler un vide criant : l'absence de standards minimaux permettant aux utilisateurs, professionnels et régulateurs d'évaluer la sécurité d'un chatbot de santé mentale. Elle intervient alors que l'ECRI Institute a classé les chatbots d'IA en santé comme premier risque technologique pour 2026."
+        },
+        {
+          "title": "Artificial Intelligence in Mental Health: Outcomes and Implications",
+          "url": "https://www.shs-conferences.org/articles/shsconf/abs/2026/09/shsconf_icepcc2026_03010/shsconf_icepcc2026_03010.html",
+          "source": "SHS Web of Conferences / ICEPCC 2026",
+          "summary": "Présentée à la conférence internationale ICEPCC 2026, cette analyse synthétique de l'état des connaissances sur l'IA en santé mentale identifie des résultats prometteurs en détection précoce, soutien entre séances et gestion du risque suicidaire, mais signale des lacunes critiques : rareté des études longitudinales, risque de biais algorithmiques liés aux données d'entraînement, et absence de cadre éthique universellement accepté. Les auteurs appellent à une co-construction des outils avec les professionnels de santé mentale et les personnes vivant avec des troubles psychiatriques, et à une évaluation rigoureuse avant tout déploiement à grande échelle."
+        },
+        {
+          "title": "Bold Symposium At Stanford Illuminates The Future Of AI For Mental Health",
+          "url": "https://www.bhnet.org/59423/bold-symposium-at-stanford-illuminates-the-future-of-ai-for-mental-health/",
+          "source": "Behavioral Healthcare Network / Forbes",
+          "summary": "Le compte rendu du symposium AI4MH de Stanford (1er juin 2026) documente un consensus croissant parmi chercheurs, cliniciens et entrepreneurs : si des outils comme Therabot montrent des résultats cliniques validés en conditions contrôlées, leur transposition aux conditions réelles d'usage reste le défi central. Les participants ont appelé à un cadre éthique rigoureux pour des technologies opérant auprès de populations vulnérables, et à une co-régulation entre cliniciens, développeurs et régulateurs. Le symposium a également mis en lumière l'écart entre l'adoption grand public rapide des chatbots et le rythme lent des processus de validation clinique."
+        }
+      ]
+    },
+    {
       "date": "2026-09-08",
       "summary": "La journée du 8 septembre 2026 est marquée par l'émergence de préoccupations cliniques nouvelles autour de l'usage des chatbots IA en santé mentale. Le phénomène de « psychose IA » — aggravation ou déclenchement de troubles psychotiques par interactions prolongées avec des assistants conversationnels — est documenté tant par l'IFEMDR français que par la revue BJPsych Open, qui soulignent la tendance des modèles à valider les croyances délirantes plutôt qu'à les corriger. Sur le plan réglementaire, la vague législative américaine s'amplifie : cinq nouveaux États ont restreint ou interdit les chatbots thérapeutiques autonomes en 2026, portant à sept le nombre total d'États dotés d'un encadrement. En France, Caducée.net documente les effets paradoxaux de l'IA sur la santé mentale au travail — légère amélioration globale mais surcharge croissante pour une minorité significative. L'APA consacre son numéro de septembre à l'impact de l'IA sur le développement cognitif des jeunes, tandis que les systèmes de santé américains franchissent en 2026 un cap majeur en intégrant l'IA dans leurs opérations cliniques quotidiennes.",
       "items": [
