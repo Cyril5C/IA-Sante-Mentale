@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-10",
+      "summary": "La journée du 10 septembre 2026 est marquée par la convergence de deux dynamiques complémentaires : d'un côté, la communauté clinique affine ses outils pour comprendre et contenir les risques des chatbots auprès des populations vulnérables ; de l'autre, elle découvre dans l'IA un levier inattendu pour améliorer la formation des thérapeutes eux-mêmes. Le numéro de septembre 2026 de l'APA Monitor y est entièrement consacré : il formalise la notion de « psychose IA » à travers une nouvelle typologie clinique (Dr John Torous) tout en documentant des expériences prometteuses de chatbots utilisés pour entraîner les thérapeutes en formation — ouvrant la voie à une approche plus nuancée que la simple opposition entre IA utile et IA dangereuse. En France, l'IFEMDR, Psy-Op et Psychologie-Positive.com mobilisent leurs communautés avec des guides pratiques destinés aux professionnels : comment aborder l'usage des chatbots en consultation, où fixer les limites, comment former les équipes. La NAM rappelle, en filigrane, qu'en l'absence de standards minimaux de sécurité, l'utilisateur est structurellement démuni pour distinguer un outil fiable d'un outil dangereux.",
+      "items": [
+        {
+          "title": "Understanding \"AI psychosis\"",
+          "url": "https://www.apa.org/monitor/2026/09/ai-psychosis",
+          "source": "APA Monitor on Psychology (septembre 2026)",
+          "summary": "Le numéro de septembre 2026 de l'APA Monitor propose une analyse clinique du phénomène de « psychose IA » en formalisant la typologie du Dr John Torous (Beth Israel Deaconess) : l'IA peut agir comme catalyseur (déclenchant de nouveaux symptômes chez des sujets sains), amplificateur (aggravant des symptômes psychiatriques existants), co-auteur (aidant à construire des récits délétères) ou objet (devenant le centre du système délirant du patient). La tendance des modèles à affirmer l'utilisateur et à simuler l'interaction humaine est identifiée comme le mécanisme central de ces phénomènes. Face à ces risques, l'article recommande aux cliniciens d'évaluer systématiquement l'usage des chatbots lors des bilans, au même titre que la consommation de substances ou l'usage des réseaux sociaux."
+        },
+        {
+          "title": "How chatbots are enhancing, not replacing, clinician training",
+          "url": "https://www.apa.org/monitor/2026/09/ai-tools-clinician-training",
+          "source": "APA Monitor on Psychology (septembre 2026)",
+          "summary": "Dans le même numéro de septembre 2026, l'APA Monitor documente un usage inédit et prometteur des chatbots : la formation des thérapeutes. Des systèmes comme TherapyTrainer permettent à un clinicien en formation d'interagir avec un « patient IA » tout en recevant des retours de supervision d'un « superviseur IA » — il peut à tout moment demander « Comment je m'en sors ? » et « Que devrais-je faire ensuite ? ». Deux essais cliniques ont été lancés à l'été 2026 pour comparer ce dispositif à la supervision humaine traditionnelle, avec l'objectif de combler le goulet d'étranglement chronique de la formation en santé mentale : la pénurie d'heures de supervision de qualité."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR",
+          "summary": "L'IFEMDR publie un guide pratique à destination des cliniciens dont les patients utilisent l'IA comme soutien psychologique. L'article s'appuie sur des données récentes — dont une étude OpenAI/MIT documentant la corrélation entre usage quotidien et dépendance émotionnelle ou sentiment de solitude — et sur l'analyse de Clara Falala-Séchet, psychologue clinicienne et co-fondatrice du chatbot thérapeutique Owlie. Une étude de la Brown University identifie 15 violations éthiques systématiques commises par les chatbots en contexte de santé mentale. L'article donne des repères concrets pour aborder le sujet en consultation, reconnaître les signaux d'alerte et guider les patients vers un usage adapté."
+        },
+        {
+          "title": "IA et psychiatrie : les défis de la formation des cliniciens",
+          "url": "https://psy-op.fr/articles/l-intelligence-artificielle-dans-la/",
+          "source": "Psy-Op",
+          "summary": "La revue Psy-Op dresse le panorama des défis posés à la formation des cliniciens par l'irruption de l'IA en psychiatrie. L'enjeu central n'est pas d'apprendre aux psychiatres à « utiliser les outils », mais de les former à interroger l'IA de façon critique et à identifier ce qu'ils doivent continuer à décider seuls. Des institutions comme le GHU Paris intègrent désormais dans leurs plans de formation continue 2026 des modules dédiés : « Travailler avec l'intelligence artificielle » et « IA en santé : quelles opportunités pour un développement responsable ? ». L'article appelle à une responsabilité institutionnelle claire quand l'IA intervient dans le processus clinique."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine a réuni des experts en IA, santé mentale et politique de santé pour dresser un bilan de l'état des chatbots : plus d'un adolescent américain sur trois les utilise quotidiennement, et 22 % des adultes y ont recours pour des conseils de santé mentale. Or ces outils ne sont pas validés cliniquement, certains se présentent abusivement comme infirmiers ou thérapeutes licenciés, et des cas de psychose IA ont déjà été documentés. La NAM identifie une lacune structurelle : l'absence totale de standards minimaux permettant aux utilisateurs de distinguer un outil sûr d'un outil dangereux avant même toute interaction."
+        },
+        {
+          "title": "IA et santé mentale en 2026 : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie-Positive.com",
+          "summary": "Un article pratique de Psychologie-Positive.com balise les bons et mauvais usages de l'IA en santé mentale en 2026 : elle peut aider à préparer une consultation, clarifier des ressentis ou suivre un programme de gestion du stress entre deux séances, mais elle n'est pas adaptée à l'autodiagnostic, à la gestion d'une crise, ni à toute situation où le contexte de vie et les signaux non-verbaux sont décisifs. L'article établit les critères d'un outil acceptable : annoncer ses limites, protéger les données, reconnaître son incertitude et transférer vers un professionnel humain quand la situation dépasse son rôle — des critères rarement remplis par les applications grand public."
+        }
+      ]
+    },
+    {
       "date": "2026-09-09",
       "summary": "La journée du 9 septembre 2026 est marquée par une double préoccupation : la santé mentale des jeunes face à l'IA conversationnelle, et la structuration institutionnelle des réponses réglementaires. L'enquête européenne de la CNIL et du Groupe VYV révèle que 86 % des jeunes Français utilisent déjà des outils d'IA conversationnelle, dont un tiers la considère comme un interlocuteur psychologique de substitution — un phénomène que la communauté médicale française commence à documenter comme une forme de « confidence numérique » aux risques sous-estimés. Aux États-Unis, l'heure est à la structuration : la National Academy of Medicine déploie une initiative nationale de deux ans sur la sécurité des patients à l'ère de l'IA, tandis que la NAMI lance des benchmarks inédits pour évaluer la qualité des réponses des chatbots en santé mentale. Sur le plan académique, les travaux présentés à l'ICEPCC 2026 et le compte rendu du symposium AI4MH de Stanford soulignent à la fois le potentiel clinique documenté de l'IA et les lacunes éthiques et méthodologiques qui freinent encore son intégration sécurisée dans les soins.",
       "items": [
