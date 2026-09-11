@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-11",
+      "summary": "La journée du 11 septembre 2026 est marquée par la montée en puissance simultanée de la régulation et de l'intégration opérationnelle de l'IA en santé mentale. Aux États-Unis, cinq États supplémentaires (Colorado, Maine, Rhode Island, Vermont, Tennessee) ont adopté des lois limitant ou interdisant les chatbots thérapeutiques, portant à sept le nombre d'États ayant légiféré — une accélération législative inédite qui contraste avec l'absence de cadre fédéral. À l'échelle mondiale, le rapport AXA Mind Health 2026 (19 000 personnes, 18 pays) dresse un tableau préoccupant : 46 % de la population est en état de souffrance ou de langueur, 63 % se tournent vers l'IA pour des conseils psychologiques, mais 28 % admettent que cela les a conduits à des comportements néfastes. En France, la communauté psychiatrique s'organise autour de deux pôles complémentaires : une analyse critique des promesses et des dangers de l'IA publiée par trois psychiatres, et la préparation du congrès PsyTech 2026 — placé sous le haut patronage de l'Élysée — qui s'annonce comme le temps fort institutionnel de l'automne.",
+      "items": [
+        {
+          "title": "Les promesses et les dangers de l'IA en psychiatrie",
+          "url": "https://environnementsantepolitique.fr/2026/09/06/les-promesses-et-les-dangers-de-lia-en-psychiatrie/",
+          "source": "Santé-Environnement-Politique",
+          "summary": "Trois psychiatres publient une analyse critique des promesses et des dangers de l'IA dans leur spécialité, en posant la question de ce qui rend le psychiatre irremplaçable. Si l'IA peut décharger les tâches administratives et améliorer l'accessibilité des soins, elle ne peut reproduire l'intuition clinique ni lire les micro-signaux — honte, ambivalence, silence — qui orientent toute stratégie thérapeutique. Les auteurs mettent en garde contre l'illusion d'alliance thérapeutique que les chatbots les plus convaincants peuvent entretenir."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "Le congrès PsyTech 2026, placé sous le haut patronage du Président de la République, se tiendra le 20 novembre à Lille. Organisé par le PEPR Santé Numérique (INSERM/CNRS), il réunira chercheurs, cliniciens, industriels et décideurs publics autour du thème « IA et innovations digitales pour la psychiatrie ». L'événement traduit l'engagement institutionnel fort de la France dans ce domaine et devrait fixer un agenda national pour les années à venir."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains (Colorado, Maine, Rhode Island, Vermont, Tennessee) ont adopté en 2026 des lois limitant ou interdisant les chatbots de thérapie par IA, rejoignant Illinois et Nevada. Les approches varient : interdiction pure, obligation de supervision par un professionnel licencié, ou exigences de transparence. Cette vague législative illustre l'urgence ressentie face à la prolifération d'outils non validés cliniquement, mais aboutit à un patchwork de réglementations étatiques en l'absence de cadre fédéral unifié."
+        },
+        {
+          "title": "Mental health: 6 out of 10 people turn to AI for psychological support — AXA Mind Health Report 2026",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA",
+          "summary": "L'enquête mondiale d'AXA (19 000 personnes, 18 pays) révèle que 63 % des personnes utilisent l'IA pour trouver des conseils en santé mentale, et 42 % suivent presque toujours les recommandations reçues — alors que 28 % admettent que cela les a conduits à des comportements néfastes. La santé mentale mondiale est au plus bas depuis cinq ans : 46 % de la population est en état de souffrance ou de langueur, avec une surreprésentation des 18-34 ans. AXA appelle à ne pas laisser l'IA se substituer à un suivi professionnel."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque l'année de transition où les systèmes de santé américains sortent les outils d'IA en santé mentale des projets pilotes pour les intégrer dans leurs flux opérationnels. Les modèles d'analyse prédictive croisent les historiques de rendez-vous, taux d'absentéisme et profils d'utilisation pour identifier les patients à risque de crise avant même leur prochain contact avec le système de soins — ouvrant la voie à une médecine psychiatrique préventive pilotée par la donnée."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Un rapport de l'APA révèle que plus d'un tiers des psychologues américains ont désormais des patients qui utilisent l'IA comme complément à leur suivi thérapeutique — entre les séances, ou pour préparer leurs entretiens. L'association demande des lignes directrices claires pour aider les cliniciens à aborder ce sujet en consultation, et appelle à une clarification urgente des rôles et des limites de ces outils afin de protéger la relation thérapeutique."
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "summary": "La journée du 10 septembre 2026 est marquée par la convergence de deux dynamiques complémentaires : d'un côté, la communauté clinique affine ses outils pour comprendre et contenir les risques des chatbots auprès des populations vulnérables ; de l'autre, elle découvre dans l'IA un levier inattendu pour améliorer la formation des thérapeutes eux-mêmes. Le numéro de septembre 2026 de l'APA Monitor y est entièrement consacré : il formalise la notion de « psychose IA » à travers une nouvelle typologie clinique (Dr John Torous) tout en documentant des expériences prometteuses de chatbots utilisés pour entraîner les thérapeutes en formation — ouvrant la voie à une approche plus nuancée que la simple opposition entre IA utile et IA dangereuse. En France, l'IFEMDR, Psy-Op et Psychologie-Positive.com mobilisent leurs communautés avec des guides pratiques destinés aux professionnels : comment aborder l'usage des chatbots en consultation, où fixer les limites, comment former les équipes. La NAM rappelle, en filigrane, qu'en l'absence de standards minimaux de sécurité, l'utilisateur est structurellement démuni pour distinguer un outil fiable d'un outil dangereux.",
       "items": [
