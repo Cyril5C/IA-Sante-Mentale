@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-12",
+      "summary": "La journée du 12 septembre 2026 est marquée par deux dynamiques convergentes : la montée préoccupante de l'usage des outils d'IA par les adolescents pour leur santé mentale, et l'accélération simultanée de la réponse législative et industrielle à ce phénomène. L'enquête CNIL/Ipsos BVA sur 3 800 jeunes européens révèle que 94 % des 17-18 ans utilisent déjà l'IA, dont près de la moitié pour parler de sujets intimes — un phénomène que la RAND confirme aux États-Unis avec 1 adolescent sur 5 recourant à des chatbots pour sa santé mentale, sans en parler à personne dans 63 % des cas. Sur le plan industriel, l'acquisition de Talkspace par UHS pour 835 millions de dollars crée le premier continuum de soins psychiatriques alliant télémédecine et hospitalisation adossé à un LLM clinique propriétaire. Côté régulation, la Transparency Coalition recense 14 nouvelles lois américaines adoptées en 2026 pour encadrer l'IA en santé, tandis que Psychology Today tire la sonnette d'alarme sur les risques méconnus des compagnons IA, dont plusieurs cas de suicides chez des adolescents.",
+      "items": [
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "La CNIL et le Groupe VYV publient les résultats d'une enquête Ipsos BVA menée auprès de 3 800 jeunes (11-25 ans) en France, Allemagne, Suède et Irlande. L'adoption de l'IA par les jeunes progresse de manière spectaculaire : 66 % des 11-12 ans l'utilisent déjà, un chiffre atteignant 94 % chez les 17-18 ans. Près de la moitié l'utilise pour parler de sujets intimes, et les jeunes présentant des symptômes d'anxiété généralisée en sont les utilisateurs les plus intensifs — soulevant des questions cruciales sur la protection des données sensibles et l'impact psychologique de ces interactions sur des cerveaux en développement."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation",
+          "summary": "Une étude RAND révèle que 19,2 % des 12-21 ans américains ont eu recours à des chatbots IA pour des conseils en santé mentale — soit environ 8,2 millions de jeunes, une hausse de plus de 40 % en un an. Ce chiffre est désormais comparable au taux de recours à un professionnel de santé mentale (19,8 %). Fait particulièrement préoccupant : 63 % de ces jeunes n'ont divulgué cet usage à personne, et 92 % jugent les conseils reçus « utiles » — ce que les chercheurs attribuent en partie à la tendance des chatbots à valider leurs interlocuteurs plutôt qu'à les challenger thérapeutiquement."
+        },
+        {
+          "title": "Millions Turn to AI Chatbots for Mental Health Support",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2843812",
+          "source": "JAMA (Journal of the American Medical Association)",
+          "summary": "Une étude publiée dans le JAMA quantifie l'ampleur du recours aux chatbots IA comme source principale de soutien psychologique et tire la sonnette d'alarme sur le décalage entre adoption massive et validation clinique quasi inexistante. Les auteurs relèvent que les utilisateurs aux besoins les plus aigus (dépression sévère, pensées suicidaires) sont souvent les plus assidus, sans bénéficier d'aucun filet de sécurité. Ils appellent à un cadre réglementaire fédéral urgent et à des essais cliniques comparatifs rigoureux."
+        },
+        {
+          "title": "'A game changer': UHS closes $835M Talkspace acquisition",
+          "url": "https://www.healthcaredive.com/news/uhs-closes-talkspace-acquisition-mental-health-game-changer-ceo-marc-miller/827901/",
+          "source": "Healthcare Dive",
+          "summary": "Universal Health Services (UHS) a finalisé le 17 août 2026 l'acquisition de Talkspace pour 835 millions de dollars, créant le premier continuum de soins psychiatriques national « de bout en bout ». L'opération intègre la plateforme virtuelle de Talkspace — dont son LLM propriétaire TalkAI, entraîné sur des données cliniques réelles — au réseau de cliniques et d'hôpitaux psychiatriques de UHS. Cette consolidation illustre comment les grands opérateurs hospitaliers misent désormais sur l'IA clinique pour assurer des transitions fluides entre niveaux de soins au sein d'un même écosystème."
+        },
+        {
+          "title": "States have passed 14 new laws this year regulating the use of AI in healthcare",
+          "url": "https://www.transparencycoalition.ai/news/state-lawmakers-have-passed-15-new-laws-regulating-the-use-of-ai-in-health-care",
+          "source": "Transparency Coalition",
+          "summary": "La Transparency Coalition recense dans son rapport de mi-année 2026 au moins 14 nouvelles lois adoptées par 11 États américains pour encadrer l'IA en santé. Sept États ont restreint l'usage de l'IA dans les décisions d'autorisation médicale par les assureurs ; cinq ont interdit les services de thérapie fournis uniquement par chatbot. D'autres mesures portent sur le consentement pour l'enregistrement des consultations, la sécurité des mineurs et la gouvernance des grands modèles — un patchwork législatif croissant en l'absence de cadre fédéral unifié."
+        },
+        {
+          "title": "AI Companions Pose Mental Health Risks No One Saw Coming",
+          "url": "https://www.psychologytoday.com/us/blog/preventing-tragedy/202603/ai-companions-pose-mental-health-risks-no-one-saw-coming",
+          "source": "Psychology Today",
+          "summary": "Psychology Today dresse un bilan alarmant des risques liés aux compagnons IA : entre 2022 et mi-2025, le nombre d'applications de compagnons IA a progressé de 700 % et plusieurs cas de suicides d'adolescents ont été reliés à ces outils. Les compagnons IA ne sont pas programmés pour intervenir, signaler une détresse ou orienter vers des professionnels, et peuvent générer des réponses inappropriées en situation de crise. L'article appelle à des protocoles de sécurité minimaux obligatoires et à une régulation spécifique, distincte de celle des chatbots thérapeutiques."
+        }
+      ]
+    },
+    {
       "date": "2026-09-11",
       "summary": "La journée du 11 septembre 2026 est marquée par la montée en puissance simultanée de la régulation et de l'intégration opérationnelle de l'IA en santé mentale. Aux États-Unis, cinq États supplémentaires (Colorado, Maine, Rhode Island, Vermont, Tennessee) ont adopté des lois limitant ou interdisant les chatbots thérapeutiques, portant à sept le nombre d'États ayant légiféré — une accélération législative inédite qui contraste avec l'absence de cadre fédéral. À l'échelle mondiale, le rapport AXA Mind Health 2026 (19 000 personnes, 18 pays) dresse un tableau préoccupant : 46 % de la population est en état de souffrance ou de langueur, 63 % se tournent vers l'IA pour des conseils psychologiques, mais 28 % admettent que cela les a conduits à des comportements néfastes. En France, la communauté psychiatrique s'organise autour de deux pôles complémentaires : une analyse critique des promesses et des dangers de l'IA publiée par trois psychiatres, et la préparation du congrès PsyTech 2026 — placé sous le haut patronage de l'Élysée — qui s'annonce comme le temps fort institutionnel de l'automne.",
       "items": [
