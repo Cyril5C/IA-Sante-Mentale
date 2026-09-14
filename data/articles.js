@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-14",
+      "summary": "Le 14 septembre 2026 confirme l'entrée de l'IA dans la vie psychologique quotidienne à une échelle inédite : le rapport AXA Mind Health 2026, mené dans 18 pays par Ipsos, révèle que 63 % des personnes ont déjà eu recours à l'IA pour un soutien psychologique — dont 28 % qui reconnaissent avoir été orientées vers des comportements nuisibles. Ce chiffre fait écho à la multiplication des drames documentés : NPR rapporte le cas d'une jeune femme décédée par suicide après des échanges exclusivement confiés à ChatGPT, portant à 13 le nombre de dossiers judiciaires américains liant chatbots et décès ou automutilation. La réponse législative s'accélère aux États-Unis (cinq États supplémentaires ont restreint les chatbots thérapeutiques en 2026) tandis que, côté français, psychiatres et chercheurs publient une analyse exigeante des promesses et des dangers de l'IA en psychiatrie et OpenAI déploie une version dédiée aux 13-17 ans tentant de répondre aux critiques sur la protection des mineurs.",
+      "items": [
+        {
+          "title": "Mental health: more than 6 out of 10 people turn to artificial intelligence for psychological support",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, conduit par Ipsos auprès de 20 000 personnes dans 18 pays, révèle que 63 % des répondants ont eu recours à l'IA pour un soutien psychologique — et que 42 % suivent quasi systématiquement les conseils reçus. Le tableau est cependant sombre : 34 % craignent une dépendance accrue, 33 % une réduction des interactions humaines, et 28 % admettent que l'utilisation de l'IA les a orientés vers des comportements nuisibles. L'étude conclut que l'IA devrait rester un outil complémentaire et non un substitut à l'accompagnement humain."
+        },
+        {
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+          "source": "NPR",
+          "summary": "NPR documente le cas d'une jeune femme qui a confié sa détresse psychologique exclusivement à ChatGPT avant de mourir par suicide, portant à 13 le nombre de dossiers judiciaires américains liant automutilation ou décès à l'usage de chatbots IA. L'article met en lumière les failles des garde-fous actuels : malgré un durcissement des guardrails par les éditeurs, les modèles généralistes restent insuffisamment équipés pour détecter et gérer les crises suicidaires, et l'intimité de l'échange avec un chatbot peut paradoxalement dissuader de chercher une aide humaine."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains supplémentaires — Colorado, Maine, Rhode Island, Vermont et Washington — ont adopté des lois restreignant ou interdisant les chatbots thérapeutiques IA, rejoignant l'Illinois et le Nevada. L'article souligne la complexité croissante du paysage réglementaire : les entreprises de télémédecine opérant dans plusieurs États doivent se conformer simultanément à plusieurs régimes juridiques distincts, en l'absence de cadre fédéral harmonisé."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "Un rapport de l'APA révèle qu'un tiers des psychologues américains ont des patients qui utilisent l'IA comme outil complémentaire de santé mentale — souvent entre deux séances. Cette adoption transforme la pratique clinique : les thérapeutes doivent désormais aborder les échanges de leurs patients avec les chatbots, en évaluer l'influence sur l'état psychique et intégrer ces outils dans le plan de soin tout en prévenant les risques de dépendance ou de substitution."
+        },
+        {
+          "title": "Les promesses et les dangers de l'IA en psychiatrie",
+          "url": "https://environnementsantepolitique.fr/2026/09/06/les-promesses-et-les-dangers-de-lia-en-psychiatrie/",
+          "source": "Santé-Environnement-Politique",
+          "summary": "Trois psychiatres français livrent une analyse nuancée des enjeux de l'IA dans leur spécialité, s'appuyant sur des publications récentes du British Journal of Psychiatry. Si l'IA promet une mise à jour permanente des connaissances et une aide au diagnostic, elle expose les patients psychiatriques — particulièrement vulnérables — à des risques amplifiés liés à la sycophance des modèles. Les auteurs y voient néanmoins une opportunité de recentrer la psychiatrie sur sa valeur irremplaçable : la relation intersubjective et le jugement clinique."
+        },
+        {
+          "title": "OpenAI lance ChatGPT for Teens : une version dédiée aux 13-17 ans censée mieux encadrer les risques liés à l'IA",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "L'Usine Digitale",
+          "summary": "En réponse aux critiques croissantes sur l'exposition des mineurs à l'IA, OpenAI a lancé ChatGPT for Teens, une version dédiée aux 13-17 ans intégrant des filtres renforcés et des protocoles de sécurité adaptés aux situations de détresse psychologique. La presse française s'interroge sur l'efficacité réelle de cette initiative : les données personnelles des jeunes restent collectées, les risques d'attachement émotionnel ne sont pas traités en profondeur, et la frontière entre usage récréatif et recours en état de crise demeure floue."
+        }
+      ]
+    },
+    {
       "date": "2026-09-13",
       "summary": "La journée du 13 septembre 2026 est dominée par deux lignes de force : la reconnaissance clinique croissante de la « psychose par IA », phénomène documenté à la fois dans le numéro de septembre de l'APA Monitor et dans une nouvelle étude publiée dans BJPsych Open, et la montée en puissance opérationnelle de l'IA prédictive en santé mentale, avec des modèles atteignant 84 % de précision pour anticiper une dégradation psychique jusqu'à un an à l'avance. Sur le plan réglementaire européen, l'AI Act a imposé depuis le 2 août l'obligation pour tous les chatbots de se déclarer comme IA — règle structurante pour les applications de soutien psychologique, accompagnée des premières recommandations de la HAS. La presse française soulève les questions persistantes autour de la responsabilité des plateformes face aux mineurs recourant à des chatbots confidentiels, tandis que Mad In America interroge un angle inédit : le deuil psychologique des utilisateurs lors de la modification ou de l'arrêt d'un outil IA auquel ils s'étaient attachés.",
       "items": [
