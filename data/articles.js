@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-15",
+      "summary": "La veille du 15 septembre 2026 est marquée par la convergence de données probantes et d'alertes terrain. Une méta-analyse de 39 essais randomisés confirme l'efficacité modeste mais réelle des chatbots IA sur la dépression et l'anxiété, pendant qu'une étude parue dans JAMA Pediatrics révèle qu'un adolescent américain sur cinq consulte déjà ces outils en secret, sans en informer médecins ni parents. En France, l'approche institutionnelle se structure avec l'annonce de PsyTech 2026, événement national dédié à l'IA en psychiatrie placé sous l'égide du Président de la République, tandis que la presse médicale française pointe l'IA comme facteur aggravant des risques psychosociaux au travail. Côté américain, 2026 marque le basculement des pilotes vers l'opérationnel pour l'IA en santé mentale, accompagné des premières exigences de gouvernance éthique dans les standards d'accréditation.",
+      "items": [
+        {
+          "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+          "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2849307",
+          "source": "JAMA Pediatrics",
+          "summary": "Une étude nationale publiée dans JAMA Pediatrics révèle que près d'un adolescent américain sur cinq utilise désormais des chatbots IA pour des conseils en santé mentale, un chiffre en hausse de 50 % en un an. Fait particulièrement préoccupant : 63 % de ces jeunes n'en ont parlé à personne — ni à leurs parents, ni à leur médecin — laissant les cliniciens dans l'ignorance d'une pratique susceptible de relayer des conseils erronés ou inadaptés à la vulnérabilité des adolescents."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée",
+          "summary": "Une analyse française sur la santé mentale au travail en 2026 dépeint une polarisation inédite induite par l'IA : si certains salariés voient leur charge allégée, d'autres font face à une intensification du travail, une surveillance algorithmique accrue et une perte d'autonomie professionnelle. L'OIT identifie ces facteurs comme des risques psychosociaux émergents, et Santé Publique France estime à 2,5 millions le nombre de travailleurs français en situation d'épuisement sévère."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental et le PEPR PROPSY (Inserm/CNRS, programme France 2030) annoncent PsyTech 2026, événement d'ampleur nationale le 20 novembre à Lille dédié à l'IA en psychiatrie, placé sous le haut patronage du Président de la République. L'objectif est de structurer un écosystème d'innovation en psychiatrie de précision — phénotypage digital, IA clinique, développement et passage à l'échelle — réunissant chercheurs, cliniciens, industriels et décideurs publics dans une démarche coordonnée."
+        },
+        {
+          "title": "Systematic review and meta-analysis of chatbots in the management of depressive and anxiety symptoms",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41882250/",
+          "source": "PubMed",
+          "summary": "Une méta-analyse portant sur 39 essais randomisés établit que les chatbots IA ont un effet statistiquement significatif mais de taille modeste sur la réduction des symptômes dépressifs et anxieux. Ces résultats confirment l'utilité potentielle comme complément thérapeutique, mais pointent aussi les limites : la grande majorité des études concernent des cas légers à modérés, et seulement 16 % des systèmes basés sur les LLM ont été soumis à une évaluation d'efficacité clinique rigoureuse."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "2026 marque le basculement de l'IA en santé mentale des projets pilotes vers les workflows opérationnels : les systèmes de santé américains déploient désormais des modèles prédictifs capables d'identifier en amont les patients à risque de crise. La Commission on Accreditation a parallèlement mis à jour ses standards pour inclure des exigences de gouvernance éthique de l'IA — une première dans le secteur de la santé comportementale qui témoigne d'une maturité réglementaire croissante."
+        },
+        {
+          "title": "Artificial intelligence in mental health care: a scoping review of reviews",
+          "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1688043/full",
+          "source": "Frontiers in Psychiatry",
+          "summary": "Une revue de la portée publiée en 2026 dans Frontiers in Psychiatry synthétise l'ensemble de la littérature de revue sur l'IA en santé mentale — diagnostic, monitoring et interventions thérapeutiques. Le constat est contrasté : les applications de détection précoce et d'analyse de la parole progressent rapidement, mais la plupart des modèles restent au stade de preuve de concept, avec une validation clinique externe encore rare et des questions éthiques non résolues sur la confidentialité et les biais algorithmiques."
+        }
+      ]
+    },
+    {
       "date": "2026-09-14",
       "summary": "Le 14 septembre 2026 confirme l'entrée de l'IA dans la vie psychologique quotidienne à une échelle inédite : le rapport AXA Mind Health 2026, mené dans 18 pays par Ipsos, révèle que 63 % des personnes ont déjà eu recours à l'IA pour un soutien psychologique — dont 28 % qui reconnaissent avoir été orientées vers des comportements nuisibles. Ce chiffre fait écho à la multiplication des drames documentés : NPR rapporte le cas d'une jeune femme décédée par suicide après des échanges exclusivement confiés à ChatGPT, portant à 13 le nombre de dossiers judiciaires américains liant chatbots et décès ou automutilation. La réponse législative s'accélère aux États-Unis (cinq États supplémentaires ont restreint les chatbots thérapeutiques en 2026) tandis que, côté français, psychiatres et chercheurs publient une analyse exigeante des promesses et des dangers de l'IA en psychiatrie et OpenAI déploie une version dédiée aux 13-17 ans tentant de répondre aux critiques sur la protection des mineurs.",
       "items": [
