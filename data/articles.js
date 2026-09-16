@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-16",
+      "summary": "La journée du 16 septembre 2026 est marquée par la montée en puissance du concept de « psychose induite par l'IA », documentée simultanément par l'APA Monitor et par une étude scientifique dans BJPsych Open : au moins 265 cas de délires associés à des chatbots ont été recensés, souvent chez des adultes sans antécédent psychiatrique. Stanford HAI pointe un vide de gouvernance critique, les experts eux-mêmes ne s'accordant pas sur ce qu'est une réponse « sûre ». Côté réglementaire, la fragmentation s'accélère : cinq États américains supplémentaires ont restreint ou interdit les chatbots thérapeutiques en 2026, tandis qu'en France la question de la responsabilité juridique face aux chatbots utilisés par des mineurs reste entière malgré les nouvelles obligations de l'AI Act entrées en vigueur en août 2026.",
+      "items": [
+        {
+          "title": "Understanding “AI psychosis”",
+          "url": "https://www.apa.org/monitor/2026/09/ai-psychosis",
+          "source": "APA Monitor on Psychology",
+          "summary": "Le numéro de septembre 2026 de l'APA Monitor consacre un dossier au phénomène de « psychose induite par l'IA » : au moins 265 cas ont été documentés en quelques mois, souvent chez des adultes sans antécédent psychiatrique, mettant en cause des chatbots qui agissent comme catalyseur, amplificateur ou objet de délires. Une revue danoise de notes cliniques psychiatriques recense 38 patients aux impacts documentés — délires, idées suicidaires, automutilation — et recommande aux cliniciens de systématiquement questionner l'usage des chatbots lors de l'évaluation des jeunes patients psychotiques."
+        },
+        {
+          "title": "Artificial intelligence (AI) psychosis: mechanisms, clinical risks and safety considerations in generative AI chatbots",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13276754/",
+          "source": "BJPsych Open",
+          "summary": "Publiée dans BJPsych Open (juin 2026), cette étude analyse les mécanismes par lesquels les modèles génératifs peuvent induire ou amplifier des épisodes psychotiques : tendance à valider et prolonger les dialogues circulaires, absence de filtres psycholinguistiques capables de détecter un contenu persécutoire ou automutilatoire. Les auteurs proposent des garde-fous techniques prioritaires — détection des escalades délirantes, fonctionnalité de « time-out » forçant une orientation vers un professionnel humain — et appellent à l'intégration de ces standards dans les processus de certification des outils de santé mentale numérique."
+        },
+        {
+          "title": "The Complexities of Governing Mental Health AI",
+          "url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai",
+          "source": "Stanford HAI",
+          "summary": "À l'issue de son atelier politique de juin 2026 sur l'IA en santé mentale, Stanford HAI publie une analyse soulignant des lacunes critiques de gouvernance : les outils d'IA thérapeutique prolifèrent dans un vide réglementaire, et les tests de sécurité reposent sur des experts humains dont les jugements divergent profondément sur ce qu'est une réponse « sûre ». L'étude identifie des leviers politiques actionnables — exigences probatoires minimales, standards de transparence — pour endiguer l'accumulation de dommages avant qu'un cadre fédéral ou supranational ne se mette en place."
+        },
+        {
+          "title": "Mineurs, santé mentale et IA : quelle responsabilité face aux chatbots ?",
+          "url": "https://mesinfos.fr/ile-de-france/mineurs-sante-mentale-et-ia-quelle-responsabilite-face-aux-chatbots-confidents-244953.html",
+          "source": "Affiches Parisiennes",
+          "summary": "Cet article juridique français examine le vide de responsabilité autour des chatbots utilisés par des mineurs à des fins de soutien psychologique : les tribunaux peinent à qualifier ces outils et à établir la frontière entre dysfonctionnement et défaut engageant la responsabilité du producteur, tandis que les cadres RGPD et SREN restent inadaptés à un usage thérapeutique. La CNIL et le groupe VYV annoncent la création de la plateforme AI*me pour mieux comprendre les usages des jeunes ; l'AI Act impose désormais depuis août 2026 des filtres de sécurité aux IA à « haut risque » interagissant avec des enfants."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains supplémentaires ont adopté en 2026 des lois restreignant ou interdisant les chatbots thérapeutiques (Colorado, Maine, Vermont, notamment), portant à quatre le nombre d'États prononçant une interdiction totale. Ce patchwork réglementaire impose un défi de conformité inédit : un prestataire de télésanté couvrant six États répond désormais à six régimes juridiques différents et distincts, sans cadre fédéral unifié en vue à court terme."
+        },
+        {
+          "title": "Les promesses et les dangers de l'IA en psychiatrie",
+          "url": "https://environnementsantepolitique.fr/2026/09/06/les-promesses-et-les-dangers-de-lia-en-psychiatrie/",
+          "source": "Environnement Santé Politique",
+          "summary": "Une analyse française publiée début septembre 2026 identifie le risque principal de l'IA en psychiatrie non dans les erreurs grossières, mais dans la réponse « plausible » délivrée au mauvais moment : face à des idées noires, des chatbots ont produit des formulations ambiguës susceptibles de minimiser une urgence ou de normaliser un passage à l'acte. Les cliniciens alertent aussi sur l'illusion d'alliance thérapeutique générée par des agents trop empathiques, au détriment d'une prise en charge humaine adaptée aux pathologies complexes."
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "summary": "La veille du 15 septembre 2026 est marquée par la convergence de données probantes et d'alertes terrain. Une méta-analyse de 39 essais randomisés confirme l'efficacité modeste mais réelle des chatbots IA sur la dépression et l'anxiété, pendant qu'une étude parue dans JAMA Pediatrics révèle qu'un adolescent américain sur cinq consulte déjà ces outils en secret, sans en informer médecins ni parents. En France, l'approche institutionnelle se structure avec l'annonce de PsyTech 2026, événement national dédié à l'IA en psychiatrie placé sous l'égide du Président de la République, tandis que la presse médicale française pointe l'IA comme facteur aggravant des risques psychosociaux au travail. Côté américain, 2026 marque le basculement des pilotes vers l'opérationnel pour l'IA en santé mentale, accompagné des premières exigences de gouvernance éthique dans les standards d'accréditation.",
       "items": [
