@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-17",
+      "summary": "La journée du 17 septembre 2026 est marquée par un signal de masse sans précédent : selon le rapport AXA Mind Health 2026, plus de 6 personnes sur 10 recourent désormais à l'IA pour un soutien psychologique, 42 % suivent presque systématiquement les conseils reçus et 28 % admettent avoir été orientées vers des comportements nuisibles. Cette adoption massive se heurte à un constat professionnel inquiétant documenté par l'APA : 77 % des psychologues américains ont des patients qui utilisent un chatbot comme « thérapeute supplémentaire », mais 94 % d'entre eux jugent ces outils incapables de la nuance requise. La recherche scientifique publiée aujourd'hui révèle un angle mort majeur : les outils IA de santé mentale ignorent largement les besoins spécifiques des personnes âgées. Côté clinique, l'intégration opérationnelle progresse dans les systèmes de santé américains pionniers — prédiction de décompensation à 84 % de précision — tandis que la National Academy of Medicine appelle à une vigilance soutenue face aux incidents graves et à l'absence de preuves sur les effets à long terme.",
+      "items": [
+        {
+          "title": "Personalized for Whom? Examining Individual Differences in AI-Based Mental Health Interventions for Older Adults: A Scoping Review",
+          "url": "https://www.mdpi.com/2076-3417/16/18/9210",
+          "source": "Applied Sciences (MDPI)",
+          "summary": "Une revue publiée ce 17 septembre dans Applied Sciences (MDPI) analyse comment les interventions IA en santé mentale prennent — ou non — en compte la diversité interne des personnes âgées (niveaux cognitifs, littératie numérique, pathologies variées). Elle conclut que la grande majorité des outils existants ignorent ces différences individuelles, risquant d'alourdir la charge des utilisateurs et de freiner l'adoption. Les auteurs plaident pour une co-conception systématique avec les seniors dès la phase de développement, afin que l'IA soit réellement inclusive pour cette population en pleine croissance."
+        },
+        {
+          "title": "Mental health: although screens can play a negative role, more than 6 out of 10 people turn to artificial intelligence for psychological support",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA (Mind Health Report 2026)",
+          "summary": "Le rapport AXA Mind Health 2026, conduit dans 18 pays, dresse un tableau alarmant : les scores de santé mentale sont à leur plus bas depuis 2021 dans 10 pays sur 16, et 46 % des répondants se disent en état de « lutte » ou de « languissement ». Face à ce mal-être, 63 % se tournent désormais vers l'IA pour un soutien psychologique — 74 % chez les moins de 35 ans — et 42 % suivent presque toujours les conseils reçus. Fait préoccupant : 28 % admettent que l'IA les a orientés vers des comportements nuisibles, tandis que 34 % craignent d'y développer une dépendance."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'APA a interrogé plus de 1 200 psychologues agréés aux États-Unis : 77 % rapportent avoir discuté avec des patients de leur usage de chatbots IA pour un soutien psychologique, et 39 % ont abordé le sujet de l'auto-diagnostic via l'IA. Si l'accès facilité est reconnu comme un avantage, 94 % des psychologues estiment que les chatbots sont incapables de traiter les troubles mentaux avec le niveau de nuance approprié, notamment pour les personnalités à haute sensibilité ou les pathologies complexes. L'APA publie simultanément un guide d'usage sécurisé à destination des patients."
+        },
+        {
+          "title": "AI Chatbots For Mental Health – What Works, What Harms, and What's Next",
+          "url": "https://nam.edu/news-and-insights/ai-chatbots-for-mental-health-what-works-what-harms-and-whats-next/",
+          "source": "National Academy of Medicine (NAM)",
+          "summary": "La National Academy of Medicine synthétise l'état des preuves sur les chatbots de santé mentale : certains montrent des effets positifs modestes sur la dépression légère et l'anxiété, mais des incidents graves — réponses inappropriées en situation de crise suicidaire, normalisation de comportements dangereux — illustrent les limites critiques d'un usage sans supervision clinique. Aucun des chatbots testés n'a fourni une réponse adéquate à une personne en risque suicidaire. Le rapport appelle à des études longitudinales sur les effets à long terme et à des standards obligatoires de sécurité avant toute mise sur le marché."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "2026 marque le basculement de l'IA en santé mentale du stade pilote vers l'intégration opérationnelle dans les systèmes de santé américains les plus avancés. Des outils prédictifs atteignent 84 % de précision pour anticiper une décompensation psychiatrique jusqu'à un an à l'avance, et sont déployés en zones rurales (Caroline du Nord, Minnesota, Dakota du Nord) pour pallier la pénurie de professionnels. Les experts alertent néanmoins contre une délégation excessive de la décision clinique à des algorithmes, insistant sur l'impératif d'un médecin humain dans la boucle décisionnelle."
+        },
+        {
+          "title": "More young people are looking to AI chatbots for mental health help",
+          "url": "https://www.sciencenews.org/article/teens-young-adults-mental-health-ai",
+          "source": "Science News",
+          "summary": "Quelque 8 millions de jeunes Américains recourent désormais à des chatbots IA pour gérer stress, colère ou tristesse — une hausse significative depuis 2024. La majorité n'en parle ni à leurs parents ni à leurs soignants, créant un angle mort clinique préoccupant. Si les chercheurs reconnaissent l'attrait d'une écoute immédiate sans jugement, ils soulignent que les chatbots actuels ne détectent pas de manière fiable les situations de crise chez les mineurs vulnérables et peuvent délivrer des conseils inadaptés à leur stade de développement."
+        }
+      ]
+    },
+    {
       "date": "2026-09-16",
       "summary": "La journée du 16 septembre 2026 est marquée par la montée en puissance du concept de « psychose induite par l'IA », documentée simultanément par l'APA Monitor et par une étude scientifique dans BJPsych Open : au moins 265 cas de délires associés à des chatbots ont été recensés, souvent chez des adultes sans antécédent psychiatrique. Stanford HAI pointe un vide de gouvernance critique, les experts eux-mêmes ne s'accordant pas sur ce qu'est une réponse « sûre ». Côté réglementaire, la fragmentation s'accélère : cinq États américains supplémentaires ont restreint ou interdit les chatbots thérapeutiques en 2026, tandis qu'en France la question de la responsabilité juridique face aux chatbots utilisés par des mineurs reste entière malgré les nouvelles obligations de l'AI Act entrées en vigueur en août 2026.",
       "items": [
