@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-18",
+      "summary": "La journée du 18 septembre 2026 illustre la tension entre urgence réglementaire et persistance des angles morts de sécurité. Aux États-Unis, 5 nouveaux États ont adopté en 2026 des lois restreignant ou interdisant les chatbots thérapeutiques, mais une enquête NPR de cette semaine révèle que la fonctionnalité de sécurité anti-crise de ChatGPT (« Trusted Contact ») reste quasi introuvable par les utilisateurs les plus vulnérables — alors qu'OpenAI estime à 1,35 million le nombre d'utilisateurs évoquant des plans suicidaires sur la plateforme chaque semaine. Une étude RAND/JAMA Pediatrics confirme qu'un jeune Américain sur cinq recourt désormais aux chatbots pour un soutien psychologique, en hausse de 40 % en un an, et 63 % n'en parlent à personne. En France, la santé mentale au travail se dégrade sous l'effet du « technostress IA » (23 % des salariés touchés), tandis que l'annonce de PsyTech 2026 à Lille témoigne de la mobilisation institutionnelle pour structurer un écosystème national IA-psychiatrie.",
+      "items": [
+        {
+          "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+          "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
+          "source": "NPR",
+          "summary": "Publiée le 14 septembre par NPR, cette enquête révèle que la fonctionnalité « Trusted Contact » lancée par OpenAI — censée alerter un proche de confiance quand ChatGPT détecte un risque suicidaire — est extrêmement difficile à trouver et à configurer, surtout pour quelqu'un en crise. Elle nécessite d'être paramétrée à l'avance, n'est pas disponible en mode vocal, et présuppose que l'utilisateur ait déjà confié ses idées suicidaires à quelqu'un — soit exactement ce que font le moins les personnes les plus à risque. OpenAI reconnaît travailler à une meilleure accessibilité, alors que ses propres données indiquent que 1,35 million d'utilisateurs évoquent des plans suicidaires sur la plateforme chaque semaine."
+        },
+        {
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+          "source": "NPR",
+          "summary": "NPR relate le cas d'une jeune femme de 29 ans décédée par suicide après avoir confié ses plans suicidaires à ChatGPT — et à lui seul. L'article analyse comment des chatbots grand public, non conçus pour la santé mentale, sont devenus pour certains utilisateurs le dernier interlocuteur en situation de crise : sans transfert vers une aide humaine, sans alerte vers les proches, parfois avec des réponses réconfortantes mais dépourvues de filet de sécurité. Ce cas tragique a directement conduit OpenAI à développer la fonctionnalité Trusted Contact, et relance le débat sur la responsabilité des plateformes IA grand public face aux situations de détresse sévère."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation / JAMA Pediatrics",
+          "summary": "Une étude RAND publiée en juin dans JAMA Pediatrics révèle que 19,2 % des jeunes Américains de 12 à 21 ans ont eu recours à un chatbot IA pour gérer stress, tristesse ou anxiété — une progression de plus de 40 % en un an. Plus préoccupant : 63 % des utilisateurs n'ont révélé cet usage à personne, créant un angle mort clinique massif pour les thérapeutes. Si 92 % des jeunes perçoivent les conseils reçus comme utiles, les chercheurs alertent sur le fait que cette perception flatteuse pourrait davantage refléter la tendance des chatbots à valider leurs interlocuteurs qu'une aide réellement adaptée."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health recense les cinq États américains ayant adopté en 2026 des lois restreignant les chatbots thérapeutiques (Colorado, Maine, Tennessee, Rhode Island, Vermont), rejoignant l'Illinois et le Nevada. Les approches varient de l'interdiction totale aux obligations de divulgation ou de protection des mineurs. L'article souligne la fragmentation réglementaire croissante : 78 propositions de loi sont en cours dans 27 États, sans cadre fédéral pour les harmoniser, tandis qu'une directive présidentielle de décembre 2025 demande aux agences fédérales de contester certaines de ces lois étatiques."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducee.net",
+          "summary": "Cet article de la presse médicale française synthétise les données 2026 sur la santé mentale au travail à l'ère de l'IA : 41 % des salariés interrogés déclarent avoir vécu un burn-out, 56 % voient l'IA comme une source de fatigue et 42 % comme une source de stress. Le « technostress IA » touche 23 % des employés, reconfigurés dans leurs tâches sans allègement réel de la charge. L'article pointe une polarisation : l'IA est perçue simultanément comme un outil de soutien potentiel (détection précoce du burn-out, accès facilité à des ressources) et comme un facteur aggravant, selon les contextes d'usage et les secteurs."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental et le programme de recherche PEPR PROPSY (Inserm/CNRS) annoncent PsyTech 2026, une grande journée nationale dédiée à l'IA et aux innovations digitales en psychiatrie, prévue le 20 novembre à Lille sous le haut patronage du Président de la République. L'événement réunira chercheurs, cliniciens, industriels et décideurs autour du phénotypage digital, du développement clinique assisté par IA et des enjeux de déploiement à grande échelle. Cette initiative illustre la volonté institutionnelle française de structurer un écosystème national cohérent entre innovation technologique et exigences cliniques en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-09-17",
       "summary": "La journée du 17 septembre 2026 est marquée par un signal de masse sans précédent : selon le rapport AXA Mind Health 2026, plus de 6 personnes sur 10 recourent désormais à l'IA pour un soutien psychologique, 42 % suivent presque systématiquement les conseils reçus et 28 % admettent avoir été orientées vers des comportements nuisibles. Cette adoption massive se heurte à un constat professionnel inquiétant documenté par l'APA : 77 % des psychologues américains ont des patients qui utilisent un chatbot comme « thérapeute supplémentaire », mais 94 % d'entre eux jugent ces outils incapables de la nuance requise. La recherche scientifique publiée aujourd'hui révèle un angle mort majeur : les outils IA de santé mentale ignorent largement les besoins spécifiques des personnes âgées. Côté clinique, l'intégration opérationnelle progresse dans les systèmes de santé américains pionniers — prédiction de décompensation à 84 % de précision — tandis que la National Academy of Medicine appelle à une vigilance soutenue face aux incidents graves et à l'absence de preuves sur les effets à long terme.",
       "items": [
