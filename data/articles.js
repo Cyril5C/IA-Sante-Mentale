@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-20",
+      "summary": "La journée du 20 septembre 2026 est dominée par une accumulation de signaux d'alerte sur les angles morts de sécurité des outils d'IA en santé mentale. Stanford HAI révèle une faille structurelle dans les protocoles d'évaluation de sécurité de ces outils — notamment pour les situations suicidaires —, tandis qu'une étude de l'Université Brown, relayée dans la presse médicale française, recense 15 types de violations éthiques systématiques dans les chatbots thérapeutiques. Le cas Therabot de Dartmouth illustre un paradoxe réglementaire criant : le chatbot le mieux validé cliniquement reste bloqué par la FDA, pendant que des outils non validés prolifèrent librement sur le marché grand public. Sur le plan législatif, la fragmentation s'accélère aux États-Unis avec 15 nouvelles lois étatiques en 2026, forçant le débat sur la nécessité d'un cadre fédéral. En France, le RGPD et l'AI Act — en vigueur depuis août 2026 — s'imposent comme les leviers réglementaires disponibles face à l'usage massif des chatbots par les adolescents.",
+      "items": [
+        {
+          "title": "Stanford Study Exposes Major Flaw in AI Mental Health Safety Testing",
+          "url": "https://hai.stanford.edu/news/stanford-study-exposes-major-flaw-in-ai-mental-health-safety-testing",
+          "source": "Stanford HAI",
+          "summary": "Une étude de Stanford acceptée à ACM FAccT 2026 révèle une faille structurelle dans la méthode standard d'évaluation de la sécurité des outils d'IA en santé mentale : agréger les scores d'experts produit des réponses qui ne correspondent à la recommandation d'aucun d'entre eux individuellement. Cette anomalie est particulièrement dangereuse pour les situations à risque suicidaire, où une réponse « moyenne » peut orienter l'utilisateur vers des comportements inadaptés. Les chercheurs appellent à réformer en profondeur les protocoles d'évaluation de sécurité pour toute IA à usage thérapeutique."
+        },
+        {
+          "title": "Une étude détaille comment les chatbots IA violent systématiquement les normes de pratique éthiques",
+          "url": "https://ma-clinique.fr/une-nouvelle-etude-detaille-comment-les-chatbots-ia-violent-systematiquement-les-normes-de-pratique-ethiques",
+          "source": "Ma-Clinique.fr",
+          "summary": "Relayant une étude de l'Université Brown présentée à ACM FAccT 2026, ce média médical français détaille 15 types de violations éthiques identifiées dans 137 sessions simulées entre des LLM et des utilisateurs en détresse psychologique. Ces violations — empathie simulée trompeuse, absence de gestion adaptée des crises, discriminations algorithmiques, ruptures de confidentialité — se produisent même lorsqu'on invite explicitement les chatbots à appliquer des techniques de thérapie validées. Contrairement aux thérapeutes humains, ces outils ne sont soumis à aucun mécanisme de responsabilité professionnelle."
+        },
+        {
+          "title": "Can a chatbot be a responsible therapist? Dartmouth's Therabot faces regulatory deadlock",
+          "url": "https://vtdigger.org/2026/08/15/can-a-chatbot-be-a-responsible-therapist-dartmouth-professor-aims-to-find-out/",
+          "source": "VTDigger",
+          "summary": "Sept ans après le début de son développement, Therabot — le chatbot thérapeutique de Dartmouth ayant démontré une réduction de 51 % des symptômes dépressifs dans le premier essai clinique randomisé de l'histoire — reste inaccessible au grand public. Son créateur, le Pr Michael Heinz, explique que le cadre réglementaire de la FDA, conçu pour des dispositifs statiques, est fondamentalement inadapté à des outils d'IA évolutifs. Ce paradoxe illustre un angle mort systémique : les outils les mieux validés cliniquement sont bloqués par la réglementation, tandis que des chatbots grand public non validés prolifèrent librement."
+        },
+        {
+          "title": "States have passed 15 new laws this year regulating the use of AI in healthcare",
+          "url": "https://www.transparencycoalition.ai/news/state-lawmakers-have-passed-15-new-laws-regulating-the-use-of-ai-in-health-care",
+          "source": "Transparency Coalition",
+          "summary": "La Transparency Coalition recense 15 nouvelles lois étatiques adoptées en 2026 aux États-Unis encadrant l'usage de l'IA en santé, dont plusieurs ciblant spécifiquement les chatbots thérapeutiques. Ce rythme législatif inédit — 78 propositions de loi en cours dans 27 États — crée un patchwork réglementaire ingérable pour les opérateurs de télésanté multi-États, sans cadre fédéral à l'horizon. La Coalition appelle le Congrès à légiférer d'urgence pour harmoniser ces dispositifs avant que la fragmentation ne compromette l'accès aux soins dans les zones rurales."
+        },
+        {
+          "title": "IA conversationnelle, adolescents et santé mentale : les obligations RGPD",
+          "url": "https://www.rgpdkit.fr/blog/ia-conversationnelle-adolescents-sante-mentale-rgpd",
+          "source": "RGPD Kit",
+          "summary": "Ce guide technique français analyse les obligations du RGPD et de l'AI Act applicables aux chatbots thérapeutiques susceptibles d'être utilisés par des mineurs, dans un contexte où 72 % des adolescents recourent déjà à ces outils. Il rappelle que la collecte de données de santé mentale de mineurs est soumise à des règles de consentement renforcées, que les éditeurs doivent réaliser des analyses d'impact (DPIA) spécifiques, et que l'AI Act — en vigueur depuis août 2026 — impose des exigences supplémentaires pour les IA à haut risque en contact avec des enfants. Un outil de conformité pratique pour les responsables de traitement en France."
+        },
+        {
+          "title": "Exploring Real-World Use of AI Chatbots for Mental Health Support: Cross-Sectional Survey Study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42679350/",
+          "source": "Journal of Medical Internet Research (PubMed)",
+          "summary": "Une étude transversale publiée sur PubMed portant sur les usages réels des chatbots IA pour le soutien en santé mentale révèle que la majorité des utilisateurs y recourent pour des motifs non urgents (gestion du stress, anxiété légère), mais que ces outils ne font aucune distinction entre un usage bénin et une situation de crise. L'étude identifie des profils d'usage à risque — utilisation nocturne intensive, substitution aux consultations médicales, isolement social croissant — et préconise l'intégration de mécanismes automatiques de triage pour orienter les utilisateurs en détresse vers des professionnels de santé."
+        }
+      ]
+    },
+    {
       "date": "2026-09-19",
       "summary": "La journée du 19 septembre 2026 est dominée par une double alerte sur les risques psychologiques de l'IA : le numéro de septembre de l'APA Monitor documente pour la première fois de manière systématique le phénomène de « psychose à l'IA », et une étude publiée dans la revue Nature NPP identifie les mécanismes précis par lesquels les chatbots amplifient les spirales délirantes. La protection des adolescents est au cœur de l'actualité, entre les nouvelles mesures de garde-fous d'OpenAI pour les mineurs et les appels de la presse française à un dialogue parental sur ces usages. Sur le plan de la gouvernance, Stanford HAI publie une analyse approfondie des tensions réglementaires, tandis qu'une étude prospective française trace les scénarios de la psychiatrie pédiatrique à horizon 2050 — plaidant pour une maîtrise active du numérique avant que les choix technologiques ne s'imposent d'eux-mêmes.",
       "items": [
