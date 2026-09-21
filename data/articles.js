@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-21",
+      "summary": "La journée du 21 septembre 2026 illustre l'accélération simultanée des capacités techniques et des prises de conscience sociétales autour de l'IA en santé mentale. Du côté des avancées, l'UTHealth Houston publie dans npj Mental Health Research les résultats d'un outil multimodal atteignant un niveau diagnostique quasi équivalent à celui d'équipes de psychiatres, marquant un seuil symbolique fort. En parallèle, les études de population confirment l'ampleur du phénomène : un cinquième des adolescents américains utilisent déjà ces outils — souvent en secret — et 77 % des psychologues ont des patients y recourant, selon l'enquête 2026 de l'APA. La régulation s'accélère aux États-Unis avec cinq nouveaux États restrictifs, mais l'absence de cadre fédéral amplifie la fragmentation ; en France, la Fondation FondaMental prépare PsyTech 2026 pour structurer la réponse clinique et institutionnelle à ces défis.",
+      "items": [
+        {
+          "title": "UTHealth Houston-developed AI tool nears psychiatrist-level accuracy",
+          "url": "https://www.uth.edu/news/story/uthealth-houston-developed-ai-tool-nears-psychiatrist-level-accuracy",
+          "source": "UTHealth Houston / npj Mental Health Research",
+          "summary": "Des chercheurs de l'UTHealth Houston et de Yale publient dans npj Mental Health Research les résultats d'un outil d'IA multimodal (Qwen3-Omni) capable d'évaluer des patients psychiatriques à un niveau de précision quasi équivalent à celui d'une équipe de psychiatres. Le système analyse des enregistrements vidéo des examens de l'état mental — parole, ton de voix, comportement — et produit des évaluations pour la schizophrénie, le TOC et le trouble bipolaire correspondant aux diagnostics de spécialistes. Les auteurs soulignent que l'outil est conçu comme aide à l'enseignement et au soutien diagnostique, non comme substitut au clinicien."
+        },
+        {
+          "title": "Psychologists say patients are turning to chatbots as mental health professionals",
+          "url": "https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health",
+          "source": "American Psychological Association (APA)",
+          "summary": "La première enquête nationale de l'APA auprès de 1 242 psychologues agréés révèle que 77 % ont eu des patients utilisant une IA pour du soutien psychologique, et que 35 % signalent des patients se tournant vers l'IA comme thérapeute de substitution. 85 % des psychologues expriment des inquiétudes face aux chatbots se faisant passer pour des thérapeutes agréés, et 94 % affirment que ces outils ne peuvent pas traiter les troubles mentaux avec la nuance nécessaire. L'APA appelle à un cadre réglementaire urgent, soulignant que cette évolution massive s'est produite sans encadrement suffisant."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation / JAMA Pediatrics",
+          "summary": "Une étude publiée dans JAMA Pediatrics sur un échantillon représentatif de 1 009 jeunes de 12 à 21 ans révèle qu'un cinquième des adolescents et jeunes adultes américains (environ 8,2 millions) ont recours aux chatbots IA pour des conseils en santé mentale. 63 % de ces utilisateurs n'ont divulgué cet usage à personne — ni médecin, ni thérapeute, ni parent —, créant un angle mort clinique majeur. Si 92 % jugent ces conseils utiles, les chercheurs alertent que ce ressenti positif pourrait refléter le sycophantisme des modèles plutôt que la qualité réelle des réponses."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq nouveaux États américains ont adopté des lois restreignant ou interdisant les chatbots thérapeutiques, portant à sept le nombre d'États avec une réglementation spécifique. Le Colorado, le Vermont, le Rhode Island et le Maine figurent parmi les États les plus restrictifs, certains interdisant toute interaction thérapeutique par IA avec des patients. Ce mouvement législatif accéléré crée un patchwork réglementaire complexe pour les acteurs de la télésanté multi-États, en l'absence d'un cadre fédéral homogène."
+        },
+        {
+          "title": "IA et ados, quand les chatbots remplacent les confidences et menacent la santé mentale",
+          "url": "https://atlantico.fr/article/decryptage/ia-le-recours-massif-aux-bots-moteur-dune-nouvelle-crise-de-la-sante-des-adolescents-pascal-neveu-emmanuel-goffi",
+          "source": "Atlantico.fr",
+          "summary": "Des experts français — dont Pascal Neveu (psychologue) et Emmanuel Goffi (philosophe, éthique de l'IA) — alertent dans Atlantico sur le recours massif des adolescents aux bots comme substituts aux confidences humaines. Ils identifient un double risque : la déréalisation progressive des relations humaines et l'installation d'une dépendance émotionnelle à des entités non humaines incapables de gérer les crises ni d'orienter vers les soins. L'article plaide pour une éducation aux médias numériques intégrant explicitement les risques psychologiques propres à l'IA conversationnelle."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, une journée scientifique consacrée à l'IA et aux innovations digitales en psychiatrie, organisée le 20 novembre à Lille en partenariat avec le PEPR Santé Numérique (INSERM/CNRS). L'événement réunira chercheurs, cliniciens, industriels et décideurs publics autour des défis, avancées et perspectives de l'IA appliquée à la psychiatrie française. Cette initiative institutionnelle illustre la structuration croissante du champ en France, à la croisée de la recherche fondamentale et des enjeux cliniques concrets."
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "summary": "La journée du 20 septembre 2026 est dominée par une accumulation de signaux d'alerte sur les angles morts de sécurité des outils d'IA en santé mentale. Stanford HAI révèle une faille structurelle dans les protocoles d'évaluation de sécurité de ces outils — notamment pour les situations suicidaires —, tandis qu'une étude de l'Université Brown, relayée dans la presse médicale française, recense 15 types de violations éthiques systématiques dans les chatbots thérapeutiques. Le cas Therabot de Dartmouth illustre un paradoxe réglementaire criant : le chatbot le mieux validé cliniquement reste bloqué par la FDA, pendant que des outils non validés prolifèrent librement sur le marché grand public. Sur le plan législatif, la fragmentation s'accélère aux États-Unis avec 15 nouvelles lois étatiques en 2026, forçant le débat sur la nécessité d'un cadre fédéral. En France, le RGPD et l'AI Act — en vigueur depuis août 2026 — s'imposent comme les leviers réglementaires disponibles face à l'usage massif des chatbots par les adolescents.",
       "items": [
