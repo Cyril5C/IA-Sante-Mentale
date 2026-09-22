@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-22",
+      "summary": "La journée du 22 septembre 2026 révèle deux dynamiques simultanées : une adoption mondiale massive de l'IA pour la santé mentale, et l'émergence de nouveaux risques cliniques et sociaux qui l'accompagnent. Le rapport AXA Mind Health 2026 (19 000 personnes, 18 pays) confirme que 63 % de la population mondiale utilise l'IA pour des questions psychologiques, mais 28 % admettent que cela les a conduits à des comportements nuisibles — un signal d'alarme international. L'APA Monitor de septembre 2026 consacre un dossier à l'« AI psychosis », phénomène clinique nouveau où des interactions intensives avec des IA génèrent des états délirants chez des patients vulnérables. Sur le plan opérationnel, des modèles prédictifs IA atteignent 84 % de précision pour anticiper les crises psychiatriques un an à l'avance et passent du stade pilote aux cliniques rurales américaines. En France, la presse médicale spécialisée (Caducée.net) pointe un risque sous-documenté : le « burn-out algorithmique » lié à la surveillance et à l'intensification du travail induite par l'IA. Stanford lance simultanément sa semaine de la santé mentale de précision (21-26 sept.), fournissant l'arrière-plan académique de ces débats.",
+      "items": [
+        {
+          "title": "Understanding 'AI psychosis'",
+          "url": "https://www.apa.org/monitor/2026/09/ai-psychosis",
+          "source": "APA Monitor on Psychology — septembre 2026",
+          "summary": "Le numéro de septembre 2026 de l'APA Monitor on Psychology documente un phénomène clinique émergent baptisé « AI psychosis » : des patients, souvent vulnérables, développent des croyances délirantes après des interactions intensives avec des agents conversationnels IA. Les psychologues rapportent des cas de confusion entre réponses générées et réalité, voire de relations affectives pathologiques avec des chatbots. L'article appelle à une formation spécifique des cliniciens pour détecter et traiter ces nouvelles présentations cliniques liées à l'usage de l'IA."
+        },
+        {
+          "title": "2026 Mind Health Report: more than 6 in 10 people use AI for mental health support — but 28% say it led to harmful behaviours",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, conduit par Ipsos auprès de 19 000 personnes dans 18 pays, révèle que 63 % de la population mondiale recourt à l'IA pour obtenir des conseils ou du soutien psychologique. Si une majorité juge ces interactions utiles, 28 % reconnaissent que cela les a conduits à des comportements nuisibles, et 46 % des répondants mondiaux déclarent souffrir ou lutter avec des difficultés psychologiques — un plus bas de cinq ans pour le bien-être global. Le rapport souligne un paradoxe : plus la parole sur la santé mentale se libère, moins le bien-être réel progresse."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Un modèle d'IA prédictif capable d'anticiper les dégradations psychiatriques jusqu'à un an à l'avance avec une précision de 84 % passe du stade expérimental au déploiement opérationnel dans des cliniques rurales de Caroline du Nord, du Minnesota et du Dakota du Nord. L'article de Healthcare IT News décrit comment l'IA devient en 2026 un outil opérationnel de triage clinique — identifiant les patients nécessitant une attention urgente — et non plus seulement un objet de recherche. Ce virage vers les zones rurales illustre l'ambition de combler les déserts médicaux psychiatriques grâce à l'IA prédictive."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Le média médical français Caducée.net analyse comment l'IA reconfigure les conditions de travail et génère de nouvelles formes d'épuisement professionnel. L'article pointe l'intensification algorithmique des rythmes, la réduction de l'autonomie professionnelle et le sentiment de surveillance permanente comme facteurs aggravants du burn-out en 2026 — 41 % des salariés interrogés déclarent avoir vécu un épisode d'épuisement professionnel. France Travail évoque par ailleurs l'utilisation de l'IA pour détecter les fragilités psychologiques via des indicateurs internes, une piste jugée prometteuse mais qui interroge sur la frontière entre prévention et surveillance."
+        },
+        {
+          "title": "6th Annual Stanford Precision Mental Health Symposium — Precision Mental Health Week (Sept. 21–26, 2026)",
+          "url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=53099",
+          "source": "Stanford Center for Precision Mental Health / Stanford Medicine",
+          "summary": "La 6e édition du Symposium annuel de santé mentale de précision de Stanford se tient le 25 septembre 2026, au cœur de la Precision Mental Health Week (21-26 septembre), rassemblant chercheurs, cliniciens et industriels autour des dernières avancées en neurosciences, imagerie et IA appliquées à la psychiatrie. L'événement s'inscrit dans la dynamique de l'initiative AI4MH (AI for Mental Health) de Stanford, qui vise à transformer la recherche, le diagnostic et le traitement des troubles psychiatriques par une IA responsable. Cette semaine thématique illustre la montée en puissance des approches de « psychiatrie de précision » combinant données biologiques, comportementales et cliniques."
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "summary": "La journée du 21 septembre 2026 illustre l'accélération simultanée des capacités techniques et des prises de conscience sociétales autour de l'IA en santé mentale. Du côté des avancées, l'UTHealth Houston publie dans npj Mental Health Research les résultats d'un outil multimodal atteignant un niveau diagnostique quasi équivalent à celui d'équipes de psychiatres, marquant un seuil symbolique fort. En parallèle, les études de population confirment l'ampleur du phénomène : un cinquième des adolescents américains utilisent déjà ces outils — souvent en secret — et 77 % des psychologues ont des patients y recourant, selon l'enquête 2026 de l'APA. La régulation s'accélère aux États-Unis avec cinq nouveaux États restrictifs, mais l'absence de cadre fédéral amplifie la fragmentation ; en France, la Fondation FondaMental prépare PsyTech 2026 pour structurer la réponse clinique et institutionnelle à ces défis.",
       "items": [
