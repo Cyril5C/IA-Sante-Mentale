@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-23",
+      "summary": "La journée du 23 septembre 2026 illustre la montée en tension entre adoption massive des chatbots IA pour la santé mentale et réponses institutionnelles qui s'accélèrent. La Harvard Gazette confirme une hausse de 60 % en un an de l'utilisation de l'IA par les jeunes pour leurs besoins psychologiques, tandis qu'une étude dans JAMA Pediatrics pointe un usage souvent non déclaré chez les adolescents, créant des angles morts cliniques. Cinq États américains supplémentaires ont interdit les chatbots thérapeutiques non supervisés en 2026, rejoignant une vague législative croissante. En France, le cadre juridique se consolide après le procès OpenAI de juillet 2026 et l'obligation, depuis août 2026, d'informer les patients qu'ils interagissent avec une IA. Les risques cliniques — psychose induite par chatbot, substitution inadaptée au soin — restent au cœur du débat et appellent à une régulation cohérente à l'échelle internationale.",
+      "items": [
+        {
+          "title": "AI use surging for mental health help among young people",
+          "url": "https://news.harvard.edu/gazette/story/2026/08/ai-use-surging-for-mental-health-help-among-young-people/",
+          "source": "Harvard Gazette",
+          "summary": "Une enquête citée par la Harvard Gazette révèle que le recours aux chatbots IA pour des questions de santé mentale chez les adolescents et jeunes adultes a bondi de 60 % en un an, atteignant désormais environ un jeune sur cinq aux États-Unis. Cette hausse spectaculaire s'accompagne d'un paradoxe : si beaucoup trouvent ces outils accessibles et utiles en l'absence de professionnels disponibles, l'absence de supervision clinique soulève des inquiétudes croissantes chez les spécialistes. L'article souligne la nécessité urgente d'éduquer les jeunes à un usage éclairé de ces technologies et de mieux intégrer cette réalité dans la pratique clinique."
+        },
+        {
+          "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13227335/",
+          "source": "JAMA Pediatrics / PubMed Central",
+          "summary": "Cette étude publiée dans JAMA Pediatrics analyse les pratiques de déclaration — et de non-déclaration — de l'usage des chatbots IA pour la santé mentale chez les adolescents américains. Les résultats montrent que de nombreux jeunes n'informent ni leurs thérapeutes ni leurs parents de leur recours à l'IA, créant une zone d'ombre clinique qui complique le suivi et la détection des risques. Les auteurs recommandent aux professionnels de santé d'intégrer systématiquement une question sur l'usage des chatbots IA dans leur évaluation initiale."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains supplémentaires ont adopté des lois restreignant ou interdisant les chatbots de thérapie IA, rejoignant l'Illinois et le Nevada : le Colorado, le Maine, le Vermont et le Rhode Island ont notamment prohibé les services de psychothérapie fournis par des IA sans supervision humaine agréée, tandis que l'Arizona impose un consentement éclairé documenté. Cette vague législative reflète une prise de conscience des risques cliniques liés à des chatbots opérant sans protocoles de sécurité suffisants, et pose la question d'une harmonisation fédérale qui tarde à venir."
+        },
+        {
+          "title": "ChatGPT Santé et IA médicale : de la décision CNOM au procès OpenAI de juillet 2026",
+          "url": "https://kohenavocats.com/chatgpt-sante-ia-medicale-responsabilite-medecin-openai-cnom-2026/",
+          "source": "Kohen Avocats",
+          "summary": "L'avocat Hassan Kohen analyse l'évolution du cadre juridique français autour de l'IA médicale : de la décision disciplinaire du CNOM de décembre 2025 au procès OpenAI de juillet 2026, consécutif à une plainte pour diagnostic erroné ayant mis une vie en danger. Il rappelle qu'en France toute IA revendiquant un effet thérapeutique relève du droit du dispositif médical, et que depuis le 2 août 2026 il est obligatoire d'informer le patient qu'il interagit avec une IA. Cette jurisprudence émergente dessine les contours d'une responsabilité médicale partagée entre praticiens et éditeurs de logiciels."
+        },
+        {
+          "title": "Psychose Induite par Chatbot : Comprendre les Risques de l'IA en 2026",
+          "url": "https://www.roboto.fr/blog/psychose-induite-par-chatbot-comprendre-les-risques-de-l-ia-en-2026",
+          "source": "Roboto.fr",
+          "summary": "Le site français Roboto.fr publie une analyse du phénomène de « psychose induite par chatbot », documentant des cas où des interactions intensives avec des IA ont généré ou exacerbé des états délirants chez des utilisateurs vulnérables. L'article identifie plusieurs facteurs de risque — isolement social, usage nocturne prolongé, personnalisation excessive — et appelle à l'introduction d'alertes cliniques automatiques dans les plateformes IA. Il s'inscrit dans un débat médical et éthique croissant sur la frontière entre soutien émotionnel et substitut thérapeutique."
+        },
+        {
+          "title": "How AI is changing the way people think about mental health support",
+          "url": "https://kvia.com/stacker-mental-health/2026/09/22/how-ai-is-changing-the-way-people-think-about-mental-health-support/",
+          "source": "KVIA / Stacker",
+          "summary": "Cet article de synthèse paru le 22 septembre 2026 compile les principales données sur la transformation des représentations de la santé mentale par l'IA : un Américain sur trois a déjà utilisé un chatbot pour du soutien émotionnel, 74 % estiment que la société décourage encore les personnes à chercher de l'aide, et 52 % citent l'accessibilité comme principal obstacle à la thérapie. L'IA est présentée comme un facteur potentiel de déstigmatisation, mais aussi comme un risque de substitution inadaptée aux soins cliniques qui mérite une attention soutenue."
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "summary": "La journée du 22 septembre 2026 révèle deux dynamiques simultanées : une adoption mondiale massive de l'IA pour la santé mentale, et l'émergence de nouveaux risques cliniques et sociaux qui l'accompagnent. Le rapport AXA Mind Health 2026 (19 000 personnes, 18 pays) confirme que 63 % de la population mondiale utilise l'IA pour des questions psychologiques, mais 28 % admettent que cela les a conduits à des comportements nuisibles — un signal d'alarme international. L'APA Monitor de septembre 2026 consacre un dossier à l'« AI psychosis », phénomène clinique nouveau où des interactions intensives avec des IA génèrent des états délirants chez des patients vulnérables. Sur le plan opérationnel, des modèles prédictifs IA atteignent 84 % de précision pour anticiper les crises psychiatriques un an à l'avance et passent du stade pilote aux cliniques rurales américaines. En France, la presse médicale spécialisée (Caducée.net) pointe un risque sous-documenté : le « burn-out algorithmique » lié à la surveillance et à l'intensification du travail induite par l'IA. Stanford lance simultanément sa semaine de la santé mentale de précision (21-26 sept.), fournissant l'arrière-plan académique de ces débats.",
       "items": [
