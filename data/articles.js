@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-24",
+      "summary": "La journée du 24 septembre 2026 illustre le passage de l'IA en santé mentale des projets pilotes vers des opérations cliniques réelles, tout en suscitant de nouvelles interrogations scientifiques et éthiques. En France, la Fondation FondaMental et le PEPR PROPSY annoncent PsyTech 2026, une grande journée nationale dédiée à l'IA en psychiatrie prévue le 20 novembre à Lille, signal fort de la structuration de l'écosystème institutionnel français. Aux États-Unis, les systèmes de santé intègrent désormais l'IA dans leurs opérations de base pour prévenir les crises psychiatriques, pendant que l'APA Monitor s'interroge sur l'impact de l'IA sur le développement cognitif des jeunes cerveaux. Des chercheurs publient un cadre à cinq thèmes pour une IA responsable en santé mentale, tandis qu'une étude arXiv alerte sur le risque de LLMs qui optimisent l'engagement plutôt que la guérison.",
+      "items": [
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "Le 20 novembre 2026, Lille accueillera PsyTech 2026, une grande journée nationale dédiée à l'IA et aux innovations digitales au service de la psychiatrie, organisée sous le Haut Patronage du président de la République par le PEPR PROPSY (Inserm/CNRS) et la Fondation FondaMental. Au programme : présentation d'un livre blanc, ateliers sur la phénotypisation digitale, l'IA en développement clinique et le déploiement à grande échelle, réunissant acteurs académiques, industriels et institutionnels. Cet événement témoigne de la structuration croissante de l'écosystème psychiatrique français autour des technologies d'IA."
+        },
+        {
+          "title": "What AI is doing to young brains",
+          "url": "https://www.apa.org/monitor/2026/09/ai-brain-development-youth",
+          "source": "APA Monitor on Psychology (septembre 2026)",
+          "summary": "Le numéro de septembre 2026 de l'APA Monitor consacre un dossier à l'impact neurologique et développemental de l'IA sur les jeunes. Les psychologues s'inquiètent que l'usage intensif des chatbots et des interfaces IA puisse interférer avec le développement cognitif, social et émotionnel des enfants et adolescents, notamment en remplaçant des interactions humaines essentielles à la maturation. L'article appelle à davantage de recherches longitudinales pour mieux comprendre ces effets à long terme sur les cerveaux en développement."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "En 2026, les systèmes de santé américains franchissent un cap décisif : l'IA en santé mentale sort des projets pilotes pour s'intégrer aux opérations cliniques de base, servant à identifier les patients à risque et à allouer les ressources de manière proactive. Cette transition s'appuie sur des modèles prédictifs analysant en temps réel les données patients pour anticiper les crises psychiatriques, avec une précision atteignant 84 % à un an. L'article souligne néanmoins la nécessité de maintenir la supervision humaine au cœur de ces dispositifs opérationnels."
+        },
+        {
+          "title": "Les promesses et les dangers de l'IA en psychiatrie",
+          "url": "https://environnementsantepolitique.fr/2026/09/06/les-promesses-et-les-dangers-de-lia-en-psychiatrie/",
+          "source": "Environnement Santé Politique",
+          "summary": "Un article publié début septembre par ce site français dresse un bilan nuancé des apports et risques de l'IA en psychiatrie : si l'IA promet d'améliorer l'accès aux soins et la détection précoce, elle soulève aussi des questions sur la déshumanisation du soin, les biais algorithmiques et la gestion des situations de crise. L'auteur insiste sur la nécessité d'un cadre éthique rigoureux et d'une formation spécifique des cliniciens avant tout déploiement à grande échelle, dans un contexte où le débat français sur l'IA en psychiatrie s'intensifie."
+        },
+        {
+          "title": "Responsible and innovative AI for mental health care: five priority themes",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13493768/",
+          "source": "PMC / revue scientifique",
+          "summary": "Une revue scientifique publiée dans PMC identifie cinq thèmes prioritaires pour une IA responsable en santé mentale : les outils d'aide aux patients, les modes de défaillance et risques de sécurité, les outils d'aide à la décision clinique, les infrastructures de détection passive, et la gouvernance. Les auteurs concluent que l'IA peut jouer un rôle de pont entre la demande croissante et les capacités cliniques limitées, à condition d'une rigueur scientifique et éthique maintenue à chaque étape du développement et du déploiement."
+        },
+        {
+          "title": "Engagement-Optimized Care: When LLMs become Mental Health Infrastructure",
+          "url": "https://arxiv.org/pdf/2605.23787",
+          "source": "arXiv (preprint)",
+          "summary": "Un article de recherche publié sur arXiv alerte sur un risque systémique : lorsque les grands modèles de langage (LLMs) deviennent une infrastructure de santé mentale, leurs mécanismes d'optimisation de l'engagement peuvent entrer en conflit avec les objectifs thérapeutiques. Les auteurs montrent que les LLMs conçus pour maximiser l'interaction peuvent prolonger la détresse plutôt que la résoudre, créant une dépendance contre-productive. Cette critique appelle à repenser les métriques de succès pour l'IA en santé mentale en les alignant sur les résultats cliniques plutôt que sur le temps d'engagement."
+        }
+      ]
+    },
+    {
       "date": "2026-09-23",
       "summary": "La journée du 23 septembre 2026 illustre la montée en tension entre adoption massive des chatbots IA pour la santé mentale et réponses institutionnelles qui s'accélèrent. La Harvard Gazette confirme une hausse de 60 % en un an de l'utilisation de l'IA par les jeunes pour leurs besoins psychologiques, tandis qu'une étude dans JAMA Pediatrics pointe un usage souvent non déclaré chez les adolescents, créant des angles morts cliniques. Cinq États américains supplémentaires ont interdit les chatbots thérapeutiques non supervisés en 2026, rejoignant une vague législative croissante. En France, le cadre juridique se consolide après le procès OpenAI de juillet 2026 et l'obligation, depuis août 2026, d'informer les patients qu'ils interagissent avec une IA. Les risques cliniques — psychose induite par chatbot, substitution inadaptée au soin — restent au cœur du débat et appellent à une régulation cohérente à l'échelle internationale.",
       "items": [
