@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-25",
+      "summary": "La journée du 25 septembre 2026 révèle une tension croissante entre les preuves empiriques du réconfort que peut apporter l'IA et les avertissements scientifiques sur ses effets délétères à long terme sur le lien social. Deux études publiées sur Phys.org montrent simultanément que l'IA peut se révéler plus réconfortante qu'un humain dans certaines situations d'urgence émotionnelle, tout en risquant d'éroder les compétences sociales des utilisateurs isolés qui l'utilisent comme substitut relationnel. Le rapport complet de l'APA sur les chatbots en santé mentale (plus de 1 200 psychologues sondés) révèle qu'un tiers des cliniciens ont des patients présentant une dépendance au chatbot et que 15 % ont observé l'émergence de croyances délirantes après usage prolongé — une ampleur clinique inédite. Sur le plan académique, un article publié dans la revue Science appelle à transformer systématiquement la recherche en santé mentale par l'IA, tandis qu'en Californie le sénateur Padilla dépose un projet de loi pour protéger les patients des thérapies IA non encadrées. En France, l'ANCT publie une synthèse institutionnelle soulignant le défi éthique majeur que représente la dépendance croissante aux outils IA dans un contexte de santé mentale inscrite comme Grande Cause nationale.",
+      "items": [
+        {
+          "title": "AI can be more comforting than a person—our research shows why",
+          "url": "https://phys.org/news/2026-09-ai-comforting-person.html",
+          "source": "Phys.org / recherche académique",
+          "summary": "Une étude publiée en septembre 2026 révèle, contre l'intuition commune, que l'IA peut parfois se montrer plus réconfortante qu'un humain dans certaines situations émotionnelles difficiles — notamment parce qu'elle ne juge pas, reste disponible à toute heure et adapte ses réponses sans fatigue émotionnelle. Les chercheurs rappellent cependant que ce confort a des limites essentielles : l'IA ne connaît pas le contexte personnel de l'utilisateur et ne peut assurer un suivi continu de l'évolution de sa situation. Cette découverte relance le débat sur la complémentarité entre IA et professionnels humains dans l'accompagnement psychologique."
+        },
+        {
+          "title": "AI companions may erode social skills among isolated users, framework suggests",
+          "url": "https://phys.org/news/2026-09-ai-companions-erode-social-skills.html",
+          "source": "Phys.org / recherche académique",
+          "summary": "Un cadre théorique publié sur Phys.org en septembre 2026 propose que les compagnons IA pourraient, chez les personnes isolées, provoquer une dégradation progressive des compétences sociales — phénomène baptisé « désapprentissage social ». Les personnes solitaires auraient tendance à recourir à l'IA comme substitut aux interactions humaines, réduisant les occasions de pratiquer des compétences relationnelles authentiques. Les auteurs recommandent des dispositifs d'accompagnement qui réintègrent explicitement des interactions humaines pour prévenir cet effet délétère à long terme."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "Le rapport complet de l'APA (2026), issu d'une enquête auprès de plus de 1 200 psychologues agréés américains, dresse un tableau clinique préoccupant : 36 % signalent des patients présentant une dépendance à un chatbot, 13 % rapportent des patients ayant développé une relation « intime » avec une IA, et 15 % ont observé l'émergence de croyances délirantes après des échanges prolongés. L'APA souligne l'urgence de former les cliniciens à ces nouveaux profils de patients et appelle à un encadrement réglementaire pour éviter que les chatbots ne deviennent des substituts inadaptés à la psychothérapie professionnelle."
+        },
+        {
+          "title": "Transforming mental health research and care through artificial intelligence",
+          "url": "https://www.science.org/doi/10.1126/science.adz9193",
+          "source": "Science (revue scientifique)",
+          "summary": "Un article de synthèse publié dans la prestigieuse revue Science argumente que l'IA est en train de transformer profondément la recherche et les soins en santé mentale, depuis le diagnostic assisté par imagerie jusqu'à la personnalisation des traitements. Les auteurs identifient des avancées majeures dans la détection précoce des troubles de l'humeur, la phénotypisation comportementale numérique et les outils d'aide à la décision clinique, tout en insistant sur la nécessité d'un cadre éthique rigoureux garantissant équité, transparence et sécurité à chaque étape du déploiement."
+        },
+        {
+          "title": "Senator Padilla Introduces Protections from Dangerous AI Therapy Products",
+          "url": "https://sd18.senate.ca.gov/news/senator-padilla-introduces-protections-dangerous-ai-therapy-products",
+          "source": "Sénat de Californie / Sénateur Steve Padilla",
+          "summary": "Le sénateur californien Steve Padilla a déposé un projet de loi visant à encadrer les « produits de thérapie IA dangereux » commercialisés sans validation clinique suffisante. Le texte prévoit des exigences de transparence algorithmique, une obligation d'alerte en cas de crise suicidaire et des mécanismes de responsabilisation des éditeurs en cas de préjudice. Cette initiative législative va plus loin que les lois déjà adoptées dans cinq autres États en 2026, en ciblant spécifiquement les outils thérapeutiques non encadrés à l'heure où les chatbots grand public se positionnent comme alternatives aux soins professionnels."
+        },
+        {
+          "title": "L'IA au chevet de la santé mentale ? Le nouveau défi éthique de la grande cause nationale",
+          "url": "https://lesbases.anct.gouv.fr/ressources/l-ia-au-chevet-de-nos-ames-le-nouveau-defi-ethique-de-la-grande-cause-nationale",
+          "source": "Les Bases (ANCT – Agence nationale de la cohésion des territoires)",
+          "summary": "L'ANCT publie une synthèse institutionnelle recensant les initiatives françaises déployant l'IA pour améliorer l'accès aux soins psychologiques, tout en soulignant les risques éthiques majeurs d'une dépendance croissante aux outils numériques. L'analyse rappelle que la santé mentale est inscrite comme Grande cause nationale depuis 2025 et que l'IA y joue désormais un rôle structurant, mais qu'un accompagnement éthique rigoureux reste indispensable pour éviter que la technologie ne creuse les inégalités de santé plutôt que de les résorber."
+        }
+      ]
+    },
+    {
       "date": "2026-09-24",
       "summary": "La journée du 24 septembre 2026 illustre le passage de l'IA en santé mentale des projets pilotes vers des opérations cliniques réelles, tout en suscitant de nouvelles interrogations scientifiques et éthiques. En France, la Fondation FondaMental et le PEPR PROPSY annoncent PsyTech 2026, une grande journée nationale dédiée à l'IA en psychiatrie prévue le 20 novembre à Lille, signal fort de la structuration de l'écosystème institutionnel français. Aux États-Unis, les systèmes de santé intègrent désormais l'IA dans leurs opérations de base pour prévenir les crises psychiatriques, pendant que l'APA Monitor s'interroge sur l'impact de l'IA sur le développement cognitif des jeunes cerveaux. Des chercheurs publient un cadre à cinq thèmes pour une IA responsable en santé mentale, tandis qu'une étude arXiv alerte sur le risque de LLMs qui optimisent l'engagement plutôt que la guérison.",
       "items": [
