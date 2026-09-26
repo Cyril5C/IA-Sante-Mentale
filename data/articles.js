@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-26",
+      "summary": "La journée du 26 septembre 2026 est dominée par la thématique des jeunes et des chatbots IA en santé mentale : une nouvelle étude preprint sur arXiv révèle un fossé préoccupant entre la perception parentale et la réalité des usages adolescents avec les compagnons IA, tandis que l'AJMC met en lumière les inégalités sociales qui structurent ces usages aux États-Unis. Près d'un tiers des adultes américains ont déjà eu recours à un chatbot pour un soutien émotionnel, et le numéro de septembre de l'APA Monitor on Psychology consacre sa une à ces enjeux grandissants pour la communauté clinique. En Europe, une étude Ipsos révèle des disparités culturelles marquées dans l'adoption des outils IA conversationnels par les jeunes, invitant à des politiques de santé publique adaptées aux contextes nationaux. En France, Caducée.net pointe la polarisation croissante que génère l'IA dans la santé mentale au travail, entre allié pour les cadres avertis et source d'anxiété pour les travailleurs les plus vulnérables.",
+      "items": [
+        {
+          "title": "What Parents Can See: Divergent Accounts of Youth AI Companion Use in Parenting and Teenager Subreddits",
+          "url": "https://arxiv.org/pdf/2609.20720",
+          "source": "ArXiv (preprint académique)",
+          "summary": "Une étude preprint publiée sur arXiv en septembre 2026 analyse les perceptions divergentes entre parents et adolescents concernant l'usage des compagnons IA. En comparant les discussions sur des subreddits destinés aux parents et aux adolescents, les chercheurs mettent en évidence un angle mort préoccupant : les parents sous-estiment largement l'intensité et l'intimité émotionnelle des relations que leurs enfants développent avec ces outils. Ces résultats interrogent les modalités de supervision parentale et de dialogue intergénérationnel à l'ère des IA conversationnelles."
+        },
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC (American Journal of Managed Care)",
+          "summary": "L'AJMC analyse les données issues de l'étude RAND/JAMA Pediatrics 2026 et met en lumière des inégalités significatives dans le recours des jeunes américains aux chatbots IA pour leur santé mentale : l'usage est plus répandu chez les jeunes femmes, les 18-21 ans et les personnes défavorisées faute d'accès aux soins professionnels. Parmi les utilisateurs, 92 % jugent ces conseils utiles et 63 % n'en ont parlé à personne — ce qui soulève des questions sur la qualité réelle des réponses et la nécessité d'une vigilance clinique accrue."
+        },
+        {
+          "title": "How AI is changing the way people think about mental health support",
+          "url": "https://abc17news.com/stacker-mental-health/2026/09/22/how-ai-is-changing-the-way-people-think-about-mental-health-support/",
+          "source": "ABC17News / Stacker Mental Health",
+          "summary": "Un article de synthèse publié le 22 septembre 2026 documente comment l'IA reconfigure les représentations du soutien psychologique aux États-Unis : 1 Américain sur 3 a déjà utilisé un chatbot pour un soutien émotionnel, et le rapport BetterHelp 2026 indique que 52 % des adultes citent l'accessibilité comme principal obstacle à la thérapie traditionnelle. Si l'IA comble partiellement ce vide, les experts alertent sur le risque que cette facilité d'accès ne retarde la recherche d'une aide professionnelle qualifiée."
+        },
+        {
+          "title": "September 2026 Monitor on Psychology",
+          "url": "https://www.apa.org/monitor/2026/09",
+          "source": "APA Monitor on Psychology",
+          "summary": "Le numéro de septembre 2026 du Monitor on Psychology de l'APA consacre une large part de sa couverture à l'intelligence artificielle en santé mentale, abordant la formation des cliniciens face aux patients utilisateurs de chatbots, la relation thérapeutique à l'ère numérique et les nouvelles données épidémiologiques sur l'usage des IA chez les jeunes. Ce numéro mensuel de référence reflète la montée en puissance du sujet au sein de la communauté professionnelle de psychologie américaine."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe",
+          "url": "https://www.ipsos.com/fr-fr/lia-conversationnelle-et-la-sante-mentale-des-jeunes-en-europe",
+          "source": "Ipsos",
+          "summary": "Une enquête Ipsos sur l'usage de l'IA conversationnelle et la santé mentale des jeunes en Europe révèle des disparités culturelles marquées dans l'adoption de ces outils : les jeunes Français recourent aux chatbots IA à des fins émotionnelles, mais dans un contexte de méfiance plus forte envers la technologie que leurs homologues britanniques ou nordiques. L'étude invite à adapter les politiques de santé publique aux spécificités culturelles nationales plutôt que de transposer directement les approches développées aux États-Unis."
+        },
+        {
+          "title": "Burn-out, IA : la santé mentale au travail entre usure et polarisation en 2026",
+          "url": "https://www.caducee.net/actualite-medicale/16764/burn-out-ia-la-sante-mentale-au-travail-entre-usure-et-polarisation-en-2026.html",
+          "source": "Caducée.net",
+          "summary": "Caducée.net publie une analyse sur l'intersection entre burn-out professionnel et intelligence artificielle en 2026 : si certains travailleurs utilisent des outils IA pour mieux gérer leur charge mentale et prévenir l'épuisement, d'autres vivent l'automatisation de leurs tâches comme une source d'anxiété supplémentaire. L'article pointe une polarisation croissante selon les profils : les cadres qui maîtrisent l'IA y voient un allié, tandis que les travailleurs moins qualifiés redoutent la perte de sens et d'emploi, avec un impact direct sur leur santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-09-25",
       "summary": "La journée du 25 septembre 2026 révèle une tension croissante entre les preuves empiriques du réconfort que peut apporter l'IA et les avertissements scientifiques sur ses effets délétères à long terme sur le lien social. Deux études publiées sur Phys.org montrent simultanément que l'IA peut se révéler plus réconfortante qu'un humain dans certaines situations d'urgence émotionnelle, tout en risquant d'éroder les compétences sociales des utilisateurs isolés qui l'utilisent comme substitut relationnel. Le rapport complet de l'APA sur les chatbots en santé mentale (plus de 1 200 psychologues sondés) révèle qu'un tiers des cliniciens ont des patients présentant une dépendance au chatbot et que 15 % ont observé l'émergence de croyances délirantes après usage prolongé — une ampleur clinique inédite. Sur le plan académique, un article publié dans la revue Science appelle à transformer systématiquement la recherche en santé mentale par l'IA, tandis qu'en Californie le sénateur Padilla dépose un projet de loi pour protéger les patients des thérapies IA non encadrées. En France, l'ANCT publie une synthèse institutionnelle soulignant le défi éthique majeur que représente la dépendance croissante aux outils IA dans un contexte de santé mentale inscrite comme Grande Cause nationale.",
       "items": [
