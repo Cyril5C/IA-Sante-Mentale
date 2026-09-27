@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-09-27",
+      "summary": "La journée du 27 septembre 2026 illustre à la fois la montée en puissance clinique de l'IA en santé mentale et les réponses réglementaires qu'elle suscite. Le rapport AXA Mind Health 2026 révèle que 63 % des personnes interrogées dans 18 pays ont déjà utilisé l'IA pour des questions de santé mentale, avec 28 % admettant que cela les a exposés à des comportements délétères. Les données de Dartmouth confirment qu'1 adolescent sur 5 se tourne vers l'IA pour des conseils psychologiques, pendant que cinq États américains supplémentaires restreignent les chatbots thérapeutiques en 2026 — illustrant un patchwork réglementaire qui contraste avec l'absence de cadre fédéral. En France, le congrès PsyTech 2026 à Lille — sous haut patronage présidentiel — signale l'institutionnalisation de l'IA au cœur du système psychiatrique français, tandis qu'une revue scientifique internationale invite les cliniciens à considérer l'IA comme un outil complémentaire exigeant une précision éthique stricte.",
+      "items": [
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, premier grand congrès national dédié à l'IA et aux innovations digitales en psychiatrie, qui se tiendra le 20 novembre à Lille sous haut patronage du président Macron et avec le soutien des ministères de la Santé et de la Recherche. Organisé dans le cadre du programme de recherche PEPR PROPSY (Inserm/CNRS), l'événement réunira chercheurs, cliniciens, industriels et décideurs publics autour du thème \"IA et innovation digitale pour la psychiatrie\". Cet événement marque l'institutionnalisation de l'IA en psychiatrie en France, avec la volonté explicite de structurer un écosystème d'innovation national."
+        },
+        {
+          "title": "Mental health: more than 6 out of 10 people turn to AI for psychological support",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA (Mind Health Report 2026)",
+          "summary": "Le rapport AXA Mind Health 2026, mené par Ipsos auprès de 19 000 adultes dans 18 pays, révèle que 63 % des répondants ont déjà utilisé l'IA pour des questions de santé mentale et que 28 % admettent que cela les a conduits à des comportements néfastes. Ce rapport dresse un tableau alarmant : 46 % des personnes dans le monde sont en souffrance ou en état de langueur, avec un pic de 59 % chez les 18-34 ans. L'IA y est décrite comme une épée à double tranchant — vecteur d'information et de soutien, mais aussi de mauvais conseils et d'isolement accru."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health recense cinq nouveaux États américains ayant adopté en 2026 des lois restreignant les chatbots thérapeutiques IA : le Colorado, le Maine, le Rhode Island, le Vermont et le Tennessee, rejoignant l'Illinois et le Nevada qui avaient agi en 2025. Ces législations reposent sur le pouvoir des États à délivrer des licences professionnelles en santé mentale et interdisent à l'IA de délivrer de façon autonome des soins psychothérapeutiques sans supervision humaine. Ce mouvement législatif crée un patchwork réglementaire qui contraste avec l'absence persistante d'un cadre fédéral homogène."
+        },
+        {
+          "title": "One in Five Youth Turn to AI for Mental Health Advice",
+          "url": "https://geiselmed.dartmouth.edu/news/2026/one-in-five-youth-turn-to-ai-for-mental-health-advice-video-wmur/",
+          "source": "Dartmouth Geisel School of Medicine",
+          "summary": "Des chercheurs de l'école de médecine Geisel de Dartmouth rapportent qu'un adolescent américain sur cinq se tourne vers l'IA pour obtenir des conseils sur sa santé mentale, un chiffre qui monte à 22 % chez les 18-21 ans. Ces résultats s'inscrivent dans la continuité de l'essai clinique Therabot, qui avait démontré des réductions significatives des symptômes dépressifs (−51 %) et anxieux (−31 %) via un chatbot IA calibré sur les principes de la TCC. Les chercheurs appellent à un encadrement rigoureux de ces usages spontanés, très éloignés des conditions contrôlées de leurs essais cliniques."
+        },
+        {
+          "title": "Artificial intelligence in psychological counseling: a double-edged sword demanding ethical precision",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12876763/",
+          "source": "NCBI / PMC (revue scientifique)",
+          "summary": "Une revue scientifique publiée sur NCBI examine l'intégration de l'IA dans le conseil psychologique et conclut que si ces outils peuvent améliorer l'accès aux soins et soutenir les praticiens, ils soulèvent des défis éthiques majeurs : respect de la confidentialité, risque de biais algorithmiques, absence de vrai lien empathique et potentiel de délégation excessive. Les auteurs appellent à une \"précision éthique\" dans le déploiement de l'IA en santé mentale, avec des protocoles de supervision clinique stricts et une transparence accrue vis-à-vis des patients. Cette synthèse reflète le consensus scientifique émergent qui reconnaît le potentiel de l'IA tout en exigeant un cadre éthique robuste."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News analyse comment en 2026 les outils IA passent du stade pilote à une intégration opérationnelle dans les systèmes de santé mentale aux États-Unis : des modèles prédictifs de détérioration clinique (jusqu'à 84 % de précision) sont désormais déployés dans des cliniques rurales du Dakota du Nord, du Minnesota et de Caroline du Nord pour anticiper les crises. Cet article souligne le saut qualitatif entre l'expérimentation et le déploiement réel — avec des résultats prometteurs sur la réduction des hospitalisations et l'amélioration du suivi ambulatoire. Cette intégration dans les opérations de soins constitue un signal fort de maturité technologique et organisationnelle dans le secteur."
+        }
+      ]
+    },
+    {
       "date": "2026-09-26",
       "summary": "La journée du 26 septembre 2026 est dominée par la thématique des jeunes et des chatbots IA en santé mentale : une nouvelle étude preprint sur arXiv révèle un fossé préoccupant entre la perception parentale et la réalité des usages adolescents avec les compagnons IA, tandis que l'AJMC met en lumière les inégalités sociales qui structurent ces usages aux États-Unis. Près d'un tiers des adultes américains ont déjà eu recours à un chatbot pour un soutien émotionnel, et le numéro de septembre de l'APA Monitor on Psychology consacre sa une à ces enjeux grandissants pour la communauté clinique. En Europe, une étude Ipsos révèle des disparités culturelles marquées dans l'adoption des outils IA conversationnels par les jeunes, invitant à des politiques de santé publique adaptées aux contextes nationaux. En France, Caducée.net pointe la polarisation croissante que génère l'IA dans la santé mentale au travail, entre allié pour les cadres avertis et source d'anxiété pour les travailleurs les plus vulnérables.",
       "items": [
