@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-01",
+      "summary": "À l'aube de la Journée mondiale de la santé mentale (10 octobre) et des Semaines d'information sur la santé mentale (SISM, 5-18 octobre), l'actualité du 1er octobre 2026 confirme la centralité de l'IA dans les débats sur la santé psychologique. Trois rapports majeurs récents dressent un bilan préoccupant : 63 % des personnes dans le monde recourent désormais à l'IA pour des questions de santé mentale (rapport AXA/Ipsos), 97 % des psychologues américains s'alarment du risque que ces outils renforcent des comportements néfastes (APA), et une étude de Stanford expose des lacunes profondes dans les méthodes d'évaluation de la sécurité des chatbots. Côté français, l'enquête européenne CNIL-Groupe VYV révèle qu'un jeune Français sur deux confie désormais des sujets personnels à une IA conversationnelle, tandis que la conférence internationale « Santé mentale des jeunes et IA » à Liège (5 octobre) réunit chercheurs et cliniciens pour formuler des recommandations urgentes.",
+      "items": [
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % des personnes utilisent l'IA pour leur santé mentale, mais 28 % déclarent en avoir subi des effets néfastes",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport annuel AXA Mind Health 2026, mené par Ipsos auprès de personnes dans le monde entier, révèle que 63 % des répondants ont déjà eu recours à l'IA pour des questions liées à leur santé mentale — mais 28 % admettent que certaines recommandations de l'IA les ont conduits à adopter des comportements néfastes. Le rapport souligne que les jeunes adultes de 18-34 ans sont les plus exposés : 59 % d'entre eux sont en situation de languissement ou de détresse psychologique, contre 46 % en moyenne mondiale. AXA avertit que l'IA, si elle peut faciliter l'accès à l'information, ne saurait se substituer à une prise en charge professionnelle."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe : les résultats de l'enquête CNIL–Groupe VYV",
+          "url": "https://www.santementale.fr/2026/05/quel-impact-des-usages-de-lia-sur-la-sante-mentale-des-jeunes-europeens/",
+          "source": "Santé Mentale / CNIL / Groupe VYV / Ipsos BVA",
+          "summary": "L'enquête européenne CNIL–Groupe VYV, conduite en janvier 2026 par Ipsos BVA auprès de 3 800 jeunes de 11 à 25 ans en France, Allemagne, Suède et Irlande, dévoile qu'un jeune Français sur deux discute de sujets personnels avec une IA conversationnelle : 35 % s'en servent pour gérer leur stress, 32 % quand ils se sentent tristes ou en colère. Si ces outils offrent une écoute perçue comme bienveillante et disponible, les auteurs alertent sur leur capacité à accentuer l'isolement, brouiller les repères relationnels et retarder la demande d'aide humaine. En réponse, la CNIL et le Groupe VYV ont lancé la plateforme européenne AI*me pour fédérer chercheurs, soignants et régulateurs."
+        },
+        {
+          "title": "Patients are bringing AI to therapy : le rapport de l'APA sur l'usage des chatbots par les patients",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'APA a interrogé plus de 1 200 psychologues agréés américains : 35 % déclarent que leurs patients utilisent l'IA comme « second thérapeute », et 36 % ont observé chez eux une forme de dépendance à un chatbot. Les chiffres sont alarmants — 97 % craignent que les chatbots renforcent comportements négatifs ou croyances dysfonctionnelles, et 89 % estiment qu'ils peuvent encourager l'automutilation — mais 71 % notent aussi que leurs patients se sentent validés et soutenus après ces échanges. L'APA appelle à des standards de sécurité clairs et à l'intégration supervisée de l'IA dans le parcours de soins, plutôt qu'à son utilisation autonome."
+        },
+        {
+          "title": "Stanford Study Exposes Major Flaw in AI Mental Health Safety Testing",
+          "url": "https://hai.stanford.edu/news/stanford-study-exposes-major-flaw-in-ai-mental-health-safety-testing",
+          "source": "Stanford HAI (Human-Centered AI)",
+          "summary": "Une étude de l'Institut HAI de Stanford pointe une faille structurelle dans l'évaluation de la sécurité des IA en santé mentale : les développeurs de chatbots font appel à des experts humains pour juger si les réponses de l'IA sont « sûres » — mais ces experts sont rarement d'accord entre eux. Pire, calculer la moyenne de leurs notes produit des réponses que personne ne juge satisfaisantes. La recherche montre que les méthodes de validation actuelles laissent passer des réponses potentiellement dangereuses pour les utilisateurs vulnérables, et appelle à une refonte des protocoles d'évaluation avant tout déploiement clinique."
+        },
+        {
+          "title": "Conférence « Santé mentale des jeunes et IA : risques, ressources et responsabilités collectives » — Liège, 5 octobre 2026",
+          "url": "https://anae-publication.com/agendas/5-octobre-2026-conference-sante-mentale-des-jeunes-et-ia-risques-ressources-et-responsabilites-collectives/",
+          "source": "ANAE / R.E.A.L.I.S.M (Liège)",
+          "summary": "À l'occasion de la semaine de la santé mentale, une conférence publique se tient le 5 octobre 2026 à l'Institut de zoologie de Liège : animée par le psychologue Arnaud Zarbo, elle propose un éclairage scientifique nuancé sur les liens entre IA conversationnelle, réseaux sociaux et bien-être des adolescents. La conférence s'inscrit dans un temps fort franco-belge de sensibilisation, coïncidant avec les Semaines d'information sur la santé mentale en France (5-18 octobre) et l'approche de la Journée mondiale de la santé mentale (10 octobre), dont le thème 2026 est « Lived experiences heard : real voices, real change »."
+        },
+        {
+          "title": "AI and Mental Health Conference 2026 — University of Michigan (5 octobre)",
+          "url": "https://alumni.umich.edu/lifelong-learning/events-exhibits-lectures/ai-and-mental-health-conference-2026/",
+          "source": "University of Michigan / MIDAS",
+          "summary": "L'Université du Michigan accueille le 5 octobre 2026 sa conférence annuelle IA et santé mentale, réunissant chercheurs, cliniciens, décideurs et représentants de l'industrie pour explorer comment les technologies d'IA influencent les individus, les soins et les communautés. Au programme : présentations de résultats récents, débats éthiques et élaboration de recommandations pratiques. Cet événement s'inscrit dans une effervescence académique internationale autour du sujet, alors que plusieurs institutions — Stanford, Harvard, Michigan — multiplient les initiatives pour encadrer scientifiquement et éthiquement le déploiement de l'IA en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "summary": "La journée du 30 septembre 2026 est dominée par la montée en puissance de la régulation des chatbots thérapeutiques aux États-Unis : sept États ont désormais adopté des lois interdisant ou encadrant strictement l'IA autonome dans la santé mentale, une vague sans précédent qui interroge l'absence de réglementation fédérale et traduit la prise de conscience collective des risques pour les patients vulnérables. En parallèle, deux avancées cliniques retiennent l'attention : le déploiement à grande échelle du modèle prédictif de Duke University capable d'anticiper les troubles psychiatriques des adolescents avec 84 % de précision, et les données de Dartmouth révélant qu'un jeune américain sur cinq consulte déjà l'IA pour des conseils en santé mentale. En France, la Fondation FondaMental annonce PsyTech 2026 — première édition d'un cycle de conférences intégré au programme France 2030 —, tandis que la question de la substitution des psychiatres par l'IA cristallise un débat public de plus en plus vif dans un contexte de pénurie grave de professionnels de santé mentale.",
       "items": [
