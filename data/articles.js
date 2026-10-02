@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-02",
+      "summary": "À quelques jours de la Journée mondiale de la santé mentale (10 octobre 2026, thème : « Lived Experiences Heard : Real Voices, Real Change »), le 2 octobre est marqué par une double dynamique : la régulation s'accélère (cinq nouveaux États américains restreignent les chatbots thérapeutiques, l'AI Act impose la transparence depuis août) tandis que l'IA s'intègre dans les opérations courantes des établissements de santé. La recherche scientifique progresse avec une étude pionnière de Cincinnati Children's Hospital utilisant la géométrie pour mesurer les différences culturelles dans le langage des personnes souffrant de troubles mentaux. En France, des enquêtes révèlent de multiples violations éthiques dans les chatbots de santé mentale et alertent sur la responsabilité envers les mineurs.",
+      "items": [
+        {
+          "title": "AI, Mental Health and the Common Good : Cincinnati Children's Hospital publie une étude pionnière sur le langage et la maladie mentale",
+          "url": "https://scienceblog.cincinnatichildrens.org/ai-mental-health-and-the-common-good/",
+          "source": "Cincinnati Children's Hospital / Research Horizons",
+          "summary": "Publiée le 1er octobre 2026, cette étude du Dr John Pestian utilise pour la première fois des méthodes géométriques pour mesurer quantitativement les différences culturelles dans le langage des personnes souffrant de maladies mentales. En partenariat avec l'Oak Ridge National Laboratory et ses supercalculateurs, l'équipe analyse des milliers d'entretiens afin de développer des outils d'IA capables de détecter précocement les risques de crise, d'anxiété et d'idéation suicidaire chez les enfants, en tenant compte des biais culturels — une avancée majeure pour la robustesse et l'équité des algorithmes cliniques."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026 : la vague réglementaire américaine s'amplifie",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq nouveaux États américains — Colorado, Maine, Rhode Island, Tennessee et Vermont — ont adopté en 2026 des lois restreignant l'usage des chatbots thérapeutiques autonomes, rejoignant l'Illinois et le Nevada qui avaient pris les devants. La FTC a par ailleurs lancé en septembre une enquête sur sept entreprises du secteur, en particulier sur la protection des mineurs. Cette vague sans précédent traduit la prise de conscience des risques liés à des produits déployés massivement sans validation clinique suffisante."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia.fr",
+          "summary": "Une étude relayée par Eudonia.fr documente quinze violations éthiques récurrentes dans les chatbots de santé mentale disponibles sur le marché : absence de détection des crises suicidaires, recommandations non fondées sur des preuves, bris de confidentialité, manipulation émotionnelle ou encore création délibérée de dépendance. Ces constats rejoignent les alertes de l'APA et de Stanford et alimentent le débat sur la nécessité d'une certification obligatoire avant mise sur le marché des outils thérapeutiques basés sur l'IA."
+        },
+        {
+          "title": "Mineurs, santé mentale et IA : quelle responsabilité face aux chatbots confidens ?",
+          "url": "https://mesinfos.fr/ile-de-france/mineurs-sante-mentale-et-ia-quelle-responsabilite-face-aux-chatbots-confidents-244953.html",
+          "source": "Affiches Parisiennes / mesinfos.fr",
+          "summary": "Ce reportage de la presse francilienne interroge la responsabilité juridique et éthique des éditeurs de chatbots « confidens » utilisés par des adolescents pour gérer leur mal-être. Avec la loi sur la majorité numérique en navette parlementaire et l'AI Act désormais en vigueur (obligation de transparence depuis le 2 août 2026), la question de la protection des mineurs face à des IA perçues comme des confidents se pose avec une acuité nouvelle — d'autant que les plateformes rechignent à intégrer les garde-fous recommandés par la CNIL."
+        },
+        {
+          "title": "Mental Health AI Breaking Through to Core Operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News constate que 2026 marque le passage de l'IA en santé mentale des programmes pilotes aux déploiements opérationnels dans les systèmes de santé américains. Les outils d'IA sont désormais utilisés pour prioriser les patients, optimiser la gestion des rendez-vous et détecter les situations d'urgence psychiatrique. Le marché mondial de l'IA en santé mentale devrait dépasser 8 milliards de dollars en 2026, avec plus de 40 % des plateformes de santé numérique intégrant désormais un outil d'évaluation ou de soutien basé sur l'IA."
+        },
+        {
+          "title": "World Mental Health Day Festival 2026 : « Lived Experiences Heard » — 10 octobre, New York",
+          "url": "https://www.projecthealthyminds.com/events/wmhd-festival-2026",
+          "source": "Project Healthy Minds",
+          "summary": "Le festival mondial de la santé mentale organisé par Project Healthy Minds se tient le 10 octobre 2026 au Spring Studios de New York, avec pour thème central l'écoute des vécus personnels (« Lived Experiences Heard : Real Voices, Real Change »). L'événement rassemble chercheurs, cliniciens, patients, militants et acteurs tech — dont plusieurs entreprises d'IA — autour de panels et témoignages visant à faire entendre les expériences réelles des personnes concernées comme levier de transformation des soins et des politiques de santé mentale à l'ère de l'IA."
+        }
+      ]
+    },
+    {
       "date": "2026-10-01",
       "summary": "À l'aube de la Journée mondiale de la santé mentale (10 octobre) et des Semaines d'information sur la santé mentale (SISM, 5-18 octobre), l'actualité du 1er octobre 2026 confirme la centralité de l'IA dans les débats sur la santé psychologique. Trois rapports majeurs récents dressent un bilan préoccupant : 63 % des personnes dans le monde recourent désormais à l'IA pour des questions de santé mentale (rapport AXA/Ipsos), 97 % des psychologues américains s'alarment du risque que ces outils renforcent des comportements néfastes (APA), et une étude de Stanford expose des lacunes profondes dans les méthodes d'évaluation de la sécurité des chatbots. Côté français, l'enquête européenne CNIL-Groupe VYV révèle qu'un jeune Français sur deux confie désormais des sujets personnels à une IA conversationnelle, tandis que la conférence internationale « Santé mentale des jeunes et IA » à Liège (5 octobre) réunit chercheurs et cliniciens pour formuler des recommandations urgentes.",
       "items": [
