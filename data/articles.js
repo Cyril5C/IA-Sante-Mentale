@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-03",
+      "summary": "Le 3 octobre 2026 ouvre la 37e édition des SISM (Semaines d'Information sur la Santé Mentale, 5-18 octobre), dans un contexte de forte mobilisation autour des enjeux IA et santé psychologique. En France, la revue Santé Mentale dénonce le vide juridique permettant aux chatbots de se présenter comme « thérapeutes », et la HAS intègre pour la première fois des critères spécifiques à l'intelligence artificielle dans son référentiel de certification des établissements de santé (version 2027). À l'international, Spring Health ouvre à la consultation publique un nouveau module de VERA-MH — cadre open source d'évaluation de la sécurité des IA en santé mentale — portant sur les réponses aux situations de violence. Experts francophones et anglophones convergent vers un même message : l'IA doit compléter la relation de soin, non s'y substituer.",
+      "items": [
+        {
+          "title": "Faut-il empêcher une IA de se présenter comme votre thérapeute ?",
+          "url": "https://www.santementale.fr/2026/09/faut-il-empecher-une-ia-de-se-presenter-comme-votre-therapeute/",
+          "source": "Revue Santé Mentale",
+          "summary": "Alors que les SISM 2026 s'ouvrent sur le thème « Pour notre santé mentale, ouvrons-nous aux arts », la revue Santé Mentale publie un dossier sur le flou juridique autour des chatbots thérapeutiques : ni le code de déontologie des psychologues ni l'AI Act n'interdisent formellement à un outil numérique de se présenter comme « votre thérapeute ». Les auteurs plaident pour une obligation légale de déclaration du statut non-humain et un encadrement des discours à connotation thérapeutique, en particulier pour protéger les publics vulnérables."
+        },
+        {
+          "title": "Certification HAS 2027 : l'IA entre pour la première fois dans le référentiel des établissements de santé",
+          "url": "https://application-sante-numerique.fr/blog/certification-has-2027-intelligence-artificielle-etablissements-sante/",
+          "source": "Application Santé Numérique / Haute Autorité de Santé",
+          "summary": "La Haute Autorité de Santé a dévoilé le 4 septembre 2026 son référentiel de certification V2027, qui intègre pour la première fois des critères dédiés à l'intelligence artificielle, applicables à partir de janvier 2027. Ce tournant réglementaire oblige hôpitaux et cliniques — y compris les services de psychiatrie — à formaliser leurs pratiques IA dans les soins et à renforcer la traçabilité et la gouvernance des outils algorithmiques utilisés auprès des patients."
+        },
+        {
+          "title": "MentalTech & Institut Sapiens dévoilent la cartographie des acteurs numériques de la santé mentale",
+          "url": "https://ticpharma.com/story/2053/le-collectif-mentaltech-et-l-institut-sapiens-devoilent-la-cartographie-des-acteurs-numeriques-de-la-sante-mentale.html",
+          "source": "TICpharma / Institut Sapiens / Collectif MentalTech",
+          "summary": "Le collectif MentalTech et l'Institut Sapiens publient la première cartographie complète des acteurs numériques de la santé mentale en France, recensant plus de 150 startups, applications et outils numériques actifs dans le secteur. Cette initiative vise à offrir aux professionnels de santé, aux décideurs et aux patients un panorama structuré d'un marché en forte croissance mais peu lisible, et à favoriser les collaborations entre innovateurs du numérique et cliniciens de la psychiatrie."
+        },
+        {
+          "title": "VERA-MH s'étend aux situations de violence : Spring Health ouvre son nouveau module à la consultation publique",
+          "url": "https://www.springhealth.com/news/spring-health-opens-vera-mh-harm-from-others-safety-rubric-for-public-comment",
+          "source": "Spring Health",
+          "summary": "Spring Health a mis en consultation publique en septembre 2026 le deuxième module de VERA-MH, le premier cadre d'évaluation open source dédié à la sécurité des IA en santé mentale. Ce nouveau volet « harm-from-others » évalue comment les chatbots répondent à un utilisateur qui décrit être victime de violence physique ou sexuelle, selon cinq dimensions : détection du risque, confirmation, orientation vers les professionnels, soutien conversationnel et respect des limites de l'IA. L'objectif est de doter l'industrie d'un standard commun et vérifiable."
+        },
+        {
+          "title": "Le faux débat sur les psychologues et l'IA",
+          "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-05/le-faux-debat-sur-les-psychologues-et-l-ia.php",
+          "source": "La Presse (Montréal)",
+          "summary": "Cette tribune de La Presse de Montréal déconstruit le débat binaire entre partisans et opposants de l'IA en psychiatrie : la vraie question n'est pas de savoir si l'IA remplace le thérapeute, mais comment elle peut compléter un système de soins saturé. L'auteur plaide pour un usage supervisé et fondé sur des preuves cliniques, où l'IA accompagne entre les séances sans jamais se substituer à la relation humaine — une voix francophone nuancée qui fait écho aux consensus émergents dans la littérature scientifique internationale."
+        },
+        {
+          "title": "AI Use and Emotional Problems in Children and Teens",
+          "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+          "source": "Psychology Today",
+          "summary": "Un article de Psychology Today analyse le lien entre usage de l'IA et problèmes émotionnels chez les enfants et adolescents : 1 jeune sur 5 aux États-Unis consulte un chatbot pour des difficultés de santé mentale, et plus de 63 % le font en secret. L'auteur souligne les risques spécifiques liés à l'immaturité neurologique des adolescents — plus vulnérables aux biais des IA et aux effets de dépendance — et appelle à une supervision parentale et pédagogique renforcée dans le contexte des SISM et de la Journée mondiale de la santé mentale (10 octobre)."
+        }
+      ]
+    },
+    {
       "date": "2026-10-02",
       "summary": "À quelques jours de la Journée mondiale de la santé mentale (10 octobre 2026, thème : « Lived Experiences Heard : Real Voices, Real Change »), le 2 octobre est marqué par une double dynamique : la régulation s'accélère (cinq nouveaux États américains restreignent les chatbots thérapeutiques, l'AI Act impose la transparence depuis août) tandis que l'IA s'intègre dans les opérations courantes des établissements de santé. La recherche scientifique progresse avec une étude pionnière de Cincinnati Children's Hospital utilisant la géométrie pour mesurer les différences culturelles dans le langage des personnes souffrant de troubles mentaux. En France, des enquêtes révèlent de multiples violations éthiques dans les chatbots de santé mentale et alertent sur la responsabilité envers les mineurs.",
       "items": [
