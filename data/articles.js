@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-04",
+      "summary": "Le 4 octobre 2026, à quatre jours de la Journée mondiale de la santé mentale, les chiffres du rapport AXA Mind Health 2026 dominent l'actualité : 63 % de la population mondiale a déjà eu recours à l'IA pour un soutien psychologique, mais 28 % reconnaissent que cela les a conduits à des comportements nocifs. La pression réglementaire s'amplifie aux États-Unis avec 78 projets de loi actifs dans 27 États ciblant les chatbots thérapeutiques, et 5 États ont déjà légiféré en 2026 pour en restreindre l'usage. En France, la Fondation FondaMental annonce PsyTech 2026 à Lille le 20 novembre, premier grand rendez-vous académico-industriel consacré à l'IA en psychiatrie. Pendant ce temps, l'Université Duke reçoit 15 millions de dollars pour déployer en milieu rural un modèle prédictif d'aggravation de la santé mentale chez l'adolescent, atteignant 84 % de précision.",
+      "items": [
+        {
+          "title": "63 % de la population mondiale a recours à l'IA en soutien psychologique (AXA Mind Health Report 2026)",
+          "url": "https://www.axa.com/fr/presse/communiques-de-presse/etude-sante-mentale-2026",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, mené avec Ipsos auprès de 20 000 personnes dans 16 pays, révèle que 63 % de la population mondiale a déjà utilisé l'IA pour s'informer sur sa santé mentale ou obtenir un soutien psychologique. Chiffre inquiétant : 28 % admettent que ces interactions les ont conduits à des comportements nocifs, et 42 % des utilisateurs suivent « presque systématiquement » les conseils prodigués par l'IA. Le rapport alerte également sur la dégradation générale de la santé mentale mondiale, avec seulement 23 % de la population considérée comme « flourishing »."
+        },
+        {
+          "title": "5 États américains restreignent les chatbots thérapeutiques en 2026 — 78 projets de loi actifs dans 27 États",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health recense au 4 octobre 2026 pas moins de 78 projets de loi relatifs aux chatbots thérapeutiques actifs dans 27 États américains, dont 5 déjà adoptés cette année. Illinois, Nevada, Rhode Island, Maine et Colorado interdisent ou restreignent strictement l'usage de l'IA pour délivrer de la thérapie au grand public, notamment pour protéger les mineurs. Les approches divergent : certains États optent pour l'interdiction pure, d'autres comme l'Utah privilégient la transparence et un régime de « safe harbor » pour les prestataires de soins."
+        },
+        {
+          "title": "PsyTech 2026 : l'IA et les innovations digitales au service de la psychiatrie — rendez-vous le 20 novembre à Lille",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental / PEPR PROPSY",
+          "summary": "La Fondation FondaMental et le programme de psychiatrie de précision PEPR PROPSY (Inserm/CNRS, France 2030) annoncent PsyTech 2026, qui se tiendra le 20 novembre à Lille. Cette journée réunira chercheurs, cliniciens, industriels et décideurs publics autour de l'intelligence artificielle et des innovations digitales en psychiatrie. Un livre blanc sera produit à l'issue de l'événement pour structurer l'écosystème d'innovation en santé mentale numérique en France."
+        },
+        {
+          "title": "Duke University obtient 15 M$ pour déployer un modèle IA de prédiction de la maladie mentale chez l'adolescent",
+          "url": "https://www.wcnc.com/article/local/associatedpress/duke-researchers-receive-15m-federal-grant-to-expand-ai-model-designed-to-predict-mental-illness/616-b5e1a29b-0b8c-4d0a-bcfc-7c8c98bc455b",
+          "source": "WCNC / Associated Press",
+          "summary": "Le National Institute of Mental Health accorde 15 millions de dollars à l'Université Duke pour étendre son modèle prédictif Duke-PMA, capable d'identifier les signes précoces de troubles mentaux chez les 10-15 ans avec une précision de 84 % jusqu'à un an avant l'apparition des symptômes. Le projet cible désormais 2 000 jeunes dans des cliniques rurales de Caroline du Nord, du Minnesota et du Dakota du Nord, régions où l'accès aux soins psychiatriques est particulièrement limité. L'outil analyse comportement, émotions et données cérébrales pour repérer des facteurs de risque modifiables comme le manque de sommeil ou les conflits familiaux."
+        },
+        {
+          "title": "Conférence « Santé mentale des jeunes et IA : risques, ressources et responsabilités collectives » — Liège, 5 octobre 2026",
+          "url": "https://anae-publication.com/agendas/5-octobre-2026-conference-sante-mentale-des-jeunes-et-ia-risques-ressources-et-responsabilites-collectives/",
+          "source": "ANAE / R.E.A.L.I.S.M (Belgique)",
+          "summary": "Le 5 octobre 2026 à l'Université de Liège, une conférence grand public organisée par le collectif R.E.A.L.I.S.M et ASBL Nadja réunit parents, éducateurs et professionnels autour des risques de l'IA pour la santé mentale des jeunes. Le psychologue-psychothérapeute Arnaud Zarbo y abordera les mécanismes d'attachement aux chatbots, les effets sur l'attention et la régulation émotionnelle, ainsi que les responsabilités collectives des familles et des institutions. L'événement s'inscrit en amont de la Journée mondiale de la santé mentale du 10 octobre."
+        },
+        {
+          "title": "Millions Already Turn to AI for Therapy. Is It Safe?",
+          "url": "https://magazine.hms.harvard.edu/articles/millions-already-turn-ai-therapy-it-safe",
+          "source": "Harvard Medicine Magazine",
+          "summary": "Le magazine de la Harvard Medical School dresse un bilan nuancé de l'usage massif des chatbots à visée thérapeutique : si leur accessibilité 24h/24 peut réduire les barrières à l'aide, les experts soulignent les risques liés à la complaisance et à la servilité de ces outils — tendance à valider les pensées de l'utilisateur plutôt qu'à les remettre en question. Plus d'un tiers des psychologues américains déclarent avoir des patients qui consultent une IA comme « thérapeute complémentaire », mais presque aucun protocole clinique ne régit encore cette pratique hybride."
+        }
+      ]
+    },
+    {
       "date": "2026-10-03",
       "summary": "Le 3 octobre 2026 ouvre la 37e édition des SISM (Semaines d'Information sur la Santé Mentale, 5-18 octobre), dans un contexte de forte mobilisation autour des enjeux IA et santé psychologique. En France, la revue Santé Mentale dénonce le vide juridique permettant aux chatbots de se présenter comme « thérapeutes », et la HAS intègre pour la première fois des critères spécifiques à l'intelligence artificielle dans son référentiel de certification des établissements de santé (version 2027). À l'international, Spring Health ouvre à la consultation publique un nouveau module de VERA-MH — cadre open source d'évaluation de la sécurité des IA en santé mentale — portant sur les réponses aux situations de violence. Experts francophones et anglophones convergent vers un même message : l'IA doit compléter la relation de soin, non s'y substituer.",
       "items": [
