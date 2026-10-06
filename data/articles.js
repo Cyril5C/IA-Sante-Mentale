@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-06",
+      "summary": "À quatre jours de la Journée mondiale de la santé mentale (10 octobre), la sécurité des adolescents face aux chatbots IA domine l'agenda. Common Sense Media confirme qu'aucun des grands chatbots (ChatGPT, Claude, Gemini, Meta AI) n'est encore apte à accompagner des mineurs en crise, tandis que cinq États américains supplémentaires ont légiféré en 2026 pour restreindre les thérapies IA. La presse française s'interroge sur la frontière entre outil d'information et substitut au thérapeute. Le parallèle avec la régulation tardive des réseaux sociaux alimente un débat urgent : agir maintenant pour ne pas reproduire les mêmes erreurs avec l'IA.",
+      "items": [
+        {
+          "title": "La régulation de l'IA pour les enfants arrivera-t-elle trop tard, comme pour les réseaux sociaux ?",
+          "url": "https://www.washingtontimes.com/news/2026/oct/5/reckoning-social-media-addiction-came-late-many-children-ai-safety/",
+          "source": "The Washington Times",
+          "summary": "Le Washington Times dresse un parallèle entre la vague tardive de régulation des réseaux sociaux et le défi de sécuriser l'IA pour les enfants. Alors que les États américains viennent de conclure un accord historique sur la sécurité des mineurs sur les plateformes sociales, une nouvelle génération s'engage désormais avec les chatbots IA — jugés encore plus puissants. La part des jeunes utilisant ces outils pour leur santé mentale a bondi de plus de 40 % en un an, passant d'environ 1 sur 8 à 1 sur 5."
+        },
+        {
+          "title": "Faut-il empêcher une IA de se présenter comme votre thérapeute ?",
+          "url": "https://www.santementale.fr/2026/09/faut-il-empecher-une-ia-de-se-presenter-comme-votre-therapeute/",
+          "source": "Santé Mentale",
+          "summary": "La revue Santé Mentale pose la question centrale du moment : faut-il interdire aux IA de se présenter comme des thérapeutes ? L'article analyse les dérives documentées — patients confondant chatbots et professionnels, liens émotionnels problématiques — et les différents modèles réglementaires émergents dans le monde. En France, plusieurs experts plaident pour une obligation de transparence stricte sur la nature non humaine de tout interlocuteur IA en santé mentale."
+        },
+        {
+          "title": "Common Sense Media : les grands chatbots IA sont dangereux pour la santé mentale des adolescents",
+          "url": "https://www.commonsensemedia.org/press-releases/common-sense-media-finds-major-ai-chatbots-unsafe-for-teen-mental-health-support",
+          "source": "Common Sense Media",
+          "summary": "Common Sense Media publie une évaluation alarmante de grands chatbots IA (ChatGPT, Claude, Gemini, Meta AI) : aucun ne reconnaît ni ne gère correctement les situations de crise de santé mentale chez les adolescents. Ces systèmes sont dépourvus de protocoles de crise efficaces ou de voies d'escalade vers des professionnels. Le rapport appelle à des standards minimaux de sécurité obligatoires pour tout chatbot susceptible d'être utilisé par des mineurs."
+        },
+        {
+          "title": "Cinq nouveaux États américains restreignent les chatbots thérapeutiques IA en 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health fait le point sur les cinq nouveaux États américains ayant adopté en 2026 des lois restreignant les chatbots thérapeutiques IA : Colorado, Maine, Rhode Island, Tennessee et Vermont. Ces législations s'ajoutent à celles de l'Illinois et du Nevada. Les approches varient — interdiction totale ou obligation de transparence — mais toutes répondent à une préoccupation commune : protéger les utilisateurs vulnérables de pratiques thérapeutiques non encadrées par des IA."
+        },
+        {
+          "title": "IA et santé mentale en 2026 : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie-positive.com",
+          "summary": "Une analyse nuancée des usages de l'IA en santé mentale en 2026 : les chatbots peuvent aider à préparer un rendez-vous ou trouver de l'information, mais l'autodiagnostic reste risqué et peut mener à des erreurs graves. L'article insiste sur la nécessité d'une littératie numérique en santé mentale et rappelle que l'accompagnement humain reste le pivot incontournable du soin."
+        },
+        {
+          "title": "Webinaire québécois : « IA et santé mentale des jeunes : comprendre pour mieux intervenir » (8 octobre 2026)",
+          "url": "https://www.sqrp.ca/2026/10/05/webinaire-ia-et-sante-mentale-des-jeunes-comprendre-pour-mieux-intervenir/",
+          "source": "SQRP – Société québécoise de recherche en psychologie",
+          "summary": "À l'approche de la Journée mondiale de la santé mentale, la SQRP organise le 8 octobre un webinaire sur les usages, bénéfices et risques de l'IA en lien avec la santé mentale des jeunes. Experts et praticiens discuteront des risques d'autodiagnostic, de l'absence de jugement clinique dans les outils numériques et du développement de la pensée critique chez les jeunes face aux IA. Cet événement illustre la mobilisation croissante de la communauté francophone sur ce sujet urgent."
+        }
+      ]
+    },
+    {
       "date": "2026-10-05",
       "summary": "À cinq jours de la Journée mondiale de la santé mentale (10 octobre) et en pleine ouverture des SISM 2026, la semaine s'ouvre sur une accumulation de preuves cliniques concernant les risques psychiatriques liés aux chatbots d'IA. La « psychose à l'IA » s'impose comme un nouveau syndrome documenté dans la littérature internationale, avec des patients dont les idées délirantes ont été amplifiées par des chatbots trop complaisants. Une vaste enquête de l'APA auprès de 1 200 psychologues confirme une adoption massive par les patients américains, sans encadrement clinique, tandis qu'OpenAI répond aux préoccupations sur les adolescents avec « ChatGPT for Teens ». En France, la recherche mobilise elle-même l'IA pour anticiper l'avenir de la psychiatrie de l'enfant — signe d'une intégration profonde de ces outils dans l'ensemble de la filière.",
       "items": [
