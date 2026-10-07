@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-07",
+      "summary": "À trois jours de la Journée mondiale de la santé mentale (10 octobre), OpenAI se retrouve au cœur de la polémique : son attaché de presse a interrompu en direct une interview pour empêcher Sam Altman de répondre à une question sur l'utilisation de ChatGPT dans la rédaction d'une note de suicide. Parallèlement, les données s'accumulent : une enquête CNIL-VYV révèle qu'un tiers des jeunes Français considèrent l'IA comme un « psy », tandis que des chercheurs de Duke University annoncent un outil d'IA prédisant la dégradation de la santé mentale des ados avec 84 % de précision. En Europe, l'AI Act impose depuis août 2026 aux chatbots de s'identifier comme tels — une obligation de transparence décisive qui prend tout son sens à la lumière de ces chiffres.",
+      "items": [
+        {
+          "title": "L'attaché de presse d'OpenAI interrompt une interview pour éviter une question sur ChatGPT et une note de suicide",
+          "url": "https://huffpost.com/entry/openai-publicist-crashes-interview-to-avoid-chatgpt-suicide-question_n_6ac3b758e4b0f45fd4cd8b9e",
+          "source": "HuffPost",
+          "summary": "Lors d'une interview en direct, l'attaché de presse d'OpenAI a interrompu la conversation pour empêcher Sam Altman de répondre à une question sur le cas d'un utilisateur ayant utilisé ChatGPT pour rédiger une note de suicide. Cet incident révèle la fragilité de la position d'OpenAI face aux critiques sur la sécurité de ses outils en santé mentale, dans un contexte où la société fait déjà face à des poursuites judiciaires pour mort injustifiée liées à son chatbot."
+        },
+        {
+          "title": "Au forum OpenAI, les débats se concentrent sur des mesures de sécurité renforcées pour les adolescents",
+          "url": "https://edweek.org/technology/at-openai-forum-discussion-focuses-on-stronger-teen-safety-measures/2026/10",
+          "source": "Education Week",
+          "summary": "OpenAI a réuni experts en technologie, éducation et santé mentale des jeunes pour discuter de mesures de sécurité renforcées à destination des adolescents. Le forum « Responsible AI for Teens » intervient sous pression réglementaire croissante, après plusieurs rapports alertant sur les risques des chatbots IA pour la santé mentale des mineurs, et en pleine semaine précédant la Journée mondiale de la santé mentale."
+        },
+        {
+          "title": "15 millions de dollars pour un outil d'IA qui prédit la détérioration de la santé mentale des ados un an à l'avance",
+          "url": "https://psychiatry.duke.edu/news/15-million-grant-duke-team-expands-ai-tool-predict-teen-mental-illness",
+          "source": "Duke Psychiatry",
+          "summary": "Duke University a reçu une subvention de 15 millions de dollars du NIMH pour développer Duke-PMA, un modèle d'IA capable de prédire la dégradation de la santé mentale des adolescents jusqu'à un an à l'avance avec une précision de 84 %. Ce dispositif est en cours de test dans des cliniques rurales en Caroline du Nord, Minnesota et Dakota du Nord, offrant une perspective concrète d'utilisation préventive de l'IA en psychiatrie pédiatrique."
+        },
+        {
+          "title": "64 % des jeunes prennent l'IA pour leur psy — est-ce inquiétant ?",
+          "url": "https://www.journaldugeek.com/2026/01/21/64-des-jeunes-prennent-lia-pour-leur-psy-est-ce-que-cest-inquietant/",
+          "source": "Journal du Geek",
+          "summary": "Une enquête CNIL-VYV auprès de 3 800 jeunes de 11 à 25 ans en France, Allemagne, Suède et Irlande révèle que 48 % utilisent l'IA conversationnelle pour des sujets personnels ou intimes, et 33 % la considèrent comme un thérapeute dans certains cas. Seuls 32 % comprennent ce que deviennent leurs données — une lacune de littératie numérique en santé mentale que soulignent la CNIL et le groupe VYV."
+        },
+        {
+          "title": "AI Act : les chatbots doivent désormais s'identifier comme IA, sous peine de lourdes amendes",
+          "url": "https://www.clubic.com/actualite-623773-tres-attendu-le-reglement-europeen-sur-l-ia-entre-en-application-ce-2-aout-voici-ce-qui-change-pour-vous.html",
+          "source": "Clubic",
+          "summary": "Depuis le 2 août 2026, l'AI Act européen impose aux chatbots de se déclarer explicitement comme intelligences artificielles, avec des amendes pouvant atteindre 35 millions d'euros ou 7 % du chiffre d'affaires mondial en cas de manquement. Pour le secteur de la santé mentale, cette obligation de transparence est fondamentale : elle vise à mettre fin aux confusions documentées chez les jeunes qui prennent l'IA pour un thérapeute humain."
+        },
+        {
+          "title": "Réseaux sociaux et ados : une étude française chiffre les dégâts à 3,94 milliards d'euros par an",
+          "url": "https://www.lesactusdunet.com/2026/10/03/reseaux-sociaux-et-ados-une-etude-francaise-met-un-chiffre-sur-les-degats-et-il-fait-mal/",
+          "source": "Les Actus du Net",
+          "summary": "Une étude française publiée début octobre 2026 quantifie pour la première fois le coût humain et économique des réseaux sociaux sur la santé mentale des adolescents : 590 000 cas de dépression supplémentaires, 799 suicides additionnels et un coût global estimé à 3,94 milliards d'euros par an. Ces chiffres s'inscrivent dans le débat plus large sur la responsabilité des plateformes numériques — et par extension des chatbots IA — face aux risques pour la jeunesse."
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "summary": "À quatre jours de la Journée mondiale de la santé mentale (10 octobre), la sécurité des adolescents face aux chatbots IA domine l'agenda. Common Sense Media confirme qu'aucun des grands chatbots (ChatGPT, Claude, Gemini, Meta AI) n'est encore apte à accompagner des mineurs en crise, tandis que cinq États américains supplémentaires ont légiféré en 2026 pour restreindre les thérapies IA. La presse française s'interroge sur la frontière entre outil d'information et substitut au thérapeute. Le parallèle avec la régulation tardive des réseaux sociaux alimente un débat urgent : agir maintenant pour ne pas reproduire les mêmes erreurs avec l'IA.",
       "items": [
