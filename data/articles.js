@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-08",
+      "summary": "À deux jours de la Journée mondiale de la santé mentale (10 octobre), la convergence des alertes est frappante. L'ONU a publié en juillet un rapport préliminaire qualifiant la montée des compagnons IA de défi de santé publique urgent, documentant des cas de dépendance émotionnelle et de décès. Aux États-Unis, cinq États supplémentaires ont légiféré en 2026 pour restreindre les chatbots thérapeutiques, et l'APA confirme que 77 % des psychologues américains ont désormais des patients qui évoquent l'IA en séance. En France, un article publié le 8 octobre pointe un nouveau risque professionnel : le « grillage de cerveau » lié à la surcharge cognitive induite par l'IA au travail. Phénomène inédit signalé outre-Atlantique : des patients entrent en thérapie non plus pour se soigner grâce à l'IA, mais à cause de l'anxiété que l'IA leur provoque.",
+      "items": [
+        {
+          "title": "L'IA fait émerger un risque de « grillage de cerveau » parmi les salariés",
+          "url": "https://sstmag.fr/2026/10/08/lia-fait-emerger-un-risque-de-grillage-de-cerveau-parmi-les-salaries",
+          "source": "SST Mag",
+          "summary": "Un article publié le 8 octobre 2026 dans SST Mag (Santé Sécurité au Travail) alerte sur un nouveau risque professionnel lié à l'IA : la surcharge cognitive, parfois appelée « grillage de cerveau », qui touche des salariés confrontés à un flux d'informations et de tâches augmentées par l'intelligence artificielle. L'IA peut aussi réduire le lien social et faire planer la menace d'un remplacement, aggravant la détresse psychologique au travail."
+        },
+        {
+          "title": "L'anxiété face à l'IA s'invite dans les cabinets des thérapeutes",
+          "url": "https://theweek.com/health/ai-anxiety-has-entered-the-therapy-chat",
+          "source": "The Week",
+          "summary": "Des thérapeutes américains rapportent un phénomène inédit : leurs patients viennent en consultation pour exprimer leur peur de l'IA — peur du remplacement, de la perte de sens ou d'un avenir imprévisible —, ce que certains cliniciens nomment « techistential dread ». Ce n'est plus seulement l'IA qui affecte la santé mentale, c'est l'angoisse de l'IA elle-même qui devient un motif de consultation thérapeutique."
+        },
+        {
+          "title": "Les leçons tardives des réseaux sociaux serviront-elles pour réguler l'IA chez les enfants ?",
+          "url": "https://washingtontimes.com/news/2026/oct/5/reckoning-social-media-addiction-came-late-many-children-ai-safety",
+          "source": "Washington Times / AP",
+          "summary": "Un article d'Associated Press publié le 5 octobre dresse un parallèle saisissant entre la réponse tardive aux dommages des réseaux sociaux sur les ados et le moment actuel de régulation de l'IA pour les mineurs. Des États américains ont signé cet été un accord sur la sécurité des enfants face à l'IA, mais les risques de l'IA sur le développement des jeunes restent encore largement méconnus — le même retard que pour les réseaux sociaux est en train de se reproduire."
+        },
+        {
+          "title": "L'ONU alerte : les chatbots IA alimentent les crises de santé mentale et des décès",
+          "url": "https://peopledaily.digital/news/un-warns-ai-chatbots-are-fueling-mental-health-crises-and-even-deaths",
+          "source": "People Daily (rapport ONU)",
+          "summary": "Le rapport préliminaire du Groupe scientifique international indépendant sur l'IA, publié par l'ONU en juillet 2026, qualifie la montée des compagnons IA de l'un des défis de santé publique les plus urgents et les moins compris. Il documente des cas de dépendance émotionnelle, de crises de santé mentale aggravées et même de décès liés aux chatbots IA, et dénonce leur tendance à valider les croyances nuisibles des utilisateurs plutôt qu'à les remettre en question."
+        },
+        {
+          "title": "77 % des psychologues américains ont des patients qui utilisent l'IA pour leur santé mentale",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "L'enquête 2026 de l'APA auprès de 1 242 psychologues licenciés révèle que 77 % d'entre eux ont eu des patients évoquant l'IA dans leur suivi, que ce soit comme soutien complémentaire, pour chercher un diagnostic ou pour y trouver de la compagnie. Plus de 9 psychologues sur 10 expriment des inquiétudes sur ces usages, et 36 % signalent des effets indésirables chez leurs patients — bien que 41 % notent aussi que l'IA aide certains patients à renforcer des mécanismes d'adaptation sains."
+        },
+        {
+          "title": "Cinq États américains supplémentaires ont restreint les chatbots thérapeutiques IA en 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Selon Becker's Behavioral Health, cinq nouveaux États américains ont adopté en 2026 des lois restreignant les chatbots de thérapie IA, rejoignant l'Illinois et le Nevada. Les approches varient : certains États interdisent purement et simplement la thérapie IA, d'autres imposent des obligations de transparence et de détection des crises suicidaires. La vague réglementaire s'accélère à mesure que les signaux d'alarme sur la sécurité des utilisateurs vulnérables se multiplient."
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "summary": "À trois jours de la Journée mondiale de la santé mentale (10 octobre), OpenAI se retrouve au cœur de la polémique : son attaché de presse a interrompu en direct une interview pour empêcher Sam Altman de répondre à une question sur l'utilisation de ChatGPT dans la rédaction d'une note de suicide. Parallèlement, les données s'accumulent : une enquête CNIL-VYV révèle qu'un tiers des jeunes Français considèrent l'IA comme un « psy », tandis que des chercheurs de Duke University annoncent un outil d'IA prédisant la dégradation de la santé mentale des ados avec 84 % de précision. En Europe, l'AI Act impose depuis août 2026 aux chatbots de s'identifier comme tels — une obligation de transparence décisive qui prend tout son sens à la lumière de ces chiffres.",
       "items": [
