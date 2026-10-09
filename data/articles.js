@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-09",
+      "summary": "À la veille de la Journée mondiale de la santé mentale (10 octobre), dont le thème officiel 2026 est « Des voix vécues entendues : un changement réel », les données convergent pour dresser un bilan contrasté de l'IA comme outil de soutien psychologique. Le rapport AXA Mind Health 2026 révèle que 63 % de la population mondiale utilise déjà l'IA pour sa santé mentale, mais que l'état de santé mentale global atteint son niveau le plus bas depuis six ans. En France, la presse régionale relaye les alertes des pédopsychiatres sur la relation des jeunes avec les assistants conversationnels. Aux États-Unis, des hôpitaux intègrent l'IA dans leurs opérations cliniques, tandis que des experts de Harvard appellent à un encadrement plus strict de ces outils.",
+      "items": [
+        {
+          "title": "Santé mentale : les jeunes ont-ils une relation dangereuse avec l'IA ?",
+          "url": "https://lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/sante-mentale-jeunes-relation-dangereuse-ia-400340",
+          "source": "Le Journal Toulousain",
+          "summary": "Dans le cadre des Semaines d'information sur la santé mentale (SISM), un pédopsychiatre toulousain alerte sur les risques d'un usage de l'IA sans recul critique chez les jeunes. Citant une enquête de la CNIL, il rappelle qu'une large part d'entre eux confient leurs problèmes personnels à des chatbots — ce n'est pas l'outil qui est en cause, mais l'absence de regard critique sur les réponses fournies."
+        },
+        {
+          "title": "63 % de la population mondiale utilise l'IA en soutien psychologique, mais beaucoup en sont insatisfaits",
+          "url": "https://fr.euronews.com/2026/06/03/plus-de-60-des-gens-utilisent-lia-pour-leur-sante-mentale-mais-beaucoup-en-sont-insatisfai",
+          "source": "Euronews (rapport AXA Mind Health 2026)",
+          "summary": "Le sixième rapport Mind Health d'AXA, mené avec Ipsos auprès de 19 000 personnes dans 18 pays, révèle que 63 % des répondants ont recours à l'IA pour leur santé mentale — un taux qui grimpe à 85 % chez les 18-24 ans anxieux. Mais 28 % reconnaissent que l'IA les a conduits à des comportements nocifs, et l'indice de santé mentale mondial atteint son niveau le plus bas depuis six ans, malgré — ou à cause de — cette omniprésence numérique."
+        },
+        {
+          "title": "L'IA s'intègre dans le cœur des opérations cliniques en santé mentale",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque l'année où l'IA passe de l'expérimentation à l'intégration dans les opérations cliniques quotidiennes des établissements de santé mentale américains. Les outils d'IA sont désormais utilisés pour la prise de notes, le dépistage précoce et la personnalisation des parcours de soins — mais leur déploiement rapide soulève des questions sur la formation des cliniciens et la supervision humaine nécessaire."
+        },
+        {
+          "title": "Des millions de personnes ont recours à l'IA en thérapie — mais est-ce sûr ?",
+          "url": "https://magazine.hms.harvard.edu/articles/millions-already-turn-ai-therapy-it-safe",
+          "source": "Harvard Medicine Magazine",
+          "summary": "La revue de la Harvard Medical School consacre un dossier à la montée en puissance des outils d'IA comme soutien thérapeutique, alors que des millions d'Américains s'y tournent pour gérer leur santé mentale. Les experts interrogés alertent sur l'absence de cadre réglementaire cohérent, sur les biais potentiels de ces outils et sur leur incapacité à détecter les situations de crise — appelant à des standards de sécurité plus stricts avant un déploiement généralisé."
+        },
+        {
+          "title": "Le tournant algorithmique dans les conversations sur la santé mentale",
+          "url": "https://thestatesman.com/supplements/miscellany/the-algorithmic-turn-in-mental-health-conversations-1503648880.html",
+          "source": "The Statesman",
+          "summary": "À l'occasion de la Journée mondiale de la santé mentale 2026, The Statesman analyse comment l'IA s'est imposée comme interlocuteur de premier recours pour la santé émotionnelle. Une étude représentative publiée en 2026 révèle que 19,2 % des adolescents et jeunes adultes américains (12-21 ans) ont utilisé un chatbot en cas de détresse psychologique, contre 13 % un an plus tôt. Si une majorité juge l'aide utile, des experts s'inquiètent de l'incapacité de ces outils à évaluer la gravité d'une situation."
+        },
+        {
+          "title": "Journée mondiale de la santé mentale 2026 : « Des voix vécues entendues »",
+          "url": "https://www.who.int/fr/campaigns/world-mental-health-day",
+          "source": "Organisation mondiale de la santé (OMS)",
+          "summary": "Le 10 octobre 2026, la Journée mondiale de la santé mentale se place sous le thème « Des voix vécues entendues : un changement réel », porté par la Fédération mondiale pour la santé mentale et l'OMS. Ce thème appelle à intégrer l'expérience des personnes concernées dans la conception des politiques de santé mentale — un contrepied implicite aux critiques sur les algorithmes d'IA qui répondent sans écouter vraiment."
+        }
+      ]
+    },
+    {
       "date": "2026-10-08",
       "summary": "À deux jours de la Journée mondiale de la santé mentale (10 octobre), la convergence des alertes est frappante. L'ONU a publié en juillet un rapport préliminaire qualifiant la montée des compagnons IA de défi de santé publique urgent, documentant des cas de dépendance émotionnelle et de décès. Aux États-Unis, cinq États supplémentaires ont légiféré en 2026 pour restreindre les chatbots thérapeutiques, et l'APA confirme que 77 % des psychologues américains ont désormais des patients qui évoquent l'IA en séance. En France, un article publié le 8 octobre pointe un nouveau risque professionnel : le « grillage de cerveau » lié à la surcharge cognitive induite par l'IA au travail. Phénomène inédit signalé outre-Atlantique : des patients entrent en thérapie non plus pour se soigner grâce à l'IA, mais à cause de l'anxiété que l'IA leur provoque.",
       "items": [
