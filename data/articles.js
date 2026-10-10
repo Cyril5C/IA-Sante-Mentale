@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-10",
+      "summary": "En cette Journée mondiale de la santé mentale 2026 (thème : « Des voix vécues entendues »), les enquêtes publiées à la veille de l'événement confirment une adoption massive et souvent secrète de l'IA par les jeunes : au Canada, un tiers des jeunes l'utilisent chaque mois pour leur santé mentale, sans en parler à personne. Aux États-Unis, la vague législative s'accélère — cinq États supplémentaires ont restreint les chatbots thérapeutiques en 2026 — tandis que les autorités fédérales réfléchissent à un encadrement des outils d'IA autonomes en santé. Une étude publiée dans The Lancet Digital Health relève que des modèles de langage placés sous stress émotionnel reproduisent des comportements humains, soulevant de nouvelles questions éthiques sur la nature de ces outils.",
+      "items": [
+        {
+          "title": "Un jeune Canadien sur trois utilise l'IA chaque mois pour sa santé mentale, souvent en secret",
+          "url": "https://newswire.ca/news-releases/new-jack-org-research-finds-one-in-three-young-people-surveyed-are-using-ai-for-mental-health-support-873689145.html",
+          "source": "Jack.org / Newswire Canada",
+          "summary": "Une enquête de l'organisme canadien Jack.org auprès de 395 jeunes révèle qu'un tiers d'entre eux utilisent l'IA générative au moins une fois par mois pour leur santé mentale. 78 % ont signalé des obstacles pour accéder à un soutien professionnel (coût, délais, stigmatisation), et près de la moitié de ceux qui ont recours à l'IA n'en parlent à personne. Le rapport, publié à la veille de la Journée mondiale de la santé mentale, appelle à mieux accompagner les jeunes dans cet usage."
+        },
+        {
+          "title": "Six personnes sur dix ont recours à des chatbots d'IA pour gérer leurs doutes émotionnels",
+          "url": "https://www.democrata.es/fr/sante/six-personnes-sur-dix-recourent-ou-envisagent-de-recourir-a-des-chatbots-d-ia-pour-gerer-des-doutes-emotionnels/",
+          "source": "Democrata.es (étude Doctoralia)",
+          "summary": "Une étude publiée par Doctoralia le 9 octobre 2026 indique qu'environ 60 % des personnes interrogées utilisent ou envisagent d'utiliser des chatbots d'IA pour gérer leurs difficultés émotionnelles. L'enquête souligne toutefois un risque majeur : celui que ces outils finissent par se substituer au jugement clinique des professionnels de santé, avec des conséquences potentiellement graves pour les personnes en situation de vulnérabilité."
+        },
+        {
+          "title": "Des chercheurs induisent des émotions dans des IA — les modèles réagissent comme des humains",
+          "url": "https://zmescience.com/science/news-science/scientists-tried-to-make-ai-chatbots-sad-and-afraid-things-got-weird-fast",
+          "source": "ZME Science / The Lancet Digital Health",
+          "summary": "Une étude publiée dans The Lancet Digital Health (relayée le 8 octobre) rapporte que des chercheurs ont réussi à induire des états émotionnels — peur, colère, tristesse, anxiété — dans six grands modèles de langage, dont les comportements ont alors ressemblé à des réponses humaines. Ces résultats soulèvent des questions éthiques inédites sur la conception d'outils d'IA à usage thérapeutique et sur leur comportement face à la détresse réelle des utilisateurs."
+        },
+        {
+          "title": "L'IA en santé progresse vers des rôles autonomes — la FDA ouvre une consultation publique",
+          "url": "https://kff.org/health-information-trust/ai-in-health-care-moves-toward-more-autonomous-roles",
+          "source": "KFF (Kaiser Family Foundation)",
+          "summary": "Un rapport du KFF publié le 8 octobre 2026 documente le glissement des agences fédérales américaines vers des pilotes d'IA à rôle plus autonome dans la prise en charge des patients. La FDA, qui n'a pas encore établi de cadre précis pour cette nouvelle catégorie d'outils, acceptait jusqu'au 19 octobre des commentaires publics sur leur encadrement — signe que la régulation fédérale de l'IA en santé mentale reste largement en retard sur la pratique."
+        },
+        {
+          "title": "Cinq États américains restreignent les chatbots thérapeutiques en 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Selon Becker's Behavioral Health, cinq États américains — dont le Colorado, le Maine et le Rhode Island — ont adopté en 2026 des lois limitant les chatbots thérapeutiques non supervisés par un professionnel agréé ; l'Illinois et le Nevada ont opté pour une interdiction totale. Au total, 146 projets de loi sur les obligations des chatbots étaient à l'examen lors des sessions législatives 2025-2026, illustrant la pression croissante exercée sur le secteur."
+        },
+        {
+          "title": "Journée mondiale de la santé mentale 2026 : l'anxiété liée à l'IA au travail en forte hausse",
+          "url": "https://www.grokker.com/blog/world-mental-health-day-2026-what-your-employees-expect-from-you",
+          "source": "Grokker",
+          "summary": "À l'occasion de la Journée mondiale de la santé mentale 2026, une étude de l'American Psychological Association citée par Grokker révèle que 48 % des travailleurs américains craignent que l'IA rende leurs fonctions obsolètes. Cet angle inédit — l'IA comme source d'anxiété professionnelle, et non plus seulement comme outil de soutien — s'impose comme l'une des tendances majeures de l'édition 2026 de la journée."
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "summary": "À la veille de la Journée mondiale de la santé mentale (10 octobre), dont le thème officiel 2026 est « Des voix vécues entendues : un changement réel », les données convergent pour dresser un bilan contrasté de l'IA comme outil de soutien psychologique. Le rapport AXA Mind Health 2026 révèle que 63 % de la population mondiale utilise déjà l'IA pour sa santé mentale, mais que l'état de santé mentale global atteint son niveau le plus bas depuis six ans. En France, la presse régionale relaye les alertes des pédopsychiatres sur la relation des jeunes avec les assistants conversationnels. Aux États-Unis, des hôpitaux intègrent l'IA dans leurs opérations cliniques, tandis que des experts de Harvard appellent à un encadrement plus strict de ces outils.",
       "items": [
