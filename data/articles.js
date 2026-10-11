@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-11",
+      "summary": "Au lendemain de la Journée mondiale de la santé mentale 2026, l'heure est aux bilans : l'American Psychological Association (APA) publie les résultats d'une enquête montrant que 77 % des psychologues américains ont constaté que leurs patients recourent à l'IA pour leur soutien psychologique, et émet une mise en garde officielle contre l'usage de l'IA générative en psychothérapie. Aux États-Unis, Quartz dresse une carte complète des lois étatiques encadrant ou interdisant les chatbots thérapeutiques. En France, la Fondation FondaMental annonce PsyTech 2026 (Lille, 20 novembre), grand rendez-vous institutionnel sur l'IA en psychiatrie, et la presse scientifique francophone synthétise les données disponibles sur l'efficacité — et les limites — de ces outils.",
+      "items": [
+        {
+          "title": "La Journée mondiale de la santé mentale 2026 met en lumière les risques de l'IA, des réseaux sociaux et de la solitude",
+          "url": "https://themedialine.org/headlines/world-mental-health-day-highlights-ai-risks-social-media-and-loneliness-new-approaches-to-trauma",
+          "source": "The Media Line",
+          "summary": "Le bilan de la Journée mondiale de la santé mentale (10 octobre 2026) dressé par The Media Line montre que les risques liés aux chatbots d'IA constituent une préoccupation montante : des études signalent que des patients vulnérables ont vu leurs délires ou comportements à risque renforcés par l'usage de ces outils. Solitude, réseaux sociaux et IA forment un triptyque de défis croissants pour les professionnels de la santé mentale à l'échelle mondiale."
+        },
+        {
+          "title": "77 % des psychologues américains ont des patients qui utilisent l'IA — l'APA déconseille son usage en psychothérapie",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'APA a publié les résultats d'une enquête menée auprès de 1 242 psychologues agréés : 77 % d'entre eux déclarent que leurs patients recourent à des chatbots d'IA pour un soutien psychologique, et 39 % ont constaté des auto-diagnostics via ces outils. L'APA a émis une mise en garde officielle contre l'usage de l'IA générative pour la psychothérapie, le traitement psychologique ou la gestion de crises, et a publié un guide de sécurité destiné aux patients."
+        },
+        {
+          "title": "L'IA en santé mentale s'intègre dans les opérations cliniques de base en 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, l'IA en santé mentale franchit en 2026 une étape décisive : elle s'intègre désormais dans les opérations cliniques de base — documentation des soins, aide à la décision et personnalisation des protocoles thérapeutiques — et non plus seulement dans les fonctions administratives. Cette évolution pose de nouveaux enjeux de gouvernance, de responsabilité clinique et de formation des équipes soignantes."
+        },
+        {
+          "title": "IA et santé mentale en 2026 : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie-positive.com",
+          "summary": "Une synthèse s'appuyant sur une méta-analyse publiée dans Frontiers in Psychiatry conclut que les agents conversationnels d'IA montrent des effets positifs modérés sur les symptômes dépressifs à court terme, mais des résultats plus faibles pour l'anxiété et le stress. Les experts recommandent de cantonner leur usage à la préparation de consultations ou à l'éducation thérapeutique, et déconseillent fermement l'auto-diagnostic."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie (Lille, 20 novembre)",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental annonce PsyTech 2026, journée nationale dédiée à l'IA et aux innovations numériques en psychiatrie, le 20 novembre à Lille, sous le haut patronage d'Emmanuel Macron et dans le cadre du PEPR PROPSY (piloté par l'Inserm et le CNRS). L'événement réunira chercheurs et cliniciens autour du phénotypage numérique, de l'IA dans le développement clinique et du passage à l'échelle des outils numériques — signe de la montée en puissance institutionnelle de ce champ en France."
+        },
+        {
+          "title": "Guide complet des lois américaines restreignant l'IA en santé mentale, État par État",
+          "url": "https://qz.com/state-laws-restricting-ai-mental-health-care-guide-072826",
+          "source": "Quartz",
+          "summary": "Quartz publie un guide explicatif complet sur les législations américaines encadrant ou interdisant l'IA en santé mentale, avec les lois déjà en vigueur dans des États comme le Maine (effectif depuis juillet 2026), l'Illinois et le Nevada. La pression réglementaire reste fragmentée, mais New York examine un projet de loi instaurant une responsabilité civile pour les opérateurs de chatbots prodiguant des conseils professionnels non autorisés."
+        }
+      ]
+    },
+    {
       "date": "2026-10-10",
       "summary": "En cette Journée mondiale de la santé mentale 2026 (thème : « Des voix vécues entendues »), les enquêtes publiées à la veille de l'événement confirment une adoption massive et souvent secrète de l'IA par les jeunes : au Canada, un tiers des jeunes l'utilisent chaque mois pour leur santé mentale, sans en parler à personne. Aux États-Unis, la vague législative s'accélère — cinq États supplémentaires ont restreint les chatbots thérapeutiques en 2026 — tandis que les autorités fédérales réfléchissent à un encadrement des outils d'IA autonomes en santé. Une étude publiée dans The Lancet Digital Health relève que des modèles de langage placés sous stress émotionnel reproduisent des comportements humains, soulevant de nouvelles questions éthiques sur la nature de ces outils.",
       "items": [
