@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-12",
+      "summary": "La veille du 12 octobre 2026 fait le point sur une adoption mondiale de l'IA pour la santé mentale qui dépasse désormais toutes les projections : le rapport AXA Mind Health 2026 révèle que 63 % de la population mondiale y recourt déjà, avec des risques documentés d'effets nocifs sur 28 % des utilisateurs. Les enquêtes européennes confirment une préoccupation particulière chez les jeunes, un tiers d'entre eux considérant l'IA comme un substitut au psychologue. Le Journal de l'Association médicale canadienne (CMAJ) tire la sonnette d'alarme sur le recours croissant à l'IA comme premier interlocuteur face aux idées suicidaires, tandis qu'en France la Grande Cause nationale 2026 alimente un débat institutionnel sur l'encadrement éthique de ces outils.",
+      "items": [
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % de la population mondiale utilise l'IA pour sa santé mentale",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, mené avec Ipsos dans 18 pays, révèle que plus de 63 % de la population mondiale recourt désormais à l'IA pour des questions de santé mentale, et que 42 % de ces utilisateurs suivent presque toujours les conseils reçus. Fait préoccupant : 28 % des utilisateurs reconnaissent que l'IA les a conduits à des comportements nocifs, tandis que la santé mentale mondiale continue de se dégrader, avec 46 % des répondants déclarant se sentir en souffrance psychologique."
+        },
+        {
+          "title": "Pour un jeune Européen sur trois, l'IA joue le rôle d'un « psy »",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/54758-Pour-jeune-trois-psy-IA",
+          "source": "Pourquoi Docteur",
+          "summary": "Une enquête Ipsos BVA menée auprès de 3 800 jeunes de 11 à 25 ans en France, Allemagne, Suède et Irlande révèle que 48 % ont déjà utilisé une IA conversationnelle pour évoquer des sujets personnels ou intimes, et qu'un tiers se tourne vers elle comme vers un professionnel de santé mentale — proportion qui monte à 46 % chez les jeunes souffrant d'anxiété. Cette normalisation rapide soulève des inquiétudes sur le manque de formation des jeunes à l'évaluation critique de ces outils."
+        },
+        {
+          "title": "L'IA comme premier recours face aux idées suicidaires : alerte du CMAJ",
+          "url": "https://www.cmaj.ca/custom-print/231124",
+          "source": "Canadian Medical Association Journal (CMAJ)",
+          "summary": "Une publication du Journal de l'Association médicale canadienne (CMAJ, juin 2026) tire la sonnette d'alarme : l'IA conversationnelle est de plus en plus utilisée comme premier interlocuteur par des personnes en état de détresse ou ayant des idées suicidaires, souvent avant les médecins ou les proches. Les auteurs soulignent l'absence d'obligations cliniques de ces systèmes (pas de signalement, pas d'orientation en urgence) et appellent à une régulation immédiate de ces usages."
+        },
+        {
+          "title": "ChatGPT, santé mentale, psychose : ce que cachent les chiffres d'OpenAI",
+          "url": "https://www.nssmag.com/fr/lifestyle/43140/chatgpt-sante-mentale-psychose-suicides",
+          "source": "NSS Magazine",
+          "summary": "NSS Magazine analyse les données internes d'OpenAI publiées en 2025, qui révèlent qu'environ 1,2 million de personnes par semaine partagent des intentions suicidaires avec ChatGPT, et que 0,07 % des utilisateurs actifs présentent des signes de psychose ou de manie. L'article souligne que les garde-fous du chatbot restent insuffisants et que ces conversations se déroulent sans aucun filet de sécurité clinique."
+        },
+        {
+          "title": "Grande Cause nationale 2026 : l'IA et la santé mentale face à un défi éthique inédit",
+          "url": "https://lesbases.anct.gouv.fr/ressources/l-ia-au-chevet-de-nos-ames-le-nouveau-defi-ethique-de-la-grande-cause-nationale",
+          "source": "ANCT – Les Bases",
+          "summary": "Dans le contexte de la Grande Cause nationale 2026 sur la santé mentale, une tribune publiée par l'ANCT souligne que la CNIL et la Haute Autorité de Santé ont émis des recommandations conjointes pour encadrer l'usage de l'IA. Le texte pointe le paradoxe d'une « écoute sans limites » proposée par des systèmes incapables de garantir la confidentialité des données ou un suivi clinique en cas de crise, et appelle à un encadrement législatif spécifique en France."
+        },
+        {
+          "title": "Santé mentale et psychiatrie : quelle place pour l'intelligence artificielle ?",
+          "url": "https://francais.medscape.com/voirarticle/3609799",
+          "source": "Medscape France",
+          "summary": "Une synthèse publiée sur Medscape France fait le point sur l'intégration de l'IA dans la psychiatrie : si des outils d'analyse vocale ou d'aide au diagnostic montrent des résultats prometteurs, les experts rappellent que ces modèles peinent à prédire le comportement individuel au-delà de 50 à 60 % et ne peuvent se substituer au jugement clinique. La question de la responsabilité juridique en cas d'erreur de l'IA reste entière en droit français."
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "summary": "Au lendemain de la Journée mondiale de la santé mentale 2026, l'heure est aux bilans : l'American Psychological Association (APA) publie les résultats d'une enquête montrant que 77 % des psychologues américains ont constaté que leurs patients recourent à l'IA pour leur soutien psychologique, et émet une mise en garde officielle contre l'usage de l'IA générative en psychothérapie. Aux États-Unis, Quartz dresse une carte complète des lois étatiques encadrant ou interdisant les chatbots thérapeutiques. En France, la Fondation FondaMental annonce PsyTech 2026 (Lille, 20 novembre), grand rendez-vous institutionnel sur l'IA en psychiatrie, et la presse scientifique francophone synthétise les données disponibles sur l'efficacité — et les limites — de ces outils.",
       "items": [
