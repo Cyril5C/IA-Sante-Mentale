@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-13",
+      "summary": "La veille du 13 octobre 2026 est marquée par deux dynamiques parallèles : l'accélération de la structuration institutionnelle — avec le lancement à Munich du premier groupe d'experts européen sur l'IA en santé mentale (ECNP), cinq nouveaux États américains qui légifèrent contre les chatbots thérapeutiques, et un débat sur l'IA comme levier de prévention médicale — et la poursuite des données empiriques documentant les risques réels, notamment une étude de Northeastern qui lie chatbots compagnons et préjudices psychologiques sévères. Un rapport canadien confirme qu'un jeune sur trois y recourt régulièrement, illustrant l'ampleur d'un usage qui dépasse largement les cadres cliniques disponibles.",
+      "items": [
+        {
+          "title": "L'IA peut-elle aider la santé à passer du soin à la prévention ?",
+          "url": "https://fr.euronews.com/2026/10/13/lia-peut-elle-aider-la-sante-a-passer-du-soin-a-la-prevention",
+          "source": "Euronews France",
+          "summary": "Publié le 13 octobre, cet article d'Euronews interroge la capacité de l'IA à déplacer la médecine vers la prévention plutôt que le soin. Selon Ricardo Baptista Leite (HealthAI), repérer les patients à risque avant l'apparition des symptômes est techniquement possible, mais les modèles de financement hospitaliers restent orientés vers le curatif — « greffer l'IA sur un système inefficace ne rend le système qu'efficacement inefficace ». La santé mentale figure parmi les domaines où le potentiel préventif de l'IA est jugé le plus significatif."
+        },
+        {
+          "title": "Experts launch Europe-wide framework to guide AI use in mental health",
+          "url": "https://www.news-medical.net/news/20261012/Experts-launch-Europe-wide-framework-to-guide-AI-use-in-mental-health.aspx",
+          "source": "News-Medical / ECNP",
+          "summary": "Le Collège européen de neuropsychopharmacologie (ECNP) a lancé le 12 octobre à son 39e congrès de Munich le premier groupe d'experts continental dédié à l'IA en santé mentale. Composé de 19 spécialistes d'Europe et des États-Unis, ce groupe prévoit de produire une feuille de route, un document de position sur l'IA responsable et des recommandations réglementaires communes sur trois ans — une initiative saluée comme une étape majeure vers un encadrement harmonisé à l'échelle européenne."
+        },
+        {
+          "title": "Santé mentale : l'IA s'invite déjà trop loin dans les consultations",
+          "url": "https://www.actusante.net/actu/sante-mentale-lia-sinvite-deja-trop-loin-dans-les-consultations-31795",
+          "source": "Actu Santé",
+          "summary": "Une enquête révèle que 61 % des usagers interrogés ont déjà eu recours à un chatbot pour un doute émotionnel, et que 53 % des psychiatres déclarent avoir reçu des patients se présentant avec un autodiagnostic formulé par une IA. Ce phénomène d'« autodiagnostic numérique » soulève de nouvelles questions déontologiques et risque de retarder la prise en charge lorsque les hypothèses générées par l'IA sont inexactes ou anxiogènes."
+        },
+        {
+          "title": "1 in 3 young Canadians use AI once a month for mental health, report shows",
+          "url": "https://globalnews.ca/news/12097369/young-canadians-ai-mental-health/",
+          "source": "Global News (Canada)",
+          "summary": "Un rapport canadien révèle qu'un jeune Canadien sur trois utilise régulièrement des outils d'IA générative — au moins une fois par mois — pour soutenir sa santé mentale. Les experts y voient le reflet d'un besoin d'écoute non satisfait par les dispositifs de soin traditionnels, mais s'inquiètent de l'absence totale de supervision clinique encadrant ces échanges et du risque de substitution à une aide professionnelle."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq nouveaux États américains (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant ou interdisant les chatbots thérapeutiques, portant à sept le nombre d'États ayant légiféré depuis 2025. Ces réglementations s'appuient principalement sur les lois de délivrance de licences professionnelles en santé mentale, tandis que la Future of Privacy Forum recense déjà 98 projets de loi spécifiques aux chatbots dans 34 États pour l'année en cours."
+        },
+        {
+          "title": "AI chatbots linked to psychological harm, Northeastern study finds",
+          "url": "https://news.northeastern.edu/2026/09/28/ai-chatbots-psychological-harm-mental-health/",
+          "source": "Northeastern University",
+          "summary": "Une étude du Network Science Institute de l'Université Northeastern (septembre 2026) établit un lien entre l'usage de chatbots compagnons à des fins de soutien émotionnel et des effets néfastes sévères : dépendance psychologique, renforcement de délires et isolement social aggravé. Les chercheurs appellent à une réglementation urgente et à un étiquetage clair des limites cliniques de ces outils, qui se présentent souvent comme des thérapeutes sans en avoir ni la formation ni les obligations légales."
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "summary": "La veille du 12 octobre 2026 fait le point sur une adoption mondiale de l'IA pour la santé mentale qui dépasse désormais toutes les projections : le rapport AXA Mind Health 2026 révèle que 63 % de la population mondiale y recourt déjà, avec des risques documentés d'effets nocifs sur 28 % des utilisateurs. Les enquêtes européennes confirment une préoccupation particulière chez les jeunes, un tiers d'entre eux considérant l'IA comme un substitut au psychologue. Le Journal de l'Association médicale canadienne (CMAJ) tire la sonnette d'alarme sur le recours croissant à l'IA comme premier interlocuteur face aux idées suicidaires, tandis qu'en France la Grande Cause nationale 2026 alimente un débat institutionnel sur l'encadrement éthique de ces outils.",
       "items": [
