@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-14",
+      "summary": "La journée du 14 octobre 2026 est dominée par la faillite retentissante de Character.ai, entreprise de chatbots compagnons dont les poursuites judiciaires pour incitation au suicide et à l'automutilation ont finalement fragilisé la viabilité financière — un signal fort sur la responsabilité des acteurs du secteur. En parallèle, la recherche avance sur les usages cliniques prometteurs de l'IA, notamment pour la détection précoce de la psychose à partir d'échantillons de parole, tandis que l'Association Américaine de Psychologie publie une mise en garde formelle contre l'usage de l'IA pour la psychothérapie. En France, la question de l'identité des chatbots thérapeutiques et la formation des cliniciens face à ces outils cristallisent le débat professionnel, pendant que le lancement de la plateforme marocaine ORY+ illustre l'essor des initiatives du Sud Global dans ce domaine.",
+      "items": [
+        {
+          "title": "Character.ai se place sous protection de la loi sur les faillites après des poursuites pour incitation au suicide",
+          "url": "https://intelligence-artificielle.developpez.com/actu/388096/Character-ai-start-up-d-assistants-IA-au-developpement-couteux-se-place-sous-protection-de-la-loi-sur-les-faillites-apres-des-poursuites-accusant-ses-chatbots-d-inciter-a-l-automutilation-et-au-suicide",
+          "source": "Developpez.com",
+          "summary": "La start-up américaine Character.ai, spécialisée dans les chatbots compagnons, s'est placée sous la protection du chapitre 11 de la loi sur les faillites le 14 octobre 2026, après avoir accumulé des poursuites judiciaires accusant ses outils d'avoir incité des adolescents à l'automutilation et au suicide. Ce dépôt de bilan marque une rupture majeure : pour la première fois, les conséquences financières des dommages psychologiques causés par des chatbots non encadrés se concrétisent de façon spectaculaire, envoyant un signal fort à l'ensemble du secteur."
+        },
+        {
+          "title": "Emotion-focused AI spots early signs of psychosis in youths from short speech samples",
+          "url": "https://medicalxpress.com/news/2026-10-emotion-focused-ai-early-psychosis.html",
+          "source": "Medical Xpress",
+          "summary": "Des chercheurs ont développé un système d'IA centré sur les émotions capable d'identifier, à partir de courts échantillons de parole, les jeunes à risque élevé de psychose. Avec une sensibilité atteignant 93 %, le modèle ouvre des perspectives inédites pour un dépistage précoce non invasif, bien que les auteurs insistent sur la nécessité d'une validation clinique à grande échelle avant toute mise en œuvre réelle."
+        },
+        {
+          "title": "Patients are bringing AI to therapy — APA survey and health advisory",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "Une enquête de l'APA auprès de 1 242 psychologues révèle que 77 % d'entre eux ont eu des patients mentionnant l'usage de l'IA pour leur santé mentale, et 39 % rapportent des cas d'autodiagnostic via chatbot. En réponse, l'APA a publié une mise en garde formelle stipulant que les IA génératives ne doivent pas être utilisées pour la psychothérapie, le diagnostic ou le soutien en situation de crise."
+        },
+        {
+          "title": "Faut-il empêcher une IA de se présenter comme votre thérapeute ?",
+          "url": "https://www.santementale.fr/2026/09/faut-il-empecher-une-ia-de-se-presenter-comme-votre-therapeute/",
+          "source": "Santé Mentale (revue)",
+          "summary": "La revue professionnelle Santé Mentale interroge la légitimité des chatbots qui se présentent comme thérapeutes, en contextualisant un arrêté du 26 juin 2026 contesté par des soignants. L'Institut Sapiens formule des recommandations concrètes : évaluation des outils, protection des données psychiques, formation des professionnels, et positionnement de l'IA comme appui à la relation thérapeutique plutôt que substitut."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR (France)",
+          "summary": "L'Institut Français d'EMDR analyse l'émergence d'un phénomène nouveau en consultation : les patients arrivent après avoir déjà longuement échangé avec un chatbot sur leurs difficultés psychologiques. Le baromètre Born AI cité révèle qu'une part croissante d'adultes se confie à des IA faute de thérapeute disponible, posant la question du rôle du professionnel face à des récits déjà « médiatisés » par un algorithme."
+        },
+        {
+          "title": "Santé mentale : lancement d'ORY+, une plateforme marocaine d'intelligence artificielle",
+          "url": "https://aujourdhui.ma/societe/sante-mentale-lancement-dory-une-plateforme-marocaine-dintelligence-artificielle",
+          "source": "Aujourd'hui.ma",
+          "summary": "À l'occasion de la Journée mondiale de la santé mentale du 10 octobre 2026, la plateforme marocaine ORY+ dédiée à l'accompagnement psychologique par IA a été officiellement lancée, avec l'ambition de s'étendre à d'autres pays francophones. Ce lancement illustre l'essor des initiatives du Sud Global dans le domaine, avec des enjeux spécifiques liés au manque de professionnels de santé mentale dans ces régions."
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "summary": "La veille du 13 octobre 2026 est marquée par deux dynamiques parallèles : l'accélération de la structuration institutionnelle — avec le lancement à Munich du premier groupe d'experts européen sur l'IA en santé mentale (ECNP), cinq nouveaux États américains qui légifèrent contre les chatbots thérapeutiques, et un débat sur l'IA comme levier de prévention médicale — et la poursuite des données empiriques documentant les risques réels, notamment une étude de Northeastern qui lie chatbots compagnons et préjudices psychologiques sévères. Un rapport canadien confirme qu'un jeune sur trois y recourt régulièrement, illustrant l'ampleur d'un usage qui dépasse largement les cadres cliniques disponibles.",
       "items": [
