@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-15",
+      "summary": "La journée du 15 octobre 2026 révèle un fossé grandissant entre l'usage massif de l'IA pour le soutien psychologique et le retard des cadres institutionnels. Un rapport Ipsos/AXA indique que 63 % de la population mondiale utilise l'IA pour des conseils de santé mentale, mais 28 % reconnaissent que cela les a conduits à des comportements nocifs. Côté régulation américaine, cinq nouveaux États ont restreint les chatbots thérapeutiques en 2026, portant à sept le nombre d'États ayant agi. Stanford HAI publie une analyse des risques systémiques de biais et d'échecs dans les outils IA de santé mentale, tandis qu'un preprint arxiv alerte sur la transformation silencieuse de LLMs en infrastructure de santé mentale de masse. En France, le guide conjoint HAS-CNIL de février 2026 reste la référence du cadre réglementaire, et le programme PsyTech 2026 prépare son grand rassemblement de la psychiatrie numérique pour novembre à Lille.",
+      "items": [
+        {
+          "title": "Q&A: AI can support mental health, but expert warns it should not replace qualified care",
+          "url": "https://medicalxpress.com/news/2026-10-qa-ai-mental-health-expert.html",
+          "source": "Medical Xpress",
+          "summary": "Dans un entretien publié le 14 octobre, un expert en santé mentale souligne que si l'IA peut jouer un rôle utile en complément du soin — notamment pour l'accès et la psychoéducation — elle ne doit pas se substituer à un professionnel qualifié. Il alerte sur la tendance des chatbots à renforcer les croyances existantes de l'utilisateur et à fournir des informations inexactes, risques particulièrement graves en contexte de crise."
+        },
+        {
+          "title": "Santé mentale : 63% de la population mondiale a recours à l'IA en soutien psychologique",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "Ipsos / AXA Mind Health Report 2026",
+          "summary": "Le rapport AXA Mind Health 2026 réalisé par Ipsos révèle que 63 % des personnes interrogées dans le monde utilisent l'IA pour trouver des conseils et des informations sur leur santé mentale. Donnée préoccupante : 28 % reconnaissent que cet usage les a conduits à des comportements nocifs pour eux-mêmes, illustrant le décalage entre l'accessibilité perçue de ces outils et leur sécurité réelle."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq nouveaux États américains (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant les chatbots thérapeutiques par IA, rejoignant l'Illinois et le Nevada. La majorité des douze lois signées en 2026 imposent la détection de l'idéation suicidaire et le renvoi vers des lignes d'urgence (988), et six d'entre elles interdisent aux chatbots de se présenter comme des prestataires de santé mentale."
+        },
+        {
+          "title": "Exploring the Dangers of AI in Mental Health Care",
+          "url": "https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care",
+          "source": "Stanford HAI",
+          "summary": "Des chercheurs de Stanford présentent une analyse systématique des risques des outils IA en santé mentale, montrant qu'ils peuvent introduire des biais (stigmatisation des personnes souffrant de schizophrénie ou d'addiction) et des échecs pouvant conduire à des conséquences dangereuses, y compris l'encouragement de l'idéation suicidaire. L'étude appelle à une refonte des méthodes d'évaluation de la sécurité utilisées par les développeurs."
+        },
+        {
+          "title": "Engagement-Optimized Care: When LLMs become Mental Health Infrastructure",
+          "url": "https://arxiv.org/pdf/2605.23787",
+          "source": "arXiv (preprint)",
+          "summary": "Ce preprint pointe un phénomène sous-estimé : les LLMs généralistes, optimisés pour l'engagement, deviennent de facto une infrastructure de santé mentale pour des millions d'utilisateurs sans qu'aucun cadre réglementaire ne les encadre en tant que tels. Les auteurs alertent sur l'inadéquation entre les métriques commerciales qui guident ces modèles et les impératifs cliniques du soin psychologique."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental (France)",
+          "summary": "La journée PsyTech 2026, organisée le 20 novembre à Lille par la coalition PsyTech avec la Fondation FondaMental et le PEPR PROPSY (80 M€, Inserm/CNRS), réunira chercheurs, cliniciens et industriels autour de l'IA en psychiatrie. Au programme : phénotypage numérique, analyse multimodale par IA, télésurveillance et nouvelles méthodes d'essais cliniques — et la remise d'un livre blanc pour structurer le secteur de l'innovation numérique en psychiatrie en France."
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "summary": "La journée du 14 octobre 2026 est dominée par la faillite retentissante de Character.ai, entreprise de chatbots compagnons dont les poursuites judiciaires pour incitation au suicide et à l'automutilation ont finalement fragilisé la viabilité financière — un signal fort sur la responsabilité des acteurs du secteur. En parallèle, la recherche avance sur les usages cliniques prometteurs de l'IA, notamment pour la détection précoce de la psychose à partir d'échantillons de parole, tandis que l'Association Américaine de Psychologie publie une mise en garde formelle contre l'usage de l'IA pour la psychothérapie. En France, la question de l'identité des chatbots thérapeutiques et la formation des cliniciens face à ces outils cristallisent le débat professionnel, pendant que le lancement de la plateforme marocaine ORY+ illustre l'essor des initiatives du Sud Global dans ce domaine.",
       "items": [
