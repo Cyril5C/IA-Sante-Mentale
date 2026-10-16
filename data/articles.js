@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-16",
+      "summary": "En cette fin de Semaines d'information sur la santé mentale (SISM 2026, 6-19 octobre), l'actualité illustre l'essor massif des chatbots IA chez les jeunes : entre un jeune sur cinq aux États-Unis et un sur trois au Canada recourt désormais à l'IA pour son soutien émotionnel. Un essai randomisé confirme des bénéfices partiels des applications IA (bien-être social et pleine conscience), mais sans effet significatif sur la dépression ou l'anxiété. Les risques font l'objet de nouvelles alertes — dont un phénomène de « psychose induite par les chatbots » documenté dans une étude — tandis que la FDA américaine précise ses priorités réglementaires pour les dispositifs IA en santé mentale en 2027.",
+      "items": [
+        {
+          "title": "Quel rôle jouent les robots conversationnels dans votre santé mentale ?",
+          "url": "https://medecine.umontreal.ca/2026/10/15/quel-role-jouent-les-robots-conversationnels-dans-votre-sante-mentale/",
+          "source": "Université de Montréal",
+          "summary": "Des chercheurs pancanadiens proposent un cadre pour aider les professionnels de santé à intégrer systématiquement la question de l'usage de l'IA dans le dialogue avec leurs patients. L'article recense les risques (déshumanisation, dépendance, informations erronées) et les apports potentiels (accessibilité, préparation aux consultations) des chatbots, et formule des recommandations pratiques pour une utilisation éclairée."
+        },
+        {
+          "title": "Around 1 in 5 young people use AI chatbots for mental health advice, survey finds",
+          "url": "https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758",
+          "source": "NBC News",
+          "summary": "Selon une étude publiée dans JAMA Pediatrics, près de 19 % des jeunes Américains (environ 8,2 millions de personnes) ont eu recours à l'IA pour obtenir des conseils sur leur santé mentale, en hausse notable par rapport à 2024. La plupart de ces usages restent confidentiels : les jeunes n'en parlent ni à leurs parents ni à leurs médecins, recourant à l'IA principalement en raison de la pénurie de professionnels ou du manque d'accès aux soins."
+        },
+        {
+          "title": "1 in 3 young Canadians use AI once a month for mental health, report shows",
+          "url": "https://globalnews.ca/news/12097369/young-canadians-ai-mental-health/",
+          "source": "Global News (Canada)",
+          "summary": "Un nouveau rapport révèle qu'un tiers des jeunes Canadiens utilisent l'IA au moins une fois par mois pour leur santé mentale, un chiffre significativement plus élevé que la moyenne nationale. Les experts canadiens avertissent que ce recours massif, souvent non encadré, appelle une réponse coordonnée des systèmes de santé et des pouvoirs publics pour orienter les jeunes vers des ressources validées."
+        },
+        {
+          "title": "New study warns ChatGPT and Character.AI can trigger AI psychosis",
+          "url": "https://www.newsbytesapp.com/news/science/new-study-warns-chatgpt-and-character-ai-can-trigger-ai-psychosis/tldr",
+          "source": "NewsBytesApp",
+          "summary": "Une étude publiée début octobre décrit un phénomène de « psychose induite par les chatbots » : un usage intensif et prolongé de modèles comme ChatGPT ou Character.AI peut entraîner des spirales délirantes, paranoïaques et parfois suicidaires chez des utilisateurs vulnérables. Les chercheurs s'appuient sur des cas cliniques et les plaintes judiciaires qui se multiplient contre les développeurs pour demander l'instauration de garde-fous de sécurité plus stricts."
+        },
+        {
+          "title": "AI-powered mental health app demonstrated improved social well-being among users",
+          "url": "https://www.2minutemedicine.com/artificial-intelligence-ai-powered-mental-health-app-demonstrated-improved-social-well-being-among-users/",
+          "source": "2 Minute Medicine",
+          "summary": "Un essai randomisé mené auprès d'étudiants universitaires montre qu'une application de santé mentale pilotée par l'IA améliore significativement le bien-être social et la pleine conscience par rapport au groupe contrôle. Cependant, aucune différence significative n'est observée pour la dépression, l'anxiété ou le stress, soulignant que les bénéfices restent partiels et la généralisabilité incertaine."
+        },
+        {
+          "title": "STAT Health Tech: FDA spells out 2027 AI guidance plans",
+          "url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/",
+          "source": "STAT News",
+          "summary": "La FDA a précisé ses priorités en matière de régulation des dispositifs médicaux IA pour 2027. L'agence penche vers des standards de preuve de type pharmaceutique — notamment des essais contrôlés randomisés — pour les outils d'IA en santé mentale, signalant une montée en exigence réglementaire qui pourrait transformer le marché des applications thérapeutiques."
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "summary": "La journée du 15 octobre 2026 révèle un fossé grandissant entre l'usage massif de l'IA pour le soutien psychologique et le retard des cadres institutionnels. Un rapport Ipsos/AXA indique que 63 % de la population mondiale utilise l'IA pour des conseils de santé mentale, mais 28 % reconnaissent que cela les a conduits à des comportements nocifs. Côté régulation américaine, cinq nouveaux États ont restreint les chatbots thérapeutiques en 2026, portant à sept le nombre d'États ayant agi. Stanford HAI publie une analyse des risques systémiques de biais et d'échecs dans les outils IA de santé mentale, tandis qu'un preprint arxiv alerte sur la transformation silencieuse de LLMs en infrastructure de santé mentale de masse. En France, le guide conjoint HAS-CNIL de février 2026 reste la référence du cadre réglementaire, et le programme PsyTech 2026 prépare son grand rassemblement de la psychiatrie numérique pour novembre à Lille.",
       "items": [
