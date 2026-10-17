@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-17",
+      "summary": "En ce dernier week-end des SISM 2026, la déclaration d'Elon Musk sur ses propres épisodes de « psychose IA » vécus six fois en un an a cristallisé les débats : entre banalisation par la culture tech et alertes psychiatriques, la frontière entre usage intense et dérive pathologique reste floue. En France, une enquête Ipsos BVA révèle qu'un tiers des Français considère un chatbot comme un « psy » dans certaines situations, et des praticiens s'alarment d'une délégation clinique à des outils non certifiés. Aux États-Unis, la réglementation s'accélère avec trois projets de loi étatiques visant les mineurs et les thérapeutes, tandis que l'APA publie son enquête 2026 montrant que 35 % des psychologues américains voient leurs patients utiliser l'IA comme second thérapeute. Un preprint arXiv propose un modèle de supervision hybride humain-IA issu de l'analyse de 350 000 conversations de coaching.",
+      "items": [
+        {
+          "title": "Elon Musk Says He Experienced AI Psychosis Six Times, Silicon Valley Embraces the Trend",
+          "url": "https://sciencetimes.com/articles/62761/20261016/elon-musk-says-he-experienced-ai-psychosis-six-times-silicon-valley-embraces-trend.htm",
+          "source": "Science Times",
+          "summary": "Lors d'un événement le 10 octobre, Elon Musk a confessé avoir vécu une « psychose IA » environ six fois au cours de la dernière année — une déclaration qui a fait basculer le terme d'alerte clinique en phénomène culturel dans certains cercles tech, certains allant jusqu'à le revendiquer comme un badge de fierté. Des psychiatres s'inquiètent que cette banalisation masque des risques réels pour les utilisateurs vulnérables faisant un usage intensif des chatbots."
+        },
+        {
+          "title": "Pour un jeune sur trois, le psy est une IA",
+          "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/54758-Pour-jeune-trois-psy-IA",
+          "source": "Pourquoi Docteur",
+          "summary": "Une enquête Ipsos BVA révèle qu'un tiers des Français considère les chatbots IA comme un « psy » dans certaines situations, proportion montant à 46 % chez les personnes souffrant d'anxiété. 51 % des répondants trouvent plus facile d'aborder leur santé mentale avec un chatbot qu'avec un psychologue (37 %), soulevant des questions urgentes sur la qualité et l'encadrement de ces pratiques en France."
+        },
+        {
+          "title": "Santé mentale : l'IA s'invite déjà trop loin dans les consultations",
+          "url": "https://www.actusante.net/actu/sante-mentale-lia-sinvite-deja-trop-loin-dans-les-consultations-31795",
+          "source": "ActuSanté",
+          "summary": "Des praticiens français alertent sur le fait que certains patients arrivent en consultation avec des diagnostics auto-posés via des outils IA, ce qui complique parfois la relation thérapeutique. L'article appelle à un encadrement plus strict des interfaces IA en contact avec des personnes en souffrance psychique, et souligne les limites des systèmes non certifiés médicalement."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'enquête 2026 de l'APA auprès de 1 200 psychologues américains révèle que 35 % d'entre eux rapportent que leurs patients utilisent l'IA comme « second thérapeute », et 36 % observent des cas de dépendance envers les chatbots. L'APA publie simultanément un guide de sécurité et avertit que l'IA générative ne devrait pas être utilisée pour la psychothérapie, le diagnostic ou le soutien en situation de crise."
+        },
+        {
+          "title": "AI Legislative Update: Oct. 16, 2026",
+          "url": "https://transparencycoalition.ai/news/ai-legislative-update-october16-2026",
+          "source": "Transparency Coalition",
+          "summary": "Le bilan législatif du 16 octobre recense plusieurs propositions de loi américaines ciblant les chatbots IA et la santé mentale : le Michigan SB 760 viserait à interdire aux chatbots de pousser les mineurs à l'automutilation, l'Ohio HB 525 encadrerait l'usage de l'IA par les thérapeutes licenciés, et la Pennsylvanie impose des garde-fous sur les chatbots de compagnie concernant l'idéation suicidaire."
+        },
+        {
+          "title": "Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching Conversations",
+          "url": "https://arxiv.org/pdf/2609.09533",
+          "source": "arXiv",
+          "summary": "Un preprint analyse 350 000 conversations de coaching IA entre des séances de thérapie, démontrant qu'une supervision humaine scalable peut détecter et corriger des réponses potentiellement dangereuses. Les auteurs proposent un modèle de surveillance hybride humain-IA qui pourrait servir de référence pour les futures exigences réglementaires des outils IA en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "summary": "En cette fin de Semaines d'information sur la santé mentale (SISM 2026, 6-19 octobre), l'actualité illustre l'essor massif des chatbots IA chez les jeunes : entre un jeune sur cinq aux États-Unis et un sur trois au Canada recourt désormais à l'IA pour son soutien émotionnel. Un essai randomisé confirme des bénéfices partiels des applications IA (bien-être social et pleine conscience), mais sans effet significatif sur la dépression ou l'anxiété. Les risques font l'objet de nouvelles alertes — dont un phénomène de « psychose induite par les chatbots » documenté dans une étude — tandis que la FDA américaine précise ses priorités réglementaires pour les dispositifs IA en santé mentale en 2027.",
       "items": [
