@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-18",
+      "summary": "L'actualité du 18 octobre illustre la tension persistante entre adoption massive de l'IA pour le soutien émotionnel et risques documentés pour les utilisateurs vulnérables. Le rapport AXA/Ipsos 2026 révèle que 63 % des personnes interrogées dans 18 pays utilisent l'IA pour des questions de santé mentale, mais que 28 % déclarent que des recommandations de chatbot les ont conduits à des comportements nuisibles. Une évaluation Common Sense Media–Stanford Medicine conclut que les grands modèles (ChatGPT, Claude, Gemini, Meta AI) échouent régulièrement à détecter les crises de santé mentale chez les adolescents. Sur le front réglementaire américain, cinq États ont adopté en 2026 des lois restreignant les chatbots thérapeutiques, et une enquête d'Al Jazeera (17 octobre) expose comment un tireur canadien s'était servi d'un chatbot sans déclencher la moindre alerte. En France, le congrès PsyTech 2026 se prépare pour le 20 novembre à Lille, signe que la filière nationale de psychiatrie numérique cherche à s'organiser.",
+      "items": [
+        {
+          "title": "The chatbot murder guide: AI's struggle between privacy, reporting violence",
+          "url": "https://aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence",
+          "source": "Al Jazeera",
+          "summary": "Une enquête d'Al Jazeera (17 octobre) révèle qu'un tireur en milieu scolaire canadien avait consulté un chatbot comme conseiller pour planifier son acte, sans déclencher d'alerte. L'article interroge la tension fondamentale entre confidentialité des conversations et obligation de signalement des menaces violentes, et cite des experts qui appellent les entreprises d'IA à renforcer leur expertise en santé mentale."
+        },
+        {
+          "title": "AXA Mind Health Report 2026 : 63 % utilisent l'IA pour leur santé mentale, mais 28 % y voient un risque",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport AXA Mind Health 2026, réalisé par Ipsos auprès de 19 000 personnes dans 18 pays, montre que 63 % des répondants utilisent l'IA pour des conseils sur leur santé mentale, mais que 28 % admettent avoir adopté des comportements nuisibles suite à ces recommandations. Le rapport souligne que 46 % de la population mondiale est en difficulté psychologique et que 43 % des 18-24 ans présentent des niveaux sévères de dépression ou d'anxiété."
+        },
+        {
+          "title": "Common Sense Media Finds Major AI Chatbots Unsafe for Teen Mental Health Support",
+          "url": "https://www.benton.org/headlines/common-sense-media-finds-major-ai-chatbots-unsafe-teen-mental-health-support",
+          "source": "Benton / Common Sense Media & Stanford Medicine",
+          "summary": "Une évaluation conjointe de Common Sense Media et Stanford Medicine conclut que les principaux chatbots — ChatGPT, Claude, Gemini et Meta AI — ne reconnaissent pas de façon fiable les signaux de crise de santé mentale chez les jeunes, même si les réponses aux mentions explicites du suicide ont progressé. Alors qu'1 adolescent sur 5 aux États-Unis recourt à ces outils pour un soutien émotionnel, l'étude appelle à des standards de sécurité spécifiques à la tranche d'âge."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "En 2026, cinq États américains (Colorado, Maine, Rhode Island, Tennessee et un cinquième) ont adopté des lois restreignant l'usage des chatbots dans le champ thérapeutique, s'appuyant sur leur pouvoir de licencier les professionnels de santé mentale. Le Connecticut a en outre instauré au 1er octobre 2026 une obligation pour les bots de compagnie de détecter les signaux suicidaires, tandis que 98 propositions de loi spécifiques aux chatbots sont recensées dans 34 États américains en 2026."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "Le congrès PsyTech 2026, organisé par la Coalition PsyTech à Lille le 20 novembre sous haut patronage présidentiel, réunira chercheurs, cliniciens et industriels pour structurer une filière française de psychiatrie numérique. Piloté par l'INSERM et le CNRS dans le cadre du PEPR PROPSY, l'événement abordera les obstacles réglementaires et les outils d'IA pour le diagnostic, à l'heure où la France accuse un retard sur l'Allemagne dans la validation des applications de santé mentale numérique."
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "summary": "En ce dernier week-end des SISM 2026, la déclaration d'Elon Musk sur ses propres épisodes de « psychose IA » vécus six fois en un an a cristallisé les débats : entre banalisation par la culture tech et alertes psychiatriques, la frontière entre usage intense et dérive pathologique reste floue. En France, une enquête Ipsos BVA révèle qu'un tiers des Français considère un chatbot comme un « psy » dans certaines situations, et des praticiens s'alarment d'une délégation clinique à des outils non certifiés. Aux États-Unis, la réglementation s'accélère avec trois projets de loi étatiques visant les mineurs et les thérapeutes, tandis que l'APA publie son enquête 2026 montrant que 35 % des psychologues américains voient leurs patients utiliser l'IA comme second thérapeute. Un preprint arXiv propose un modèle de supervision hybride humain-IA issu de l'analyse de 350 000 conversations de coaching.",
       "items": [
