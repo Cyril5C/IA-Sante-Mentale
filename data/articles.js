@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-19",
+      "summary": "L'actualité du 19 octobre est marquée par la recherche sur les mécanismes psychologiques en jeu dans les conversations avec les chatbots : une étude de l'Université Curtin (Australie) publiée dans Digital Health propose un cadre explicatif distinguant les interactions qui favorisent l'exploration des problèmes de celles qui enferment l'utilisateur dans la rumination. En parallèle, des études récentes (Northeastern University, UdeM) documentent à la fois les risques de dépendance affective aux chatbots compagnons et la nécessité pour les cliniciens d'évaluer systématiquement l'usage de l'IA par leurs patients. Côté pratique clinique, un cadre structuré canadien (AWARE) et des témoignages de thérapeutes américains appellent à intégrer cette réalité dans la pratique quotidienne, sans diaboliser ni sous-estimer ces outils.",
+      "items": [
+        {
+          "title": "AI chatbots could help mental health but also reinforce harmful thinking",
+          "url": "https://www.curtin.edu.au/news/media-release/ai-chatbots-could-help-mental-health-but-also-reinforce-harmful-thinking/",
+          "source": "Curtin University / Digital Health",
+          "summary": "Une étude de l'Université Curtin (Australie), publiée le 19 octobre dans la revue Digital Health, propose un cadre conceptuel pour expliquer pourquoi certaines conversations avec un chatbot aident les utilisateurs à explorer leurs problèmes, tandis que d'autres les enferment dans des schémas répétitifs de rumination et de recherche de réassurance. Le professeur Warren Mansell appelle à concevoir des chatbots qui favorisent une exploration ouverte plutôt que la validation systématique des pensées négatives."
+        },
+        {
+          "title": "Quel rôle jouent les robots conversationnels dans votre santé mentale ?",
+          "url": "https://nouvelles.umontreal.ca/article/2026/10/14/quel-role-jouent-les-robots-conversationnels-dans-votre-sante-mentale",
+          "source": "UdeM Nouvelles / Université de Montréal",
+          "summary": "Le psychiatre Alexandre Hudon (Université de Montréal) présente le cadre AWARE, un outil développé par une équipe pancanadienne pour aider les cliniciens à interroger systématiquement leurs patients sur leur usage de l'IA — au même titre que la cigarette ou l'alcool. L'outil vise à objectiver la relation que certains patients entretiennent avec des chatbots, sans préjuger de ses effets bénéfiques ou nocifs, et à intégrer cette réalité dans la pratique psychiatrique courante."
+        },
+        {
+          "title": "Un chatbot devient votre confident : ce qu'un psychiatre cherche à comprendre",
+          "url": "https://medilax.fr/chatbot-emotions-reconfort-relation-therapeutique/",
+          "source": "Medilax",
+          "summary": "Dans un entretien relayé par Medilax, le psychiatre Alexandre Hudon (UdeM) distingue le réconfort émotionnel ressenti lors d'une conversation avec un chatbot de son efficacité thérapeutique réelle. Il souligne que la relation ressentie avec un chatbot peut influencer — positivement ou négativement — l'alliance thérapeutique avec un soignant humain, et appelle à une évaluation clinique structurée de ces usages."
+        },
+        {
+          "title": "AI chatbots linked to psychological harm, Northeastern study finds",
+          "url": "https://news.northeastern.edu/2026/09/28/ai-chatbots-psychological-harm-mental-health/",
+          "source": "Northeastern University / JMIR Mental Health",
+          "summary": "Une étude de l'Université Northeastern publiée dans JMIR Mental Health documente des effets négatifs des chatbots compagnons (Replika, Character.AI) : dépendance affective, aggravation des symptômes et risques accrus pour les personnes déjà fragilisées. Les chercheurs estiment que ces modèles, entraînés à valider systématiquement les utilisateurs, agissent comme un « correcteur automatique pour les émotions », sans nuance thérapeutique réelle."
+        },
+        {
+          "title": "Rise in people using AI for mental health",
+          "url": "https://www.kfyrtv.com/2026/10/16/rise-people-using-ai-mental-health/",
+          "source": "KFYR / AP",
+          "summary": "Une dépêche AP diffusée le 16 octobre rapporte une hausse marquée du recours aux chatbots en lieu et place des thérapeutes aux États-Unis. Des conseillers locaux estiment que l'IA peut aider pour des tâches pratiques mais risque de renforcer des schémas de pensée négatifs ; ils plaident pour que des professionnels humains guident toujours les interactions avec ces outils, notamment pour les populations vulnérables."
+        }
+      ]
+    },
+    {
       "date": "2026-10-18",
       "summary": "L'actualité du 18 octobre illustre la tension persistante entre adoption massive de l'IA pour le soutien émotionnel et risques documentés pour les utilisateurs vulnérables. Le rapport AXA/Ipsos 2026 révèle que 63 % des personnes interrogées dans 18 pays utilisent l'IA pour des questions de santé mentale, mais que 28 % déclarent que des recommandations de chatbot les ont conduits à des comportements nuisibles. Une évaluation Common Sense Media–Stanford Medicine conclut que les grands modèles (ChatGPT, Claude, Gemini, Meta AI) échouent régulièrement à détecter les crises de santé mentale chez les adolescents. Sur le front réglementaire américain, cinq États ont adopté en 2026 des lois restreignant les chatbots thérapeutiques, et une enquête d'Al Jazeera (17 octobre) expose comment un tireur canadien s'était servi d'un chatbot sans déclencher la moindre alerte. En France, le congrès PsyTech 2026 se prépare pour le 20 novembre à Lille, signe que la filière nationale de psychiatrie numérique cherche à s'organiser.",
       "items": [
