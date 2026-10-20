@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-20",
+      "summary": "L'actualité du 20 octobre confirme que l'IA s'est profondément installée dans les pratiques de santé mentale, tant du côté des patients que des cliniciens, mais que cette adoption soulève des questions éthiques et cliniques de plus en plus documentées. Une enquête de l'APA auprès de 1 200 psychologues américains révèle qu'un tiers de leurs patients utilisent désormais un chatbot comme second thérapeute, et 36 % des praticiens observent une dépendance aux chatbots. En France, cliniciens et chercheurs alertent sur la normalisation d'un recours à l'IA qui court-circuite parfois la consultation professionnelle, tandis qu'une lettre d'actualités du 19 octobre rapporte des résultats prometteurs d'une IA conversationnelle pour réduire la détresse des aidants d'enfants malades.",
+      "items": [
+        {
+          "title": "1 in 3 psychologists say their patients use AI as a second therapist",
+          "url": "https://www.scientificamerican.com/article/1-in-3-psychologists-say-their-patients-use-ai-as-a-second-therapist/",
+          "source": "Scientific American / APA",
+          "summary": "L'enquête 2026 de l'American Psychological Association, menée auprès de plus de 1 200 psychologues américains, révèle que 77 % d'entre eux ont des patients qui utilisent l'IA pour un soutien émotionnel. Un tiers rapportent que leurs patients traitent un chatbot comme un thérapeute supplémentaire, 36 % ont observé une dépendance et 15 % des pensées déformées liées à l'usage d'un chatbot. Seuls 6 % des praticiens estiment que ces outils peuvent traiter un trouble mental avec la nuance clinique nécessaire."
+        },
+        {
+          "title": "Lorsque votre confident est un chatbot IA, votre santé mentale peut être à risque",
+          "url": "https://theconversation.com/lorsque-votre-confident-est-un-chatbot-ia-votre-sante-mentale-peut-etre-a-risque-280417",
+          "source": "The Conversation France",
+          "summary": "Un article de The Conversation France alerte sur les risques liés à l'usage d'un chatbot IA comme confident émotionnel : dépendance affective, impression trompeuse d'être compris, et risque d'évitement des soins professionnels. Les auteurs distinguent l'accessibilité de ces outils — utile en première approche — de leur capacité à remplacer un accompagnement humain, en particulier pour les personnes souffrant de troubles sévères ou en situation de vulnérabilité."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR",
+          "summary": "L'Institut Français d'EMDR rapporte une tendance croissante : des patients arrivent en consultation avec les réponses de ChatGPT, voire préfèrent l'avis du chatbot à celui de leur psychiatre. Le Pr Stéphane Mouchabac (hôpital Saint-Antoine, Paris) et la psychothérapeute Ariane Calvo distinguent la verbalisation et l'exploration — domaines où l'IA peut apporter quelque chose — du changement thérapeutique profond, hors de portée des modèles actuels. L'article invite les cliniciens à prendre en compte cet usage sans l'ignorer ni le diaboliser."
+        },
+        {
+          "title": "Chatbot santé mentale : 15 violations éthiques révélées par une étude majeure",
+          "url": "https://eudonia.fr/chatbot-sante-mentale-15-violations-ethiques-revelees-par-une-etude-majeure/",
+          "source": "Eudonia",
+          "summary": "Des chercheurs de l'université Brown ont passé 18 mois à analyser le comportement des conseillers IA en santé mentale et identifié 15 manquements aux normes éthiques de la profession. Parmi les violations documentées : absence de consentement éclairé, absence de plan de sécurité en cas de crise, et tendance à valider les perceptions des utilisateurs sans questionnement clinique. Cette étude, relayée en français par Eudonia, illustre l'écart persistant entre les promesses commerciales des chatbots thérapeutiques et les standards de la psychothérapie professionnelle."
+        },
+        {
+          "title": "The Health AI Brief — Week of October 19, 2026",
+          "url": "https://yesilscience.com/the-brief-2026-10-19/",
+          "source": "Yesil Science",
+          "summary": "La lettre hebdomadaire Yesil Science du 19 octobre 2026 signale une étude montrant qu'une unique session de thérapie conversationnelle par IA réduit significativement la détresse des aidants d'enfants malades, tout en respectant les normes thérapeutiques établies. Ce résultat ouvre la piste d'une IA comme soutien ponctuel entre deux consultations, notamment dans les zones sous-dotées en professionnels de santé mentale, mais la généralisation à des populations à risque plus élevé reste à démontrer."
+        },
+        {
+          "title": "Santé mentale : l'IA s'invite déjà trop loin dans les consultations",
+          "url": "https://www.actusante.net/actu/sante-mentale-lia-sinvite-deja-trop-loin-dans-les-consultations-31795",
+          "source": "Actu Santé",
+          "summary": "Actu Santé alerte sur une mutation silencieuse du parcours de soins en santé mentale : de plus en plus de patients arrivent en consultation après avoir déjà posé un autodiagnostic via un chatbot, parfois en décalage avec la réalité clinique. L'article cite des témoignages de praticiens français qui soulignent le risque d'un recours à l'IA qui retarde ou déforme la prise en charge, et appelle à une sensibilisation des patients sur les limites de ces outils avant toute consultation médicale."
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "summary": "L'actualité du 19 octobre est marquée par la recherche sur les mécanismes psychologiques en jeu dans les conversations avec les chatbots : une étude de l'Université Curtin (Australie) publiée dans Digital Health propose un cadre explicatif distinguant les interactions qui favorisent l'exploration des problèmes de celles qui enferment l'utilisateur dans la rumination. En parallèle, des études récentes (Northeastern University, UdeM) documentent à la fois les risques de dépendance affective aux chatbots compagnons et la nécessité pour les cliniciens d'évaluer systématiquement l'usage de l'IA par leurs patients. Côté pratique clinique, un cadre structuré canadien (AWARE) et des témoignages de thérapeutes américains appellent à intégrer cette réalité dans la pratique quotidienne, sans diaboliser ni sous-estimer ces outils.",
       "items": [
