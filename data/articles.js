@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-21",
+      "summary": "La journée du 21 octobre est dominée par la question de la régulation des chatbots thérapeutiques : aux États-Unis, la vague législative s'accélère avec cinq nouveaux États ayant restreint ou interdit les IA se présentant comme des professionnels de santé mentale, tandis qu'une nouvelle organisation internationale vient d'être fondée pour mesurer l'impact de l'IA sur la psychologie humaine. En France, l'écosystème se structure autour de PsyTech 2026 (Lille, 20 novembre), événement phare du PEPR PROPSY qui réunira chercheurs et startups autour de la psychiatrie numérique. En toile de fond, le rapport AXA/Ipsos 2026 rappelle que 63 % de la population mondiale a déjà recours à l'IA pour un soutien psychologique, avec des résultats contrastés.",
+      "items": [
+        {
+          "title": "New org weighs AI's impact on mental health",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6005282/new-org-weighs-ais-impact-on-mental-health",
+          "source": "NPR",
+          "summary": "NPR rapporte la fondation d'une nouvelle organisation internationale réunissant psychologues, juristes, parents et groupes de défense pour évaluer les effets de l'IA sur la psychologie humaine. Sa première conférence annuelle rassemble des chercheurs et praticiens préoccupés par l'impact des outils conversationnels sur la santé mentale, notamment chez les adolescents. L'initiative signale une volonté de structurer un cadre d'expertise indépendant face à la prolifération des chatbots thérapeutiques."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse le bilan de la vague réglementaire américaine 2026 : Colorado, Maine, Rhode Island, Tennessee et Vermont ont adopté des lois restreignant ou interdisant les chatbots se présentant comme des thérapeutes. Colorado et Maine ont fixé les entrées en vigueur respectivement aux 12 août et 29 juillet 2026. Cette accélération législative illustre la préoccupation grandissante des États face aux risques cliniques posés par les outils d'IA non supervisés en santé mentale."
+        },
+        {
+          "title": "Aux USA, des États veulent interdire ou encadrer les IA qui se font passer pour des psys",
+          "url": "https://next.ink/196014/aux-usa-des-etats-veulent-interdire-ou-encadrer-les-ia-qui-se-font-passer-pour-des-psys/",
+          "source": "Next.ink",
+          "summary": "La rédaction de Next.ink décrypte la multiplication des lois américaines contre les chatbots « psy » non agréés : interdictions totales dans certains États, obligations de disclosure dans d'autres. L'article souligne le contraste entre l'approche américaine fragmentée et la nécessité d'un cadre fédéral homogène, offrant une perspective utile pour anticiper les débats réglementaires qui se profilent aussi en Europe."
+        },
+        {
+          "title": "The Regulatory Reckoning: FDA and States Move on AI Therapy Chatbots",
+          "url": "https://psyreflect.com/en/articles/the-regulatory-reckoning-fda-and-states-move-on-ai-therapy-chatbots",
+          "source": "PsyReflect",
+          "summary": "PsyReflect analyse le double mouvement réglementaire américain : d'un côté, les États légifèrent en ordre dispersé ; de l'autre, le comité consultatif de la FDA a entamé des discussions sur un cadre fédéral pour les chatbots thérapeutiques, sans décision contraignante pour l'instant. L'article questionne la capacité d'une régulation fédérale unifiée à émerger assez vite et les standards cliniques à définir pour autoriser la mise sur le marché."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental et le PEPR PROPSY (Inserm/CNRS) annoncent PsyTech 2026, événement national organisé à Lille le 20 novembre pour structurer la filière française de psychiatrie numérique. Au programme : ateliers sur le phénotypage numérique, l'IA dans le développement clinique et le déploiement à grande échelle, ainsi que des pitchs de startups. L'événement illustre la volonté française de construire un écosystème cohérent autour de l'IA en santé mentale."
+        },
+        {
+          "title": "63% de la population mondiale a recours à l'IA en soutien psychologique — AXA Mind Health Report 2026",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "Ipsos / AXA",
+          "summary": "Le rapport AXA Mind Health 2026, conduit par Ipsos auprès de 19 000 adultes dans 18 pays, révèle que 63 % de la population mondiale utilise l'IA pour un soutien psychologique. Si 42 % des utilisateurs suivent presque toujours les conseils reçus, 28 % reconnaissent que l'IA les a conduits à des comportements nocifs, et seuls 38 % accordent davantage leur confiance à l'IA qu'aux professionnels de santé. Ce rapport reste la référence mondiale la plus complète sur l'ampleur de l'usage de l'IA en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "summary": "L'actualité du 20 octobre confirme que l'IA s'est profondément installée dans les pratiques de santé mentale, tant du côté des patients que des cliniciens, mais que cette adoption soulève des questions éthiques et cliniques de plus en plus documentées. Une enquête de l'APA auprès de 1 200 psychologues américains révèle qu'un tiers de leurs patients utilisent désormais un chatbot comme second thérapeute, et 36 % des praticiens observent une dépendance aux chatbots. En France, cliniciens et chercheurs alertent sur la normalisation d'un recours à l'IA qui court-circuite parfois la consultation professionnelle, tandis qu'une lettre d'actualités du 19 octobre rapporte des résultats prometteurs d'une IA conversationnelle pour réduire la détresse des aidants d'enfants malades.",
       "items": [
