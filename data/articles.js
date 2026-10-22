@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-22",
+      "summary": "La journée du 22 octobre est marquée par une convergence internationale sur la question des jeunes et de l'IA en santé mentale : plusieurs études révèlent qu'entre un adolescent sur cinq (États-Unis) et un sur quatre (Royaume-Uni) utilise désormais des chatbots d'IA pour un soutien émotionnel, souvent sans en parler à leurs parents ou à leurs médecins. Cette réalité pousse les cliniciens à repenser leur pratique et renforce les appels à une régulation européenne adaptée. Des experts, de l'Europe aux États-Unis, s'accordent sur un principe commun : l'IA peut compléter le soin, mais ne doit pas se substituer à l'accompagnement humain, en particulier pour les publics jeunes et vulnérables.",
+      "items": [
+        {
+          "title": "AI Chatbot Use for Mental Health Advice Rises Sharply Among US Youth, With Key Disparities Identified",
+          "url": "https://www.ajmc.com/view/ai-chatbot-use-for-mental-health-advice-rises-sharply-among-us-youth-with-key-disparities-identified",
+          "source": "AJMC (American Journal of Managed Care)",
+          "summary": "Une analyse d'une étude JAMA Pediatrics révèle que 19,2 % des adolescents et jeunes adultes américains ont utilisé des chatbots d'IA pour des conseils en santé mentale en 2025, soit environ 8,2 millions de personnes — en hausse par rapport à 13,1 % en 2024. Près de 63 % de ces utilisateurs n'en ont parlé à personne, rendant ce recours invisible pour les proches et les professionnels de santé. L'AJMC note que le taux de satisfaction déclaré (91,7 %) pourrait refléter la tendance des chatbots à valider les propos des utilisateurs plutôt qu'un réel bénéfice clinique."
+        },
+        {
+          "title": "'I'm listening hard': Teens increasingly turn to AI chatbots for mental health support",
+          "url": "https://edsource.org/2026/teens-use-ai-mental-health/765573",
+          "source": "EdSource",
+          "summary": "Un reportage d'EdSource montre comment des lycéens américains se confient à des chatbots d'IA pour gérer leur anxiété ou leur dépression, souvent la nuit ou le week-end, hors des créneaux d'accès aux professionnels scolaires. Des psychologues de l'adolescence avertissent que si l'IA peut jouer le rôle d'un premier interlocuteur, une dépendance excessive risque d'empêcher le développement des compétences d'adaptation. L'article interroge la responsabilité des établissements scolaires dans l'accompagnement de cet usage."
+        },
+        {
+          "title": "AI and Teenagers: 1 in 4 Teens Using AI Chatbots for Mental Health Support",
+          "url": "https://youthendowmentfund.org.uk/news/one-in-four-teens-turn-to-ai-chatbots-for-mental-health-support-study-finds/",
+          "source": "Youth Endowment Fund (Royaume-Uni)",
+          "summary": "Une étude britannique du Youth Endowment Fund révèle qu'un adolescent sur quatre au Royaume-Uni utilise des chatbots d'IA pour un soutien en santé mentale, motivé en partie par les délais d'attente pour consulter un professionnel et par le sentiment d'être moins jugé par une machine. L'organisation appelle à un cadre de sécurité numérique adapté aux mineurs, intégrant des garde-fous en cas de crise suicidaire. Le rapport souligne que les inégalités d'accès aux soins amplifient le phénomène : les jeunes défavorisés recourent plus souvent à l'IA faute d'alternatives."
+        },
+        {
+          "title": "Des médecins suisses inquiets de l'impact des chatbots sur la santé mentale des jeunes",
+          "url": "https://www.24heures.ch/ia-medecins-inquiets-de-limpact-des-chatbots-sur-la-sante-mentale-714752523102",
+          "source": "24 heures (Suisse)",
+          "summary": "Le quotidien suisse 24 heures rapporte les inquiétudes de pédopsychiatres helvétiques face à l'usage croissant de chatbots d'IA par les jeunes en souffrance. Si les cliniques universitaires de Bâle, Berne et Zurich déclarent n'avoir traité à ce jour aucun patient en crise directement liée à l'usage d'une IA, les spécialistes alertent sur les risques de dépendance et de retard dans l'accès aux soins appropriés. L'article illustre comment la question de l'IA en santé mentale mobilise désormais les milieux médicaux francophones au-delà de la France."
+        },
+        {
+          "title": "AI and the Future of Psychiatry: Guardrails & Clinical Support",
+          "url": "https://psychiatrictimes.com/view/ai-and-the-future-of-psychiatry-guardrails-clinical-support",
+          "source": "Psychiatric Times",
+          "summary": "Dans Psychiatric Times, le Dr Christoph Correll (Albert Einstein College of Medicine) plaide pour une IA en psychiatrie recentrée sur l'assistance au clinicien — décharge administrative, standardisation des anamnèses, entretiens par avatar à domicile — plutôt que sur la relation thérapeutique directe. Il insiste sur la nécessité de garde-fous solides et d'une supervision humaine à chaque étape du déploiement. L'article constitue une référence pour structurer un débat souvent polarisé entre enthousiastes et sceptiques."
+        },
+        {
+          "title": "AI chatbots for mental health: experts call for clear regulation",
+          "url": "https://healthcare-in-europe.com/en/news/ai-chatbot-mental-health-regulation.html",
+          "source": "Healthcare in Europe",
+          "summary": "Des experts européens réunis dans un dossier de Healthcare in Europe réclament un cadre réglementaire explicite pour les chatbots de santé mentale, estimant que l'AI Act européen ne couvre pas suffisamment les usages thérapeutiques. Ils préconisent la classification de ces outils comme dispositifs médicaux soumis à évaluation clinique préalable, et pointent trois risques majeurs : gestion inadaptée des crises suicidaires, renforcement de pensées erronées et absence de continuité des soins. L'article offre un panorama utile des positions réglementaires en Europe."
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "summary": "La journée du 21 octobre est dominée par la question de la régulation des chatbots thérapeutiques : aux États-Unis, la vague législative s'accélère avec cinq nouveaux États ayant restreint ou interdit les IA se présentant comme des professionnels de santé mentale, tandis qu'une nouvelle organisation internationale vient d'être fondée pour mesurer l'impact de l'IA sur la psychologie humaine. En France, l'écosystème se structure autour de PsyTech 2026 (Lille, 20 novembre), événement phare du PEPR PROPSY qui réunira chercheurs et startups autour de la psychiatrie numérique. En toile de fond, le rapport AXA/Ipsos 2026 rappelle que 63 % de la population mondiale a déjà recours à l'IA pour un soutien psychologique, avec des résultats contrastés.",
       "items": [
