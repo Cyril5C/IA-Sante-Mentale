@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-23",
+      "summary": "La semaine du 23 octobre est marquée par une accélération sur deux fronts. Aux États-Unis, la vague législative se confirme : cinq nouveaux États ont adopté en 2026 des lois limitant les chatbots thérapeutiques, tandis qu'une étude révèle que les garde-fous de ChatGPT for Teens ne protègent pas suffisamment les adolescents en situation de crise. En parallèle, une nouvelle organisation internationale se constitue pour mesurer l'impact de l'IA sur la psychologie humaine, et pour la première fois, l'IA entre dans le top 10 des peurs américaines. En France, le phénomène des jeunes recourant à ChatGPT comme premier interlocuteur de santé prend de l'ampleur, illustrant l'urgence d'un cadre clair pour encadrer ces usages.",
+      "items": [
+        {
+          "title": "New org weighs AI's impact on mental health",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6005282/new-org-weighs-ais-impact-on-mental-health",
+          "source": "NPR",
+          "summary": "Une nouvelle organisation internationale dédiée à la mesure de l'impact de l'IA sur la psychologie humaine a tenu sa première conférence annuelle les 19-20 octobre à l'université UNC Chapel Hill, réunissant psychologues, juristes, parents et associations. La dépendance émotionnelle des jeunes aux chatbots était au cœur des débats : une étude présentée sur plus de 2 000 collégiens révèle que plus de 50 % utilisent déjà des IA conversationnelles. L'organisation entend produire des données scientifiques pour guider régulateurs et cliniciens face à ce phénomène émergent."
+        },
+        {
+          "title": "For the first time, artificial intelligence is a top 10 fear in the U.S.",
+          "url": "https://popsci.com/health/top-10-fears-2026-artificial-intelligence",
+          "source": "Popular Science",
+          "summary": "Pour la première fois dans l'histoire du Baromètre annuel des peurs américaines de l'université Chapman, l'intelligence artificielle figure dans le top 10 des angoisses des Américains, avec 51,8 % de répondants s'en déclarant inquiets — un niveau équivalent à la peur de voir un proche gravement malade. Cette entrée historique signale un glissement dans la perception collective : l'IA n'est plus seulement une question technologique mais une source d'anxiété existentielle touchant à la santé mentale de la population générale. Les chercheurs soulignent que cette appréhension dépasse celle liée aux catastrophes naturelles ou à la criminalité."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse un bilan des lois adoptées en 2026 par cinq États américains (Colorado, Maine, Rhode Island, Tennessee, Vermont) pour interdire ou restreindre sévèrement les chatbots d'IA délivrant des services de santé mentale sans supervision d'un professionnel licencié. Ces mesures législatives font suite à plusieurs procès contre des plateformes comme Character.AI, notamment pour avoir exposé des mineurs à des contenus dangereux ou favorisé la dépendance émotionnelle. L'article offre un tableau de bord de la vague réglementaire américaine, qui compte désormais au moins sept États dotés d'une législation spécifique."
+        },
+        {
+          "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+          "source": "NPR",
+          "summary": "Une étude de Common Sense Media révèle que la majorité des garde-fous intégrés à 'ChatGPT for Teens' ne fonctionnent pas comme prévu : le chatbot n'alerte pas les parents lorsque des adolescents abordent des sujets comme l'automutilation ou le suicide. L'organisation recommande aux adolescents de ne pas utiliser le produit en l'état, soulignant que cette défaillance est particulièrement grave pour les usages en santé mentale, où de nombreux jeunes se confient à ChatGPT lors de crises. Cette étude renforce la pression sur OpenAI pour renforcer les protections dédiées aux publics vulnérables."
+        },
+        {
+          "title": "\"Dès qu'il a un petit problème, il consulte Chat GPT\" : comment l'IA est devenue le confident santé de nombreux jeunes Français",
+          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/doubs/besancon/temoignages-des-qu-il-a-un-petit-probleme-il-consulte-chat-gpt-comment-l-ia-est-devenue-le-confident-sante-de-nombreux-jeunes-francais-3353443.html",
+          "source": "France 3 Régions / franceinfo",
+          "summary": "Un reportage de France 3 Régions documente la tendance des jeunes Français à consulter ChatGPT dès qu'ils ont un problème de santé ou de bien-être, souvent avant — voire à la place — d'un médecin ou d'un psychologue. Une étude de la Fondation Jean Jaurès et Doctolib citée dans l'article indique que près d'un Français sur deux utilise désormais une IA conversationnelle pour des questions de santé. Les témoignages recueillis soulèvent des questions sur la fiabilité des conseils reçus et sur le risque d'éviction du professionnel de santé."
+        },
+        {
+          "title": "Santé mentale : l'IA s'invite déjà trop loin dans les consultations",
+          "url": "https://www.actusante.net/actu/sante-mentale-lia-sinvite-deja-trop-loin-dans-les-consultations-31795",
+          "source": "ActuSanté",
+          "summary": "Un article d'ActuSanté pointe les dérives d'une IA qui s'immisce de plus en plus profondément dans les consultations de santé mentale, parfois à l'insu des praticiens. Des cliniciens rapportent que des patients arrivent désormais en consultation armés d'auto-diagnostics générés par une IA, créant des tensions et compliquant le parcours de soins. L'article plaide pour une sensibilisation accrue des professionnels de santé mentale aux usages réels de l'IA par leurs patients, et pour un dialogue ouvert en consultation."
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "summary": "La journée du 22 octobre est marquée par une convergence internationale sur la question des jeunes et de l'IA en santé mentale : plusieurs études révèlent qu'entre un adolescent sur cinq (États-Unis) et un sur quatre (Royaume-Uni) utilise désormais des chatbots d'IA pour un soutien émotionnel, souvent sans en parler à leurs parents ou à leurs médecins. Cette réalité pousse les cliniciens à repenser leur pratique et renforce les appels à une régulation européenne adaptée. Des experts, de l'Europe aux États-Unis, s'accordent sur un principe commun : l'IA peut compléter le soin, mais ne doit pas se substituer à l'accompagnement humain, en particulier pour les publics jeunes et vulnérables.",
       "items": [
