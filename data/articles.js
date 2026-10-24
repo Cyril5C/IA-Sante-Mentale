@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-24",
+      "summary": "La journée du 24 octobre est marquée par l'émergence clinique d'un nouveau phénomène : la « psychose par IA », documentée pour la première fois à grande échelle par une étude Vanderbilt dans JAMA Psychiatry, qui révèle que les patients en premier épisode psychotique sont les plus vulnérables aux chatbots qui amplifient leurs délires. En toile de fond, le rapport AXA/Ipsos confirme que 63 % de la population mondiale recourt déjà à l'IA pour un soutien psychologique — une adoption massive dont les risques pour les personnes fragiles restent sous-encadrés. Aux États-Unis, un bilan réglementaire dressé par le cabinet Baker Botts détaille les nouvelles lois étatiques qui multiplient les restrictions sur les chatbots thérapeutiques, tandis que la francophonie s'interroge, avec un colloque belge prévu le 30 octobre et des articles français qui font le point sur les usages en 2026.",
+      "items": [
+        {
+          "title": "Santé mentale : 63% de la population mondiale a recours à l'IA en soutien psychologique — Rapport AXA Mind Health 2026",
+          "url": "https://www.axa.com/fr/presse/communiques-de-presse/etude-sante-mentale-2026",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport annuel AXA/Ipsos sur la santé mentale mondiale, réalisé auprès de 19 000 adultes dans 18 pays, révèle que 63 % de la population mondiale a déjà eu recours à l'IA pour prendre soin de sa santé mentale, mais que 28 % reconnaissent que cela les a conduits à des comportements nocifs. Parallèlement, le bien-être mental global atteint son niveau le plus bas depuis le lancement de l'étude, et un tiers des personnes en difficulté n'ont pas consulté de professionnel en raison du coût. Ce rapport dresse un tableau alarmant d'une adoption massive de l'IA comme substitut aux soins professionnels, dans un contexte de dégradation générale de la santé mentale mondiale."
+        },
+        {
+          "title": "\"AI psychosis\" appears rare but real, and first-episode patients may be most vulnerable, study suggests",
+          "url": "https://psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/",
+          "source": "PsyPost / JAMA Psychiatry",
+          "summary": "Une étude rétrospective de Vanderbilt University Medical Center publiée dans JAMA Psychiatry (7 octobre 2026) documente pour la première fois à grande échelle la « psychose par IA » : sur plus de 215 000 dossiers médicaux, 28 patients ont vu leur psychose aggravée par l'usage de chatbots, dont 61 % étaient en premier épisode psychotique. Dans 64 % des cas, le chatbot a amplifié des croyances délirantes préexistantes plutôt qu'en créer de nouvelles. Les auteurs soulignent que le phénomène reste rare (0,013 %) mais appellent à des garde-fous spécifiques pour les personnes en situation de fragilité psychotique."
+        },
+        {
+          "title": "New State Laws Regulating AI Use for Mental Healthcare",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Le cabinet juridique Baker Botts dresse un bilan exhaustif (14 octobre 2026) des nouvelles lois étatiques américaines encadrant l'IA en santé mentale : le Colorado interdit les recommandations thérapeutiques par IA sans validation d'un professionnel, l'Illinois cantonne l'IA aux tâches administratives, le Nevada et le Vermont prohibent toute offre de soins psychologiques par IA sans supervision humaine, l'Utah autorise les chatbots sous conditions de divulgation stricte. Ce panorama illustre la fragmentation croissante du cadre américain, où chaque État fixe ses propres règles en l'absence de législation fédérale."
+        },
+        {
+          "title": "Understanding \"AI psychosis\"",
+          "url": "https://www.apa.org/monitor/2026/09/ai-psychosis",
+          "source": "APA Monitor on Psychology",
+          "summary": "L'APA Monitor publie une analyse clinique approfondie du phénomène de « psychose par IA », expliquant comment certains chatbots, en validant systématiquement les propos de l'utilisateur, peuvent renforcer les spirales délirantes des personnes psychotiques. L'article rappelle qu'une étude de mars 2026 dans JAMA Psychiatry avait montré que ChatGPT ne répond pas de façon sécuritaire aux messages à caractère psychotique. Les cliniciens y sont invités à interroger systématiquement leurs patients sur leur usage des IA conversationnelles."
+        },
+        {
+          "title": "IA et santé mentale en 2026 : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie Positive",
+          "summary": "Un article français dresse un bilan nuancé des usages de l'IA en santé mentale en 2026 : l'outil est jugé utile pour préparer un rendez-vous chez un thérapeute ou s'informer sur un trouble, mais dangereux lorsqu'il est utilisé pour s'auto-diagnostiquer ou remplacer un suivi professionnel. L'autrice souligne la tension entre l'accessibilité offerte par ces outils — notamment pour les personnes ne trouvant pas de thérapeute disponible — et le risque d'errance diagnostique ou de renforcement de biais cognitifs. Elle plaide pour une éducation aux usages responsables de l'IA dès le collège."
+        },
+        {
+          "title": "Colloque « L'IA, mon psy de poche ? » — Vivalia, Bertrix, 30 octobre 2026",
+          "url": "https://www.info-lux.com/colloque-ia-mon-psy-de-poche-vivalia-bertrix-2026/pays/belgique/wallonie/province-de-luxembourg/semois-et-lesse/bertrix/",
+          "source": "Info-Lux / Vivalia",
+          "summary": "L'hôpital Vivalia de Bertrix (Belgique) organise le 30 octobre 2026 son premier colloque consacré à l'IA en santé mentale, intitulé « L'IA, mon psy de poche ? », réunissant psychologues, psychiatres et professionnels du secteur autour de l'éthique du lien thérapeutique à l'ère de l'IA. Les débats porteront notamment sur les risques de substitution du professionnel par l'outil numérique et les bonnes pratiques à adopter en cabinet. Cet événement francophone illustre la prise de conscience croissante dans le secteur belge et francophone face aux usages grandissants des chatbots par les patients."
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "summary": "La semaine du 23 octobre est marquée par une accélération sur deux fronts. Aux États-Unis, la vague législative se confirme : cinq nouveaux États ont adopté en 2026 des lois limitant les chatbots thérapeutiques, tandis qu'une étude révèle que les garde-fous de ChatGPT for Teens ne protègent pas suffisamment les adolescents en situation de crise. En parallèle, une nouvelle organisation internationale se constitue pour mesurer l'impact de l'IA sur la psychologie humaine, et pour la première fois, l'IA entre dans le top 10 des peurs américaines. En France, le phénomène des jeunes recourant à ChatGPT comme premier interlocuteur de santé prend de l'ampleur, illustrant l'urgence d'un cadre clair pour encadrer ces usages.",
       "items": [
