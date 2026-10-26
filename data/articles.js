@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-26",
+      "summary": "La journée est marquée par deux dynamiques convergentes : la structuration d'une réponse scientifique internationale — avec la première conférence annuelle de l'AI Psychological Research Coalition (AIPRC) à UNC Chapel Hill, réunissant des experts de 7 pays et l'OMS autour de 7 priorités de recherche communes — et une accélération réglementaire aux États-Unis, où cinq nouveaux États ont restreint les chatbots thérapeutiques en 2026, portant à 34 le nombre d'États ayant déposé des projets de loi sur le sujet. En France, la CNIL publie les résultats d'une enquête européenne révélant que 9 jeunes sur 10 utilisent déjà une IA conversationnelle, les plus anxieux étant surreprésentés parmi les utilisateurs intensifs. Les cliniciens confirment que l'IA s'est insérée dans la relation thérapeutique avant même la première consultation, posant de nouveaux défis à la psychiatrie.",
+      "items": [
+        {
+          "title": "New org weighs AI's impact on mental health",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6005282/new-org-weighs-ais-impact-on-mental-health",
+          "source": "NPR",
+          "summary": "NPR couvre le premier congrès annuel de l'AI Psychological Research Coalition (AIPRC), tenu à UNC Chapel Hill les 19 et 20 octobre. Réunissant des experts de 7 pays et de l'OMS, les participants ont défini 7 priorités communes de recherche sur les effets de l'IA sur la psychologie humaine. Une étude inédite présentée lors de la conférence révèle que plus de 50 % des collégiens dans un État américain utilisent déjà des chatbots pour des sujets qu'ils ne partagent pas avec leurs parents ou enseignants."
+        },
+        {
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l'enquête européenne",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "source": "CNIL",
+          "summary": "La CNIL publie les résultats d'une enquête menée avec le Groupe VYV dans quatre pays européens : en France, près de 9 jeunes sur 10 utilisent une IA conversationnelle, et environ un sur deux y évoque des sujets personnels. Les jeunes anxieux sont surreprésentés parmi les utilisateurs intensifs, et 85 % des jeunes Français déclarent vouloir davantage d'information sur l'usage de l'IA. Ces résultats alimentent le débat sur la protection des mineurs et l'encadrement de leurs données personnelles dans ces interactions."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse le bilan de la vague législative américaine : cinq États (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont rejoint en 2026 les États qui restreignent ou interdisent les chatbots thérapeutiques sans supervision d'un professionnel agréé. Au total, 98 projets de loi spécifiques aux chatbots ont été déposés dans 34 États selon le Future of Privacy Forum. Des modèles alternatifs émergent : Utah autorise ces outils avec obligation de divulgation, la Californie exige des protocoles de crise."
+        },
+        {
+          "title": "The Regulatory Reckoning: FDA and States Move on AI Therapy Chatbots",
+          "url": "https://psyreflect.com/en/articles/the-regulatory-reckoning-fda-and-states-move-on-ai-therapy-chatbots",
+          "source": "PsyReflect",
+          "summary": "PsyReflect analyse la double pression réglementaire sur les chatbots thérapeutiques : au niveau fédéral, la FDA avance prudemment sur un calendrier encore flou après une réunion consultative non contraignante ; au niveau étatique, les approches divergent entre interdictions strictes, obligations de divulgation et exigences de protocoles de crise. L'article soulève la question d'une fragmentation réglementaire préjudiciable à la fois aux startups du secteur et aux utilisateurs finaux."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR",
+          "summary": "L'Institut Français EMDR documente un phénomène émergent en cabinet : le Pr Pierre-Alexis Geoffroy (Hôpital Bichat, Paris) rapporte que la quasi-totalité de ses jeunes patients (18-40 ans) ont utilisé ChatGPT ou un chatbot avant de le consulter, certains accordant davantage de crédit à l'IA qu'au psychiatre. L'article propose un guide pratique aux cliniciens pour intégrer ces usages dans la relation thérapeutique et identifier les situations à risque."
+        },
+        {
+          "title": "IA et ados : quand les chatbots remplacent les confidences et menacent la santé mentale",
+          "url": "https://atlantico.fr/article/decryptage/ia-le-recours-massif-aux-bots-moteur-dune-nouvelle-crise-de-la-sante-des-adolescents-pascal-neveu-emmanuel-goffi",
+          "source": "Atlantico",
+          "summary": "Pascal Neveu et Emmanuel Goffi analysent pour Atlantico le recours massif des adolescents aux chatbots comme substitut aux confidences humaines. Ils y voient un facteur aggravant de la crise de santé mentale des jeunes : appauvrissement des liens sociaux, validation de pensées négatives, isolement progressif. Les auteurs appellent à une éducation critique à l'IA dès le collège et à une responsabilisation accrue des éditeurs de ces outils."
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "summary": "La veille du 25 octobre est dominée par la convergence de deux fronts : la recherche scientifique et la régulation, qui confirment toutes deux les préjudices psychologiques des chatbots de compagnie. L'étude Northeastern (JMIR Mental Health) et la tribune RAND dans JAMA Health Forum dressent un constat similaire : les IA entraînées à valider l'utilisateur peuvent induire une dépendance émotionnelle, aggraver les symptômes et, pour les profils vulnérables, conduire à l'automutilation. Sur le front réglementaire, le Royaume-Uni confirme officiellement ces dommages après consultation publique et annonce de nouvelles mesures, tandis qu'aux États-Unis, les chercheurs du RAND plaident pour des normes fédérales minimales face à la fragmentation des lois étatiques. En France, l'écosystème se mobilise autour de PsyTech 2026 et du PEPR PROPSY, affichant l'ambition de structurer une filière nationale de psychiatrie numérique encore en retrait par rapport à l'Allemagne.",
       "items": [
