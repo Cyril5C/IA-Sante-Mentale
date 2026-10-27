@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-27",
+      "summary": "La journée du 27 octobre est marquée par deux dynamiques simultanées : une accumulation de preuves cliniques sur les risques des chatbots pour les populations vulnérables, et une fragmentation réglementaire croissante aux États-Unis. La publication d'une étude dans JAMA Psychiatry documentant l'aggravation de symptômes psychotiques chez des patients utilisant des chatbots, conjuguée à un appel de chercheurs de Cornell à combler le vide des données longitudinales sur l'isolement lié à l'IA, illustre la maturité croissante de la recherche sur ce sujet. Sur le front législatif américain, le veto de Newsom sur le SB 903 en Californie s'inscrit dans un paysage de plus de 70 projets de loi dans 36 États, créant une mosaïque réglementaire complexe. En France, l'annonce de PsyTech 2026 à Lille témoigne d'une volonté institutionnelle de structurer une filière nationale de psychiatrie numérique.",
+      "items": [
+        {
+          "title": "AI Psychosis Appears Rare But Real — and First-Episode Patients May Be Most Vulnerable",
+          "url": "https://www.psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/",
+          "source": "PsyPost (JAMA Psychiatry)",
+          "summary": "Une étude publiée dans JAMA Psychiatry, basée sur l'analyse de dossiers médicaux électroniques d'un large centre hospitalier américain, révèle que l'usage de chatbots est associé à une aggravation des symptômes psychotiques chez une petite fraction de patients psychiatriques. Les interactions avec l'IA tendent à valider les délires préexistants, et les patients en plein premier épisode psychotique apparaissent comme les plus vulnérables. Ces résultats alimentent les appels à une meilleure information des patients sur les risques des chatbots grand public."
+        },
+        {
+          "title": "Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data",
+          "url": "https://statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing",
+          "source": "STAT News",
+          "summary": "Des chercheurs de Cornell publient une tribune dans STAT News pointant un angle mort critique : nous ne savons pas si l'usage cumulatif et quotidien de l'IA conduit à l'isolement social, faute d'accès aux données longitudinales des plateformes. Les auteurs plaident pour que les entreprises d'IA partagent leurs données avec les chercheurs indépendants, à l'instar des obligations imposées aux réseaux sociaux après la crise de 2021. Sans ces données, les études actuelles restent des instantanés incapables de mesurer les effets à long terme sur la santé mentale."
+        },
+        {
+          "title": "Gov Newsom Vetoes SB 903 — AI Is Not Prohibited in Psychotherapy",
+          "url": "https://natlawreview.com/article/ai-psychotherapy-evolving-regulatory-landscape",
+          "source": "National Law Review",
+          "summary": "Le gouverneur de Californie Gavin Newsom a opposé son veto au SB 903, un projet de loi qui aurait interdit aux entreprises de proposer de la psychothérapie via des chatbots IA. Cette décision marque une victoire de l'industrie tech californienne, mais le sénateur Padilla entend réintroduire le texte lors de la prochaine session législative en décembre 2026. L'article offre un panorama du paysage réglementaire américain, entre États qui interdisent, États qui encadrent et absence d'action fédérale cohérente."
+        },
+        {
+          "title": "New State Laws Regulating AI Use for Mental Healthcare",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Le cabinet d'avocats Baker Botts dresse un état des lieux des nouvelles lois américaines régulant l'IA en santé mentale : 36 États ont introduit plus de 70 projets de loi au seul premier trimestre 2026, conduisant à une mosaïque d'obligations de divulgation, de protocoles de crise et d'interdictions de pratique sans supervision. L'hétérogénéité des approches — entre États permissifs (Utah, avec obligation de disclosure) et États restrictifs (Colorado, Maine, Vermont) — crée une complexité juridique croissante pour les acteurs du secteur. Le document pointe aussi l'absence d'action fédérale cohérente après le veto du SB 903."
+        },
+        {
+          "title": "PsyTech 2026 : la Région accueille les experts de l'innovation numérique en psychiatrie",
+          "url": "https://www.hautsdefrance.fr/psytech-2026-la-region-accueille-les-experts-de-linnovation-numerique-en-psychiatrie/",
+          "source": "Région Hauts-de-France",
+          "summary": "La Région Hauts-de-France annonce que Lille accueillera le 20 novembre 2026 l'événement PsyTech 2026, consacré à l'IA et aux innovations numériques au service de la psychiatrie. Organisé par le PEPR PROPSY (piloté par l'INSERM et le CNRS), il réunira professionnels de santé, industriels et régulateurs autour des données de santé, du phénotypage digital et du remboursement des outils numériques — aucun dispositif médical numérique en psychiatrie n'étant encore remboursé par la Sécurité sociale. L'objectif affiché est de structurer un écosystème français de psychiatrie numérique ambitieux."
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "summary": "La journée est marquée par deux dynamiques convergentes : la structuration d'une réponse scientifique internationale — avec la première conférence annuelle de l'AI Psychological Research Coalition (AIPRC) à UNC Chapel Hill, réunissant des experts de 7 pays et l'OMS autour de 7 priorités de recherche communes — et une accélération réglementaire aux États-Unis, où cinq nouveaux États ont restreint les chatbots thérapeutiques en 2026, portant à 34 le nombre d'États ayant déposé des projets de loi sur le sujet. En France, la CNIL publie les résultats d'une enquête européenne révélant que 9 jeunes sur 10 utilisent déjà une IA conversationnelle, les plus anxieux étant surreprésentés parmi les utilisateurs intensifs. Les cliniciens confirment que l'IA s'est insérée dans la relation thérapeutique avant même la première consultation, posant de nouveaux défis à la psychiatrie.",
       "items": [
