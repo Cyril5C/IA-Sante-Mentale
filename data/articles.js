@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-28",
+      "summary": "La journée du 28 octobre est dominée par l'alerte sur la santé mentale des adolescents face à l'IA : la Jed Foundation publie une étude portant sur plus de 5 500 collégiens et lycéens américains établissant un lien entre usage émotionnel des chatbots et antécédents d'idées suicidaires, alimentant aussitôt un briefing d'urgence au Capitole. Sur le plan scientifique, une équipe internationale pilotée par l'Université de Hongkong publie une feuille de route pour l'IA en santé mentale, confirmant que les preuves cliniques ne soutiennent pas encore le remplacement des thérapeutes humains. Côté industriel, OpenAI lance une version de ChatGPT dédiée aux 13-17 ans avec des garde-fous renforcés, dans un contexte où cinq nouveaux États américains ont déjà restreint les chatbots thérapeutiques en 2026. En Europe francophone, l'hôpital psychiatrique belge Vivalia s'apprête à ouvrir le 30 octobre un colloque sur la question « L'IA : mon psy de poche ? », illustrant la montée en puissance de ces enjeux dans la formation continue des praticiens.",
+      "items": [
+        {
+          "title": "New JED Research Shows Link Between Teens' AI Use, Suicidal Thoughts and Behaviors",
+          "url": "https://jedfoundation.org/new-jed-research-shows-link-between-teens-ai-use-suicidal-thoughts-and-behaviors/",
+          "source": "Jed Foundation",
+          "summary": "Publiée le 27 octobre 2026, cette étude de la Jed Foundation — menée auprès de 5 500 élèves dans 21 établissements américains — révèle que 57 % des collégiens et lycéens utilisent l'IA lorsqu'ils se sentent tristes, stressés ou seuls, et que cet usage émotionnel est significativement associé à de plus mauvais indicateurs de santé mentale et à des antécédents d'idées suicidaires. Les collégiennes et les jeunes issus de groupes historiquement marginalisés sont les plus représentés parmi les utilisateurs émotionnels de chatbots. Les auteurs soulignent qu'il s'agit d'une corrélation et non d'un lien de causalité, mais appellent à des politiques d'encadrement urgentes à l'échelle nationale."
+        },
+        {
+          "title": "Capitol Hill briefing spotlights AI's concerning, growing role in teen mental health",
+          "url": "https://katv.com/news/nation-world/capitol-hill-briefing-spotlights-ais-concerning-growing-role-in-teen-mental-health-jed-foundation-youth-mental-health-technology-policy",
+          "source": "KATV / Associated Press",
+          "summary": "Dans la foulée de la publication de l'étude JED, une audition au Capitole a réuni des pédopsychiatres, des représentants de la Jed Foundation et des experts en politique de santé numérique pour alerter les législateurs américains sur le rôle croissant et préoccupant de l'IA dans la santé mentale des adolescents. Les intervenants ont appelé à une réglementation fédérale encadrant spécifiquement les usages émotionnels des chatbots par les mineurs, comblant un vide que les initiatives des États peinent à corriger de façon cohérente. L'événement illustre la pression montante exercée sur le Congrès américain pour dépasser la mosaïque de lois étatiques."
+        },
+        {
+          "title": "HKU-led international study outlines comprehensive roadmap for AI in mental healthcare",
+          "url": "https://medicalxpress.com/news/2026-10-outlines-comprehensive-roadmap-ai-mental.html",
+          "source": "Medical Xpress / Psychotherapy and Psychosomatics",
+          "summary": "Une équipe internationale pilotée par l'Université de Hongkong (HKU), en collaboration avec Cambridge et UC Berkeley, publie dans Psychotherapy and Psychosomatics une feuille de route pour l'usage de l'IA en santé mentale. Les auteurs soulignent que les données actuelles ne justifient pas le remplacement des thérapeutes humains par des systèmes autonomes, en particulier pour les cas à risque élevé, et que la valeur clinique ne peut s'évaluer sur les seules performances techniques. Ils préconisent l'ancrage obligatoire des chatbots dans des approches thérapeutiques validées et l'intégration systématique du contexte de vie du patient."
+        },
+        {
+          "title": "OpenAI lance ChatGPT for Teens : une version dédiée aux 13-17 ans censée mieux encadrer les risques liés à l'IA",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "L'Usine Digitale",
+          "summary": "OpenAI annonce le lancement de ChatGPT for Teens, une version spécifiquement conçue pour les 13-17 ans, avec des garde-fous renforcés : contrôle parental, interdiction d'encourager la dépendance émotionnelle et filtrage des contenus potentiellement nocifs pour les jeunes en détresse. Cette initiative intervient dans un contexte de pression réglementaire croissante et de multiplication des études alertant sur les risques des chatbots pour la santé mentale des adolescents. Les experts restent partagés sur l'efficacité réelle de telles mesures techniques face à des usages émotionnels profondément ancrés."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse le bilan législatif 2026 : cinq nouveaux États américains (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté des lois restreignant l'usage des chatbots IA en psychothérapie, rejoignant l'Illinois et le Nevada qui avaient agi en 2025. Ces lois imposent la supervision d'un professionnel de santé agréé et interdisent aux chatbots d'opérer de manière autonome dans un contexte thérapeutique. Le contraste est marqué avec des États comme l'Utah, qui ont opté pour une approche de divulgation obligatoire plutôt que d'interdiction directe."
+        },
+        {
+          "title": "IA et santé mentale : colloque à Bertrix le 30 octobre",
+          "url": "https://www.info-lux.com/colloque-ia-mon-psy-de-poche-vivalia-bertrix-2026/pays/belgique/wallonie/province-de-luxembourg/semois-et-lesse/bertrix/",
+          "source": "Info-Lux (presse belge francophone)",
+          "summary": "L'hôpital psychiatrique Vivalia organise le 30 octobre 2026 à Bertrix (Belgique) son premier colloque de psychologues intitulé « L'IA : mon psy de poche ? », réunissant des professionnels de santé mentale autour des enjeux cliniques, éthiques et relationnels de l'intelligence artificielle en psychologie. Trois conférences sont prévues sur les risques et bénéfices des chatbots en pratique clinique, la relation thérapeutique à l'ère de l'IA et les outils de surveillance digitale. Cet événement francophone illustre l'intégration progressive des questions d'IA dans la formation continue des praticiens en santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "summary": "La journée du 27 octobre est marquée par deux dynamiques simultanées : une accumulation de preuves cliniques sur les risques des chatbots pour les populations vulnérables, et une fragmentation réglementaire croissante aux États-Unis. La publication d'une étude dans JAMA Psychiatry documentant l'aggravation de symptômes psychotiques chez des patients utilisant des chatbots, conjuguée à un appel de chercheurs de Cornell à combler le vide des données longitudinales sur l'isolement lié à l'IA, illustre la maturité croissante de la recherche sur ce sujet. Sur le front législatif américain, le veto de Newsom sur le SB 903 en Californie s'inscrit dans un paysage de plus de 70 projets de loi dans 36 États, créant une mosaïque réglementaire complexe. En France, l'annonce de PsyTech 2026 à Lille témoigne d'une volonté institutionnelle de structurer une filière nationale de psychiatrie numérique.",
       "items": [
