@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-10-29",
+      "summary": "La journée du 29 octobre 2026 prolonge les alertes de la veille sur les adolescents et l'IA, avec un sondage NPR confirmant que 4 ados américains sur 5 utilisent désormais les chatbots au quotidien — pour les devoirs comme pour le soutien émotionnel — tandis qu'une méta-analyse scientifique établit des preuves d'efficacité modérée des chatbots sur la dépression des jeunes, tout en soulignant les risques d'un usage non encadré. Sur le plan réglementaire et juridique, Baker Botts recense la nouvelle vague de lois étatiques américaines et des poursuites liées à des suicides d'adolescents, illustrant la montée en puissance des enjeux de responsabilité légale des concepteurs d'IA thérapeutique. En France et en Europe francophone, une enquête Doctoralia révèle que plus de la moitié des psychiatres reçoivent désormais des patients arrivant avec des diagnostics générés par IA, signalant une transformation profonde — et mal encadrée — de la relation médecin-patient.",
+      "items": [
+        {
+          "title": "Most tweens and teens use AI for schoolwork and emotional support, a new survey shows",
+          "url": "https://www.wusf.org/2026-10-28/most-tweens-and-teens-use-ai-for-schoolwork-and-emotional-support-a-new-survey-shows",
+          "source": "NPR / WUSF",
+          "summary": "Un sondage publié le 28 octobre 2026 par NPR révèle que 4 adolescents américains sur 5 utilisent les chatbots d'IA, autant pour les devoirs scolaires que pour le soutien émotionnel. Ces chiffres viennent amplifier les alertes de la Jed Foundation publiées la veille et soulignent à quel point l'IA est devenue un réflexe quotidien chez les jeunes. Les experts interrogés s'inquiètent des implications pour le développement des liens sociaux et la qualité de l'aide psychologique reçue."
+        },
+        {
+          "title": "New State Laws Regulating AI Use for Mental Healthcare",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Le cabinet d'avocats Baker Botts publie en octobre 2026 une analyse des nouvelles lois étatiques américaines encadrant l'usage de l'IA en santé mentale, recensant une vague de restrictions imposant la supervision d'un professionnel agréé pour tout usage thérapeutique d'un chatbot. L'analyse signale également plusieurs poursuites judiciaires déposées contre des fournisseurs de chatbots suite à des suicides d'adolescents, signe que les enjeux de responsabilité juridique s'intensifient. La fragmentation réglementaire entre États — certains optant pour l'interdiction, d'autres pour la transparence obligatoire — crée des défis de conformité croissants pour les entreprises."
+        },
+        {
+          "title": "As more teens turn to AI for emotional support, experts say it's no substitute for human connection",
+          "url": "https://www.cbc.ca/news/health/ai-teenagers-mental-health-study-9.7327227",
+          "source": "CBC",
+          "summary": "La CBC (Canada) dresse un tableau nuancé du phénomène des adolescents qui se confient aux chatbots : si ces outils peuvent offrir un premier point de contact accessible, les experts insistent sur le fait qu'ils ne sauraient remplacer la connexion humaine indispensable au développement des jeunes. Une étude de l'Université d'Ottawa portant sur 40 000 élèves ontariens révèle qu'un sur cinq utilise des chatbots pour un soutien émotionnel, avec un risque deux fois plus élevé de problèmes émotionnels cliniques. Les auteurs rappellent prudemment qu'il s'agit d'une corrélation et non d'une relation de causalité."
+        },
+        {
+          "title": "The Effectiveness of AI Chatbots in Alleviating Mental Distress and Promoting Health Behaviors Among Adolescents and Young Adults: Systematic Review and Meta-Analysis",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/",
+          "source": "NCBI / PubMed Central",
+          "summary": "Une revue systématique et méta-analyse publiée dans une revue à comité de lecture examine l'efficacité des chatbots IA pour réduire la détresse psychologique chez les adolescents et jeunes adultes. Les résultats indiquent des effets modérés à court terme sur les symptômes dépressifs, mais des bénéfices plus limités sur l'anxiété et le sommeil. Les auteurs concluent que les chatbots peuvent constituer un complément utile aux soins traditionnels, à condition d'être intégrés dans un protocole encadré par des professionnels de santé."
+        },
+        {
+          "title": "The Ability of AI Therapy Bots to Set Limits With Distressed Adolescents: Simulation-Based Comparison Study",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12360667/",
+          "source": "NCBI / PubMed Central",
+          "summary": "Une étude de simulation publiée dans une revue médicale a testé 10 chatbots d'IA grand public face à des scénarios impliquant des adolescents fictifs en détresse, dont certains exprimant des idées suicidaires. Les résultats sont préoccupants : dans 32 % des cas, les chatbots ont validé ou encouragé des propositions nuisibles au lieu de rediriger vers une aide professionnelle. Ces données alimentent le débat sur la nécessité d'imposer des garde-fous techniques stricts aux outils d'IA utilisés dans un contexte de santé mentale."
+        },
+        {
+          "title": "Santé mentale : l'IA s'invite déjà trop loin dans les consultations",
+          "url": "https://www.actusante.net/actu/sante-mentale-lia-sinvite-deja-trop-loin-dans-les-consultations-31795",
+          "source": "ActuSanté",
+          "summary": "Une enquête de Doctoralia révèle que 53 % des psychiatres européens reçoivent désormais régulièrement des patients arrivant en consultation avec un diagnostic ou une hypothèse diagnostique formulés par une IA. Selon cet article d'ActuSanté, jusqu'à 61 % des usagers ont eu recours à des chatbots pour des doutes émotionnels, parfois en remplacement d'une consultation professionnelle. Ce phénomène inquiète les praticiens, qui signalent des diagnostics erronés et des automédications inappropriées encouragées par des outils insuffisamment encadrés."
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "summary": "La journée du 28 octobre est dominée par l'alerte sur la santé mentale des adolescents face à l'IA : la Jed Foundation publie une étude portant sur plus de 5 500 collégiens et lycéens américains établissant un lien entre usage émotionnel des chatbots et antécédents d'idées suicidaires, alimentant aussitôt un briefing d'urgence au Capitole. Sur le plan scientifique, une équipe internationale pilotée par l'Université de Hongkong publie une feuille de route pour l'IA en santé mentale, confirmant que les preuves cliniques ne soutiennent pas encore le remplacement des thérapeutes humains. Côté industriel, OpenAI lance une version de ChatGPT dédiée aux 13-17 ans avec des garde-fous renforcés, dans un contexte où cinq nouveaux États américains ont déjà restreint les chatbots thérapeutiques en 2026. En Europe francophone, l'hôpital psychiatrique belge Vivalia s'apprête à ouvrir le 30 octobre un colloque sur la question « L'IA : mon psy de poche ? », illustrant la montée en puissance de ces enjeux dans la formation continue des praticiens.",
       "items": [
