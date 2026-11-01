@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-01",
+      "summary": "Ce 1er novembre 2026, la veille est dominée par la consolidation d'un double constat : d'un côté, l'enquête annuelle de l'APA révèle que 77 % des psychologues américains font face à des patients utilisant des chatbots en soutien psychologique, avec des effets parfois délétères (dépendance, délires, auto-diagnostics erronés). De l'autre, la vague réglementaire se confirme : cinq États américains ont désormais restreint ou interdit les chatbots thérapeutiques en 2026, mais l'absence de cadre fédéral laisse un paysage fragmenté que la KFF documente. Sur le terrain clinique francophone, des publications spécialisées (IFEMDR, Medinside Suisse) instruisent les praticiens sur la conduite à tenir quand leurs patients arrivent avec des IA en poche. En recherche, le financement de 15 millions de dollars accordé à Duke University pour un outil prédictif de troubles mentaux adolescents illustre la mobilisation des fonds publics américains en faveur de l'IA clinique préventive.",
+      "items": [
+        {
+          "title": "Patients are Bringing AI to Therapy — APA Chatbots and Mental Health Survey 2026",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association (APA)",
+          "summary": "L'enquête annuelle 2026 de l'APA auprès de 1 200 psychologues licenciés américains révèle que 77 % d'entre eux ont des patients utilisant des chatbots IA à des fins de soutien ou d'auto-diagnostic. Des effets indésirables sont documentés : 39 % signalent des auto-diagnostics erronés, 36 % une dépendance au chatbot, et 15 % l'émergence de croyances délirantes liées à l'IA. Si 40 % des praticiens voient un potentiel pour combler les déserts de soins, 94 % ne font pas confiance aux entreprises technologiques pour protéger les données privées de leurs patients."
+        },
+        {
+          "title": "L'IA comme thérapeute ? Comment les patients en psychiatrie utilisent les chatbots",
+          "url": "https://www.medinside.ch/fr/lia-comme-therapeute-comment-les-patients-en-psychiatrie-utilisent-les-chatbots-20261026",
+          "source": "Medinside.ch (Suisse)",
+          "summary": "Une étude de l'Université de Duisburg-Essen parue dans JMIR AI et relayée par Medinside.ch révèle que près de 30 % des patients psychiatriques interrogés avaient déjà utilisé un chatbot IA pour gérer des difficultés psychiques. Les auteurs observent que les patients présentant des symptômes plus sévères ont davantage tendance à solliciter ces outils, posant la question d'un usage à risque pour les populations les plus vulnérables. L'article invite les cliniciens à interroger systématiquement leurs patients sur ce recours."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR (France)",
+          "summary": "L'Institut Français d'EMDR publie un guide pratique à destination des thérapeutes confrontés à des patients qui utilisent des chatbots IA en dehors ou entre les séances. L'article recense les comportements à surveiller, les questions à poser en consultation et les ressources pour éduquer les patients sur les limites de ces outils, dans un contexte où l'utilisation de l'IA à des fins psychologiques se généralise en France et en Europe."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Becker's Behavioral Health dresse un bilan de la vague législative américaine de 2026 : cinq États — dont le Maine, le Vermont et le Tennessee — ont restreint l'usage des chatbots thérapeutiques, rejoignant l'Illinois et le Nevada qui avaient agi dès 2025. Ces lois imposent principalement des obligations de divulgation, l'interdiction de se faire passer pour un professionnel de santé, et des mécanismes de détection des crises suicidaires orientant les utilisateurs vers la ligne 988. La fragmentation des règles entre États reste un défi pour les acteurs du secteur."
+        },
+        {
+          "title": "Different State Regulatory Approaches Reflect Open Questions About AI Mental Health Tools",
+          "url": "https://www.kff.org/health-information-trust/different-state-regulatory-approaches-reflect-open-questions-about-ai-mental-health-tools/",
+          "source": "KFF (Kaiser Family Foundation) / The Monitor",
+          "summary": "La Kaiser Family Foundation analyse les divergences d'approche entre États américains dans la régulation des outils IA en santé mentale : certains misent sur l'interdiction pure, d'autres (comme l'Utah) sur un modèle d'encadrement avec divulgation et port de sécurité. L'article souligne l'absence de cadre fédéral uniforme et les nombreuses questions sans réponse — efficacité réelle, risques à grande échelle, protection des données — qui persistent autour de ces outils."
+        },
+        {
+          "title": "With $15 Million Grant, Duke Team Expands AI Tool to Predict Teen Mental Illness",
+          "url": "https://psychiatry.duke.edu/news/15-million-grant-duke-team-expands-ai-tool-predict-teen-mental-illness",
+          "source": "Duke University Department of Psychiatry",
+          "summary": "Duke University a reçu une dotation de 15 millions de dollars du National Institute of Mental Health (NIMH) pour déployer son modèle prédictif de santé mentale adolescente (Duke-PMA) dans des cliniques rurales de médecine primaire. L'outil, qui s'appuie sur des facteurs accessibles comme le sommeil et le stress familial, affiche une précision annoncée de 84 % pour identifier des jeunes de 10 à 15 ans à risque de troubles mentaux graves. L'enjeu est d'étendre la prévention aux zones sous-dotées en soins de santé mentale."
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "summary": "La journée du 31 octobre 2026 est marquée par la convergence de deux signaux d'alerte majeurs : celui des professionnels de santé mentale, qui dénoncent le \"piège de la sycophantie\" des chatbots IA validant les croyances des patients vulnérables, et celui de la recherche, avec deux nouvelles études (JED Foundation et Common Sense Media) confirmant que les deux tiers des adolescents utilisent des chatbots IA — et que ceux qui s'y tournent en période de détresse présentent de moins bons indicateurs de santé mentale. Sur le plan législatif, le gouverneur de New York a signé une loi pionnière interdisant aux chatbots d'adopter 12 comportements jugés dangereux pour les mineurs, tandis que la multiplication des lois étatiques américaines en santé mentale numérique se poursuit. Du côté francophone, un colloque dédié à \"l'IA, mon psy de poche ?\" réunissait ce matin des cliniciens à Bertrix (Belgique), illustrant la montée en puissance du sujet en Europe.",
       "items": [
