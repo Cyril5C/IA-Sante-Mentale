@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-02",
+      "summary": "Ce 2 novembre 2026, la veille révèle deux dynamiques simultanément à l'œuvre : d'un côté, la demande d'IA comme soutien psychologique explose (le rapport AXA-Ipsos confirme que 63 % des personnes dans le monde y recourent déjà), de l'autre, les signaux d'alarme se multiplient — étude de Northeastern University sur les dommages psychologiques durables, méta-analyse documentant un bénéfice modeste seulement, et évaluation « risque inacceptable » de ChatGPT pour ados par le Youth AI Safety Institute. Sur le plan réglementaire, la gouverneure Hochul a promulgué à New York une loi de sécurité chatbot à portée généraliste (au-delà des seules applis de compagnie), tandis que la NAMI rejoint Common Sense Media pour co-élaborer des normes de gestion de crise pour les jeunes. En France, le rendez-vous PsyTech 2026 (20 novembre, Lille), porté par l'INSERM et le CNRS, s'annonce comme l'événement structurant de l'année pour la psychiatrie de précision et le numérique en santé mentale.",
+      "items": [
+        {
+          "title": "NAMI rejoint le Youth AI Safety Institute pour définir des normes de crise en santé mentale des jeunes",
+          "url": "https://www.edtechinnovationhub.com/news/nami-joins-common-sense-media-to-shape-ai-mental-health-crisis-standards-for-young-people",
+          "source": "EdTech Innovation Hub",
+          "summary": "La NAMI (National Alliance on Mental Illness) devient partenaire pilote du Youth AI Safety Institute de Common Sense Media, aux côtés de Crisis Text Line. Sa mission : co-définir les exigences minimales auxquelles un chatbot IA doit satisfaire avant de pouvoir interagir avec un jeune en situation de crise (idéations suicidaires, psychose). Les premiers standards, portant sur des « dommages de ligne rouge », sont attendus pour 2027 et pourraient devenir une référence internationale."
+        },
+        {
+          "title": "63 % de la population mondiale recourt à l'IA pour sa santé mentale — AXA Mind Health Report 2026",
+          "url": "https://www.axa.com/fr/presse/communiques-de-presse/etude-sante-mentale-2026",
+          "source": "AXA / Ipsos",
+          "summary": "L'enquête annuelle AXA-Ipsos sur la santé mentale (18 pays, plusieurs milliers de répondants) révèle que 63 % des personnes interrogées utilisent déjà l'IA comme soutien psychologique, et que 38 % accordent davantage leur confiance aux plateformes IA qu'aux professionnels de santé mentale. Si les écrans continuent d'être associés à des effets négatifs, l'IA s'impose comme recours de premier niveau — une tendance que les experts jugent préoccupante faute de cadre réglementaire global."
+        },
+        {
+          "title": "PsyTech 2026 : l'IA et l'innovation numérique au service de la psychiatrie — Lille, 20 novembre",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La journée nationale PsyTech 2026, sous le haut patronage du président de la République, réunira le 20 novembre à Lille cliniciens, chercheurs et institutionnels autour de l'IA en psychiatrie. Portée par le PEPR PROPSY (INSERM/CNRS), elle proposera notamment les premières recommandations nationales sur l'innovation numérique en psychiatrie, des sessions sur le phénotypage digital et une discussion sur la structuration européenne du secteur — un moment clé pour la feuille de route française de la psychiatrie de précision."
+        },
+        {
+          "title": "AI chatbots linked to psychological harm, Northeastern study finds",
+          "url": "https://news.northeastern.edu/2026/09/28/ai-chatbots-psychological-harm-mental-health/",
+          "source": "Northeastern University",
+          "summary": "Une étude du Network Science Institute de l'université Northeastern conclut que l'usage de chatbots IA à des fins de compagnie ou de soutien émotionnel peut provoquer des dommages psychologiques durables : attachement de type addictif, aggravation des symptômes et, dans certains cas, comportements auto-dommageables. Les chercheurs soulignent l'absence d'obligation de démontrer l'innocuité de ces applications grand public avant leur mise sur le marché, contrairement aux dispositifs médicaux."
+        },
+        {
+          "title": "Hochul Signs Chatbot Safety Law That Reaches ChatGPT and Claude, Not Just Companion Apps",
+          "url": "https://www.techtimes.com/articles/329665/20261029/hochul-signs-chatbot-safety-law-that-reaches-chatgpt-claude-not-just-companion-apps.htm",
+          "source": "TechTimes",
+          "summary": "La gouverneure de New York Kathy Hochul a promulgué le 29 octobre une loi de sécurité des chatbots dont le périmètre dépasse les seules applications de compagnie pour viser les assistants généralistes (ChatGPT, Claude…). La loi impose une orientation vers une aide de crise en cas de détresse et interdit 12 comportements dangereux pour les mineurs. Son interprétation large pourrait imposer de nouvelles contraintes à l'ensemble des acteurs de l'IA grand public opérant dans l'État de New York."
+        },
+        {
+          "title": "The effects of AI-based chatbots on mental health: A systematic review and three-level meta-analysis",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42743601/",
+          "source": "Psychiatry Research (PubMed)",
+          "summary": "Une méta-analyse publiée dans Psychiatry Research, portant sur plusieurs dizaines d'essais contrôlés, conclut à un bénéfice modeste mais statistiquement significatif des chatbots IA sur la santé mentale (Hedges' g = 0,47). Les auteurs soulignent toutefois que les études sont méthodologiquement hétérogènes, que l'effet reste de petite taille, et que les populations les plus vulnérables — troubles sévères, situations de crise — demeurent sous-représentées dans les données probantes existantes."
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "summary": "Ce 1er novembre 2026, la veille est dominée par la consolidation d'un double constat : d'un côté, l'enquête annuelle de l'APA révèle que 77 % des psychologues américains font face à des patients utilisant des chatbots en soutien psychologique, avec des effets parfois délétères (dépendance, délires, auto-diagnostics erronés). De l'autre, la vague réglementaire se confirme : cinq États américains ont désormais restreint ou interdit les chatbots thérapeutiques en 2026, mais l'absence de cadre fédéral laisse un paysage fragmenté que la KFF documente. Sur le terrain clinique francophone, des publications spécialisées (IFEMDR, Medinside Suisse) instruisent les praticiens sur la conduite à tenir quand leurs patients arrivent avec des IA en poche. En recherche, le financement de 15 millions de dollars accordé à Duke University pour un outil prédictif de troubles mentaux adolescents illustre la mobilisation des fonds publics américains en faveur de l'IA clinique préventive.",
       "items": [
