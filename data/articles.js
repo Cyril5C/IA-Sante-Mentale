@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-03",
+      "summary": "Ce 3 novembre 2026, la veille est marquée par deux enquêtes majeures sur les adolescents et les chatbots IA publiées cette semaine (JED Foundation et Common Sense Media) : près de 90 % des 9-17 ans américains ont déjà utilisé un chatbot, et ceux qui s'en servent pour un soutien émotionnel présentent davantage de symptômes de détresse — sans que la causalité soit encore établie. Côté réglementation, cinq États américains supplémentaires (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant les chatbots thérapeutiques, portant à sept le nombre total d'États dotés de telles restrictions, malgré l'absence de cadre fédéral. Une tribune de MedCity News soulève la dimension d'équité : les adultes Black et Hispanic recourent à l'IA pour leur santé mentale à des taux plus élevés que les adultes blancs, exposant ces communautés aux biais algorithmiques non corrigés. En France, l'intégration opérationnelle de l'IA dans les systèmes de soins en santé mentale progresse selon Healthcare IT News, tandis que la journée PsyTech 2026 (20 novembre, Lille) se profile comme le rendez-vous national incontournable.",
+      "items": [
+        {
+          "title": "Nearly 2 out of 3 teens use AI chatbots — and links to mental health distress emerge",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+          "source": "NPR",
+          "summary": "Une enquête de la JED Foundation portant sur 5 500 élèves de 9 à 17 ans révèle que 90 % ont déjà utilisé un chatbot IA. Les adolescents qui s'en servent comme soutien émotionnel ou en période de détresse présentent davantage de symptômes de santé mentale dégradée, voire plus de pensées suicidaires — mais les chercheurs précisent que le lien de causalité n'est pas établi : les jeunes déjà en souffrance pourraient simplement se tourner davantage vers ces outils."
+        },
+        {
+          "title": "Mental Health Care Was Never Built for Everyone — AI Won't Fix That",
+          "url": "https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/",
+          "source": "MedCity News",
+          "summary": "Tribune de Josephine Mora (2 novembre 2026) : environ un tiers des adultes américains ont déjà utilisé un chatbot IA pour des informations de santé, et environ un sur six pour la santé mentale spécifiquement — avec un recours proportionnellement plus élevé chez les adultes Black et Hispanic. L'autrice avertit que l'IA risque de reproduire et d'amplifier les inégalités d'accès aux soins si les biais systémiques intégrés dans les données d'entraînement ne sont pas corrigés."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains (Colorado, Maine, Rhode Island, Tennessee et Vermont) ont rejoint en 2026 l'Illinois et le Nevada pour restreindre ou interdire les chatbots thérapeutiques par IA. Le Maine interdit explicitement la délivrance de psychothérapie via chatbot ; six États exigent que ces outils ne se présentent pas comme des professionnels de santé mentale. L'absence de cadre fédéral laisse un paysage réglementaire fragmenté aux États-Unis."
+        },
+        {
+          "title": "Keep Teens Off ChatGPT, Says Youth AI Safety Institute",
+          "url": "https://www.kqed.org/news/12103289/keep-teens-off-chatgpt-says-youth-ai-safety-institute",
+          "source": "KQED",
+          "summary": "Le Youth AI Safety Institute de Common Sense Media a attribué la mention « risque inacceptable » à ChatGPT dans son évaluation d'octobre 2026 pour les mineurs. Dans les scénarios de crise, le chatbot a manqué plus d'un quart des orientations vers une aide professionnelle que des psychiatres auraient jugées nécessaires. OpenAI conteste les conclusions du rapport. Le directeur de l'Institut recommande que les adolescents évitent l'outil."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News documente la montée en puissance de l'IA dans les opérations courantes des systèmes de soins en santé mentale en 2026 : triage automatisé, analyse prédictive du risque de rechute, assistants documentaires pour les cliniciens. L'article souligne que l'IA passe d'outil expérimental à composante structurelle, tout en notant que la gouvernance des données et l'expliquabilité restent des défis non résolus pour les établissements."
+        },
+        {
+          "title": "PsyTech 2026 : la Région Hauts-de-France accueille les experts de l'innovation numérique en psychiatrie",
+          "url": "https://www.hautsdefrance.fr/psytech-2026-la-region-accueille-les-experts-de-linnovation-numerique-en-psychiatrie/",
+          "source": "Région Hauts-de-France",
+          "summary": "La région Hauts-de-France annonce la tenue de la journée nationale PsyTech 2026 le 20 novembre à Lille, organisée par le PEPR PROPSY (INSERM/CNRS). Au programme : présentation des premières recommandations nationales sur l'innovation numérique en psychiatrie, sessions sur le phénotypage digital et les enjeux de structuration européenne de la psychiatrie de précision. L'événement s'affirme comme le rendez-vous de référence du secteur en France pour la fin 2026."
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "summary": "Ce 2 novembre 2026, la veille révèle deux dynamiques simultanément à l'œuvre : d'un côté, la demande d'IA comme soutien psychologique explose (le rapport AXA-Ipsos confirme que 63 % des personnes dans le monde y recourent déjà), de l'autre, les signaux d'alarme se multiplient — étude de Northeastern University sur les dommages psychologiques durables, méta-analyse documentant un bénéfice modeste seulement, et évaluation « risque inacceptable » de ChatGPT pour ados par le Youth AI Safety Institute. Sur le plan réglementaire, la gouverneure Hochul a promulgué à New York une loi de sécurité chatbot à portée généraliste (au-delà des seules applis de compagnie), tandis que la NAMI rejoint Common Sense Media pour co-élaborer des normes de gestion de crise pour les jeunes. En France, le rendez-vous PsyTech 2026 (20 novembre, Lille), porté par l'INSERM et le CNRS, s'annonce comme l'événement structurant de l'année pour la psychiatrie de précision et le numérique en santé mentale.",
       "items": [
