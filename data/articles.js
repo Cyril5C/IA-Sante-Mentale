@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-04",
+      "summary": "Ce 4 novembre 2026, la veille est dominée par une montée coordonnée des alertes professionnelles de part et d'autre de l'Atlantique : la British Psychological Society révèle que 70 % des cliniciens britanniques s'inquiètent de l'usage non encadré des chatbots IA par leurs patients, avec une hausse de 49 % en un an du nombre de patients y recourant, pendant que l'APA américaine documente que 77 % des psychologues ont eu des patients se tournant vers l'IA pour un soutien émotionnel ou un autodiagnostic. Côté données épidémiologiques, une étude RAND/Harvard/Brown (JAMA) établit que près d'un adolescent américain sur cinq utilise désormais des chatbots IA pour sa santé mentale — dans une opacité quasi totale vis-à-vis des soignants. Le vide réglementaire persiste : en France, le guide HAS/CNIL de mars 2026 pose un cadre général pour l'IA en santé mais ne traite pas de la psychiatrie ; aux États-Unis, la FDA reste en retrait sur les outils d'IA générative en santé mentale, malgré une patchwork de lois étatiques en expansion.",
+      "items": [
+        {
+          "title": "Psychologists sound alarm over chatbots' harmful mental health advice",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/03/psychologists-sound-alarm-over-chatbots-harmful-mental-health-advice",
+          "source": "The Star",
+          "summary": "Reprenant l'enquête de la British Psychological Society auprès de 197 praticiens (psychologues, conseillers, psychothérapeutes), cet article rapporte que 70 % d'entre eux sont préoccupés par l'usage de chatbots IA par leurs patients, et qu'ils observent une hausse de 49 % en 12 mois du nombre de patients y ayant recours. La BPS alerte sur la diffusion de conseils « non qualifiés et nocifs » par des outils non régulés, et pointe le risque d'isolation accrue pour les usagers."
+        },
+        {
+          "title": "NHS alliance welcomes findings on growing use of AI in mental health support",
+          "url": "https://openaccessgovernment.org/nhs-alliance-welcomes-findings-on-growing-use-of-ai-in-mental-health-support/216081/",
+          "source": "Open Access Government",
+          "summary": "En réponse aux résultats de la BPS, le NHS Alliance accueille favorablement la publication des chiffres sur l'usage croissant de l'IA en santé mentale et appelle à davantage de recherches, notamment sur les personnes atteintes de troubles sévères. Il souligne la nécessité de lignes directrices claires pour les prestataires, s'appuyant sur son propre rapport « Demystifying AI in Mental Health » et la future stratégie nationale de santé mentale britannique."
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html",
+          "source": "RAND Corporation",
+          "summary": "Une étude publiée dans JAMA (RAND Corporation, Harvard, Brown) révèle que près d'un adolescent et jeune adulte américain sur cinq utilise l'IA pour des conseils en santé mentale — une progression de plus de 40 % en un an. Plus de 60 % de ces utilisateurs n'en ont jamais parlé à un professionnel ou à un proche, illustrant une pratique largement invisible pour les soignants. Les auteurs appellent à des études longitudinales sur les effets à long terme."
+        },
+        {
+          "title": "Patients are bringing AI to therapy",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "Le rapport annuel de l'APA auprès de plus de 1 200 psychologues américains révèle que 77 % ont eu des patients utilisant l'IA pour un soutien quelconque, et 39 % pour un autodiagnostic. Les signaux d'alarme sont significatifs : 36 % des psychologues observent chez leurs patients une dépendance inquiétante au chatbot, et 15 % constatent des pensées déformées ou des délires liés à cet usage. L'APA rappelle que les chatbots grand public ne sont pas conçus pour diagnostiquer ou traiter les troubles psychiques."
+        },
+        {
+          "title": "The AI Doctor Will See You Now: Chatbot Risks and Regulatory Oversight in Telemedicine",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/10/the-ai-doctor-will-see-you-now-chatbot-risks-regulatory-oversight",
+          "source": "Holland & Knight",
+          "summary": "Cette analyse juridique du cabinet Holland & Knight examine les lacunes réglementaires des chatbots IA en télémédecine aux États-Unis en octobre 2026 : la FDA n'a toujours approuvé aucun outil d'IA générative spécifiquement pour le traitement des troubles mentaux, même si les fonctionnalités de triage et de détection des symptômes pourraient, selon les nouvelles orientations 2026, relever de sa compétence. Le texte détaille aussi le patchwork de lois étatiques sur les chatbots de compagnie et de thérapie."
+        },
+        {
+          "title": "Numérique en santé : la CNIL et la HAS s'engagent pour renforcer les bonnes pratiques",
+          "url": "https://www.cnil.fr/fr/numerique-en-sante-la-cnil-et-la-has-sengagent",
+          "source": "CNIL",
+          "summary": "La CNIL et la Haute Autorité de Santé ont signé en mars 2026 un partenariat et publié un guide de 55 recommandations pour accompagner le bon usage de l'IA en contexte de soins — premier texte officiel national sur le sujet. Si ce cadre de référence constitue une avancée pour la gouvernance de l'IA médicale en France, il ne traite pas spécifiquement de la psychiatrie ni de la psychothérapie, un angle mort relevé par des spécialistes du secteur."
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "summary": "Ce 3 novembre 2026, la veille est marquée par deux enquêtes majeures sur les adolescents et les chatbots IA publiées cette semaine (JED Foundation et Common Sense Media) : près de 90 % des 9-17 ans américains ont déjà utilisé un chatbot, et ceux qui s'en servent pour un soutien émotionnel présentent davantage de symptômes de détresse — sans que la causalité soit encore établie. Côté réglementation, cinq États américains supplémentaires (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant les chatbots thérapeutiques, portant à sept le nombre total d'États dotés de telles restrictions, malgré l'absence de cadre fédéral. Une tribune de MedCity News soulève la dimension d'équité : les adultes Black et Hispanic recourent à l'IA pour leur santé mentale à des taux plus élevés que les adultes blancs, exposant ces communautés aux biais algorithmiques non corrigés. En France, l'intégration opérationnelle de l'IA dans les systèmes de soins en santé mentale progresse selon Healthcare IT News, tandis que la journée PsyTech 2026 (20 novembre, Lille) se profile comme le rendez-vous national incontournable.",
       "items": [
