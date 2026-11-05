@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-05",
+      "summary": "Ce 5 novembre 2026, la veille est marquée par la publication de données mondiales inédites sur l'ampleur du recours à l'IA en santé mentale : selon le rapport AXA Mind Health 2026 (Ipsos, 18 pays), plus de 60 % de la population mondiale utilise désormais l'IA pour des conseils psychologiques, avec un taux de confiance envers l'IA supérieur à celui accordé aux professionnels dans plusieurs pays. Sur le front réglementaire américain, la vague législative étatique s'intensifie — cinq nouveaux États ont légiféré en 2026, portant à sept le nombre d'États qui encadrent désormais spécifiquement les chatbots thérapeutiques — mais l'absence de cadre fédéral maintient une fragmentation juridique croissante. En France, PsyTech 2026 (Lille, 20 novembre) se profile comme l'événement structurant pour les premières recommandations nationales sur l'IA en psychiatrie, au moment où l'ANCT soulève le défi éthique posé par l'IA à la grande cause nationale santé mentale. En toile de fond, le marché mondial de la santé mentale numérique dépasse les 16 milliards de dollars en 2026 et devrait quadrupler d'ici 2036.",
+      "items": [
+        {
+          "title": "Rapport AXA Mind Health 2026 : 63 % de la population mondiale utilise l'IA en soutien psychologique",
+          "url": "https://www.ipsos.com/fr-fr/axa-mind-health-report-2026",
+          "source": "Ipsos France / AXA",
+          "summary": "Le rapport annuel AXA Mind Health 2026, réalisé par Ipsos auprès d'adultes dans 18 pays, révèle que 61 à 63 % de la population mondiale a désormais recours à l'IA pour des conseils ou un soutien en santé mentale. Si 55 % des utilisateurs se déclarent satisfaits des conseils reçus, 28 % reconnaissent avoir adopté des comportements nocifs à la suite de recommandations de l'IA, et 38 % font davantage confiance aux plateformes d'IA qu'aux professionnels de santé mentale. Le rapport souligne l'érosion inquiétante de la confiance envers les systèmes de soins professionnels, dans un contexte où seulement 40 % des personnes interrogées ont consulté un professionnel dans les 12 derniers mois."
+        },
+        {
+          "title": "PsyTech 2026 : premières recommandations nationales sur l'IA en psychiatrie attendues le 20 novembre à Lille",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "La Fondation FondaMental et le programme de recherche PEPR PROPSY (Inserm/CNRS, France 2030) organisent le 20 novembre 2026 à Lille la journée PsyTech 2026, entièrement dédiée à l'IA et aux innovations numériques en psychiatrie. L'événement, soutenu par la Région Hauts-de-France, doit présenter les premières recommandations nationales sur l'innovation numérique et l'IA en psychiatrie dans le cadre du programme de psychiatrie de précision français. Ce rendez-vous représente une étape majeure pour structurer l'usage clinique de l'IA en santé mentale en France."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains supplémentaires (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant les chatbots de thérapie IA, portant à sept le nombre d'États dotés de telles mesures depuis 2025 (Illinois et Nevada). Ces lois prennent des formes variées : interdiction de commercialiser un chatbot comme professionnel qualifié au Tennessee, qualification de pratique commerciale déloyale en l'absence de professionnel licencié dans le Maine, restrictions d'exercice pour les thérapeutes utilisant l'IA au Colorado. L'absence de cadre fédéral unifié laisse les entreprises face à un patchwork réglementaire croissant."
+        },
+        {
+          "title": "New State Laws Regulating AI Use for Mental Healthcare",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Le cabinet juridique Baker Botts analyse les nouvelles lois étatiques américaines encadrant l'IA en santé mentale publiées à l'automne 2026, recensant plus de 86 projets de loi introduits dans 36 États depuis le début de l'année. Les niveaux de contrainte varient fortement : certaines lois n'exigent qu'une transparence sur la nature non humaine de l'outil, d'autres interdisent tout traitement clinique par IA sans supervision d'un professionnel licencié. L'article constitue un guide de conformité indispensable pour les entreprises et soignants opérant dans plusieurs États."
+        },
+        {
+          "title": "Digital Mental Health Market Size, Share, and Trends – Global Forecast to 2036",
+          "url": "https://globenewswire.com/news-release/2026/11/03/3394519/28124/en/digital-mental-health-market-size-share-and-trends-global-forecast-to-2036-ai-telehealth-and-digital-therapeutics-drive-13-6-cagr-toward-usd-58-42-billion.html",
+          "source": "GlobeNewsWire / Meticulous Research",
+          "summary": "Une étude publiée par Meticulous Research le 3 novembre 2026 évalue le marché mondial de la santé mentale numérique à 16,34 milliards de dollars en 2026, avec une croissance prévue à 58,42 milliards d'ici 2036 (TCAC de 13,6 %). L'IA, la télésanté et les thérapeutiques numériques sont identifiés comme les principaux moteurs de cette expansion, portée par la prévalence accrue des troubles mentaux et la pénurie persistante de professionnels de santé mentale. Cette dynamique économique nourrit le débat sur la nécessité d'encadrer l'innovation avant qu'elle ne dépasse les capacités réglementaires."
+        },
+        {
+          "title": "L'IA au chevet de nos âmes : le nouveau défi éthique de la grande cause nationale",
+          "url": "https://lesbases.anct.gouv.fr/ressources/l-ia-au-chevet-de-nos-ames-le-nouveau-defi-ethique-de-la-grande-cause-nationale",
+          "source": "ANCT (Les Bases)",
+          "summary": "Cette ressource de l'Agence Nationale de la Cohésion des Territoires analyse l'intersection entre l'IA et la grande cause nationale 2025 « santé mentale » en France, posant la question de l'encadrement éthique du recours croissant à l'IA dans un secteur déclaré priorité nationale. L'article souligne le paradoxe entre l'enthousiasme des pouvoirs publics pour les solutions numériques et les risques identifiés — dépendance, hallucinations, absence de cadre thérapeutique — qui pèsent davantage sur les populations fragiles en zones sous-dotées. L'ANCT rappelle que la promesse d'accès élargi aux soins par l'IA ne doit pas masquer les enjeux d'équité territoriale et de désertification médicale persistante."
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "summary": "Ce 4 novembre 2026, la veille est dominée par une montée coordonnée des alertes professionnelles de part et d'autre de l'Atlantique : la British Psychological Society révèle que 70 % des cliniciens britanniques s'inquiètent de l'usage non encadré des chatbots IA par leurs patients, avec une hausse de 49 % en un an du nombre de patients y recourant, pendant que l'APA américaine documente que 77 % des psychologues ont eu des patients se tournant vers l'IA pour un soutien émotionnel ou un autodiagnostic. Côté données épidémiologiques, une étude RAND/Harvard/Brown (JAMA) établit que près d'un adolescent américain sur cinq utilise désormais des chatbots IA pour sa santé mentale — dans une opacité quasi totale vis-à-vis des soignants. Le vide réglementaire persiste : en France, le guide HAS/CNIL de mars 2026 pose un cadre général pour l'IA en santé mais ne traite pas de la psychiatrie ; aux États-Unis, la FDA reste en retrait sur les outils d'IA générative en santé mentale, malgré une patchwork de lois étatiques en expansion.",
       "items": [
