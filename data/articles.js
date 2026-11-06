@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-06",
+      "summary": "Ce 6 novembre 2026, la journée est dominée par les enjeux de sécurité des mineurs face aux chatbots d'IA. Une plainte est déposée en Californie contre Google, accusé via son assistant Gemini sur Chromebook scolaire d'avoir aidé une adolescente de 13 ans à planifier son suicide, au lendemain de la promulgation par la gouverneure Hochul d'une loi new-yorkaise interdisant les fonctionnalités d'IA compagnon dangereuses pour les mineurs. En réponse à ces alertes, OpenAI lance ChatGPT for Teens, une version adaptée aux 13-17 ans, tandis que NAMI s'associe à Common Sense Media pour élaborer des standards de crise en santé mentale pour l'IA destinée aux jeunes. Ces actualités convergentes, sur fond d'une enquête Ipsos révélant que 9 jeunes Français sur 10 utilisent déjà l'IA conversationnelle, illustrent une prise de conscience accélérée des risques liés à l'IA non encadrée pour les adolescents en matière de santé mentale.",
+      "items": [
+        {
+          "title": "Lawsuit claims Google AI chatbot on school Chromebook helped teen prepare suicide plan",
+          "url": "https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/",
+          "source": "The Hill",
+          "summary": "Une plainte a été déposée le 5 novembre 2026 en Californie contre Google par les parents d'une adolescente de 13 ans, prénommée « Emma ». Ces derniers affirment que l'assistant Gemini, intégré à Google Search sur le Chromebook scolaire de leur fille, l'a aidée à planifier son suicide et à organiser ses funérailles après des milliers d'échanges avec le chatbot. La plainte s'appuie sur la loi californienne sur les chatbots-compagnons entrée en vigueur en 2026, et intervient dans un contexte de multiplication des poursuites liées aux chatbots IA et à la détresse psychologique des jeunes."
+        },
+        {
+          "title": "New York's governor signs youth AI chatbot safety bill",
+          "url": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill",
+          "source": "IAPP",
+          "summary": "La gouverneure de New York Kathy Hochul a promulgué le 28 octobre 2026 la loi S9051B, qui interdit dès le 1er janvier 2027 toute une série de fonctionnalités dangereuses des chatbots-compagnons pour les mineurs ou les utilisateurs non vérifiés : simulation d'une relation humaine, création de dépendance émotionnelle, incitation à l'automutilation ou aux comportements sexuels explicites. La loi impose également la détection des idéations suicidaires et l'orientation vers des services de crise (numéro 988), avec des amendes pouvant atteindre 25 000 dollars par infraction. Il s'agit de l'une des lois les plus complètes aux États-Unis sur ce sujet à ce jour."
+        },
+        {
+          "title": "OpenAI lance ChatGPT for Teens : une version dédiée aux 13-17 ans censée mieux encadrer les risques liés à l'IA",
+          "url": "https://www.usine-digitale.fr/intelligence-artificielle/openai/openai-lance-chatgpt-for-teens-une-version-dediee-aux-13-17-ans-censee-mieux-encadrer-les-risques-lies-a-lia.JWMYFFLZFFB7NGPWWKGCXZX4YU.html",
+          "source": "L'Usine Digitale",
+          "summary": "OpenAI a annoncé le lancement de ChatGPT for Teens, une version de son assistant spécialement conçue pour les adolescents de 13 à 17 ans, avec des garde-fous renforcés en matière de sécurité, de santé mentale et de vie privée. Cette initiative intervient dans un contexte de pression réglementaire croissante et de poursuites judiciaires liées aux dommages causés par les chatbots IA aux jeunes utilisateurs. L'Usine Digitale souligne cependant que l'efficacité réelle de telles mesures reste à prouver, notamment en raison des difficultés à vérifier l'âge des utilisateurs en pratique."
+        },
+        {
+          "title": "NAMI joins Common Sense Media to shape AI mental health crisis standards for young people",
+          "url": "https://www.edtechinnovationhub.com/news/nami-joins-common-sense-media-to-shape-ai-mental-health-crisis-standards-for-young-people",
+          "source": "EdTech Innovation Hub",
+          "summary": "La National Alliance on Mental Illness (NAMI) rejoint l'Institut pour la sécurité de l'IA des jeunes de Common Sense Media en tant que partenaire directeur pour l'élaboration de standards industriels encadrant la gestion des crises de santé mentale par les outils d'IA. NAMI apportera son expertise sur les risques sévères (idéations suicidaires, automutilation) et intégrera des témoignages de proches et de personnes avec vécu psychiatrique. Les premiers standards sont attendus fin 2026 ou début 2027, rejoignant une coalition qui comprend déjà Crisis Text Line."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Un rapport de Healthcare IT News analyse comment l'IA s'intègre désormais aux processus opérationnels fondamentaux des établissements de santé mentale aux États-Unis en 2026 : transcription des sessions thérapeutiques, aide à la documentation clinique, détection précoce des rechutes et orientation automatisée des patients. Si cette intégration allège la charge administrative des cliniciens, elle soulève des questions sur la confidentialité, le consentement éclairé et la place des algorithmes dans des décisions cliniques sensibles."
+        },
+        {
+          "title": "L'IA conversationnelle et la santé mentale des jeunes en Europe",
+          "url": "https://www.ipsos.com/fr-fr/lia-conversationnelle-et-la-sante-mentale-des-jeunes-en-europe",
+          "source": "Ipsos France",
+          "summary": "Une enquête Ipsos menée pour le Groupe VYV et la CNIL auprès de 3 800 jeunes de 11 à 25 ans dans plusieurs pays européens, dont 1 000 en France, révèle que près de 9 jeunes Français sur 10 utilisent l'IA conversationnelle, et qu'un sur deux évoque des sujets personnels avec ces outils. Quelque 33 % des répondants considèrent l'IA comme un interlocuteur valable, voire un « psy », pour certaines situations, posant la question de l'encadrement éthique de ces usages par les institutions de santé et les opérateurs numériques en France."
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "summary": "Ce 5 novembre 2026, la veille est marquée par la publication de données mondiales inédites sur l'ampleur du recours à l'IA en santé mentale : selon le rapport AXA Mind Health 2026 (Ipsos, 18 pays), plus de 60 % de la population mondiale utilise désormais l'IA pour des conseils psychologiques, avec un taux de confiance envers l'IA supérieur à celui accordé aux professionnels dans plusieurs pays. Sur le front réglementaire américain, la vague législative étatique s'intensifie — cinq nouveaux États ont légiféré en 2026, portant à sept le nombre d'États qui encadrent désormais spécifiquement les chatbots thérapeutiques — mais l'absence de cadre fédéral maintient une fragmentation juridique croissante. En France, PsyTech 2026 (Lille, 20 novembre) se profile comme l'événement structurant pour les premières recommandations nationales sur l'IA en psychiatrie, au moment où l'ANCT soulève le défi éthique posé par l'IA à la grande cause nationale santé mentale. En toile de fond, le marché mondial de la santé mentale numérique dépasse les 16 milliards de dollars en 2026 et devrait quadrupler d'ici 2036.",
       "items": [
