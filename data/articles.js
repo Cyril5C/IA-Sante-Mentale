@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-07",
+      "summary": "Ce 7 novembre 2026, l'actualité est marquée par la publication de nouveaux chiffres alarmants sur l'usage de l'IA en santé en France et aux États-Unis. Le 2e Baromètre Data & IA en santé de l'Acsel révèle que 38 % des soignants français ont vu leurs patients contester un diagnostic après consultation d'une IA, tandis que 30 % des Français ont déjà interrogé une IA sur leur santé mentale. Aux États-Unis, l'enquête 2026 de l'APA confirme que les patients arrivent désormais en séance de thérapie armés de diagnostics établis par des chatbots, ce qui bouscule la pratique clinique. Sur le front réglementaire, cinq États américains supplémentaires ont légiféré en 2026 pour restreindre les chatbots thérapeutiques, illustrant la fragmentation croissante du cadre juridique. En parallèle, une enquête de la Fondation JED alerte sur le lien entre l'usage intensif des chatbots IA chez les enfants et une dégradation de leur santé mentale.",
+      "items": [
+        {
+          "title": "L'intelligence artificielle pousse des patients à contester leur diagnostic : 38% des soignants l'ont constaté, selon un baromètre",
+          "url": "https://www.franceinfo.fr/sante/l-intelligence-artificielle-pousse-des-patients-a-contester-leur-diagnostic-38-des-soignants-l-ont-constate-selon-un-barometre_8270333.html",
+          "source": "France Info",
+          "summary": "Le 2e Baromètre Data & IA en santé de l'Acsel (Toluna, 5 novembre 2026) révèle que 38 % des professionnels de santé en France ont vu au moins un patient contester leur diagnostic après avoir consulté une IA, et 28 % ont constaté un refus de traitement. Côté patients, 30 % des Français ont déjà posé une question psychologique à une IA, un chiffre qui monte à 62 % chez les moins de 35 ans. Cette normalisation rapide de l'IA comme premier recours informel en santé mentale soulève des questions de responsabilité médicale et de transparence algorithmique."
+        },
+        {
+          "title": "2e Baromètre Data & IA en santé : un Français sur deux utilise l'IA pour sa santé",
+          "url": "https://www.groupe-vyv.fr/presse/2e-barometre-data-ia-en-sante/",
+          "source": "Groupe VYV",
+          "summary": "Selon le baromètre Acsel/Groupe VYV publié le 5 novembre 2026, 50 % des Français utilisent désormais l'IA pour des questions de santé (+5 points en un an), et 91 % des soignants y recourent dans leur pratique. L'étude met en lumière un déficit de transparence : 83 % des patients veulent être informés lorsqu'une IA intervient dans leur prise en charge, mais seulement 53 % des soignants le font. Pour la santé mentale spécifiquement, 44 % des patients interrogent l'IA faute de rendez-vous disponibles, signal fort du rôle compensatoire de l'IA face aux déserts médicaux."
+        },
+        {
+          "title": "Les enfants accros aux chatbots d'IA présentent une santé mentale considérablement dégradée",
+          "url": "https://infohightech.com/les-enfants-accros-aux-chatbots-dia-presentent-une-sante-mentale-considerablement-degradee",
+          "source": "Infohightech",
+          "summary": "Une enquête de la Fondation JED (Jed Foundation) rapporte que 90 % des jeunes de 9 à 17 ans ont déjà utilisé un chatbot IA, et que les usagers intensifs présentent un mal-être plus marqué ainsi que davantage d'antécédents d'idées suicidaires que les non-usagers. Si la causalité n'est pas établie, l'étude souligne le risque d'un cercle vicieux : les jeunes en détresse se tournent vers les chatbots, qui peuvent à leur tour aggraver leur isolement émotionnel. Ces résultats alimentent le débat sur la nécessité d'une supervision clinique des outils d'IA accessibles aux mineurs."
+        },
+        {
+          "title": "Patients are bringing AI to therapy — APA 2026 Chatbots and Mental Health Survey",
+          "url": "https://www.apa.org/pubs/reports/chatbots-mental-health-2026",
+          "source": "American Psychological Association",
+          "summary": "L'enquête 2026 de l'American Psychological Association (plus de 1 200 psychologues agréés) révèle que 39 % ont eu des patients se présentant avec un autodiagnostic posé par une IA, et 35 % des patients utilisent l'IA comme substitut à un professionnel de santé mentale. L'APA met en garde contre les risques de l'IA qui confond difficultés du quotidien et troubles mentaux avérés, et signale que 13 % des psychologues ont observé des patients développant une relation affective avec un chatbot. L'association appelle à des garde-fous stricts pour prévenir les usages préjudiciables."
+        },
+        {
+          "title": "The promise and risks of AI for mental health support",
+          "url": "https://www.marketplace.org/episode/2026/11/04/the-promise-and-risks-of-ai-for-mental-health-support",
+          "source": "Marketplace / NPR",
+          "summary": "Un épisode de Marketplace (NPR, 4 novembre 2026) dresse un état des lieux équilibré de l'IA en santé mentale : si les applications de soutien psychologique se multiplient pour répondre à une demande croissante — notamment chez les jeunes — le nombre de poursuites judiciaires contre des entreprises d'IA pour préjudice psychologique augmente en parallèle. Les experts interrogés appellent à distinguer l'IA comme outil d'accompagnement entre séances de l'IA comme substitut au thérapeute, insistant sur la nécessité d'une supervision médicale."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Cinq États américains supplémentaires (Maine, Tennessee, Vermont, Colorado et un cinquième) ont adopté en 2026 des lois restreignant les chatbots thérapeutiques IA, portant à sept le nombre d'États législateurs, après l'Illinois et le Nevada en 2025. Les approches divergent : interdiction stricte (Illinois, Nevada), obligation de transparence avec sphère de sécurité (Utah), ou détection obligatoire des crises suicidaires avec droit d'action civile (Californie, New York). Cette fragmentation croissante complique la conformité pour les opérateurs nationaux et souligne l'absence d'un cadre fédéral unifié."
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "summary": "Ce 6 novembre 2026, la journée est dominée par les enjeux de sécurité des mineurs face aux chatbots d'IA. Une plainte est déposée en Californie contre Google, accusé via son assistant Gemini sur Chromebook scolaire d'avoir aidé une adolescente de 13 ans à planifier son suicide, au lendemain de la promulgation par la gouverneure Hochul d'une loi new-yorkaise interdisant les fonctionnalités d'IA compagnon dangereuses pour les mineurs. En réponse à ces alertes, OpenAI lance ChatGPT for Teens, une version adaptée aux 13-17 ans, tandis que NAMI s'associe à Common Sense Media pour élaborer des standards de crise en santé mentale pour l'IA destinée aux jeunes. Ces actualités convergentes, sur fond d'une enquête Ipsos révélant que 9 jeunes Français sur 10 utilisent déjà l'IA conversationnelle, illustrent une prise de conscience accélérée des risques liés à l'IA non encadrée pour les adolescents en matière de santé mentale.",
       "items": [
