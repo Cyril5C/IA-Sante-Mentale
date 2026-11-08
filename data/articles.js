@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-08",
+      "summary": "Ce 8 novembre 2026, l'actualité IA et santé mentale se déploie sur trois niveaux. À l'échelle mondiale, le rapport AXA Mind Health 2026 confirme l'adoption massive de l'IA pour le soutien psychologique (63 % des personnes interrogées dans 46 pays), mais révèle un taux d'insatisfaction de 45 %, signe que la qualité des outils reste inégale. Sur le plan scientifique, une étude parue la veille alerte sur les angles morts des chatbots face aux populations vulnérables — notamment les personnes âgées dépressives — et l'IFEMDR appelle les cliniciens français à adapter leur pratique à des patients qui arrivent en séance après avoir consulté un chatbot. En France, l'annonce de PsyTech 2026 (20 novembre à Lille) illustre la volonté de structurer une filière nationale de psychiatrie numérique, tandis qu'aux États-Unis la fragmentation réglementaire s'accentue avec 76 projets de loi dans 34 États, sans cadre fédéral en vue.",
+      "items": [
+        {
+          "title": "63 % de la population mondiale a recours à l'IA pour son soutien psychologique — AXA Mind Health Report 2026",
+          "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+          "source": "AXA / Ipsos",
+          "summary": "Le rapport annuel Mind Health d'AXA et Ipsos, portant sur 46 pays et plus de 24 000 personnes, révèle que 63 % de la population mondiale a désormais eu recours à l'IA pour prendre soin de sa santé mentale. Si 55 % des utilisateurs se déclarent satisfaits des conseils reçus, 45 % expriment une insatisfaction, soulignant la variabilité de qualité des outils disponibles. L'IA est surtout utilisée comme premier point de contact informel ou pour obtenir de l'information, et non comme substitut au professionnel de santé mentale."
+        },
+        {
+          "title": "AI Chatbots Faltered on High-Risk Questions About Late-Life Depression",
+          "url": "https://mentalhealthdaily.com/2026/11/07/ai-chatbots-late-life-depression-safety-benchmark",
+          "source": "MentalHealthDaily",
+          "summary": "Une étude comparative de ChatGPT, Gemini et Doubao publiée le 7 novembre 2026 évalue leur performance sur des questions relatives à la dépression chez les personnes âgées. Si les chatbots répondent correctement à 80-93 % des questions de routine, leurs performances chutent significativement face aux situations à haut risque (idées suicidaires, isolement sévère), un angle mort préoccupant pour une population vulnérable. Les auteurs appellent à une validation clinique spécifique aux populations âgées avant tout déploiement à grande échelle."
+        },
+        {
+          "title": "PsyTech 2026 : l'IA et les innovations numériques au service de la psychiatrie — 20 novembre à Lille",
+          "url": "https://www.santementale.fr/evenement/lintelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie/",
+          "source": "Revue Santé Mentale / Eurasanté",
+          "summary": "PsyTech 2026, grand colloque national sur l'IA et le numérique en psychiatrie, se tiendra le 20 novembre 2026 à Lille (Hôtel de Région des Hauts-de-France). Organisé par le PEPR PROPSY (programme de recherche financé dans le cadre de France 2030), l'événement réunira chercheurs, cliniciens, industriels et représentants des patients pour identifier les freins au déploiement de l'IA en psychiatrie et construire une stratégie nationale. Ce rendez-vous structurant illustre la montée en puissance de la psychiatrie numérique dans la politique de recherche française."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Selon Healthcare IT News, 2026 marque le passage de l'IA en santé mentale d'un usage expérimental à une intégration dans les opérations courantes des organisations de soins : détection automatique des crises, aide à la décision clinique, optimisation des listes d'attente. Cette transition opérationnelle soulève des questions de gouvernance inédites — sur les critères de déclenchement des alertes automatiques et la place du jugement clinique humain — et les experts du secteur appellent à des protocoles clairs pour délimiter l'autonomie décisionnelle de l'IA."
+        },
+        {
+          "title": "State AI Mental Health Laws 2026 : guide de conformité multistate pour les opérateurs",
+          "url": "https://acuity.news/regulation/state-ai-mental-health-laws-compliance-2026/",
+          "source": "Acuity News",
+          "summary": "Face à la multiplication des lois étatiques américaines sur les chatbots thérapeutiques (76 projets de loi dans 34 États), Acuity News publie un guide de conformité multistate. Les approches législatives divergent : interdiction stricte (Illinois, Maine), obligations de transparence et détection des crises suicidaires (Californie), ou protection des données de santé mentale (Utah). L'absence de cadre fédéral unifié crée un patchwork réglementaire complexe qui pénalise les acteurs nationaux et risque de freiner l'innovation responsable dans le secteur."
+        },
+        {
+          "title": "Quand les patients utilisent l'IA comme psy : ce que le clinicien doit savoir",
+          "url": "https://www.ifemdr.fr/quand-les-patients-utilisent-lia-comme-psy-ce-que-le-clinicien-doit-savoir/",
+          "source": "IFEMDR",
+          "summary": "L'IFEMDR publie un article pratique destiné aux cliniciens français, citant un psychiatre de l'hôpital Bichat selon lequel la quasi-totalité de ses jeunes patients ont utilisé un chatbot (principalement ChatGPT ou Character.AI) avant leur première consultation. L'article recense les usages courants — recherche d'information, ventilation émotionnelle, préparation des séances — et les risques cliniques associés : autodiagnostics erronés, attachement parasocial, retard de prise en charge. Les auteurs proposent un cadre d'entretien pour aider les praticiens à intégrer ces nouvelles pratiques dans la relation thérapeutique."
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "summary": "Ce 7 novembre 2026, l'actualité est marquée par la publication de nouveaux chiffres alarmants sur l'usage de l'IA en santé en France et aux États-Unis. Le 2e Baromètre Data & IA en santé de l'Acsel révèle que 38 % des soignants français ont vu leurs patients contester un diagnostic après consultation d'une IA, tandis que 30 % des Français ont déjà interrogé une IA sur leur santé mentale. Aux États-Unis, l'enquête 2026 de l'APA confirme que les patients arrivent désormais en séance de thérapie armés de diagnostics établis par des chatbots, ce qui bouscule la pratique clinique. Sur le front réglementaire, cinq États américains supplémentaires ont légiféré en 2026 pour restreindre les chatbots thérapeutiques, illustrant la fragmentation croissante du cadre juridique. En parallèle, une enquête de la Fondation JED alerte sur le lien entre l'usage intensif des chatbots IA chez les enfants et une dégradation de leur santé mentale.",
       "items": [
