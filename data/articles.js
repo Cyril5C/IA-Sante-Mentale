@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-09",
+      "summary": "Ce 9 novembre 2026, l'actualité est dominée par la question de la protection des jeunes face aux chatbots thérapeutiques. La loi new-yorkaise signée par la gouverneure Hochul fin octobre s'impose comme la référence réglementaire la plus stricte des États-Unis, tandis que cinq États supplémentaires ont légiféré dans le même sens en 2026. Sur le plan scientifique, le numéro de novembre de JAMA Pediatrics consacre deux articles à l'urgence de la recherche sur les chatbots et les adolescents, et une perspective internationale pointe le risque que ces outils creusent les inégalités mondiales d'accès aux soins. En France, l'ANCT et des médias spécialisés appellent à un usage raisonné de l'IA en santé mentale, soulignant que l'outil doit accompagner le professionnel et non s'y substituer.",
+      "items": [
+        {
+          "title": "New York : Hochul signe la loi la plus stricte des États-Unis sur la protection des mineurs face aux chatbots IA",
+          "url": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill",
+          "source": "IAPP",
+          "summary": "Le 28 octobre 2026, la gouverneure de New York Kathy Hochul a promulgué la loi S9051B, considérée comme la plus stricte des États-Unis en matière de protection des mineurs contre les chatbots IA. Le texte interdit aux chatbots de feindre des émotions humaines, de créer des liens affectifs avec des utilisateurs de moins de 18 ans, ou d'inciter à l'automutilation, avec une entrée en vigueur fixée au 1er janvier 2027. La loi intervient notamment dans la foulée du décès du jeune Adam Raine, dont les parents ont engagé des poursuites contre une entreprise d'IA."
+        },
+        {
+          "title": "JAMA Pediatrics : « Do No Harm This Time — The Urgency of AI Chatbot Research »",
+          "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2853457",
+          "source": "JAMA Pediatrics",
+          "summary": "Dans le numéro de novembre 2026, les rédacteurs en chef de JAMA Pediatrics, Dimitri Christakis et Ron Keren, publient un éditorial intitulé « Do No Harm This Time » qui appelle à des recherches rigoureuses sur les chatbots IA avant leur déploiement massif auprès des jeunes. Ils documentent l'adoption croissante de ces outils comme substitut à une aide professionnelle et alertent sur les risques d'attachement parasocial et de désinformation médicale. L'éditorial accompagne une étude empirique montrant une corrélation entre usage affectif intensif de l'IA et dégradation de la santé mentale des adolescents."
+        },
+        {
+          "title": "Cinq États américains supplémentaires interdisent les chatbots thérapeutiques en 2026",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Selon une analyse du cabinet Baker Botts, cinq États américains (Colorado, Maine, Rhode Island, Tennessee, Vermont) ont adopté en 2026 des lois restreignant ou interdisant les chatbots thérapeutiques IA, s'ajoutant à l'Illinois et au Nevada qui avaient légiféré en 2025. L'Illinois va jusqu'à interdire aux professionnels de santé d'utiliser l'IA pour des soins directs aux patients, tandis que le Maine prohibe la psychothérapie par chatbot. L'absence de législation fédérale accentue la complexité réglementaire pour les acteurs du secteur."
+        },
+        {
+          "title": "IA en santé mentale : le mirage de l'empathie et le risque d'inégalités mondiales",
+          "url": "https://bioengineer.org/ai-mental-health-critique-highlights-global-inequality",
+          "source": "Bioengineer.org / Discover Mental Health",
+          "summary": "Une perspective publiée dans Discover Mental Health alerte sur les angles morts de l'enthousiasme autour de l'IA en santé mentale : les chatbots thérapeutiques reposeraient sur une « illusion d'empathie » et les études les validant ont quasi-exclusivement été conduites dans des pays riches à haute connectivité. Les auteurs soulignent le risque de creuser les inégalités mondiales d'accès aux soins si l'IA est déployée sans adaptation culturelle et linguistique. Ils plaident pour une gouvernance internationale et des modèles entraînés sur des données culturellement diversifiées."
+        },
+        {
+          "title": "IA et santé mentale en France : utile pour préparer un rendez-vous, risquée pour se diagnostiquer",
+          "url": "https://psychologie-positive.com/ia-et-sante-mentale-en-2026-utile-pour-preparer-un-rendez-vous-risquee-pour-se-diagnostiquer/",
+          "source": "Psychologie Positive",
+          "summary": "Psychologie Positive dresse un bilan nuancé de l'usage de l'IA en santé mentale en France en 2026 : les chatbots peuvent aider les patients à préparer leurs consultations, à verbaliser leurs émotions ou à trouver des ressources, mais le recours à l'IA pour poser un auto-diagnostic reste risqué en raison des hallucinations et de l'incapacité des modèles à saisir la complexité des tableaux cliniques. L'article recommande de considérer l'IA comme outil complémentaire, et non substitutif, au suivi par un professionnel de santé mentale."
+        },
+        {
+          "title": "L'IA au chevet de la santé mentale : le défi éthique de la Grande Cause nationale",
+          "url": "https://lesbases.anct.gouv.fr/ressources/l-ia-au-chevet-de-nos-ames-le-nouveau-defi-ethique-de-la-grande-cause-nationale",
+          "source": "Les Bases / ANCT",
+          "summary": "Alors que la santé mentale est Grande Cause nationale en France, ce dossier de l'Agence nationale de la cohésion des territoires analyse les enjeux éthiques de l'intégration de l'IA dans le secteur. Il met en lumière les recommandations communes publiées en 2026 par la CNIL et la Haute Autorité de Santé — notamment sur le consentement éclairé, la confidentialité des données et le maintien de la relation thérapeutique humaine — et interroge la capacité des dispositifs numériques à répondre au déficit de professionnels dans les territoires ruraux."
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "summary": "Ce 8 novembre 2026, l'actualité IA et santé mentale se déploie sur trois niveaux. À l'échelle mondiale, le rapport AXA Mind Health 2026 confirme l'adoption massive de l'IA pour le soutien psychologique (63 % des personnes interrogées dans 46 pays), mais révèle un taux d'insatisfaction de 45 %, signe que la qualité des outils reste inégale. Sur le plan scientifique, une étude parue la veille alerte sur les angles morts des chatbots face aux populations vulnérables — notamment les personnes âgées dépressives — et l'IFEMDR appelle les cliniciens français à adapter leur pratique à des patients qui arrivent en séance après avoir consulté un chatbot. En France, l'annonce de PsyTech 2026 (20 novembre à Lille) illustre la volonté de structurer une filière nationale de psychiatrie numérique, tandis qu'aux États-Unis la fragmentation réglementaire s'accentue avec 76 projets de loi dans 34 États, sans cadre fédéral en vue.",
       "items": [
