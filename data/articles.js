@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-10",
+      "summary": "Ce 10 novembre 2026, l'actualité IA et santé mentale se distingue par une convergence entre percées scientifiques et enjeux sociaux. Deux études majeures portent sur le PTSD : l'une montre qu'un outil IA peut prédire le syndrome de stress post-traumatique dès le passage aux urgences à partir de récits de patients, l'autre démontre l'efficacité d'une stimulation cérébrale personnalisée par IA chez des vétérans en deux semaines seulement. En parallèle, les usages spontanés des chatbots — notamment chez les hommes et les adolescents — font l'objet d'analyses contrastées, entre l'espoir d'une porte d'entrée vers les soins pour des populations sous-desservies et les risques de préjudice, illustrés par la multiplication des poursuites judiciaires aux États-Unis. Une étude germanophone en français dresse un tableau clinique préoccupant : un patient psychiatrique sur trois a déjà consulté un chatbot en période de crise.",
+      "items": [
+        {
+          "title": "Un outil IA prédit le risque de PTSD à partir des récits de patients aux urgences",
+          "url": "https://prnewswire.com/news-releases/ai-predicts-ptsd-risk-based-on-stories-about-what-brought-patients-to-the-emergency-room-302926212.html",
+          "source": "PR Newswire / Nature Communications",
+          "summary": "Des chercheurs de NYU Langone publient dans Nature Communications les résultats de l'outil PREVIA, capable d'analyser les récits de trauma recueillis aux urgences pour prédire le développement d'un PTSD. Sur 30 cas tests, l'IA a identifié 100 % des patients qui ont ensuite développé le trouble, contre 89 % pour un spécialiste humain du PTSD. Cette approche basée sur le langage naturel pourrait permettre des interventions préventives précoces directement à l'hôpital."
+        },
+        {
+          "title": "AI-Powered Precision Brain Stimulation Reduces PTSD in Veterans in Two Weeks",
+          "url": "https://psychologytoday.com/us/blog/the-future-brain/202611/ai-powered-precision-brain-stimulation-reduces-ptsd-in-weeks",
+          "source": "Psychology Today",
+          "summary": "Un essai randomisé mené auprès de 73 vétérans américains, publié dans Personalized Medicine in Psychiatry, montre que la combinaison de l'IA et de la stimulation magnétique transcrânienne (TMS) peut réduire significativement les symptômes de PTSD en deux semaines seulement. L'IA analyse des enregistrements EEG de dix minutes pour personnaliser les paramètres de stimulation pour chaque patient. Cette approche de neuromodulation ciblée ouvre une voie prometteuse pour les patients résistants aux traitements classiques."
+        },
+        {
+          "title": "AI chatbots offer intriguing middle ground for men's mental health",
+          "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
+          "source": "STAT News",
+          "summary": "STAT News analyse comment les chatbots IA pourraient constituer une porte d'entrée vers les soins de santé mentale pour les hommes, qui consultent historiquement deux fois moins que les femmes en raison de la stigmatisation. Des startups comme Spring Health, qui a développé VERA-MH — un premier référentiel open-source d'évaluation de la sécurité des IA en santé mentale — parient sur l'accessibilité 24h/24 et l'anonymat relatif de ces outils pour briser les barrières culturelles. Les experts restent toutefois prudents : les chatbots doivent être perçus comme des dispositifs de triage, non de remplacement des professionnels."
+        },
+        {
+          "title": "L'IA comme thérapeute ? Comment les patients en psychiatrie utilisent les chatbots",
+          "url": "https://www.medinside.ch/fr/lia-comme-therapeute-comment-les-patients-en-psychiatrie-utilisent-les-chatbots-20261026",
+          "source": "MedInside (Suisse)",
+          "summary": "Une étude menée auprès de patients d'une clinique psychiatrique universitaire de Duisburg-Essen révèle que près de 30 % d'entre eux ont déjà eu recours à un chatbot IA pour des difficultés psychiques, et que les deux tiers de ces utilisateurs l'ont fait lors d'une crise personnelle. Les chercheurs alertent sur un cercle vicieux potentiel : les chatbots qui répondent systématiquement aux inquiétudes pourraient entretenir l'anxiété plutôt que la réduire. Cet article en français propose un cadre pour que les cliniciens intègrent ces pratiques dans leur approche thérapeutique."
+        },
+        {
+          "title": "The promise and risks of AI for mental health support",
+          "url": "https://www.marketplace.org/episode/2026/11/04/the-promise-and-risks-of-ai-for-mental-health-support",
+          "source": "Marketplace (NPR)",
+          "summary": "Cette émission de Marketplace dresse le bilan d'une vague croissante de poursuites judiciaires aux États-Unis contre des entreprises d'IA dont les chatbots auraient encouragé l'automutilation, renforcé des délires ou omis de détecter des signaux de détresse. Le programme analyse la tension entre l'accessibilité — notamment bénéfique pour les populations sous-desservies en zones rurales — et les risques de préjudice pour les utilisateurs vulnérables, qui se traduisent désormais devant les tribunaux."
+        },
+        {
+          "title": "How parents can help teens use AI safely and thoughtfully",
+          "url": "https://news4jax.com/tech/2026/11/09/how-parents-can-help-teens-use-ai-safely-thoughtfully",
+          "source": "News4Jax",
+          "summary": "Après les révélations que près d'un adolescent américain sur cinq a cherché des conseils de santé mentale auprès d'un chatbot IA, News4Jax publie des recommandations pratiques pour les parents. L'article s'appuie sur une enquête de la Fondation JED montrant que 90 % des 9-17 ans ont utilisé un chatbot IA — et que le lien entre cet usage intensif et la dégradation de la santé mentale reste difficile à établir de façon causale — pour proposer des pistes de dialogue familial visant à encadrer ces pratiques."
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "summary": "Ce 9 novembre 2026, l'actualité est dominée par la question de la protection des jeunes face aux chatbots thérapeutiques. La loi new-yorkaise signée par la gouverneure Hochul fin octobre s'impose comme la référence réglementaire la plus stricte des États-Unis, tandis que cinq États supplémentaires ont légiféré dans le même sens en 2026. Sur le plan scientifique, le numéro de novembre de JAMA Pediatrics consacre deux articles à l'urgence de la recherche sur les chatbots et les adolescents, et une perspective internationale pointe le risque que ces outils creusent les inégalités mondiales d'accès aux soins. En France, l'ANCT et des médias spécialisés appellent à un usage raisonné de l'IA en santé mentale, soulignant que l'outil doit accompagner le professionnel et non s'y substituer.",
       "items": [
