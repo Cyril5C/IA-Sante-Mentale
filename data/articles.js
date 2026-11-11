@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-11",
+      "summary": "Ce 11 novembre 2026 est marqué par un événement majeur en France : la commission sur l'IA générative et les vulnérabilités remet ses conclusions à l'Élysée avec 18 propositions, alertant sur les risques de « dette cognitive » et « dette émotionnelle » pour les jeunes. Emmanuel Macron annonce au Forum de Paris sur la Paix vouloir « interdire » l'IA là où elle nuit à la santé mentale des enfants, une position qui marque une inflexion de la politique française. Sur le plan international, une préétude montre que les chatbots ratent une urgence de santé mentale sur cinq, tandis que des alertes convergentes arrivent des États-Unis et des Émirats arabes unis sur la dépendance émotionnelle des jeunes aux IA.",
+      "items": [
+        {
+          "title": "« Dette cognitive » et « dette émotionnelle » : la commission IA générative et vulnérabilités remet son rapport à l'Élysée",
+          "url": "https://franceinfo.fr/internet/intelligence-artificielle/dette-cognitive-et-dette-emotionnelle-la-commission-ia-generative-et-vulnerabilites-rend-son-rapport-a-l-elysee_8275853.html",
+          "source": "France Info",
+          "summary": "La commission d'experts sur l'IA générative et les vulnérabilités, coprésidée par Amine Benyamina, a remis le 10 novembre 2026 ses conclusions à l'Élysée. Le rapport présente 18 propositions, dont un renforcement de la régulation des IA et l'obligation d'évaluation des risques avant commercialisation. Il introduit les notions de « dette cognitive » et « dette émotionnelle » pour décrire les effets à long terme de l'usage intensif de l'IA générative sur le développement des jeunes."
+        },
+        {
+          "title": "Macron veut interdire l'IA lorsqu'elle menace la santé mentale des enfants",
+          "url": "https://fr.euronews.com/2026/11/10/macron-veut-interdire-lia-lorsquelle-menace-la-sante-mentale-des-enfants",
+          "source": "Euronews",
+          "summary": "Au Forum de Paris sur la Paix, Emmanuel Macron a déclaré vouloir « interdire » l'IA là où elle présente un « risque » pour les enfants, notamment pour leur santé mentale et leur développement cognitif. Une charte multilatérale doit être adoptée en marge du forum pour encadrer l'IA générative destinée aux mineurs. Cette prise de position présidentielle marque une évolution significative de la position française, qui passait jusqu'ici par la voie de la régulation plutôt que de l'interdiction."
+        },
+        {
+          "title": "\"Il faut faire en sorte que l'IA générative ne nous rende pas bêtes et grégaires\", alerte une pédopsychiatre",
+          "url": "https://franceinfo.fr/internet/intelligence-artificielle/il-faut-faire-en-sorte-que-l-ia-generative-ne-nous-rende-pas-betes-et-gregaires-alerte-une-pedopsychiatre-psychanalyste_8276438.html",
+          "source": "France Info",
+          "summary": "Dans le prolongement du rapport remis à l'Élysée, une pédopsychiatre et psychanalyste membre de la commission met en garde contre les risques développementaux de l'IA générative pour les enfants. Elle alerte sur la tendance des IA à produire des réponses rassurantes et validantes qui pourraient freiner l'esprit critique et favoriser un comportement grégaire. La spécialiste appelle à une éducation active aux outils numériques et à des espaces de vie sans IA pour les plus jeunes."
+        },
+        {
+          "title": "Santé mentale : les chatbots IA ratent 1 urgence sur 5, selon une étude",
+          "url": "https://techpi.fr/chatbots-ia-sante-mentale-urgences-ratees-etude",
+          "source": "TechPi",
+          "summary": "Une préétude publiée sur arXiv le 6 novembre 2026 révèle que 13 chatbots IA de pointe n'ont pas détecté environ 20 % des signaux d'urgence de santé mentale dans des conversations de 10 échanges. Ce taux d'échec, observé dans des scénarios simulés, pose la question de la fiabilité de ces outils en situation réelle, notamment pour les personnes en état de détresse aiguë. La prépublication n'a pas encore été évaluée par les pairs."
+        },
+        {
+          "title": "The AI Race is Putting Patients at Risk",
+          "url": "https://progressive.org/latest/the-ai-race-is-putting-patients-at-risk-adirim-20261110",
+          "source": "The Progressive",
+          "summary": "Une tribune publiée le 10 novembre 2026 argue que la course aux profits pousse les entreprises d'IA à déployer des chatbots de santé mentale avant que leur sécurité soit prouvée, en s'appuyant sur des clauses de non-responsabilité dans leurs conditions d'utilisation. L'auteure appelle à une réglementation fédérale plus stricte aux États-Unis, estimant que les protections actuelles — essentiellement des chartes volontaires — sont insuffisantes pour les utilisateurs en situation de vulnérabilité."
+        },
+        {
+          "title": "Children's reliance on chatbots 'a problem already', Dubai educators warn",
+          "url": "https://thenationalnews.com/news/uae/2026/11/10/childrens-reliance-on-chatbots-a-problem-already-dubai-educators-warn",
+          "source": "The National (UAE)",
+          "summary": "Des enseignants et psychologues de Dubaï alertent sur la tendance croissante des enfants à se tourner vers des chatbots IA pour des questions émotionnelles — relations amicales, sentiments, problèmes personnels. Ils observent que certains élèves préfèrent confier leurs difficultés à une IA plutôt qu'à un adulte de confiance, et s'inquiètent des effets à long terme sur le développement de l'empathie et de la confiance interpersonnelle. Cet exemple illustre la dimension internationale d'un phénomène qui touche désormais tous les pays."
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "summary": "Ce 10 novembre 2026, l'actualité IA et santé mentale se distingue par une convergence entre percées scientifiques et enjeux sociaux. Deux études majeures portent sur le PTSD : l'une montre qu'un outil IA peut prédire le syndrome de stress post-traumatique dès le passage aux urgences à partir de récits de patients, l'autre démontre l'efficacité d'une stimulation cérébrale personnalisée par IA chez des vétérans en deux semaines seulement. En parallèle, les usages spontanés des chatbots — notamment chez les hommes et les adolescents — font l'objet d'analyses contrastées, entre l'espoir d'une porte d'entrée vers les soins pour des populations sous-desservies et les risques de préjudice, illustrés par la multiplication des poursuites judiciaires aux États-Unis. Une étude germanophone en français dresse un tableau clinique préoccupant : un patient psychiatrique sur trois a déjà consulté un chatbot en période de crise.",
       "items": [
