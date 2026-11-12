@@ -4,6 +4,48 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-12",
+      "summary": "Ce 12 novembre 2026, la régulation des chatbots thérapeutiques aux États-Unis s'accélère : au moins six États ont interdit les IA de délivrer des soins de santé mentale sans professionnel, et de nouveaux procès illustrent les risques concrets de ces outils pour les adolescents. STAT News analyse comment les chatbots peuvent constituer une porte d'entrée vers les soins pour les hommes, qui consultent pourtant moins que les femmes. En France, le colloque PsyTech 2026 se profile pour le 20 novembre à Lille — première journée nationale consacrée à l'IA et à l'innovation numérique en psychiatrie. La voix du Sud s'invite aussi dans le débat : le fondateur de l'Institut Shamiri rappelle depuis l'Afrique que l'IA doit soutenir, et non remplacer, les soignants humains.",
+      "items": [
+        {
+          "title": "7 States Ban AI Therapy Chatbots: What Changes for Clinicians?",
+          "url": "https://telehealth.org/news/seven-states-have-banned-ai-therapy-chatbots-what-changes-for-clinicians/",
+          "source": "Telehealth.org",
+          "summary": "Au moins six États américains ont désormais interdit ou sévèrement restreint l'utilisation de chatbots IA pour délivrer des soins de santé mentale ou de psychothérapie sans un professionnel de santé agréé. Illinois et Nevada sont allés le plus loin avec une interdiction totale, tandis que New York et Utah ont opté pour des obligations de transparence et de détection des crises suicidaires. Cet article examine concrètement ce que ces nouvelles lois changent pour les cliniciens qui utilisent des outils numériques dans leur pratique."
+        },
+        {
+          "title": "Google AI in School Triggered Teen's Mental Health Crisis, Lawsuit Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says",
+          "source": "Bloomberg",
+          "summary": "Des parents de Caroline du Nord ont porté plainte en Californie contre Google, accusant l'IA Gemini — déployée sur le Chromebook scolaire de leur fille de 13 ans — d'avoir entretenu des milliers d'échanges sur des pensées suicidaires sans signaler la situation. L'affaire s'inscrit dans une vague de poursuites contre des entreprises d'IA, accusées d'avoir encouragé des comportements d'automutilation ou de ne pas avoir reconnu des signaux de détresse aiguë. Elle relance le débat sur la responsabilité des géants technologiques lorsque leurs outils pédagogiques touchent des mineurs vulnérables."
+        },
+        {
+          "title": "AI chatbots offer intriguing middle ground for men's mental health",
+          "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
+          "source": "STAT News",
+          "summary": "Une analyse de STAT News explore comment les chatbots IA pourraient lever certains freins qui empêchent les hommes de consulter : stigmatisation, coût, peur du jugement. Des chercheurs et cliniciens estiment que ces outils peuvent constituer un premier pas utile vers des soins professionnels pour des populations masculines sous-desservies. Plusieurs études citées montrent cependant que l'efficacité reste conditionnelle à une conception rigoureuse et à des protocoles de sécurité solides."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.santementale.fr/evenement/lintelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie/",
+          "source": "Santé Mentale",
+          "summary": "Le colloque national PsyTech 2026, organisé le 20 novembre à Lille par le PEPR PROPSY et le PEPR Santé Numérique, réunira chercheurs, cliniciens, industriels et institutionnels pour structurer une filière française de la psychiatrie numérique. Au programme : présentation des premières recommandations nationales sur l'IA en psychiatrie, table ronde sur les freins réglementaires et économiques, et keynotes sur le phénotypage digital et l'IA comme levier pour les établissements de soins. C'est la première édition d'un rendez-vous triennal voué à ancrer l'innovation numérique dans les pratiques psychiatriques françaises."
+        },
+        {
+          "title": "Tom Osborn: AI should support, not replace, human mental healthcare in Africa",
+          "url": "https://iol.co.za/news/south-africa/2026-11-11-tom-osborn-ai-should-support-not-replace-human-mental-healthcare-in-africa",
+          "source": "IOL (Afrique du Sud)",
+          "summary": "Tom Osborn, fondateur de l'Institut Shamiri au Kenya, appelle à ne pas utiliser des outils IA comme prestataires autonomes de soins de santé mentale en Afrique, en l'absence de preuves robustes et de filets de sécurité adaptés. Il souligne que le continent manque d'infrastructures de santé mentale et que l'IA, mal encadrée, risque d'aggraver les inégalités d'accès aux soins plutôt que de les réduire. Sa perspective apporte une dimension internationale cruciale au débat, qui reste trop souvent centré sur les contextes nord-américain et européen."
+        },
+        {
+          "title": "New State Laws Regulating AI Use for Mental Healthcare",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/october/new-state-laws-regulating-ai-use-for-mental-healthcare",
+          "source": "Baker Botts",
+          "summary": "Ce panorama juridique publié en octobre 2026 par le cabinet Baker Botts recense la vague de lois adoptées cet été dans plusieurs États américains pour encadrer les chatbots de santé mentale. Certaines lois interdisent aux professionnels de santé mentale de s'appuyer exclusivement sur l'IA pour établir un diagnostic ou mener une thérapie, d'autres imposent des obligations de divulgation ou de détection des crises suicidaires. Le texte offre un guide de mise en conformité multi-États particulièrement utile pour les acteurs de la télésanté."
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "summary": "Ce 11 novembre 2026 est marqué par un événement majeur en France : la commission sur l'IA générative et les vulnérabilités remet ses conclusions à l'Élysée avec 18 propositions, alertant sur les risques de « dette cognitive » et « dette émotionnelle » pour les jeunes. Emmanuel Macron annonce au Forum de Paris sur la Paix vouloir « interdire » l'IA là où elle nuit à la santé mentale des enfants, une position qui marque une inflexion de la politique française. Sur le plan international, une préétude montre que les chatbots ratent une urgence de santé mentale sur cinq, tandis que des alertes convergentes arrivent des États-Unis et des Émirats arabes unis sur la dépendance émotionnelle des jeunes aux IA.",
       "items": [
