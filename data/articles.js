@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-13",
+      "summary": "Ce 13 novembre 2026, deux dynamiques majeures convergent : la recherche commence à quantifier précisément l'usage des chatbots IA par les adolescents britanniques, révélant un recours particulièrement élevé chez les jeunes trans et non-binaires (11,5 %), tandis que la régulation s'intensifie avec l'analyse des implications de la nouvelle loi new-yorkaise sur les companions IA pour mineurs. La recherche académique publiée dans Frontiers in Psychiatry alerte sur les risques d'injustice épistémique que ces outils pourraient perpétuer envers les patients marginalisés. En parallèle, les établissements de santé américains commencent à intégrer l'IA directement dans leurs opérations cliniques de santé mentale, signal d'une transition vers une IA médicalement incorporée dans les parcours de soins.",
+      "items": [
+        {
+          "title": "AI chatbots are becoming part of teenage mental health support",
+          "url": "https://www.digitaljournal.com/article/ai-chatbots-are-becoming-part-of-teenage-mental-health-support/",
+          "source": "Digital Journal",
+          "summary": "Une étude de l'Université d'Oxford portant sur plus de 24 000 adolescents britanniques (11-18 ans) révèle que 2,7 % ont eu recours à des chatbots IA pour soutenir leur santé mentale — un taux qui monte à 11,5 % chez les jeunes transgenres et non-binaires. Les chercheurs soulignent que ces outils semblent compléter plutôt que remplacer les autres formes de soutien existantes, sans qu'il soit encore possible de conclure à un effet positif ou négatif direct sur la santé mentale des utilisateurs."
+        },
+        {
+          "title": "New York's governor signs youth AI chatbot safety bill",
+          "url": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill",
+          "source": "IAPP",
+          "summary": "La gouverneure de New York Kathy Hochul a promulgué une loi interdisant aux entreprises de chatbots IA de proposer 12 « fonctionnalités non sécurisées » aux mineurs : simulation d'une relation amicale, création de dépendance émotionnelle, incitation à l'automutilation ou conversations à caractère sexuel explicite. D'une portée large — elle couvre les assistants généralistes comme ChatGPT ou Claude —, la loi prévoit des pénalités civiles pouvant atteindre 25 000 dollars par violation et entrera en vigueur en 2027."
+        },
+        {
+          "title": "New York enacts a companion bot law with unique provisions",
+          "url": "https://www.dlapiper.com/en/insights/publications/2026/11/new-york-enacts-a-companion-bot-law-with-unique-provisions",
+          "source": "DLA Piper",
+          "summary": "Le cabinet DLA Piper analyse les spécificités de la loi new-yorkaise sur les companions IA, qui diffère de la loi californienne SB 243 sur plusieurs points clés : un champ d'application plus large incluant tous les chatbots interactifs, et des obligations de vérification de l'âge des utilisateurs. Cette analyse juridique comparative est précieuse pour les acteurs de la santé mentale numérique opérant dans plusieurs États américains, confrontés à une mosaïque réglementaire en rapide évolution."
+        },
+        {
+          "title": "AI Mental Health Tools Risk Embedding Epistemic Injustice, Conceptual Analysis Warns",
+          "url": "https://bioengineer.org/ai-mental-health-tools-risk-embedding-epistemic-injustice-conceptual-analysis-warns/",
+          "source": "Bioengineer.org / Frontiers in Psychiatry",
+          "summary": "Une analyse conceptuelle publiée dans Frontiers in Psychiatry alerte sur le risque que les outils IA en santé mentale perpétuent des formes d'injustice épistémique : en reproduisant les biais présents dans les données d'entraînement cliniques, ces systèmes pourraient réduire la capacité des patients à produire des connaissances sur leur propre expérience, au détriment des populations déjà marginalisées. Les auteurs appellent à intégrer des approches participatives dès la conception de ces outils."
+        },
+        {
+          "title": "Mental health AI breaking through to core operations in 2026",
+          "url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
+          "source": "Healthcare IT News",
+          "summary": "Healthcare IT News analyse comment l'IA de santé mentale commence à s'intégrer dans les opérations cliniques de base des établissements de santé américains en 2026 — non plus comme outil périphérique, mais comme composante du parcours de soins. Des systèmes de détection précoce et d'orientation automatisée illustrent cette transition : le modèle de Duke University, soutenu par un financement de 15 millions de dollars du NIMH, prédit avec 84 % de précision la dégradation de l'état de santé mentale jusqu'à un an à l'avance."
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "summary": "Ce 12 novembre 2026, la régulation des chatbots thérapeutiques aux États-Unis s'accélère : au moins six États ont interdit les IA de délivrer des soins de santé mentale sans professionnel, et de nouveaux procès illustrent les risques concrets de ces outils pour les adolescents. STAT News analyse comment les chatbots peuvent constituer une porte d'entrée vers les soins pour les hommes, qui consultent pourtant moins que les femmes. En France, le colloque PsyTech 2026 se profile pour le 20 novembre à Lille — première journée nationale consacrée à l'IA et à l'innovation numérique en psychiatrie. La voix du Sud s'invite aussi dans le débat : le fondateur de l'Institut Shamiri rappelle depuis l'Afrique que l'IA doit soutenir, et non remplacer, les soignants humains.",
       "items": [
