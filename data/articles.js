@@ -4,6 +4,42 @@
 const ARTICLES_DATA = {
   "days": [
     {
+      "date": "2026-11-14",
+      "summary": "Le 14 novembre 2026, la journée est dominée par une accélération réglementaire des deux côtés de l'Atlantique : en France, la commission « IA générative et vulnérabilités » a remis au président Macron 18 recommandations visant à protéger les utilisateurs des dérives cognitives et affectives des chatbots, tandis qu'aux États-Unis la cartographie des lois étatiques sur les chatbots thérapeutiques continue de s'enrichir. Sur le front clinique, l'outil PREVIA de NYU Langone illustre comment l'IA peut détecter précocement le risque de PTSD dès les urgences — un champ où seulement un tiers des établissements utilisaient jusqu'ici des outils validés. La question de l'accès aux soins pour les publics éloignés — hommes peu enclins à consulter, mineurs en mal-être — traverse l'ensemble de l'actualité, à quelques jours du colloque national PsyTech 2026 à Lille.",
+      "items": [
+        {
+          "title": "IA générative : une commission remet 18 propositions à Macron pour protéger la santé mentale des utilisateurs",
+          "url": "https://www.linfodurable.fr/ia-une-commission-remet-18-propositions-macron-pour-proteger-les-utilisateurs-59703",
+          "source": "L'Info Durable / AFP",
+          "summary": "La commission d'experts « IA générative et vulnérabilités », réunissant psychiatres, addictologues et spécialistes du numérique, a remis le 10 novembre 2026 au président Macron 18 recommandations pour protéger les utilisateurs des dérives des chatbots grand public. Les experts alertent sur la dépendance cognitive et émotionnelle, l'anthropomorphisme excessif et les risques spécifiques pour les mineurs, et appellent à une pré-certification obligatoire des solutions IA et à un accès renforcé aux données pour les autorités de santé."
+        },
+        {
+          "title": "AI tool uses emergency room narratives to predict PTSD risk",
+          "url": "https://www.news-medical.net/news/20261109/AI-tool-uses-emergency-room-narratives-to-predict-PTSD-risk.aspx",
+          "source": "News-Medical / Nature Communications",
+          "summary": "Des chercheurs de NYU Langone ont publié dans Nature Communications PREVIA, un outil d'IA analysant les récits des patients arrivant aux urgences pour prédire leur risque de développer un PTSD dans le mois suivant, avec une sensibilité supérieure à celle des cliniciens spécialisés (100 % contre 89 % sur un échantillon de 30 cas). L'étude souligne que seulement 28 % des services d'urgences américains dépistent systématiquement le PTSD, ce qui fait de cet outil une piste prometteuse pour combler un manque structurel — des validations sur de plus larges cohortes restant nécessaires."
+        },
+        {
+          "title": "AI chatbots offer intriguing middle ground for men's mental health",
+          "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
+          "source": "STAT News",
+          "summary": "STAT News analyse comment les chatbots IA pourraient constituer une porte d'entrée vers les soins pour les hommes, qui consultent deux fois moins souvent des professionnels de santé mentale que les femmes. Des start-ups proposent des outils spécifiquement pensés pour ce public, en jouant sur la discrétion et l'absence de jugement, mais les auteurs soulignent l'absence d'une définition partagée du « préjudice » en santé mentale par IA et le manque d'études cliniques robustes."
+        },
+        {
+          "title": "PsyTech 2026 : l'intelligence artificielle et les innovations digitales au service de la psychiatrie",
+          "url": "https://www.fondation-fondamental.org/psytech-2026-l-intelligence-artificielle-et-les-innovations-digitales-au-service-de-la-psychiatrie",
+          "source": "Fondation FondaMental",
+          "summary": "Le colloque national PsyTech 2026, organisé par le programme de recherche PEPR PROPSY dans le cadre de France 2030, se tiendra le 20 novembre à Lille. Il réunira chercheurs, cliniciens, industriels et représentants de patients pour présenter les premières recommandations françaises sur l'innovation numérique et l'IA en psychiatrie, avec des volets sur le phénotypage digital, les données de santé et la réglementation européenne."
+        },
+        {
+          "title": "5 states restrict AI therapy chatbots in 2026",
+          "url": "https://www.beckersbehavioralhealth.com/ai-2/5-states-restrict-ai-therapy-chatbots-in-2026/",
+          "source": "Becker's Behavioral Health",
+          "summary": "Un panorama de Becker's Behavioral Health recense les lois américaines restreignant les chatbots IA en santé mentale en 2026 : au moins cinq États (Illinois, Nevada, Colorado, Maine, Rhode Island) ont interdit ou sévèrement encadré les chatbots autonomes en psychothérapie, sans qu'il existe de cadre fédéral unifié. La première action disciplinaire d'un conseil médical d'État (Pennsylvanie, mai 2026) pour exercice illégal de la médecine par un chatbot IA illustre la nouvelle réalité réglementaire qui s'impose aux acteurs du secteur."
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "summary": "Ce 13 novembre 2026, deux dynamiques majeures convergent : la recherche commence à quantifier précisément l'usage des chatbots IA par les adolescents britanniques, révélant un recours particulièrement élevé chez les jeunes trans et non-binaires (11,5 %), tandis que la régulation s'intensifie avec l'analyse des implications de la nouvelle loi new-yorkaise sur les companions IA pour mineurs. La recherche académique publiée dans Frontiers in Psychiatry alerte sur les risques d'injustice épistémique que ces outils pourraient perpétuer envers les patients marginalisés. En parallèle, les établissements de santé américains commencent à intégrer l'IA directement dans leurs opérations cliniques de santé mentale, signal d'une transition vers une IA médicalement incorporée dans les parcours de soins.",
       "items": [
